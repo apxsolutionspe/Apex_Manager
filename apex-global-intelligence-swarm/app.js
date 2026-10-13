@@ -224,15 +224,15 @@ async function loadPrivate(){
 async function init(){
  render();
  try{
-   const mod=await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+   const mod=await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/+esm');
    state.client=mod.createClient(CLOUD_URL,PUBLIC_KEY,{auth:{autoRefreshToken:true,persistSession:true,detectSessionInUrl:false}});
    state.authAvailable=true;
    const {data:{user},error}=await state.client.auth.getUser();
    if(!error&&user){state.user=user;await loadPrivate();}
-   state.client.auth.onAuthStateChange(async(_,session)=>{
+   state.client.auth.onAuthStateChange((_,session)=>{
      const previous=state.user?.id;
      state.user=session?.user||null;
-     if(state.user&&previous!==state.user.id)await loadPrivate();
+     if(state.user&&previous!==state.user.id) setTimeout(()=>{void loadPrivate().catch(e=>toast('Error de sincronización: '+e.message,'error'));},0);
      if(!state.user&&previous){state.opps=[];state.runs=[];state.vault=[];state.logs=[];state.decisions=[];state.settings={...DEFAULTS};state.auto=false;}
      render();
    });
