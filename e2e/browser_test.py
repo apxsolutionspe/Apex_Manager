@@ -65,13 +65,13 @@ def test_mobile_buyer_catalog_cart_quote_tracking(server,browser):
     page.locator('#open-cart').click()
     page.locator('#customer-name').fill('Cliente de prueba')
     page.locator('#customer-phone').fill('987654321')
+    assert page.locator('#quote-form').evaluate('(form)=>form.checkValidity()'), 'Formulario HTML inválido'
     responses=[]
     page.on('response',lambda r: responses.append((r.status,r.url)) if '/api/quotes' in r.url else None)
     page.locator('#send-quote').click()
     page.wait_for_timeout(800)
     error=page.locator('#quote-error').inner_text() if page.locator('#quote-error').is_visible() else ''
     assert not error, f'Error al cotizar: {error}; HTTP: {responses}'
-    assert page.locator('#quote-form').evaluate('(form)=>form.checkValidity()'), 'Formulario HTML inválido'
     page.locator('#quote-success').wait_for(state='visible',timeout=10000)
     code=page.locator('#quote-code').inner_text().split(': ',1)[1]
     assert code.startswith('COT-')
