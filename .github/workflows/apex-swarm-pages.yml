@@ -1,0 +1,43 @@
+name: Publicar APEX Swarm
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'apex-global-intelligence-swarm/**'
+      - '.github/workflows/apex-swarm-pages.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: apex-swarm-pages
+  cancel-in-progress: true
+jobs:
+  verify-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar sintaxis y pruebas
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check app.js
+          node --check core.js
+          npm test
+      - name: Preparar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Subir únicamente el sitio de APEX Swarm
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./apex-global-intelligence-swarm
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
