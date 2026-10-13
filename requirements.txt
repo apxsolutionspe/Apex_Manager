@@ -1,0 +1,4 @@
+# Versiones verificadas en este entorno (ajustar tras auditoría de seguridad)
+fastapi==0.128.2
+uvicorn==0.48.0
+pydantic==2.13.5

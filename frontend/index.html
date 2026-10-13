@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="APEX_PRIME_X: soluciones tecnológicas, desarrollo web, soporte técnico, seguridad y accesorios electrónicos.">
+  <meta name="theme-color" content="#0b1730">
+  <title>APEX_PRIME_X · Soluciones tecnológicas</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <script src="/static/app.js" type="module"></script>
+</head>
+<body>
+  <div id="demo-banner" class="demo-banner" hidden>ENTORNO DE DEMOSTRACIÓN · Productos y servicios de ejemplo. Precios y disponibilidad por confirmar.</div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="APEX PRIME X, inicio">
+        <span class="brand-symbol">X<span class="symbol-dot">.</span></span>
+        <span class="brand-name">APEX<span>_PRIME_X</span><small>SOLUCIONES TECNOLÓGICAS</small></span>
+      </a>
+      <nav class="topnav" aria-label="Navegación principal">
+        <a href="#servicios">Soluciones</a><a href="#catalogo">Catálogo</a><a href="#proceso">Cómo trabajamos</a>
+      </nav>
+      <div class="header-actions">
+        <a class="header-contact" href="#contacto">Solicita asesoría <span aria-hidden="true">↗</span></a>
+        <button id="open-cart" class="cart-button" type="button" aria-label="Abrir carrito">🛒 <span id="cart-count">0</span></button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-layout">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="pulse-dot"></span> INNOVACIÓN · SOPORTE · CONFIANZA</div>
+          <h1>Tecnología que <em>impulsa</em> tu negocio.</h1>
+          <p>Desarrollamos, instalamos y optimizamos soluciones digitales y tecnológicas para personas, emprendedores y empresas.</p>
+          <div class="hero-actions"><a href="#catalogo" class="btn btn-primary">Explorar soluciones <span>↗</span></a><a href="#contacto" class="btn btn-ghost">Solicitar cotización</a></div>
+          <div class="hero-proof"><div class="proof-icon">✓</div><span>Atención personalizada<br><strong>Soluciones a tu medida</strong></span><span class="proof-divider"></span><div class="proof-icon">✦</div><span>Un solo aliado<br><strong>Para toda tu tecnología</strong></span></div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="tech-orbit orbit-outer"></div><div class="tech-orbit orbit-inner"></div>
+          <div class="hero-art-center"><div class="x-symbol">X</div><span>APEX PRIME</span><small>TECNOLOGÍA SIN LÍMITES</small></div>
+          <div class="floating-chip chip-web">⌘ <span>Desarrollo web</span></div>
+          <div class="floating-chip chip-sec">◉ <span>Seguridad</span></div>
+          <div class="floating-chip chip-sup">✓ <span>Soporte técnico</span></div>
+        </div>
+      </div>
+      <div class="wrap"><div class="hero-bottom"><span>01 / TECNOLOGÍA A TU ALCANCE</span><span>DESCUBRE LO QUE HACEMOS ↓</span></div></div>
+    </section>
+
+    <section id="servicios" class="why-section section-pad">
+      <div class="wrap">
+        <div class="section-top"><div><span class="kicker">QUÉ HACEMOS</span><h2>Tu aliado tecnológico <span>integral.</span></h2></div><p>Desde una página web hasta la infraestructura tecnológica de tu negocio, hacemos que cada solución funcione a tu favor.</p></div>
+        <div class="services-overview">
+          <article class="overview-card"><div class="overview-icon">⌘</div><div class="overview-index">01</div><h3>Desarrollo digital</h3><p>Sitios web, tiendas virtuales y sistemas personalizados para gestionar mejor tu empresa.</p><a href="#catalogo" class="text-arrow">Explorar servicios ↗</a></article>
+          <article class="overview-card"><div class="overview-icon">◉</div><div class="overview-index">02</div><h3>Infraestructura y seguridad</h3><p>Cámaras de videovigilancia, redes de internet y conectividad confiable.</p><a href="#catalogo" class="text-arrow">Explorar servicios ↗</a></article>
+          <article class="overview-card"><div class="overview-icon">⚙</div><div class="overview-index">03</div><h3>Soporte y electrónica</h3><p>Mantenimiento de equipos, periféricos, gadgets y componentes electrónicos.</p><a href="#catalogo" class="text-arrow">Explorar servicios ↗</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="catalogo" class="catalog-section section-pad">
+      <div class="wrap">
+        <div class="section-top catalog-head"><div><span class="kicker">NUESTRO CATÁLOGO</span><h2>Todo lo que necesitas, <span>en un lugar.</span></h2></div><p>Selecciona soluciones y envía una solicitud de cotización directamente desde tu carrito.</p></div>
+        <div class="catalog-toolbar">
+          <div class="filter-tabs" role="group" aria-label="Filtrar catálogo"><button type="button" class="filter active" data-filter="todos" aria-pressed="true">Todos</button><button type="button" class="filter" data-filter="servicio" aria-pressed="false">Servicios</button><button type="button" class="filter" data-filter="producto" aria-pressed="false">Productos</button></div>
+          <label class="search-field"><span aria-hidden="true">⌕</span><input id="catalog-search" type="search" placeholder="Buscar soluciones..." aria-label="Buscar productos y servicios"></label>
+        </div>
+        <div id="catalog-grid" class="catalog-grid" aria-live="polite"><p>Cargando soluciones...</p></div>
+        <p class="catalog-note">ℹ Los elementos marcados como demostración no representan inventario ni precios confirmados. Toda cotización requiere validación comercial.</p>
+      </div>
+    </section>
+
+    <section id="proceso" class="process-section section-pad">
+      <div class="wrap"><div class="section-top"><div><span class="kicker">PROCESO SIMPLE</span><h2>De la idea a la <span>solución.</span></h2></div><p>Un proceso claro para ayudarte a conseguir exactamente lo que necesitas.</p></div>
+        <div class="steps"><article><b>01</b><div class="step-line"></div><h3>Explora</h3><p>Encuentra productos o servicios en nuestro catálogo.</p></article><article><b>02</b><div class="step-line"></div><h3>Selecciona</h3><p>Agrega las soluciones que necesitas a tu carrito.</p></article><article><b>03</b><div class="step-line"></div><h3>Cotiza</h3><p>Registra tu solicitud y envíala por WhatsApp si está habilitado.</p></article><article><b>04</b><div class="step-line"></div><h3>Coordina</h3><p>Un asesor verifica disponibilidad, condiciones y presupuesto.</p></article></div>
+        <div class="tracking-box" id="seguimiento">
+          <div><span class="kicker">SEGUIMIENTO DE SOLICITUDES</span><h3>¿Ya tienes una cotización registrada?</h3><p>Consulta el estado con tu código y el mismo teléfono que utilizaste al registrarte.</p></div>
+          <form id="track-form" class="tracking-form"><label for="track-code">Código de cotización<input id="track-code" required placeholder="COT-20261013-ABC123" maxlength="40"></label><label for="track-phone">Teléfono registrado<input id="track-phone" type="tel" required minlength="7" maxlength="25" placeholder="Tu número de contacto"></label><button class="btn btn-primary" type="submit">Consultar estado ↗</button><p class="form-error" id="track-error" role="alert" hidden></p><div id="track-result" class="track-result" aria-live="polite" hidden></div></form>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacto" class="contact-section"><div class="wrap contact-wrap"><div><span class="kicker">¿LISTO PARA EMPEZAR?</span><h2>Hagamos que tu próxima<br><em>gran idea funcione.</em></h2><p>Cuéntanos qué necesitas. Prepararemos una propuesta según tus requerimientos.</p></div><button type="button" class="btn btn-light" id="contact-cart">Crear mi cotización <span>↗</span></button></div></section>
+  </main>
+  <footer class="footer"><div class="wrap footer-inner"><div class="brand footer-brand"><span class="brand-symbol">X<span class="symbol-dot">.</span></span><span class="brand-name">APEX<span>_PRIME_X</span><small>SOLUCIONES TECNOLÓGICAS</small></span></div><span>© <span id="year"></span> APEX_PRIME_X. Todos los derechos reservados.</span><a href="/admin" rel="nofollow">Acceso administración</a></div></footer>
+
+  <div id="cart-overlay" class="cart-overlay" hidden></div>
+  <aside id="cart-drawer" class="cart-drawer" role="dialog" aria-modal="true" aria-labelledby="cart-title" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head"><div><span class="kicker">TU SELECCIÓN</span><h2 id="cart-title">Mi cotización</h2></div><button id="close-cart" type="button" class="icon-button" aria-label="Cerrar carrito">✕</button></div>
+    <div class="drawer-body"><div id="cart-items"></div>
+      <form id="quote-form"><h3>Datos de contacto</h3>
+        <div class="form-group"><label for="customer-name">Nombre completo *</label><input id="customer-name" name="customer_name" required minlength="2" maxlength="100" autocomplete="name" placeholder="¿Cómo te llamas?"></div>
+        <div class="form-group"><label for="customer-phone">WhatsApp o teléfono *</label><input id="customer-phone" name="phone" type="tel" required minlength="7" maxlength="25" autocomplete="tel" placeholder="Ej. 987654321"></div>
+        <div class="form-group"><label for="customer-email">Correo electrónico (opcional)</label><input id="customer-email" name="email" type="email" maxlength="160" autocomplete="email" placeholder="correo@ejemplo.com"></div>
+        <div class="form-group"><label for="customer-notes">Cuéntanos más (opcional)</label><textarea id="customer-notes" name="notes" rows="3" maxlength="1000" placeholder="Detalles de tu proyecto o necesidad..."></textarea></div>
+        <div id="quote-error" class="form-error" role="alert" hidden></div>
+        <button id="send-quote" type="submit" class="btn btn-primary btn-full">Registrar solicitud <span>→</span></button><p class="privacy-note">Tu información se usará únicamente para atender esta solicitud. No procesamos pagos en este sitio.</p>
+      </form>
+      <div id="quote-success" class="success-box" hidden><div class="success-check">✓</div><h3>¡Solicitud registrada!</h3><p id="quote-code"></p><p>El registro no equivale a una venta confirmada.</p><a id="whatsapp-link" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp" hidden>Abrir WhatsApp ↗</a><button id="copy-quote" type="button" class="btn btn-outline">Copiar solicitud</button><button id="new-quote" type="button" class="text-arrow secondary-action">Crear otra solicitud</button></div>
+    </div>
+  </aside>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
