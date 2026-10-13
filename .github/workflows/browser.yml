@@ -1,0 +1,24 @@
+name: QA visual · Chromium
+on:
+  pull_request:
+  push:
+    branches: [main, 'feature/**']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  browser-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install app & Playwright
+        run: |
+          python -m pip install -r requirements-dev.txt playwright
+          python -m playwright install --with-deps chromium
+      - name: Run mobile and admin browser smoke tests
+        run: python -m pytest e2e/browser_test.py -q

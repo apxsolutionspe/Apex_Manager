@@ -129,7 +129,8 @@ def test_quote_status_and_service_workflow(client, headers):
     assert client.patch(f'/api/admin/jobs/{job_id}', json={'status':'finalizado','notes':'Trabajo realizado'}, headers=headers).json()['notes'] == 'Trabajo realizado'
     summary = client.get('/api/admin/summary', headers=headers).json()
     assert summary['approved_quotes'] == 1
-    assert summary['active_jobs'] == 0
+    # La aprobación ahora crea una orden pendiente automáticamente y no duplica la manual.
+    assert summary['active_jobs'] == 1
     assert client.post('/api/admin/jobs', json={'title':'Trabajo válido','customer_name':'Ana','quote_id':999999}, headers=headers).status_code == 422
 
 
@@ -166,7 +167,7 @@ def test_non_demo_configuration_does_not_seed_examples(tmp_path):
     with TestClient(create_app(settings)) as client:
         assert client.get('/api/config').json()['demo_mode'] is False
         assert client.get('/api/products').json() == []
-        assert client.get('/api/health').json()['version'] == '0.2.0'
+        assert client.get('/api/health').json()['version'] == '0.3.0'
 
 
 def test_security_headers_on_quote_responses(client):

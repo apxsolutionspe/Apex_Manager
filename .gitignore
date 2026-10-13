@@ -8,3 +8,5 @@ data/
 *.db-shm
 *.db-wal
 .DS_Store
+backups/
+*.db-journal

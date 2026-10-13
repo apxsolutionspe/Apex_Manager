@@ -1,0 +1,10 @@
+[Unit]
+Description=Backup comprobado de base SQLite APEX_PRIME_X
+[Service]
+Type=oneshot
+User=apex
+WorkingDirectory=/srv/apex-prime-x
+ExecStart=/srv/apex-prime-x/.venv/bin/python scripts/backup_sqlite.py --db /srv/apex-prime-x/data/apex.db --out /srv/apex-prime-x/backups
+UMask=0077
+NoNewPrivileges=yes
+PrivateTmp=yes

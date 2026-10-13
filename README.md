@@ -1,6 +1,6 @@
 # APEX_PRIME_X · Plataforma comercial
 
-**Versión:** `0.2.0` · **Estado:** prototipo funcional local / **NO DESPLEGADO PARA CLIENTES** · **Idioma:** español · **Moneda:** soles (PEN).
+**Versión:** `0.3.0` · **Estado:** preproducción técnica / **NO DESPLEGADO PARA CLIENTES** · **Idioma:** español · **Moneda:** soles (PEN).
 
 Plataforma de catálogo + cotizaciones + administración de servicios, optimizada para móvil y creada con componentes de software libre. No integra pasarelas de pago ni envía mensajes automáticamente.
 
@@ -20,6 +20,21 @@ Plataforma de catálogo + cotizaciones + administración de servicios, optimizad
 > **Código fuente en GitHub (no despliegue comercial):** el proyecto puede almacenarse públicamente como código; no incluye datos de clientes ni credenciales reales.
 
 > **AVISO:** La base inicial incluye ocho artículos de ejemplo con prefijo `DEMO-`, **sin precios reales** ni stock certificado. Su información no es una oferta comercial definitiva. Antes de publicar se deben retirar o reemplazar, validar datos fiscales, políticas y precios.
+
+## Novedades de la versión 0.3
+
+- **Portal del equipo:** `/equipo`, cuentas individuales de ventas y técnicos, permisos acotados y desactivación inmediata.
+- **Asignación de órdenes:** administrador puede asignar técnicos activos; cada técnico actualiza solamente sus propias órdenes.
+- **Automatización comercial:** aprobar una cotización que incluya servicios genera una orden interna *una sola vez*.
+- **Auditoría interna:** historial de cambios por actor/acción/objeto sin información de clientes en eventos.
+- **Consentimiento:** aviso HTTPS aprobado es requisito para registrar solicitudes cuando `DEMO_MODE=false`; conserva evidencia de consentimiento.
+- **Preflight:** `/api/readiness` devuelve 503 cuando falta configuración necesaria para entorno real.
+- **Backup operativo:** `scripts/backup_sqlite.py` genera una copia consistente con verificación de integridad. Incluye unidad systemd **no activada**.
+- **Automatizaciones GitHub:** CI multi-Python, Dependabot semanal, auditoría semanal de dependencias y E2E Chromium en PR.
+
+La interfaz visual E2E no pudo verificarse localmente (navegador bloqueado); el workflow de GitHub deberá comprobarse en Actions antes de considerar completado el QA.
+
+Consulta `docs/EQUIPO_Y_PROCESOS.md`, `docs/AUTOMATIZACIONES.md`, `docs/PRUEBAS_V03.md` y `docs/DESPLIEGUE_CONTROLADO.md`.
 
 ## Tecnologías y costes
 
@@ -105,7 +120,7 @@ tests/test_api.py        pruebas automatizadas
 
 ## Limitaciones conocidas / antes de producción
 
-1. **Identidad:** un solo administrador, sin 2FA ni gestión de múltiples usuarios. Incorporar autenticación gestionada, roles, recuperación, eventos de auditoría y rotación/revocación de sesiones.
+1. **Identidad:** administrador ambiental y cuentas básicas de ventas/técnicos. Falta MFA, cambio de contraseña autónomo, revocación granular de sesiones y auditoría de identidad administrada.
 2. **Base de datos:** SQLite funciona para bajo volumen en una sola instancia. Migrar a PostgreSQL con migraciones versionadas cuando haya concurrencia/equipos distribuidos; respaldos y restauración verificada antes de lanzamiento.
 3. **Seguridad:** throttling de login, cotizaciones y búsquedas es por proceso; sustituir con límite distribuido, supervisión de abuso y antifraude. Revisar configuración TLS, proxy inverso, cabeceras y monitoreo.
 4. **Datos personales:** falta un consentimiento/política de privacidad aprobada, calendario de retención y proceso para derechos del titular; no ingresar clientes reales hasta implementar estas medidas en el entorno definitivo.
@@ -121,3 +136,7 @@ Consultar también `docs/ARQUITECTURA.md`, `docs/PLAN_FASES.md` y `docs/PRUEBAS.
 Se agrega `.github/workflows/ci.yml` para comprobar automáticamente los cambios publicados en GitHub. Esta ejecución todavía debe verificarse en la pestaña **Actions** de GitHub. El modo `DEMO_MODE=false` inicia un catálogo vacío y evita publicar contenido ilustrativo por accidente.
 
 Consultar `docs/CHECKLIST_PRODUCCION.md` y `docs/GITHUB.md`.
+
+## Gestión de equipo y QA
+
+Los nuevos usuarios no existen hasta que el propietario los cree desde `/admin` → **Equipo**. Los técnicos solo acceden a sus propias órdenes en `/equipo`. El sistema no contrata ni asigna empleados por sí mismo. Pruebas reales: `docs/PRUEBAS_V03.md`.

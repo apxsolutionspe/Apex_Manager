@@ -70,9 +70,10 @@ $('#quote-form').addEventListener('submit', async e => {
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
   const data = Object.fromEntries(new FormData(e.currentTarget));
+  if (!$('#privacy-consent').hidden && !$('#privacy-accepted').checked) {error.textContent='Debes leer y aceptar el aviso de privacidad antes de enviar.';error.hidden=false;return;}
   const btn = $('#send-quote'); btn.disabled = true; btn.textContent = 'Registrando...';
   try {
-    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, items})});
+    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, items, privacy_accepted:$('#privacy-accepted').checked})});
     $('#quote-code').textContent = `Código de seguimiento: ${lastQuote.code}`;
     const link = $('#whatsapp-link'); link.hidden = !lastQuote.whatsapp_url;
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
@@ -97,6 +98,8 @@ $('#track-form').addEventListener('submit', async e => {
 $('#year').textContent = new Date().getFullYear();
 async function init() {
   try {const [data, config] = await Promise.all([api('/api/products'), api('/api/config')]); products = data; if (config.demo_mode) $('#demo-banner').hidden = false;
+    if (config.privacy_notice_url) {$('#privacy-consent').hidden=false;$('#privacy-url').href=config.privacy_notice_url;}
+    if (!config.demo_mode && !config.privacy_notice_url) {$('#send-quote').disabled=true;$('#privacy-unavailable').hidden=false;}
     for (const [id, quantity] of Object.entries(cart)) {const p = products.find(p => p.id === Number(id)); if (!p || !Number.isInteger(quantity) || quantity < 1) delete cart[id]; else cart[id] = Math.min(50, quantity, p.stock ?? 50); }
     saveCart(); renderCatalog(); renderCart();
   } catch {$('#catalog-grid').innerHTML = '<div class="empty-state">No pudimos cargar el catálogo. Actualiza la página para reintentar.</div>';}
