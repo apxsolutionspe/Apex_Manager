@@ -21,7 +21,7 @@ const META={
 const NAV=[['dashboard','◫','Panel general'],['radar','◉','Radar automático'],['explore','◎','Exploración'],['opportunities','⌕','Oportunidades'],['approval','✓','Aprobaciones'],['vault','▣','Mi bóveda'],['agents','⬡','Agentes'],['sources','◉','Fuentes'],['audit','≡','Auditoría'],['settings','⚙','Configuración']];
 const state={page:'dashboard',client:null,user:null,authAvailable:false,booted:false,busy:false,auto:false,killed:false,
  nextAt:0,lastRun:0,abort:null,opps:[],runs:[],vault:[],decisions:[],logs:[],settings:{...DEFAULTS},
- filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,feedError:'',syncedFeedKey:null,feedSyncBusy:false};
+ filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,archive:null,archiveError:'',feedError:'',syncedFeedKey:null,feedSyncBusy:false};
 const root=document.getElementById('root');
 const h=x=>safeHtml(x);
 const date=x=>x?new Date(x).toLocaleString('es-PE',{dateStyle:'short',timeStyle:'short'}):'—';
@@ -41,6 +41,8 @@ function nsource(id){return SOURCES.find(s=>s.id===id)?.label||id}
 function count(status){return state.opps.filter(o=>o.status===status).length}
 function latestRun(){return state.runs[0]||null}
 function publicItems(){return Array.isArray(state.feed?.items)?state.feed.items:[]}
+function archiveItems(){return Array.isArray(state.archive?.items)?state.archive.items:[]}
+function archiveRuns(){return Array.isArray(state.archive?.runs)?state.archive.runs:[]}
 function publicSourceResults(){return Array.isArray(state.feed?.sources)?state.feed.sources:[]}
 function currentList(){if(state.opps.length)return state.opps;return publicItems().map((x,i)=>({...x,id:'public-'+i,status:'pendiente',discovered_at:state.feed?.generated_at||null,eligibility_notes:'Señal no verificada; debes iniciar sesión para seguimiento.'}));}
 function fmt(v){return Number(v||0).toLocaleString('es-PE')}
@@ -86,7 +88,7 @@ function dashboard(){
  const passed=sources.filter(x=>x.ok).length;
  const done=state.runs.filter(r=>r.status!=='running').length;
  const stateBadge=state.feed?tag(state.feed.status==='ok'?'RADAR FUNCIONANDO':'RADAR PARCIAL',state.feed.status==='ok'?'mint':'warn'):tag('SIN DATOS DE RADAR','warn');
- return '<div class="notice blue radar-hero"><div class="spread"><div><p class="eyebrow">INVESTIGACIÓN PROGRAMADA · CADA 6 HORAS (UTC)</p><h2 style="margin:8px 0">'+stateBadge+'</h2><div class="sm muted">'+(state.feed?'Última publicación: '+date(state.feed.generated_at)+' · '+fmt(publicCount)+' señales públicas · '+passed+'/'+sources.length+' fuentes consultadas':'Esperando resultados del proceso programado. '+h(state.feedError||''))+'</div></div>'+btn('Ver señales reales →','go-radar','primary')+'</div></div>'+
+ return '<div class="notice blue radar-hero"><div class="spread"><div><p class="eyebrow">INVESTIGACIÓN PROGRAMADA · CADA 6 HORAS (UTC)</p><h2 style="margin:8px 0">'+stateBadge+'</h2><div class="sm muted">'+(state.feed?'Última publicación: '+date(state.feed.generated_at)+' · '+fmt(publicCount)+' señales del último ciclo · '+fmt(archiveItems().length)+' señales conservadas · '+passed+'/'+sources.length+' fuentes consultadas':'Esperando resultados del proceso programado. '+h(state.feedError||''))+'</div></div>'+btn('Ver señales reales →','go-radar','primary')+'</div></div>'+
  '<div class="cards">'+kpi('Señales públicas reales',state.feed?fmt(publicCount):'—','Fuente: radar automático de GitHub Actions')+
  kpi('Fuentes públicas activas',state.feed?passed+'/'+sources.length:'—','Estado de última investigación programada')+
  kpi('Registros de mi sesión/cuenta',fmt(state.opps.length),'No son activos ni saldos financieros')+
@@ -103,9 +105,19 @@ function dashboard(){
  '<section class="panel section"><h2>Hallazgos de tu sesión o cuenta</h2>'+opTable(state.opps.slice(0,7))+'</section>';
 }
 function radar(){
- return '<section class="panel">'+sectionHeader('Inteligencia pública en segundo plano','Esta sección usa datos que GitHub Actions actualiza periódicamente, incluso con el navegador cerrado.')+feedPanel()+'</section>'+
+ return '<section class="panel">'+sectionHeader('Inteligencia pública en segundo plano','Esta sección usa datos que GitHub Actions actualiza periódicamente, incluso con el navegador cerrado.')+feedPanel()+'</section>'+archivePanel()+
  '<section class="panel section"><h2>Pasos para convertir una señal en una oportunidad propia</h2><div class="notice blue">1. Consultar fuente oficial → 2. Confirmar reglas y elegibilidad → 3. Iniciar sesión → 4. Revisar y aprobar → 5. Archivar expediente. Ningún activo se transfiere automáticamente.</div>'+
  '<p class="sm muted">Los resultados son indicios no verificados. La investigación es automatizada; la reclamación de derechos o movimientos económicos exige autorización y documentación.</p></section>';
+}
+function archivePanel(){
+ const d=state.archive,items=archiveItems(),runs=archiveRuns();
+ if(!d)return '<section class="panel section"><h2>Historial público</h2><div class="empty">'+h(state.archiveError||'Se está preparando el primer archivo histórico.')+'</div></section>';
+ return '<section class="panel section"><div class="spread"><h2>Archivo permanente de señales públicas</h2>'+tag(fmt(items.length)+' registros','mint')+'</div>'+
+ '<p class="sm muted">Historial de hasta '+fmt(d.retention?.max_items||1200)+' señales y '+fmt(d.retention?.max_runs||56)+' ejecuciones. Conservado en el repositorio GitHub, con origen y primera/última detección. No contiene datos privados ni activos adquiridos.</p>'+
+ '<h3>Últimas ejecuciones programadas</h3><div class="tablewrap"><table class="datatable"><thead><tr><th>Fecha</th><th>Estado</th><th>Registros leídos</th><th>Nuevos</th><th>Total archivado</th></tr></thead><tbody>'+
+ runs.slice(0,10).map(x=>'<tr><td>'+date(x.generated_at)+'</td><td>'+tag(x.status,x.status==='ok'?'mint':'warn')+'</td><td>'+fmt(x.processed)+'</td><td>'+fmt(x.new_items)+'</td><td>'+fmt(x.archive_total)+'</td></tr>').join('')+'</tbody></table></div>'+
+ '<h3 style="margin-top:24px">Últimos hallazgos conservados</h3><div class="tablewrap"><table class="datatable"><thead><tr><th>Hallazgo público</th><th>Primera detección</th><th>Última detección</th><th>Relevancia</th></tr></thead><tbody>'+
+ items.slice(0,35).map(x=>'<tr><td class="titlecell"><b>'+h(x.title)+'</b><small>'+h(nsource(x.source))+'</small><p><a href="'+h(safeUrl(x.url)||'#')+'" target="_blank" rel="noopener noreferrer">↗ Fuente original</a></p></td><td>'+date(x.first_seen_at)+'</td><td>'+date(x.last_seen_at)+'</td><td>'+fmt(x.score)+'/100</td></tr>').join('')+'</tbody></table></div></section>';
 }
 function feedPanel(){
  const d=state.feed;
@@ -124,12 +136,12 @@ function typeSummary(items=state.opps){
 }
 const STAGES=[['Recolector','Consulta únicamente a APIs públicas autorizadas'],['Normalizador','Sanea campos y enlaces, sin ejecutar el texto remoto'],['Deduplicador','Agrupa las señales por URL canónica'],['Clasificador','Identifica temática con reglas reproducibles'],['Verificador','Confirma solo lo que la API permite confirmar'],['Evaluador económico','No inventa beneficios, propiedad ni rentabilidad'],['Auditor','Registra fuente, fecha, resultados y decisiones']];
 function agentFlow(){
- const steps=state.latestSteps.length?state.latestSteps:latestRun()?.steps||[];
+ const steps=state.latestSteps.length?state.latestSteps:(latestRun()?.steps?.length?latestRun().steps:state.feed?.steps||[]);
  return '<div class="agentflow">'+STAGES.map((x,i)=>{
  const found=steps.find(s=>s.agent===x[0]);return (i?'<span class="arrow">→</span>':'')+
  '<div class="agentstep"><strong>'+h(x[0])+'</strong><small class="muted">'+h(x[1])+'</small><p><em>'+h(found?.status||'Esperando')+'</em></p>'+
  (found?'<small class="muted">'+h(found.detail||'')+'</small>':'')+'</div>';
- }).join('')+'</div><p class="tiny muted">Son módulos lógicos de una canalización local; no representan robots propagándose por servidores.</p>';
+ }).join('')+'</div><p class="tiny muted">'+(state.latestSteps.length||latestRun()?.steps?.length?'Estado del último ciclo de navegador.':'Estado del último ciclo programado: '+(state.feed?date(state.feed.generated_at):'sin datos aún')+'.')+' Son módulos lógicos de ejecución controlada, no robots propagándose por servidores.</p>';
 }
 function explore(){
  const runs=state.runs;
@@ -192,7 +204,7 @@ function vault(){
  '<a href="'+h(safeUrl(v.url)||'#')+'" target="_blank" rel="noopener noreferrer">↗ Fuente del expediente</a></div>').join(''))+'</section>';
 }
 function agents(){
- return '<section class="panel"><h2>Agentes especializados</h2>'+agentFlow()+'</section>'+
+ return '<section class="panel"><h2>Agentes especializados</h2><p class="sm muted">'+(state.feed?'Último trabajo programado: '+date(state.feed.generated_at)+' · '+fmt(publicItems().length)+' señales en el lote.':'Sin datos de trabajos programados todavía.')+'</p>'+agentFlow()+'</section>'+
  '<div class="grid3 section">'+STAGES.map((a,i)=>'<div class="panel"><div class="eyebrow">AGENTE '+String(i+1).padStart(2,'0')+'</div><h2 style="margin-top:9px">'+h(a[0])+'</h2><p class="sm muted">'+h(a[1])+'</p>'+tag('Reglas reproducibles','mint')+'</div>').join('')+'</div>'+
  '<div class="notice blue">Arquitectura v0.1: los pasos son módulos dentro de la aplicación, NO microbots persistentes, redes autoexpansibles ni un clúster de mil trabajadores.</div>';
 }
@@ -206,10 +218,10 @@ function sources(){
  '<div class="notice blue">La cobertura es parcial. No se consulta Internet completa. Las fuentes pueden responder HTTP 403/429 por cuotas; el sistema lo registra como error.</div></section>';
 }
 function audit(){
- return '<section class="panel"><h2>Bitácora de auditoría</h2>'+
+ return '<section class="panel"><h2>Bitácora de auditoría personal</h2><p class="sm muted">Las decisiones privadas requieren iniciar sesión. El historial de ciclos públicos se conserva por separado.</p>'+
  (!state.logs.length?'<div class="empty">Sin eventos auditados en esta cuenta o sesión.</div>':
  '<div class="tablewrap"><table class="datatable"><thead><tr><th>Fecha</th><th>Evento</th><th>Actor</th><th>Detalle</th></tr></thead><tbody>'+
- state.logs.slice(0,80).map(x=>'<tr><td>'+date(x.created_at)+'</td><td>'+h(x.event)+'</td><td>'+h(x.actor)+'</td><td class="tiny muted">'+h(JSON.stringify(x.detail||{}).slice(0,220))+'</td></tr>').join('')+'</tbody></table></div>')+'</section>';
+ state.logs.slice(0,80).map(x=>'<tr><td>'+date(x.created_at)+'</td><td>'+h(x.event)+'</td><td>'+h(x.actor)+'</td><td class="tiny muted">'+h(JSON.stringify(x.detail||{}).slice(0,220))+'</td></tr>').join('')+'</tbody></table></div>')+'</section>'+archivePanel();
 }
 function settings(){
  const s=state.settings;
@@ -312,6 +324,13 @@ async function loadPublicFeed(){
    state.feed=v;state.feedError='';
    if(activeUser())void syncScheduledFeed();
  }catch(e){state.feedError='El radar aún no está disponible ('+(e.message||'error de red')+').';}
+ try{
+   const response=await fetch('./feed/archive.json',{cache:'no-store'});
+   if(!response.ok)throw Error('HTTP '+response.status);
+   const archive=await response.json();
+   if(archive.schema!=='apex-public-archive-v1'||!Array.isArray(archive.items)||!Array.isArray(archive.runs))throw Error('Formato de historial inválido');
+   state.archive=archive;state.archiveError='';
+ }catch(e){state.archiveError='Historial todavía no publicado: '+String(e?.message||e);}
  render();
 }
 async function emailAuth(form,resend=false){
