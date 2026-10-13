@@ -8,6 +8,12 @@ try{
  await page.goto('http://127.0.0.1:4173/',{waitUntil:'domcontentloaded'});
  await page.locator('.app').waitFor({timeout:12000});
  assert.match(await page.locator('h1').first().innerText(),/Centro de inteligencia/);
+ await page.waitForFunction(() => document.body.innerText.includes('Señales públicas reales'),null,{timeout:12000});
+ await page.locator('[data-action="go-radar"]').first().click();
+ assert.match(await page.locator('h1').first().innerText(),/Radar automático/);
+ await page.locator('[data-action="nav"][data-page="opportunities"]').click();
+ assert.match(await page.locator('h1').first().innerText(),/Oportunidades/);
+ await page.locator('[data-action="nav"][data-page="dashboard"]').click();
  await page.screenshot({path:'apex-desktop.png',fullPage:true});
  await page.locator('[data-action="scan"]').first().click();
  await page.waitForFunction(() => !document.querySelector('.runprogress') && !document.body.innerText.includes('Escaneo en curso:'),null,{timeout:35000});
