@@ -20,7 +20,7 @@ const META={
 const NAV=[['dashboard','◫','Panel general'],['explore','◎','Exploración'],['opportunities','⌕','Oportunidades'],['approval','✓','Aprobaciones'],['vault','▣','Mi bóveda'],['agents','⬡','Agentes'],['sources','◉','Fuentes'],['audit','≡','Auditoría'],['settings','⚙','Configuración']];
 const state={page:'dashboard',client:null,user:null,authAvailable:false,booted:false,busy:false,auto:false,killed:false,
  nextAt:0,lastRun:0,abort:null,opps:[],runs:[],vault:[],decisions:[],logs:[],settings:{...DEFAULTS},
- filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0};
+ filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,feedError:''};
 const root=document.getElementById('root');
 const h=x=>safeHtml(x);
 const date=x=>x?new Date(x).toLocaleString('es-PE',{dateStyle:'short',timeStyle:'short'}):'—';
@@ -48,7 +48,8 @@ function formAuth(){
  '<form data-form="auth"><div class="field"><label>Correo electrónico</label><input type="email" name="email" autocomplete="email" required></div>'+
  '<div class="field"><label>Contraseña (mínimo 8 caracteres)</label><input name="password" type="password" minlength="8" autocomplete="'+(signing?'new-password':'current-password')+'" required></div>'+
  '<button class="btn primary" type="submit">'+(signing?'Crear cuenta':'Iniciar sesión')+'</button></form>'+
- '<div class="auth-toggle" style="margin-top:14px">'+btn(signing?'Ya tengo cuenta':'Registrarme',signing?'login':'signup')+'</div></div></div>'
+ '<div class="auth-toggle" style="margin-top:14px">'+btn(signing?'Ya tengo cuenta':'Registrarme',signing?'login':'signup')+'</div>'+
+ '<div style="margin-top:18px;padding-top:14px;border-top:1px solid #385065"><h3>Acceso seguro sin contraseña compartida</h3><p class="tiny muted">Recibe un enlace de ingreso en tu correo y confirma la propiedad de la cuenta.</p><form data-form="email-link"><div class="field"><label>Correo electrónico</label><input type="email" name="email" autocomplete="email" required></div><button type="submit" class="btn primary">✉ Enviar enlace de acceso</button></form><p class="tiny muted" style="margin-top:12px">Si ya registraste una contraseña y tu correo aún no está confirmado:</p><form data-form="resend"><div class="field"><label>Correo de la cuenta pendiente</label><input type="email" name="email" required></div><button type="submit" class="btn">Reenviar confirmación</button></form></div></div></div>'
 }
 function render(){
  const [heading,sub]=META[state.page]||META.dashboard;
@@ -87,7 +88,14 @@ function dashboard(){
  '<section class="panel"><h2>Distribución de oportunidades</h2>'+typeSummary()+
  '<div class="notice">⚠ Un puntaje alto indica coincidencia temática, <b>no</b> dinero disponible, éxito, propiedad ni rentabilidad.</div></section></div>'+
  '<section class="panel section"><h2>Ruta de procesamiento de los agentes</h2>'+agentFlow()+'</section>'+
- '<section class="panel section"><h2>Señales recientes</h2>'+opTable(state.opps.slice(0,7))+'</section>';
+ '<section class="panel section"><h2>Radar público en segundo plano</h2>'+feedPanel()+'</section><section class="panel section"><h2>Señales de tu cuenta o sesión</h2>'+opTable(state.opps.slice(0,7))+'</section>';
+}
+function feedPanel(){
+ const d=state.feed;
+ if(!d)return '<div class="empty">'+h(state.feedError||'El radar público todavía no tiene una actualización programada.')+'</div>';
+ const rows=Array.isArray(d.items)?d.items:[];
+ return '<div class="spread" style="margin-bottom:14px;flex-wrap:wrap">'+tag('Actualización automática · GitHub Actions','mint')+'<span class="tiny muted">Último ciclo: '+date(d.generated_at)+' · '+h(d.status)+'</span></div><div class="notice blue">Investigación pública cada 6 horas, aunque cierres el navegador. No guarda automáticamente registros en tu cuenta ni mueve activos.</div>'+
+ (rows.length?'<div class="tablewrap"><table class="datatable"><thead><tr><th>Señal pública</th><th>Categoría</th><th>Relevancia</th></tr></thead><tbody>'+rows.slice(0,12).map(x=>'<tr><td class="titlecell"><b>'+h(x.title)+'</b><small>'+h(nsource(x.source))+'</small><p><a href="'+h(safeUrl(x.url)||'#')+'" target="_blank" rel="noopener noreferrer">↗ Abrir fuente</a></p></td><td>'+tag(oppType[x.opp_type]||'Otro')+'</td><td>'+fmt(x.score)+'/100</td></tr>').join('')+'</tbody></table></div>':'<div class="empty">La última recolección no produjo registros válidos.</div>');
 }
 function typeSummary(){
  const total=state.opps.length;
@@ -195,7 +203,7 @@ function settings(){
  '<div class="field"><label>Puntaje mínimo de relevancia (0–100)</label><input type="number" name="min_score" min="0" max="100" value="'+h(s.min_score||0)+'"></div>'+
  '<div class="field"><label>Fuentes habilitadas</label><select name="sources"><option value="all">Hacker News y GitHub</option><option value="hackernews" '+((s.enabled_sources||[]).join(',')==='hackernews'?'selected':'')+'>Solo Hacker News</option><option value="github" '+((s.enabled_sources||[]).join(',')==='github'?'selected':'')+'>Solo GitHub</option></select></div>'+
  '<div class="field" style="justify-content:end"><button class="btn primary" type="submit">Guardar parámetros</button></div></form>'+
- '<div class="notice">No existe ejecución con navegador cerrado en este prototipo. No se recopilan dispositivos, credenciales bancarias ni claves privadas.</div></section>'+
+ '<div class="notice">Los ciclos privados se ejecutan solo mientras la pestaña esté abierta. El radar PÚBLICO se actualiza mediante GitHub Actions cada 6 horas, sin acceso a tu cuenta personal.</div></section>'+
  '<section class="panel section"><h2>Arquitectura y límites</h2><p class="sm muted">El escaneo y clasificación se realiza en el navegador del usuario. Si inicias sesión, las oportunidades, decisiones y expedientes se almacenan en una base de datos con políticas RLS por usuario. La información recuperada es de fuentes públicas y se marca como no verificada. No se ejecutan transferencias, firmas blockchain, arbitraje ni compras bursátiles.</p>'+
  '<p class="sm muted">Los costes de API, tiempos de respuesta, cuotas y la disponibilidad de la base de datos dependen de servicios externos. La escalabilidad a miles de trabajadores requiere un backend especializado, límites de tráfico y presupuesto.</p></section>';
 }
@@ -223,9 +231,10 @@ async function loadPrivate(){
 }
 async function init(){
  render();
+ void loadPublicFeed();
  try{
    const mod=await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/+esm');
-   state.client=mod.createClient(CLOUD_URL,PUBLIC_KEY,{auth:{autoRefreshToken:true,persistSession:true,detectSessionInUrl:false}});
+   state.client=mod.createClient(CLOUD_URL,PUBLIC_KEY,{auth:{autoRefreshToken:true,persistSession:true,detectSessionInUrl:true}});
    state.authAvailable=true;
    const {data:{user},error}=await state.client.auth.getUser();
    if(!error&&user){state.user=user;await loadPrivate();}
@@ -238,6 +247,27 @@ async function init(){
    });
  }catch(e){state.authAvailable=false;toast('No fue posible cargar el servicio de cuentas. La exploración pública continúa disponible.','error');}
  state.booted=true;render();
+}
+async function loadPublicFeed(){
+ try{
+   const r=await fetch('./feed/latest.json',{cache:'no-store'});
+   if(!r.ok)throw Error('HTTP '+r.status);
+   const v=await r.json();
+   if(v.schema!=='apex-public-research-v1'||!Array.isArray(v.items))throw Error('Formato de radar no válido');
+   state.feed=v;state.feedError='';
+ }catch(e){state.feedError='El radar aún no está disponible ('+(e.message||'error de red')+').';}
+ render();
+}
+async function emailAuth(form,resend=false){
+ if(!state.client)return toast('Autenticación temporalmente no disponible.','error');
+ const email=String(new FormData(form).get('email')||'').trim();
+ if(!email)return toast('Indica un correo válido.','error');
+ const url=window.location.origin+window.location.pathname;
+ const result=resend
+  ?await state.client.auth.resend({type:'signup',email,options:{emailRedirectTo:url}})
+  :await state.client.auth.signInWithOtp({email,options:{emailRedirectTo:url,shouldCreateUser:true}});
+ if(result.error)return toast('El servicio de correo respondió: '+result.error.message,'error');
+ state.modal='';toast('Solicitud enviada. Revisa el correo y abre el enlace de confirmación; no compartas códigos.','ok');render();
 }
 async function authSubmit(form){
  if(!state.client){toast('Servicio de autenticación temporalmente no disponible.','error');return;}
@@ -441,6 +471,8 @@ document.addEventListener('click',async e=>{
 document.addEventListener('submit',async e=>{
  const form=e.target.closest('form[data-form]');if(!form)return;e.preventDefault();
  if(form.dataset.form==='auth')await authSubmit(form);
+ if(form.dataset.form==='email-link')await emailAuth(form,false);
+ if(form.dataset.form==='resend')await emailAuth(form,true);
  if(form.dataset.form==='settings')await saveSettings(form);
  if(form.dataset.form==='filter'){const d=new FormData(form);state.filter=String(d.get('search')||'');state.type=String(d.get('type')||'todos');state.status=String(d.get('status')||'todos');render();}
 });
