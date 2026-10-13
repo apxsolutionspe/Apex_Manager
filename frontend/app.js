@@ -68,6 +68,7 @@ $('#catalog-search').addEventListener('input', e => {search = e.target.value.tri
 document.querySelectorAll('[data-filter]').forEach(b => b.addEventListener('click', () => {filter = b.dataset.filter; document.querySelectorAll('[data-filter]').forEach(t => {t.classList.toggle('active', t === b); t.setAttribute('aria-pressed', String(t === b));}); renderCatalog();}));
 $('#quote-form').addEventListener('submit', async e => {
   e.preventDefault();
+  const quoteForm = e.currentTarget;
   const error = $('#quote-error'); error.hidden = true;
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
@@ -78,7 +79,7 @@ $('#quote-form').addEventListener('submit', async e => {
     $('#quote-code').textContent = `Código de seguimiento: ${lastQuote.code}`;
     const link = $('#whatsapp-link'); link.hidden = !lastQuote.whatsapp_url;
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
-    cart = {}; saveCart(); e.currentTarget.reset(); renderCart(); toast('Solicitud registrada correctamente');
+    cart = {}; saveCart(); quoteForm.reset(); renderCart(); toast('Solicitud registrada correctamente');
   } catch (err) {error.textContent = err.message; error.hidden = false;}
   finally {btn.disabled = false; btn.innerHTML = 'Registrar solicitud <span>→</span>';}
 });
