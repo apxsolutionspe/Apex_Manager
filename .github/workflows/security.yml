@@ -21,4 +21,4 @@ jobs:
       - name: Install audit utility
         run: python -m pip install pip-audit
       - name: Scan Python dependencies
-        run: python -m pip_audit --requirement requirements.txt --disable-pip
+        run: python -m pip_audit --requirement requirements.txt
