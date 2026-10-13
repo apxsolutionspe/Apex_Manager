@@ -7,7 +7,8 @@ const PUBLIC_KEY='sb_publishable_YIrgK1sba_v0uUJy-OnDgQ_4XgR0fvt';
 const KEYS=['bounty','grant','reward','funding','prize'];
 const DEFAULTS={keywords:KEYS,interval_minutes:15,max_items:20,min_score:0,enabled_sources:['hackernews','github']};
 const META={
- dashboard:['Centro de inteligencia','Visión general de hallazgos, fuentes y actividad en tiempo real.'],
+ dashboard:['Centro de inteligencia','Actividad real de los investigadores automáticos y control de tu cuenta privada.'],
+ radar:['Radar automático','Señales obtenidas por el proceso programado en GitHub Actions, sin mantener abierta esta página.'],
  explore:['Exploración autónoma','Ciclos de consulta públicos con agentes lógicos trazables y límites de red.'],
  opportunities:['Oportunidades','Señales detectadas. Ninguna constituye un activo o derecho económico acreditado.'],
  approval:['Centro de aprobaciones','La revisión y el archivo personal requieren intervención humana.'],
@@ -17,7 +18,7 @@ const META={
  audit:['Auditoría','Historial de escaneos y decisiones de tu cuenta.'],
  settings:['Configuración','Parámetros del sistema y controles de autonomía durante sesión.']
 };
-const NAV=[['dashboard','◫','Panel general'],['explore','◎','Exploración'],['opportunities','⌕','Oportunidades'],['approval','✓','Aprobaciones'],['vault','▣','Mi bóveda'],['agents','⬡','Agentes'],['sources','◉','Fuentes'],['audit','≡','Auditoría'],['settings','⚙','Configuración']];
+const NAV=[['dashboard','◫','Panel general'],['radar','◉','Radar automático'],['explore','◎','Exploración'],['opportunities','⌕','Oportunidades'],['approval','✓','Aprobaciones'],['vault','▣','Mi bóveda'],['agents','⬡','Agentes'],['sources','◉','Fuentes'],['audit','≡','Auditoría'],['settings','⚙','Configuración']];
 const state={page:'dashboard',client:null,user:null,authAvailable:false,booted:false,busy:false,auto:false,killed:false,
  nextAt:0,lastRun:0,abort:null,opps:[],runs:[],vault:[],decisions:[],logs:[],settings:{...DEFAULTS},
  filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,feedError:'',syncedFeedKey:null,feedSyncBusy:false};
@@ -39,6 +40,9 @@ function activeUser(){return Boolean(state.user&&state.client)}
 function nsource(id){return SOURCES.find(s=>s.id===id)?.label||id}
 function count(status){return state.opps.filter(o=>o.status===status).length}
 function latestRun(){return state.runs[0]||null}
+function publicItems(){return Array.isArray(state.feed?.items)?state.feed.items:[]}
+function publicSourceResults(){return Array.isArray(state.feed?.sources)?state.feed.sources:[]}
+function currentList(){if(state.opps.length)return state.opps;return publicItems().map((x,i)=>({...x,id:'public-'+i,status:'pendiente',discovered_at:state.feed?.generated_at||null,eligibility_notes:'Señal no verificada; debes iniciar sesión para seguimiento.'}));}
 function fmt(v){return Number(v||0).toLocaleString('es-PE')}
 function sectionHeader(text,tip){return '<div class="spread" style="align-items:flex-start;flex-wrap:wrap;margin-bottom:14px"><div><h2 style="margin:0">'+text+'</h2><p class="subtitle">'+tip+'</p></div></div>'}
 function formAuth(){
@@ -77,19 +81,31 @@ function runControls(){
 }
 function dashboard(){
  const latest=latestRun();
+ const publicCount=publicItems().length;
+ const sources=publicSourceResults();
+ const passed=sources.filter(x=>x.ok).length;
  const done=state.runs.filter(r=>r.status!=='running').length;
- return '<div class="cards">'+kpi('Señales encontradas',fmt(state.opps.length),'Total de registros, no activos recuperados')+
- kpi('En revisión',fmt(count('revisar')),'Requieren aprobación humana')+kpi('Expedientes privados',fmt(state.vault.length),'Metadatos, no depósitos')+
- kpi('Ciclos registrados',fmt(done),'Ejecuciones de tu cuenta / sesión')+'</div>'+
+ const stateBadge=state.feed?tag(state.feed.status==='ok'?'RADAR FUNCIONANDO':'RADAR PARCIAL',state.feed.status==='ok'?'mint':'warn'):tag('SIN DATOS DE RADAR','warn');
+ return '<div class="notice blue radar-hero"><div class="spread"><div><p class="eyebrow">INVESTIGACIÓN PROGRAMADA · CADA 6 HORAS (UTC)</p><h2 style="margin:8px 0">'+stateBadge+'</h2><div class="sm muted">'+(state.feed?'Última publicación: '+date(state.feed.generated_at)+' · '+fmt(publicCount)+' señales públicas · '+passed+'/'+sources.length+' fuentes consultadas':'Esperando resultados del proceso programado. '+h(state.feedError||''))+'</div></div>'+btn('Ver señales reales →','go-radar','primary')+'</div></div>'+
+ '<div class="cards">'+kpi('Señales públicas reales',state.feed?fmt(publicCount):'—','Fuente: radar automático de GitHub Actions')+
+ kpi('Fuentes públicas activas',state.feed?passed+'/'+sources.length:'—','Estado de última investigación programada')+
+ kpi('Registros de mi sesión/cuenta',fmt(state.opps.length),'No son activos ni saldos financieros')+
+ kpi('Expedientes privados',fmt(state.vault.length),'Aprobaciones y documentos; sin custodia')+'</div>'+
+ '<section class="panel section"><div class="spread"><h2>Últimos hallazgos del radar público</h2>'+btn('Explorar radar completo','go-radar','ghost')+'</div>'+feedPanel()+'</section>'+
  '<div class="grid2"><section class="panel"><h2>Control del enjambre</h2>'+runControls()+
- '<div class="notice blue" style="margin-top:20px">Al ejecutar un ciclo se consultan APIs públicas de GitHub y Hacker News. Una coincidencia es únicamente una <b>señal no verificada</b>.</div>'+
- '<h3 style="margin-top:22px">Última ejecución</h3>'+(!latest?'<div class="empty">Aún no hay ejecuciones. Pulsa «Ejecutar ciclo» para consultar las fuentes.</div>':
+ '<div class="notice blue" style="margin-top:20px">«Ejecutar ciclo» lanza consultas directas en este navegador; no es necesario para que GitHub Actions recolecte datos automáticamente cada seis horas.</div>'+
+ '<h3 style="margin-top:22px">Último ciclo personal</h3>'+(!latest?'<div class="empty">Todavía no has ejecutado un ciclo personal en esta sesión o cuenta. El radar público funciona por separado.</div>':
  '<div class="spread"><span>'+tag(latest.status||'desconocido',latest.status==='ok'?'mint':latest.status==='error'?'bad':'warn')+'</span><small class="muted">'+date(latest.started_at)+'</small></div>'+
  '<p class="sm muted">'+fmt(latest.stats?.inserted)+' señales nuevas · '+fmt(latest.stats?.collected)+' registros examinados</p>')+'</section>'+
- '<section class="panel"><h2>Distribución de oportunidades</h2>'+typeSummary()+
- '<div class="notice">⚠ Un puntaje alto indica coincidencia temática, <b>no</b> dinero disponible, éxito, propiedad ni rentabilidad.</div></section></div>'+
+ '<section class="panel"><h2>Distribución de señales públicas</h2>'+typeSummary(publicItems())+
+ '<div class="notice">⚠ Un puntaje alto significa coincidencia temática, no dinero disponible ni rentabilidad verificada.</div></section></div>'+
  '<section class="panel section"><h2>Ruta de procesamiento de los agentes</h2>'+agentFlow()+'</section>'+
- '<section class="panel section"><h2>Radar público en segundo plano</h2>'+feedPanel()+'</section><section class="panel section"><h2>Señales de tu cuenta o sesión</h2>'+opTable(state.opps.slice(0,7))+'</section>';
+ '<section class="panel section"><h2>Hallazgos de tu sesión o cuenta</h2>'+opTable(state.opps.slice(0,7))+'</section>';
+}
+function radar(){
+ return '<section class="panel">'+sectionHeader('Inteligencia pública en segundo plano','Esta sección usa datos que GitHub Actions actualiza periódicamente, incluso con el navegador cerrado.')+feedPanel()+'</section>'+
+ '<section class="panel section"><h2>Pasos para convertir una señal en una oportunidad propia</h2><div class="notice blue">1. Consultar fuente oficial → 2. Confirmar reglas y elegibilidad → 3. Iniciar sesión → 4. Revisar y aprobar → 5. Archivar expediente. Ningún activo se transfiere automáticamente.</div>'+
+ '<p class="sm muted">Los resultados son indicios no verificados. La investigación es automatizada; la reclamación de derechos o movimientos económicos exige autorización y documentación.</p></section>';
 }
 function feedPanel(){
  const d=state.feed;
@@ -98,11 +114,11 @@ function feedPanel(){
  return '<div class="spread" style="margin-bottom:14px;flex-wrap:wrap">'+tag('Actualización automática · GitHub Actions','mint')+'<span class="tiny muted">Último ciclo: '+date(d.generated_at)+' · '+h(d.status)+'</span></div><div class="notice blue">Investigación pública cada 6 horas, aunque cierres el navegador. No guarda automáticamente registros en tu cuenta ni mueve activos.</div>'+
  (rows.length?'<div class="tablewrap"><table class="datatable"><thead><tr><th>Señal pública</th><th>Categoría</th><th>Relevancia</th></tr></thead><tbody>'+rows.slice(0,12).map(x=>'<tr><td class="titlecell"><b>'+h(x.title)+'</b><small>'+h(nsource(x.source))+'</small><p><a href="'+h(safeUrl(x.url)||'#')+'" target="_blank" rel="noopener noreferrer">↗ Abrir fuente</a></p></td><td>'+tag(oppType[x.opp_type]||'Otro')+'</td><td>'+fmt(x.score)+'/100</td></tr>').join('')+'</tbody></table></div>':'<div class="empty">La última recolección no produjo registros válidos.</div>');
 }
-function typeSummary(){
- const total=state.opps.length;
+function typeSummary(items=state.opps){
+ const total=items.length;
  if(!total)return '<div class="empty">Las categorías aparecerán cuando exista información consultada.</div>';
  return Object.entries(oppType).map(([k,name])=>{
- const c=state.opps.filter(o=>o.opp_type===k).length;if(!c)return '';
+ const c=items.filter(o=>o.opp_type===k).length;if(!c)return '';
  return '<div class="spread" style="margin:13px 0"><span class="sm">'+h(name)+'</span><div class="flex"><div class="bar"><i style="width:'+Math.round(c/total*100)+'%"></i></div><span class="tiny number">'+c+'</span></div></div>';
  }).join('');
 }
@@ -117,7 +133,7 @@ function agentFlow(){
 }
 function explore(){
  const runs=state.runs;
- return '<section class="panel">'+sectionHeader('Motor de exploración pública','Ejecuta consultas reales; observa el resultado por fuente y paso del pipeline.')+
+ return '<div class="notice blue">Radar programado: '+(state.feed?fmt(publicItems().length)+' señales públicas publicadas el '+date(state.feed.generated_at):'sin datos aún')+'. El botón de abajo ejecuta un nuevo ciclo de navegador.</div><section class="panel">'+sectionHeader('Motor de exploración pública','Ejecuta consultas reales; observa el resultado por fuente y paso del pipeline.')+
  runControls()+agentFlow()+'</section>'+
  '<section class="panel section"><h2>Registro de ciclos</h2>'+(!runs.length?'<div class="empty">Todavía no hay ejecuciones.</div>':
  '<div class="tablewrap"><table class="datatable"><thead><tr><th>Momento</th><th>Activación</th><th>Estado</th><th>Recibidos</th><th>Nuevos</th></tr></thead><tbody>'+
@@ -125,7 +141,7 @@ function explore(){
  '</tbody></table></div>')+'</section>';
 }
 function filtered(){
- return state.opps.filter(x=>{
+ return currentList().filter(x=>{
  const f=state.filter.trim().toLowerCase();
  return (!f||(x.title+' '+x.evidence+' '+x.source).toLowerCase().includes(f)) &&
  (state.type==='todos'||x.opp_type===state.type) &&
@@ -148,7 +164,7 @@ function opTable(rows){
  '<td>'+ (activeUser()?btn('Revisar','select','ghost','data-id="'+h(o.id)+'"'):tag('Entrar para aprobar'))+'</td></tr>').join('')+
  '</tbody></table></div>';
 }
-function opportunities(){return '<section class="panel">'+sectionHeader('Señales económicas no verificadas',fmt(filtered().length)+' registros · Pueden ser antiguos, estar cerrados o carecer de recompensa real.')+
+function opportunities(){return '<section class="panel">'+sectionHeader('Señales económicas no verificadas',fmt(filtered().length)+' registros · '+(state.opps.length?'Registros de esta cuenta o sesión.':'Mostrando radar público programado; inicia sesión para guardar seguimiento.')+' Pueden ser antiguos, estar cerrados o carecer de recompensa real.')+
  filters()+opTable(filtered())+'</section>';}
 function approval(){
  const selected=state.opps.find(o=>o.id===state.selected);
@@ -181,7 +197,7 @@ function agents(){
  '<div class="notice blue">Arquitectura v0.1: los pasos son módulos dentro de la aplicación, NO microbots persistentes, redes autoexpansibles ni un clúster de mil trabajadores.</div>';
 }
 function sources(){
- const last=latestRun()?.source_results||state.lastSources;
+ const last=(latestRun()?.source_results?.length?latestRun().source_results:state.lastSources.length?state.lastSources:publicSourceResults());
  return '<section class="panel">'+sectionHeader('Conectores de consulta','Los dos proveedores están sujetos a límites propios, fallos y políticas de uso.')+
  '<div class="grid3">'+SOURCES.map(s=>{const res=last?.find(x=>x.source===s.id);return '<div class="panel"><div class="eyebrow">'+h(s.id)+'</div><h2 style="margin-top:8px">'+h(s.label)+'</h2>'+tag(res?(res.ok?'Último ciclo: OK':'Último ciclo: ERROR'):'Sin ejecutar',res?.ok?'mint':res?'bad':'')+
  '<p class="sm muted">Registros última consulta: '+fmt(res?.count||0)+'</p>'+
@@ -209,7 +225,7 @@ function settings(){
  '<p class="sm muted">Los costes de API, tiempos de respuesta, cuotas y la disponibilidad de la base de datos dependen de servicios externos. La escalabilidad a miles de trabajadores requiere un backend especializado, límites de tráfico y presupuesto.</p></section>';
 }
 function view(){
- switch(state.page){case'dashboard':return dashboard();case'explore':return explore();case'opportunities':return opportunities();
+ switch(state.page){case'dashboard':return dashboard();case'radar':return radar();case'explore':return explore();case'opportunities':return opportunities();
  case'approval':return approval();case'vault':return vault();case'agents':return agents();case'sources':return sources();
  case'audit':return audit();case'settings':return settings();default:return dashboard();}
 }
@@ -499,6 +515,7 @@ document.addEventListener('click',async e=>{
  const target=e.target.closest('[data-action]');if(!target)return;
  const action=target.dataset.action,id=target.dataset.id;
  if(action==='nav'){state.page=target.dataset.page;state.selected='';render();return;}
+ if(action==='go-radar'){state.page='radar';state.selected='';window.scrollTo?.(0,0);render();return;}
  if(action==='login'||action==='signup'){state.modal=action;render();return;}
  if(action==='close-modal'){state.modal='';render();return;}
  if(action==='logout'){if(state.client)await state.client.auth.signOut();state.user=null;state.modal='';state.auto=false;state.opps=[];state.vault=[];state.runs=[];state.decisions=[];state.logs=[];state.latestSteps=[];state.settings={...DEFAULTS};toast('Sesión cerrada.','ok');render();return;}
