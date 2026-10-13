@@ -18,7 +18,7 @@ try{
  await page.locator('[data-action="scan"]').first().click();
  await page.waitForFunction(() => !document.querySelector('.runprogress') && !document.body.innerText.includes('Escaneo en curso:'),null,{timeout:35000});
  const bodyAfterScan=await page.locator('body').innerText();
- assert.ok(bodyAfterScan.includes('Última ejecución'),'El panel muestra el resultado del ciclo real');
+ assert.ok(bodyAfterScan.includes('Último ciclo personal'),'El panel muestra el estado del ciclo personal');
  await page.screenshot({path:'apex-after-scan.png',fullPage:true});
  console.log('RESULTADO ESCANEO (fragmento):',bodyAfterScan.slice(0,850));
 
