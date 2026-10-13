@@ -15,6 +15,7 @@ def client(tmp_path):
         session_secret='local-test-secret-very-long-at-least-thirty-two-chars',
         whatsapp_number='51987654321',
         demo_mode=True,
+        quote_intake_enabled=True,
     )
     with TestClient(create_app(settings)) as c:
         yield c
@@ -68,7 +69,7 @@ def test_login_wrong_password_and_bruteforce(client):
 
 def test_create_quote_snapshot_and_whatsapp(client, headers):
     first = client.get('/api/products').json()[0]
-    payload = {'customer_name': 'Ana Torres', 'phone': '987654321', 'notes': 'Necesito una página web', 'items': [{'product_id': first['id'], 'quantity': 2}]}
+    payload = {'customer_name': 'Ana Torres', 'phone': '987654321', 'notes': 'Necesito una página web', 'consent': True, 'items': [{'product_id': first['id'], 'quantity': 2}]}
     response = client.post('/api/quotes', json=payload)
     assert response.status_code == 201
     data = response.json()
@@ -86,12 +87,12 @@ def test_create_quote_snapshot_and_whatsapp(client, headers):
 
 
 def test_quote_rejects_invalid_items_and_input(client):
-    base = {'customer_name': 'Luis Pérez', 'phone': '+51 999 555 222', 'items': [{'product_id': 98765432, 'quantity': 1}]}
+    base = {'customer_name': 'Luis Pérez', 'phone': '+51 999 555 222', 'consent': True, 'items': [{'product_id': 98765432, 'quantity': 1}]}
     assert client.post('/api/quotes', json=base).status_code == 422
-    assert client.post('/api/quotes', json={**base, 'items': []}).status_code == 422
-    assert client.post('/api/quotes', json={**base, 'items': [{'product_id':1, 'quantity': 51}]}).status_code == 422
+    assert client.post('/api/quotes', json={**base, 'consent':True,'items': []}).status_code == 422
+    assert client.post('/api/quotes', json={**base, 'consent': True, 'items': [{'product_id':1, 'quantity': 51}]}).status_code == 422
     assert client.post('/api/quotes', json={**base, 'phone': '<script>alert(1)</script>'}).status_code == 422
-    assert client.post('/api/quotes', json={**base, 'items': [{'product_id':1, 'quantity': 30}, {'product_id':1, 'quantity': 30}]}).status_code == 422
+    assert client.post('/api/quotes', json={**base, 'consent': True, 'items': [{'product_id':1, 'quantity': 30}, {'product_id':1, 'quantity': 30}]}).status_code == 422
     assert client.get('/api/products?category=x%27%20OR%201=1--').json() == []
 
 
@@ -103,19 +104,19 @@ def test_admin_create_edit_and_price_validation(client, headers):
     product_id = created.json()['id']
     assert client.post('/api/admin/products', json=item, headers=headers).status_code == 409
     assert client.post('/api/admin/products', json={**item,'sku':'CAM-101','price_cents':-1}, headers=headers).status_code == 422
-    assert client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','items':[{'product_id':product_id,'quantity':4}]}).status_code == 422
-    quote = client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','items':[{'product_id':product_id,'quantity':2}]})
+    assert client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','consent': True, 'items':[{'product_id':product_id,'quantity':4}]}).status_code == 422
+    quote = client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','consent': True, 'items':[{'product_id':product_id,'quantity':2}]})
     assert quote.status_code == 201
     assert quote.json()['total_cents'] == 49980
     edited = client.put(f'/api/admin/products/{product_id}', json={**item,'active':False}, headers=headers)
     assert edited.status_code == 200
     assert not any(p['id']==product_id for p in client.get('/api/products').json())
-    assert client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','items':[{'product_id':product_id,'quantity':1}]}).status_code == 422
+    assert client.post('/api/quotes', json={'customer_name':'Sara','phone':'987654321','consent': True, 'items':[{'product_id':product_id,'quantity':1}]}).status_code == 422
     assert client.get('/api/admin/quotes', headers=headers).json()[0]['items'][0]['unit_price_cents'] == 24990
 
 
 def test_quote_status_and_service_workflow(client, headers):
-    quote = client.post('/api/quotes', json={'customer_name':'Ana Pérez','phone':'999888777','items':[{'product_id':1,'quantity':1}]})
+    quote = client.post('/api/quotes', json={'customer_name':'Ana Pérez','phone':'999888777','consent': True, 'items':[{'product_id':1,'quantity':1}]})
     assert quote.status_code == 201
     quote_id = client.get('/api/admin/quotes', headers=headers).json()[0]['id']
     response = client.patch(f'/api/admin/quotes/{quote_id}/status', json={'status':'aprobado'}, headers=headers)
@@ -134,18 +135,18 @@ def test_quote_status_and_service_workflow(client, headers):
 
 
 def test_unconfigured_whatsapp_and_auth(tmp_path):
-    app = create_app(Settings(db_path=str(tmp_path / 'other.db'), admin_hash='', session_secret='', whatsapp_number=''))
+    app = create_app(Settings(db_path=str(tmp_path / 'other.db'), admin_hash='', session_secret='', whatsapp_number='', quote_intake_enabled=True))
     with TestClient(app) as client:
         assert client.get('/api/config').json()['whatsapp_enabled'] is False
         assert client.post('/api/admin/login', json={'password':'nonempty'}).status_code == 503
         assert client.get('/api/admin/summary').status_code == 503
-        data = client.post('/api/quotes', json={'customer_name':'Ana Torres','phone':'987654321','items':[{'product_id':1,'quantity':1}]}).json()
+        data = client.post('/api/quotes', json={'customer_name':'Ana Torres','phone':'987654321','consent': True, 'items':[{'product_id':1,'quantity':1}]}).json()
         assert data['whatsapp_url'] is None
         assert data['message']
 
 
 def test_public_tracking_protects_contact_data(client, headers):
-    response = client.post('/api/quotes', json={'customer_name':'Ana Torres','phone':'+51 987 654 321','email':'ana@example.com','notes':'Privado','items':[{'product_id':1,'quantity':1}]})
+    response = client.post('/api/quotes', json={'customer_name':'Ana Torres','phone':'+51 987 654 321','email':'ana@example.com','notes':'Privado','consent': True, 'items':[{'product_id':1,'quantity':1}]})
     code = response.json()['code']
     assert client.post('/api/quote-status', json={'code':code,'phone':'111111111'}).status_code == 404
     state = client.post('/api/quote-status', json={'code':code,'phone':'+51 987 654 321'})
@@ -166,13 +167,13 @@ def test_non_demo_configuration_does_not_seed_examples(tmp_path):
     with TestClient(create_app(settings)) as client:
         assert client.get('/api/config').json()['demo_mode'] is False
         assert client.get('/api/products').json() == []
-        assert client.get('/api/health').json()['version'] == '0.2.0'
+        assert client.get('/api/health').json()['version'] == '0.3.0'
 
 
 def test_security_headers_on_quote_responses(client):
     response = client.post('/api/quotes', json={
         'customer_name':'Prueba Local', 'phone':'987654321',
-        'items':[{'product_id':1,'quantity':1}]
+        'consent': True, 'items':[{'product_id':1,'quantity':1}]
     })
     assert response.status_code == 201
     assert response.headers['cache-control'] == 'no-store'

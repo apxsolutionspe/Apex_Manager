@@ -121,3 +121,52 @@ Consultar también `docs/ARQUITECTURA.md`, `docs/PLAN_FASES.md` y `docs/PRUEBAS.
 Se agrega `.github/workflows/ci.yml` para comprobar automáticamente los cambios publicados en GitHub. Esta ejecución todavía debe verificarse en la pestaña **Actions** de GitHub. El modo `DEMO_MODE=false` inicia un catálogo vacío y evita publicar contenido ilustrativo por accidente.
 
 Consultar `docs/CHECKLIST_PRODUCCION.md` y `docs/GITHUB.md`.
+
+## V0.3: protección de datos, auditoría y continuidad (rama de revisión)
+
+**Esta versión está preparada para revisión técnica y no habilita clientes reales por sí sola.**
+
+- `QUOTE_INTAKE_ENABLED=false` por defecto: el formulario de registro aparece deshabilitado mientras se prepara el lanzamiento. Para pruebas sintéticas locales puede usarse `QUOTE_INTAKE_ENABLED=true` con `APP_ENV=development` y base de datos de prueba.
+- Se exige `consent: true` explícito para registrar cualquier cotización. Se conserva `consent_at` y `privacy_notice_version` junto al registro. Las cotizaciones anteriores siguen existiendo mediante una migración SQLite no destructiva; su consentimiento anterior no se presupone.
+- `/privacidad` muestra un **borrador no aprobado** en pruebas. En producción, debe configurarse la URL HTTPS de una política publicada y aprobada (`PRIVACY_POLICY_URL`) y su versión (`PRIVACY_NOTICE_VERSION`).
+- Con `APP_ENV=production`, `/api/ready` comprueba credenciales administrativas, catálogo real sin DEMO, número WhatsApp, salida de DEMO, recepción autorizada y aprobación de privacidad. Mientras falte alguna comprobación, la API **rechaza** la creación de cotizaciones con `503`.
+- `admin_audit` guarda la acción, entidad, identificador y cambio de estado, **sin copiar** notas, correos ni teléfonos. En el panel aparece la pestaña **Auditoría**. En una expansión multiusuario deberán añadirse identidades individuales y almacenamiento inmutable.
+- `scripts/backup_sqlite.py` realiza un respaldo consistente con el mecanismo de backup de SQLite y verifica una restauración en memoria con `PRAGMA integrity_check`. No guarda claves en el backup; **el archivo sí contiene datos personales** y debe cifrarse y almacenarse fuera del repositorio.
+
+### Respaldo verificado y recuperación
+
+```bash
+# Desde el directorio del proyecto, con una base existente
+python scripts/backup_sqlite.py create --db ./data/apex.db --directory ./backups
+python scripts/backup_sqlite.py verify --file ./backups/NOMBRE_DEL_RESPALDO.sqlite3
+```
+
+El script genera nombres únicos y restringe permisos Unix del directorio y archivo (700/600). **No automatiza ni prueba la restauración destructiva de la base activa**; para recuperación real se requiere parar la API, conservar copia de la base original, validar el backup elegido y ejecutar un plan supervisado. Configurar una tarea programada de respaldo solo después de elegir alojamiento persistente y almacenamiento externo cifrado.
+
+### Activación comercial (solo después de la aprobación)
+
+```env
+APP_ENV=production
+DEMO_MODE=false
+QUOTE_INTAKE_ENABLED=true
+PRIVACY_NOTICE_APPROVED=true
+PRIVACY_POLICY_URL=https://URL-APROBADA-DE-TU-NEGOCIO/politica-de-privacidad
+PRIVACY_NOTICE_VERSION=VERSION_APROBADA
+WHATSAPP_NUMBER=51XXXXXXXXX
+ADMIN_PASSWORD_HASH=HASH_PBKDF2_REAL
+SESSION_SECRET=SECRETO_LARGO_ALEATORIO
+```
+
+Todos los valores anteriores son **marcadores**, no credenciales o URLs reales. Requiere catálogo verificado y consentimiento legal del propietario. Comprueba `/api/ready`: HTTP `200` significa que el servicio pasó **estas comprobaciones de configuración**, no una auditoría legal, de infraestructura ni ciberseguridad.
+
+### Ejecución de pruebas
+
+```bash
+python -m pip install -r requirements-dev.txt
+python -m pytest -q
+node --check frontend/app.js
+node --check frontend/admin.js
+# E2E automatizada en GitHub Actions: .github/workflows/qa-store-browser.yml
+```
+
+La E2E utiliza únicamente datos ficticios contra un servidor local de prueba y guarda capturas en el artefacto de CI. Si Chromium no puede navegar por restricciones del entorno, no se declara la E2E como aprobada hasta revisar su ejecución real en Actions.

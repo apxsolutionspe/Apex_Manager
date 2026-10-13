@@ -25,12 +25,12 @@ $('#login-form').addEventListener('submit', async e=>{
   catch(err){$('#login-error').textContent=err.message;$('#login-error').hidden=false;}
   finally{button.disabled=false;button.textContent='Ingresar al panel →';}
 });
-const tabTitles={resumen:'Panel general',cotizaciones:'Cotizaciones',servicios:'Órdenes de servicio',productos:'Catálogo comercial'};
+const tabTitles={resumen:'Panel general',cotizaciones:'Cotizaciones',servicios:'Órdenes de servicio',productos:'Catálogo comercial',auditoria:'Registro de auditoría'};
 async function openTab(tab){
   document.querySelectorAll('.side-tab').forEach(button=>button.classList.toggle('selected', button.dataset.tab===tab));
   document.querySelectorAll('.admin-tab').forEach(section=>section.hidden=section.id!==`tab-${tab}`);
   $('#breadcrumb').textContent=`GESTIÓN / ${tab.toUpperCase()}`;$('#panel-heading').textContent=tabTitles[tab];
-  try {if(tab==='resumen') await loadSummary();if(tab==='cotizaciones') await loadQuotes();if(tab==='servicios') await loadJobs();if(tab==='productos') await loadProducts();}
+  try {if(tab==='resumen') await loadSummary();if(tab==='cotizaciones') await loadQuotes();if(tab==='servicios') await loadJobs();if(tab==='productos') await loadProducts();if(tab==='auditoria') await loadAudit();}
   catch(err){notifyError(err);}
 }
 document.querySelectorAll('.side-tab').forEach(button=>button.addEventListener('click',()=>openTab(button.dataset.tab)));
@@ -53,3 +53,9 @@ $('#open-new-product').addEventListener('click',()=>showProduct(null));
 $('#cancel-product').addEventListener('click',()=>{$('#product-form-wrap').hidden=true;$('#product-form').reset();});
 $('#product-table').addEventListener('click',e=>{const b=e.target.closest('[data-edit]');if(!b)return;const p=products.find(p=>p.id===Number(b.dataset.edit));if(p)showProduct(p);});
 $('#product-form').addEventListener('submit',async e=>{e.preventDefault();const f=e.currentTarget;const v=Object.fromEntries(new FormData(f));const id=Number(v.id);const input={sku:v.sku,name:v.name,category:v.category,description:v.description,kind:v.kind,emoji:v.emoji||'◈',featured:f.elements.featured.checked,active:f.elements.active.checked,price_cents:v.price===''?null:Math.round(Number(v.price)*100),stock:v.stock===''?null:Number(v.stock)};try{await request(id?`/api/admin/products/${id}`:'/api/admin/products',{method:id?'PUT':'POST',body:JSON.stringify(input)});toast(id?'Artículo actualizado.':'Artículo agregado.');$('#product-form-wrap').hidden=true;f.reset();await loadProducts();}catch(err){notifyError(err);}});
+
+async function loadAudit(){
+  const rows=await request('/api/admin/audit?limit=100');
+  $('#audit-table').innerHTML=rows.length?`<table><thead><tr><th>Fecha</th><th>Acción</th><th>Entidad</th><th>Detalle técnico</th></tr></thead><tbody>${rows.map(r=>`<tr><td>${esc(fmt(r.created_at))}</td><td>${esc(r.action)}</td><td>${esc(r.entity)} #${Number(r.entity_id)}</td><td>${esc(JSON.stringify(r.details||{}))}</td></tr>`).join('')}</tbody></table>`:'<div class="empty-state">Sin movimientos administrativos registrados.</div>';
+}
+$('#refresh-audit').addEventListener('click',()=>openTab('auditoria'));

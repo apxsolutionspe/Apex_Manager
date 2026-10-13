@@ -15,15 +15,16 @@ from typing import Literal
 from urllib.parse import quote as urlquote
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Request, status
-from fastapi.responses import FileResponse, JSONResponse
+from fastapi.responses import FileResponse, JSONResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
-from .database import as_dict, connect, initialize, transaction
+from .database import as_dict, audit_action, connect, initialize, transaction
 from .security import issue_token, verify_password, verify_token
 
 FRONTEND = Path(__file__).resolve().parent.parent / 'frontend'
 ROOT = Path(__file__).resolve().parent.parent
+PRIVACY_NOTICE_VERSION = '2026-10-draft-1'
 
 
 @dataclass
@@ -33,6 +34,11 @@ class Settings:
     session_secret: str = os.getenv('SESSION_SECRET', '')
     whatsapp_number: str = os.getenv('WHATSAPP_NUMBER', '')
     demo_mode: bool = os.getenv('DEMO_MODE', 'true').lower() == 'true'
+    environment: str = os.getenv('APP_ENV', 'development')
+    privacy_approved: bool = os.getenv('PRIVACY_NOTICE_APPROVED', 'false').lower() == 'true'
+    privacy_policy_url: str = os.getenv('PRIVACY_POLICY_URL', '')
+    privacy_notice_version: str = os.getenv('PRIVACY_NOTICE_VERSION', PRIVACY_NOTICE_VERSION)
+    quote_intake_enabled: bool = os.getenv('QUOTE_INTAKE_ENABLED', 'false').lower() == 'true'
 
 
 class CartItem(BaseModel):
@@ -48,6 +54,7 @@ class QuoteIn(BaseModel):
     email: str = Field(default='', max_length=160)
     notes: str = Field(default='', max_length=1000)
     items: list[CartItem] = Field(min_length=1, max_length=30)
+    consent: Literal[True]  # No aceptar silenciosamente ni omitir la autorización.
 
     @field_validator('customer_name', 'phone', 'email', 'notes')
     @classmethod
@@ -130,7 +137,7 @@ def new_code(prefix: str) -> str:
 def create_app(settings: Settings | None = None) -> FastAPI:
     settings = settings or Settings()
     initialize(settings.db_path, seed_demo=settings.demo_mode)
-    app = FastAPI(title='APEX_PRIME_X API', version='0.2.0', docs_url='/api/docs', redoc_url=None)
+    app = FastAPI(title='APEX_PRIME_X API', version='0.3.0', docs_url='/api/docs', redoc_url=None)
     app.state.settings = settings
     # Límite sencillo en memoria por proceso. En producción distribuir con Redis/WAF.
     app.state.attempts = defaultdict(list)
@@ -164,18 +171,43 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         if not token or not verify_token(token, settings.session_secret):
             raise HTTPException(401, 'Se requiere una sesión de administrador válida', headers={'WWW-Authenticate': 'Bearer'})
 
+    def readiness_checks():
+        number = re.sub(r'\D', '', settings.whatsapp_number)
+        with connect(settings.db_path) as db:
+            real_products = db.execute("SELECT count(*) FROM products WHERE active=1 AND sku NOT LIKE 'DEMO-%'").fetchone()[0]
+        return {
+            'admin_credentials': bool(settings.admin_hash and len(settings.session_secret) >= 32),
+            'demo_disabled': not settings.demo_mode,
+            'business_catalog': real_products > 0,
+            'whatsapp_configured': bool(8 <= len(number) <= 15),
+            'privacy_notice_approved': (settings.privacy_approved and
+                settings.privacy_policy_url.startswith('https://') and
+                len(settings.privacy_notice_version.strip()) >= 3 and
+                'draft' not in settings.privacy_notice_version.lower()),
+            'quote_intake_enabled': settings.quote_intake_enabled,
+        }
+
     @app.get('/api/health')
     def health():
-        return {'status': 'ok', 'service': 'APEX_PRIME_X', 'version': '0.2.0'}
+        return {'status': 'ok', 'service': 'APEX_PRIME_X', 'version': '0.3.0'}
+
+    @app.get('/api/ready')
+    def ready():
+        checks = readiness_checks()
+        readiness = all(checks.values())
+        return JSONResponse(status_code=200 if readiness else 503, content={'ready': readiness, 'checks': checks})
 
     @app.get('/api/config')
     def config():
         number = re.sub(r'\D', '', settings.whatsapp_number)
+        active_intake = settings.quote_intake_enabled and (settings.environment != 'production' or all(readiness_checks().values()))
         return {'company': 'APEX_PRIME_X', 'currency': 'PEN', 'whatsapp_enabled': bool(8 <= len(number) <= 15),
-                'demo_mode': settings.demo_mode}
+                'demo_mode': settings.demo_mode, 'quote_intake_enabled': active_intake}
 
     @app.get('/api/products')
     def products(category: str | None = None, kind: str | None = None):
+        if settings.environment == 'production' and settings.demo_mode:
+            return []  # Nunca ofrecer artículos DEMO con un despliegue marcado como producción.
         sql = 'SELECT * FROM products WHERE active=1'
         params = []
         if category:
@@ -190,6 +222,10 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     @app.post('/api/quotes', status_code=201)
     def create_quote(payload: QuoteIn, request: Request):
+        if not settings.quote_intake_enabled:
+            raise HTTPException(503, 'Recepción de solicitudes deshabilitada hasta autorizar su puesta en servicio')
+        if settings.environment == 'production' and not all(readiness_checks().values()):
+            raise HTTPException(503, 'Tienda en preparación: no se reciben cotizaciones todavía')
         throttle(request, 'quote', 12, 3600)
         counts = defaultdict(int)
         for item in payload.items:
@@ -217,10 +253,10 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             total = sum(prices) if all(value is not None for value in prices) else None
             code = new_code('COT')
             try:
-                db.execute('''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents)
-                           VALUES (?,?,?,?,?,?,?)''',
+                db.execute('''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents,consent_at,privacy_notice_version)
+                           VALUES (?,?,?,?,?,?,?,datetime('now'),?)''',
                            (code, payload.customer_name, payload.phone, payload.email, payload.notes,
-                            json.dumps(records, ensure_ascii=False), total))
+                            json.dumps(records, ensure_ascii=False), total, settings.privacy_notice_version))
             except sqlite3.IntegrityError:
                 raise HTTPException(503, 'Intenta nuevamente')
         lines = [f'Hola, APEX_PRIME_X. Solicito la cotización {code}:']
@@ -294,6 +330,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             except sqlite3.IntegrityError:
                 raise HTTPException(409, 'El SKU ya está registrado')
             row = db.execute('SELECT * FROM products WHERE id=?', (cursor.lastrowid,)).fetchone()
+            audit_action(db, 'create', 'product', row['id'], {'sku': payload.sku})
         return as_dict(row)
 
     @app.put('/api/admin/products/{product_id}', dependencies=[Depends(admin_auth)])
@@ -309,6 +346,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             except sqlite3.IntegrityError:
                 raise HTTPException(409, 'El SKU ya está registrado')
             row = db.execute('SELECT * FROM products WHERE id=?', (product_id,)).fetchone()
+            audit_action(db, 'update', 'product', product_id, {'sku': payload.sku})
         return as_dict(row)
 
     @app.get('/api/admin/quotes', dependencies=[Depends(admin_auth)])
@@ -322,10 +360,11 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @app.patch('/api/admin/quotes/{quote_id}/status', dependencies=[Depends(admin_auth)])
     def update_quote_status(quote_id: int, payload: QuoteStatusIn):
         with transaction(settings.db_path) as db:
-            row = db.execute('SELECT id FROM quotes WHERE id=?', (quote_id,)).fetchone()
+            row = db.execute('SELECT id,status FROM quotes WHERE id=?', (quote_id,)).fetchone()
             if not row:
                 raise HTTPException(404, 'Cotización no encontrada')
             db.execute("UPDATE quotes SET status=?,updated_at=datetime('now') WHERE id=?", (payload.status, quote_id))
+            audit_action(db, 'status_change', 'quote', quote_id, {'from': row['status'], 'to': payload.status})
         return {'ok': True, 'id': quote_id, 'status': payload.status}
 
     @app.get('/api/admin/jobs', dependencies=[Depends(admin_auth)])
@@ -343,6 +382,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             (code,quote_id,title,customer_name,contact,notes) VALUES (?,?,?,?,?,?)''',
             (code, payload.quote_id, payload.title.strip(), payload.customer_name.strip(), payload.contact.strip(), payload.notes.strip()))
             row = db.execute('SELECT * FROM service_jobs WHERE id=?', (cursor.lastrowid,)).fetchone()
+            audit_action(db, 'create', 'service_job', row['id'])
         return as_dict(row)
 
     @app.patch('/api/admin/jobs/{job_id}', dependencies=[Depends(admin_auth)])
@@ -354,7 +394,26 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             db.execute("UPDATE service_jobs SET status=?,notes=?,updated_at=datetime('now') WHERE id=?",
                        (payload.status, payload.notes if payload.notes is not None else old['notes'], job_id))
             row = db.execute('SELECT * FROM service_jobs WHERE id=?', (job_id,)).fetchone()
+            audit_action(db, 'status_change', 'service_job', job_id, {'from': old['status'], 'to': payload.status})
         return as_dict(row)
+
+    @app.get('/api/admin/audit', dependencies=[Depends(admin_auth)])
+    def audit(limit: int = 50):
+        if not 1 <= limit <= 200:
+            raise HTTPException(422, 'Límite permitido: 1 a 200')
+        with connect(settings.db_path) as db:
+            rows = [as_dict(row) for row in db.execute(
+                'SELECT * FROM admin_audit ORDER BY id DESC LIMIT ?', (limit,)).fetchall()]
+        for row in rows:
+            row['details'] = json.loads(row.pop('details_json'))
+        return rows
+
+    @app.get('/privacidad')
+    def privacy_notice():
+        if (settings.environment == 'production' and settings.privacy_approved and
+                settings.privacy_policy_url.startswith('https://')):
+            return RedirectResponse(settings.privacy_policy_url, status_code=302)
+        return FileResponse(FRONTEND / 'privacy.html')
 
     # SPA y archivos estáticos sin CDN
     @app.get('/')

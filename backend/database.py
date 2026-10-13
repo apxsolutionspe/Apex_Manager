@@ -48,6 +48,16 @@ CREATE TABLE IF NOT EXISTS service_jobs (
 CREATE INDEX IF NOT EXISTS idx_quotes_status_created ON quotes(status, created_at);
 CREATE INDEX IF NOT EXISTS idx_jobs_status_created ON service_jobs(status, created_at);
 CREATE INDEX IF NOT EXISTS idx_products_category ON products(active, category);
+CREATE TABLE IF NOT EXISTS admin_audit (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ actor TEXT NOT NULL DEFAULT 'admin',
+ action TEXT NOT NULL,
+ entity TEXT NOT NULL,
+ entity_id INTEGER NOT NULL,
+ details_json TEXT NOT NULL DEFAULT '{}',
+ created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+CREATE INDEX IF NOT EXISTS idx_admin_audit_created ON admin_audit(id DESC);
 """
 
 DEMO_ITEMS = [
@@ -74,6 +84,12 @@ def connect(path: str):
 def initialize(path: str, seed_demo: bool = True):
     with connect(path) as db:
         db.executescript(SCHEMA)
+        # Compatibilidad con bases v0.2 sin perder cotizaciones existentes.
+        columns = {row['name'] for row in db.execute('PRAGMA table_info(quotes)')}
+        if 'consent_at' not in columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN consent_at TEXT')
+        if 'privacy_notice_version' not in columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN privacy_notice_version TEXT')
         count = db.execute("SELECT count(*) FROM products").fetchone()[0]
         if count == 0 and seed_demo:
             db.executemany("""INSERT INTO products
@@ -91,3 +107,9 @@ def transaction(path: str):
 
 def as_dict(row):
     return dict(row) if row else None
+
+
+def audit_action(db, action: str, entity: str, entity_id: int, details: dict | None = None):
+    """Registro append-only sin copiar datos sensibles del cliente."""
+    db.execute('INSERT INTO admin_audit (action,entity,entity_id,details_json) VALUES (?,?,?,?)',
+               (action, entity, entity_id, json.dumps(details or {}, ensure_ascii=False)))

@@ -1,0 +1,56 @@
+name: QA tienda comercial · Chromium
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'backend/**'
+      - 'frontend/**'
+      - 'tests/browser_store.py'
+      - '.github/workflows/qa-store-browser.yml'
+  pull_request:
+    paths:
+      - 'backend/**'
+      - 'frontend/**'
+      - 'tests/browser_store.py'
+      - '.github/workflows/qa-store-browser.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Dependencias de desarrollo y navegador
+        run: |
+          python -m pip install -r requirements-dev.txt playwright
+          python -m playwright install chromium --with-deps
+      - name: Servir tienda de prueba aislada
+        env:
+          DB_PATH: ${{ runner.temp }}/apex-qa.sqlite3
+          DEMO_MODE: 'true'
+          QUOTE_INTAKE_ENABLED: 'true'
+          APP_ENV: development
+        run: |
+          python -m uvicorn backend.main:app --host 127.0.0.1 --port 8765 > /tmp/apex-qa.log 2>&1 &
+          for i in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:8765/api/health > /dev/null; then break; fi
+            sleep 1
+          done
+          curl --fail http://127.0.0.1:8765/api/health
+      - name: Flujo móvil y panel de acceso
+        run: python tests/browser_store.py
+      - name: Evidencia visual de QA
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apex-commerce-browser-qa
+          path: qa-artifacts/*.png
+          if-no-files-found: ignore
+          retention-days: 7

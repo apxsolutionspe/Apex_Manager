@@ -25,3 +25,13 @@
 - [ ] Deshabilitar DEMO_MODE, cargar catálogo real y probar cotizaciones con datos sintéticos.
 - [ ] Establecer monitoreo y plan de recuperación.
 - [ ] Obtener autorización antes de exponer formularios a clientes reales.
+
+## V0.3 — control de aceptación adicional
+
+- [x] Registros administrativos con auditoría básica sin repetir datos personales.
+- [x] Rechazo por defecto de la recepción de cotizaciones: `QUOTE_INTAKE_ENABLED=false`.
+- [x] Respaldo SQLite y verificación de restauración en memoria implementados y probados con datos sintéticos.
+- [x] Control de versión/fecha del consentimiento para solicitudes nuevas.
+- [ ] Política legal aprobada y URL HTTPS oficial antes de activar `PRIVACY_NOTICE_APPROVED=true`.
+- [ ] Ensayo de recuperación real sobre infraestructura del futuro servidor (diferente a verificación en memoria).
+- [ ] Habilitación final de la captura de clientes aprobada, tras resultados E2E y QA manual.
