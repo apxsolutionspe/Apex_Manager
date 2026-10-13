@@ -20,7 +20,7 @@ const META={
 const NAV=[['dashboard','◫','Panel general'],['explore','◎','Exploración'],['opportunities','⌕','Oportunidades'],['approval','✓','Aprobaciones'],['vault','▣','Mi bóveda'],['agents','⬡','Agentes'],['sources','◉','Fuentes'],['audit','≡','Auditoría'],['settings','⚙','Configuración']];
 const state={page:'dashboard',client:null,user:null,authAvailable:false,booted:false,busy:false,auto:false,killed:false,
  nextAt:0,lastRun:0,abort:null,opps:[],runs:[],vault:[],decisions:[],logs:[],settings:{...DEFAULTS},
- filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,feedError:''};
+ filter:'',type:'todos',status:'todos',selected:'',modal:'',lastError:'',latestSteps:[],lastSources:[],activeScan:0,feed:null,feedError:'',syncedFeedKey:null,feedSyncBusy:false};
 const root=document.getElementById('root');
 const h=x=>safeHtml(x);
 const date=x=>x?new Date(x).toLocaleString('es-PE',{dateStyle:'short',timeStyle:'short'}):'—';
@@ -229,6 +229,43 @@ async function loadPrivate(){
  state.latestSteps=state.runs[0]?.steps||[];
  state.lastSources=state.runs[0]?.source_results||[];
  render();
+ if(state.feed&&!state.feedSyncBusy)void syncScheduledFeed();
+}
+async function syncScheduledFeed(){
+ if(!activeUser()||!state.feed||state.feedSyncBusy||!Array.isArray(state.feed.items))return;
+ const uid=state.user.id;
+ const key=uid+':'+(state.feed.generated_at||'unknown');
+ if(state.syncedFeedKey===key)return;
+ state.feedSyncBusy=true;
+ try{
+   const rows=state.feed.items.slice(0,40).filter(x=>{
+     try{return ['github','hackernews'].includes(x.source)&&['https:','http:'].includes(new URL(x.url).protocol)&&String(x.title||'').length>0;}catch{return false;}
+   }).map(x=>({
+     user_id:uid,run_id:null,source:x.source,external_id:String(x.external_id||'').slice(0,150),
+     title:String(x.title||'').slice(0,250),url:x.url,source_host:new URL(x.url).hostname,
+     dedupe_key:dedupeKey(x.url),evidence:String(x.evidence||'').slice(0,550),
+     opp_type:classify({title:x.title,evidence:x.evidence||''}),
+     source_created_at:x.source_created_at||null,
+     score:Math.max(0,Math.min(100,Number(x.score)||0)),
+     score_breakdown:{origen:'radar_publico_programado'},
+     link_check:x.link_check==='issue_abierto_segun_api'?'confirmado_api':'formato_valido',
+     eligibility_notes:'Señal pública; elegibilidad, titularidad y vigencia NO verificadas.',
+     economic_notes:'Valor, recompensa y rentabilidad no comprobados.',
+     status:'pendiente'
+   }));
+   if(rows.length===0){state.syncedFeedKey=key;return;}
+   const {data,error}=await state.client.from('opportunities').upsert(rows,{onConflict:'user_id,dedupe_key',ignoreDuplicates:true}).select('id');
+   if(error)throw error;
+   state.syncedFeedKey=key;
+   const n=data?.length||0;
+   if(n>0){
+     await auditEvent('radar_importado',{cantidad:n,publicado_en:state.feed.generated_at,tipo:'señales_pendientes_no_activos'});
+     toast(n+' señales públicas agregadas a tu cuenta como PENDIENTES de aprobación.','ok');
+     const {data:opps}=await state.client.from('opportunities').select('*').order('discovered_at',{ascending:false}).limit(700);
+     if(opps)state.opps=opps;
+   }
+ }catch(err){state.feedError='Importación privada pendiente: '+String(err?.message||err).slice(0,130);console.warn('APEX: No se pudo importar el radar privado',err);}
+ finally{state.feedSyncBusy=false;render();}
 }
 async function init(){
  render();
@@ -257,6 +294,7 @@ async function loadPublicFeed(){
    const v=await r.json();
    if(v.schema!=='apex-public-research-v1'||!Array.isArray(v.items))throw Error('Formato de radar no válido');
    state.feed=v;state.feedError='';
+   if(activeUser())void syncScheduledFeed();
  }catch(e){state.feedError='El radar aún no está disponible ('+(e.message||'error de red')+').';}
  render();
 }
