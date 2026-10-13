@@ -43,13 +43,14 @@ function fmt(v){return Number(v||0).toLocaleString('es-PE')}
 function sectionHeader(text,tip){return '<div class="spread" style="align-items:flex-start;flex-wrap:wrap;margin-bottom:14px"><div><h2 style="margin:0">'+text+'</h2><p class="subtitle">'+tip+'</p></div></div>'}
 function formAuth(){
  if(!state.modal)return '';
+ if(state.modal==='set-password')return '<div class="modal-backdrop"><div class="modal" role="dialog" aria-modal="true"><h2>Crear una nueva contraseña</h2><p class="muted sm">Después de abrir el enlace verificado, establece tu contraseña privada. No la compartas por chat.</p><form data-form="set-password"><div class="field"><label>Nueva contraseña (12 caracteres como mínimo)</label><input name="password" type="password" minlength="12" autocomplete="new-password" required></div><button type="submit" class="btn primary">Guardar contraseña segura</button></form></div></div>';
  const signing=state.modal==='signup';
  return '<div class="modal-backdrop"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="login-title"><div class="spread"><h2 id="login-title">'+(signing?'Crear cuenta personal':'Acceder a mi cuenta')+'</h2>'+btn('✕','close-modal','ghost')+'</div><p class="subtitle">La cuenta privada utiliza autenticación y políticas de aislamiento de registros (RLS) en Supabase. No ingreses claves financieras.</p>'+
  '<form data-form="auth"><div class="field"><label>Correo electrónico</label><input type="email" name="email" autocomplete="email" required></div>'+
  '<div class="field"><label>Contraseña (mínimo 8 caracteres)</label><input name="password" type="password" minlength="8" autocomplete="'+(signing?'new-password':'current-password')+'" required></div>'+
  '<button class="btn primary" type="submit">'+(signing?'Crear cuenta':'Iniciar sesión')+'</button></form>'+
  '<div class="auth-toggle" style="margin-top:14px">'+btn(signing?'Ya tengo cuenta':'Registrarme',signing?'login':'signup')+'</div>'+
- '<div style="margin-top:18px;padding-top:14px;border-top:1px solid #385065"><h3>Acceso seguro sin contraseña compartida</h3><p class="tiny muted">Recibe un enlace de ingreso en tu correo y confirma la propiedad de la cuenta.</p><form data-form="email-link"><div class="field"><label>Correo electrónico</label><input type="email" name="email" autocomplete="email" required></div><button type="submit" class="btn primary">✉ Enviar enlace de acceso</button></form><p class="tiny muted" style="margin-top:12px">Si ya registraste una contraseña y tu correo aún no está confirmado:</p><form data-form="resend"><div class="field"><label>Correo de la cuenta pendiente</label><input type="email" name="email" required></div><button type="submit" class="btn">Reenviar confirmación</button></form></div></div></div>'
+ '<div style="margin-top:18px;padding-top:14px;border-top:1px solid #385065"><h3>Acceso seguro sin contraseña compartida</h3><p class="tiny muted">Recibe un enlace de ingreso en tu correo y confirma la propiedad de la cuenta.</p><form data-form="email-link"><div class="field"><label>Correo electrónico</label><input type="email" name="email" autocomplete="email" required></div><button type="submit" class="btn primary">✉ Enviar enlace de acceso</button></form><p class="tiny muted" style="margin-top:12px">Si ya registraste una contraseña y tu correo aún no está confirmado:</p><form data-form="resend"><div class="field"><label>Correo de la cuenta pendiente</label><input type="email" name="email" required></div><button type="submit" class="btn">Reenviar confirmación</button></form><p class="tiny muted" style="margin-top:14px">¿Olvidaste tu contraseña?</p><form data-form="password-reset"><div class="field"><label>Correo de la cuenta</label><input name="email" type="email" required></div><button class="btn ghost" type="submit">Recuperar contraseña</button></form></div></div></div>'
 }
 function render(){
  const [heading,sub]=META[state.page]||META.dashboard;
@@ -238,7 +239,8 @@ async function init(){
    state.authAvailable=true;
    const {data:{user},error}=await state.client.auth.getUser();
    if(!error&&user){state.user=user;await loadPrivate();}
-   state.client.auth.onAuthStateChange((_,session)=>{
+   state.client.auth.onAuthStateChange((event,session)=>{
+     if(event==='PASSWORD_RECOVERY'){state.modal='set-password';render();return;}
      const previous=state.user?.id;
      state.user=session?.user||null;
      if(state.user&&previous!==state.user.id) setTimeout(()=>{void loadPrivate().catch(e=>toast('Error de sincronización: '+e.message,'error'));},0);
@@ -268,6 +270,22 @@ async function emailAuth(form,resend=false){
   :await state.client.auth.signInWithOtp({email,options:{emailRedirectTo:url,shouldCreateUser:true}});
  if(result.error)return toast('El servicio de correo respondió: '+result.error.message,'error');
  state.modal='';toast('Solicitud enviada. Revisa el correo y abre el enlace de confirmación; no compartas códigos.','ok');render();
+}
+async function passwordReset(form){
+ if(!state.client)return toast('Autenticación temporalmente no disponible.','error');
+ const email=String(new FormData(form).get('email')||'').trim();
+ const redirectTo=window.location.origin+window.location.pathname;
+ const {error}=await state.client.auth.resetPasswordForEmail(email,{redirectTo});
+ if(error)return toast('Recuperación: '+error.message,'error');
+ state.modal='';toast('Solicitud enviada. Revisa tu correo para completar la recuperación.','ok');render();
+}
+async function setPassword(form){
+ if(!state.client)return;
+ const password=String(new FormData(form).get('password')||'');
+ if(password.length<12)return toast('Se requieren 12 caracteres como mínimo.','error');
+ const {error}=await state.client.auth.updateUser({password});
+ if(error)return toast('Cambio de contraseña: '+error.message,'error');
+ state.modal='';toast('Contraseña privada guardada de forma segura.','ok');render();
 }
 async function authSubmit(form){
  if(!state.client){toast('Servicio de autenticación temporalmente no disponible.','error');return;}
@@ -473,6 +491,8 @@ document.addEventListener('submit',async e=>{
  if(form.dataset.form==='auth')await authSubmit(form);
  if(form.dataset.form==='email-link')await emailAuth(form,false);
  if(form.dataset.form==='resend')await emailAuth(form,true);
+ if(form.dataset.form==='password-reset')await passwordReset(form);
+ if(form.dataset.form==='set-password')await setPassword(form);
  if(form.dataset.form==='settings')await saveSettings(form);
  if(form.dataset.form==='filter'){const d=new FormData(form);state.filter=String(d.get('search')||'');state.type=String(d.get('type')||'todos');state.status=String(d.get('status')||'todos');render();}
 });
