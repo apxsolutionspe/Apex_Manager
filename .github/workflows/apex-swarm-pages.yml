@@ -38,6 +38,13 @@ jobs:
           node --check app.js
           node --check core.js
           npm test
+      - name: Empaquetar actualización local verificable
+        run: |
+          python3 -m py_compile apex-global-intelligence-swarm/local-updates/updater.py
+          python3 -m py_compile apex-global-intelligence-swarm/local-updates/build-release.py
+          python3 apex-global-intelligence-swarm/local-updates/build-release.py
+          test -s apex-global-intelligence-swarm/local-updates/update.json
+          test -s apex-global-intelligence-swarm/local-updates/APEX_Swarm_patch_v0.3.0.zip
       - name: Empaquetar solo frontend público
         run: |
           mkdir -p site
@@ -82,6 +89,13 @@ jobs:
           node --check app.js
           node --check core.js
           npm test
+      - name: Empaquetar actualización local verificable
+        run: |
+          python3 -m py_compile apex-global-intelligence-swarm/local-updates/updater.py
+          python3 -m py_compile apex-global-intelligence-swarm/local-updates/build-release.py
+          python3 apex-global-intelligence-swarm/local-updates/build-release.py
+          test -s apex-global-intelligence-swarm/local-updates/update.json
+          test -s apex-global-intelligence-swarm/local-updates/APEX_Swarm_patch_v0.3.0.zip
       - name: Actualizar radar público en segundo plano
         run: node apex-global-intelligence-swarm/scripts/refresh-feed.mjs
       - name: Conservar historial público de oportunidades en GitHub
