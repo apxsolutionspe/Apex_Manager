@@ -1,4 +1,4 @@
-# Versiones verificadas en este entorno (ajustar tras auditoría de seguridad)
+# Dependencias fijadas; validar continuamente con CI y pip-audit
 fastapi==0.143.0
 starlette==1.7.0
 uvicorn==0.48.0
