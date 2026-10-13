@@ -95,7 +95,9 @@
         <div class="form-group"><label for="customer-email">Correo electrónico (opcional)</label><input id="customer-email" name="email" type="email" maxlength="160" autocomplete="email" placeholder="correo@ejemplo.com"></div>
         <div class="form-group"><label for="customer-notes">Cuéntanos más (opcional)</label><textarea id="customer-notes" name="notes" rows="3" maxlength="1000" placeholder="Detalles de tu proyecto o necesidad..."></textarea></div>
         <div id="quote-error" class="form-error" role="alert" hidden></div>
-        <button id="send-quote" type="submit" class="btn btn-primary btn-full">Registrar solicitud <span>→</span></button><p class="privacy-note">Tu información se usará únicamente para atender esta solicitud. No procesamos pagos en este sitio.</p>
+        <label class="privacy-note" id="privacy-consent" hidden><input id="privacy-accepted" type="checkbox"> He leído el <a id="privacy-url" rel="noopener noreferrer" target="_blank">aviso de privacidad</a> y acepto el tratamiento de mis datos para gestionar mi solicitud.</label>
+        <p class="privacy-note" id="privacy-unavailable" hidden>Las solicitudes están deshabilitadas hasta aprobar el aviso de privacidad del negocio.</p>
+        <button id="send-quote" type="submit" class="btn btn-primary btn-full">Registrar solicitud <span>→</span></button><p class="privacy-note">No procesamos pagos en este sitio. No ingreses información bancaria.</p>
       </form>
       <div id="quote-success" class="success-box" hidden><div class="success-check">✓</div><h3>¡Solicitud registrada!</h3><p id="quote-code"></p><p>El registro no equivale a una venta confirmada.</p><a id="whatsapp-link" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-whatsapp" hidden>Abrir WhatsApp ↗</a><button id="copy-quote" type="button" class="btn btn-outline">Copiar solicitud</button><button id="new-quote" type="button" class="text-arrow secondary-action">Crear otra solicitud</button></div>
     </div>

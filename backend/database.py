@@ -45,6 +45,25 @@ CREATE TABLE IF NOT EXISTS service_jobs (
  created_at TEXT NOT NULL DEFAULT (datetime('now')),
  updated_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
+CREATE TABLE IF NOT EXISTS team_members (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ name TEXT NOT NULL,
+ username TEXT NOT NULL UNIQUE,
+ role TEXT NOT NULL CHECK(role IN ('ventas', 'tecnico')),
+ password_hash TEXT NOT NULL,
+ active INTEGER NOT NULL DEFAULT 1 CHECK(active IN (0,1)),
+ created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+CREATE TABLE IF NOT EXISTS audit_events (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ actor TEXT NOT NULL,
+ event TEXT NOT NULL,
+ entity_type TEXT NOT NULL,
+ entity_id INTEGER,
+ created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+CREATE INDEX IF NOT EXISTS idx_audit_events_created ON audit_events(id DESC);
+CREATE INDEX IF NOT EXISTS idx_team_members_active_role ON team_members(active, role);
 CREATE INDEX IF NOT EXISTS idx_quotes_status_created ON quotes(status, created_at);
 CREATE INDEX IF NOT EXISTS idx_jobs_status_created ON service_jobs(status, created_at);
 CREATE INDEX IF NOT EXISTS idx_products_category ON products(active, category);
@@ -74,6 +93,16 @@ def connect(path: str):
 def initialize(path: str, seed_demo: bool = True):
     with connect(path) as db:
         db.executescript(SCHEMA)
+        # Migración idempotente; la versión 0.2 no incluía esta columna.
+        columns = {row['name'] for row in db.execute('PRAGMA table_info(service_jobs)')}
+        if 'assigned_to' not in columns:
+            db.execute('ALTER TABLE service_jobs ADD COLUMN assigned_to INTEGER REFERENCES team_members(id) ON DELETE SET NULL')
+        db.execute('CREATE INDEX IF NOT EXISTS idx_jobs_assignee_status ON service_jobs(assigned_to, status)')
+        quote_columns = {row['name'] for row in db.execute('PRAGMA table_info(quotes)')}
+        if 'privacy_accepted_at' not in quote_columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN privacy_accepted_at TEXT')
+        if 'privacy_notice_url' not in quote_columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN privacy_notice_url TEXT')
         count = db.execute("SELECT count(*) FROM products").fetchone()[0]
         if count == 0 and seed_demo:
             db.executemany("""INSERT INTO products
@@ -91,3 +120,9 @@ def transaction(path: str):
 
 def as_dict(row):
     return dict(row) if row else None
+
+
+def log_event(db, actor: str, event: str, entity_type: str, entity_id: int | None):
+    # Evitar guardar información identificable de clientes y secretos en auditoría.
+    db.execute('INSERT INTO audit_events(actor,event,entity_type,entity_id) VALUES (?,?,?,?)',
+               (actor, event, entity_type, entity_id))

@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#0b1730"><title>APEX_PRIME_X · Mi equipo</title><link rel="stylesheet" href="/static/styles.css"><link rel="stylesheet" href="/static/team.css"><script src="/static/team.js" type="module"></script></head>
+<body class="team-body">
+<header class="team-topbar"><a class="team-brand" href="/">APEX<span>_PRIME_X</span></a><span>Portal interno de trabajo</span></header>
+<main class="team-main">
+  <section id="team-login"><div class="team-card"><span class="kicker">ACCESO PERSONAL</span><h1>Mi espacio de trabajo</h1><p>Ingresa con el usuario y la clave asignados por administración.</p><form id="team-login-form" class="team-form"><label>Usuario<input name="username" autocomplete="username" minlength="3" maxlength="40" required></label><label>Contraseña<input name="password" type="password" autocomplete="current-password" required></label><button type="submit" class="btn btn-primary">Ingresar a mis tareas →</button><p id="team-login-error" role="alert" class="form-error" hidden></p></form></div></section>
+  <section id="team-workspace" hidden><div class="team-heading"><div><span class="kicker">OPERACIONES / EQUIPO</span><h1 id="team-welcome">Mis tareas</h1><p id="team-role"></p></div><div class="team-controls"><button class="btn btn-outline small" id="team-refresh" type="button">Actualizar</button><button class="btn btn-outline small" id="team-logout" type="button">Cerrar sesión</button></div></div><div id="team-alert" class="form-error" role="alert" hidden></div><div id="team-work-list" class="team-work-list" aria-live="polite"></div><p class="team-footnote">Las actualizaciones se registran en auditoría. Nunca introduzcas contraseñas o datos bancarios en las notas de trabajo.</p></section>
+</main>
+</body>
+</html>

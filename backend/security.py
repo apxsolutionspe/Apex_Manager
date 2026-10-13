@@ -40,20 +40,29 @@ def _decode(raw: str) -> bytes:
     return base64.urlsafe_b64decode(raw + "=" * (-len(raw) % 4))
 
 
-def issue_token(secret: str, ttl: int = 8 * 3600) -> str:
-    payload = {"sub": "admin", "exp": int(time.time()) + ttl, "nonce": secrets.token_hex(8)}
+def issue_token(secret: str, ttl: int = 8 * 3600, subject: str = "admin") -> str:
+    payload = {"sub": subject, "exp": int(time.time()) + ttl, "nonce": secrets.token_hex(8)}
     body = _encode(json.dumps(payload, separators=(",", ":")).encode())
     signature = _encode(hmac.new(secret.encode(), body.encode(), hashlib.sha256).digest())
     return f"{body}.{signature}"
 
 
-def verify_token(token: str, secret: str) -> bool:
+def token_claims(token: str, secret: str) -> dict | None:
     try:
         body, signature = token.split(".")
         expected = _encode(hmac.new(secret.encode(), body.encode(), hashlib.sha256).digest())
         if not hmac.compare_digest(signature, expected):
-            return False
+            return None
         payload = json.loads(_decode(body))
-        return payload.get("sub") == "admin" and isinstance(payload.get("exp"), int) and payload["exp"] > int(time.time())
+        if not isinstance(payload, dict) or not isinstance(payload.get("sub"), str):
+            return None
+        if not isinstance(payload.get("exp"), int) or payload["exp"] <= int(time.time()):
+            return None
+        return payload
     except (ValueError, TypeError, KeyError, UnicodeDecodeError):
-        return False
+        return None
+
+
+def verify_token(token: str, secret: str) -> bool:
+    claims = token_claims(token, secret)
+    return bool(claims and claims['sub'] == 'admin')

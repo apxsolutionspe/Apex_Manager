@@ -1,0 +1,8 @@
+[Unit]
+Description=Respaldo diario APEX_PRIME_X (si se habilita en servidor autorizado)
+[Timer]
+OnCalendar=*-*-* 03:15:00
+Persistent=true
+Unit=apex-backup.service
+[Install]
+WantedBy=timers.target
