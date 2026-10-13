@@ -69,7 +69,8 @@ $('#quote-form').addEventListener('submit', async e => {
   const error = $('#quote-error'); error.hidden = true;
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
-  const data = Object.fromEntries(new FormData(e.currentTarget));
+  const form = e.currentTarget;
+  const data = Object.fromEntries(new FormData(form));
   if (!$('#privacy-consent').hidden && !$('#privacy-accepted').checked) {error.textContent='Debes leer y aceptar el aviso de privacidad antes de enviar.';error.hidden=false;return;}
   const btn = $('#send-quote'); btn.disabled = true; btn.textContent = 'Registrando...';
   try {
@@ -77,7 +78,7 @@ $('#quote-form').addEventListener('submit', async e => {
     $('#quote-code').textContent = `Código de seguimiento: ${lastQuote.code}`;
     const link = $('#whatsapp-link'); link.hidden = !lastQuote.whatsapp_url;
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
-    cart = {}; saveCart(); e.currentTarget.reset(); renderCart(); toast('Solicitud registrada correctamente');
+    cart = {}; saveCart(); form.reset(); renderCart(); toast('Solicitud registrada correctamente');
   } catch (err) {error.textContent = err.message; error.hidden = false;}
   finally {btn.disabled = false; btn.innerHTML = 'Registrar solicitud <span>→</span>';}
 });
