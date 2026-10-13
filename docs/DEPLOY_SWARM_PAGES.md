@@ -1,40 +1,30 @@
-# Desbloqueo controlado de GitHub Pages · APEX Swarm
+# APEX Swarm · Validación y despliegue controlado
 
-**Alcance:** únicamente la interfaz estática de `apex-global-intelligence-swarm/`. **No** publica el backend FastAPI de la tienda comercial ni conecta WhatsApp, pagos o la base de datos comercial.
+**Alcance:** solo el sitio estático `apex-global-intelligence-swarm/`. La tienda APEX_PRIME_X usa FastAPI y SQLite; GitHub Pages **no** puede alojar ese backend ni su base de datos.
 
-## Diagnóstico real
+## Evolución del bloqueo (13 de octubre de 2026)
 
-El 13/10/2026 el workflow `Publicar APEX Swarm` pasó sus 7 pruebas JavaScript y falló en `actions/configure-pages@v5` con **HTTP 404 (Pages aún no configurado)**. Ningún paso de despliegue posterior se ejecutó. La causa se documentó en la incidencia #5.
+1. El flujo de Pages fallaba originalmente en `actions/configure-pages@v5` (HTTP 404). Los tests JavaScript sí pasaban.
+2. Otro commit en `main` habilitó el uso de Pages. **GitHub Actions confirmó una ejecución de despliegue exitosa**: https://github.com/apxsolutionspe/Apex_Manager/actions/runs/38430736538
+3. El PR #7 se actualizó para conservar la configuración de despliegue **ya verificada como exitosa** y añadir un job de pruebas y un artefacto de vista previa.
+4. La comprobación posterior a la fusión aún es necesaria: no basta con confiar en una ejecución histórica.
 
-## Qué automatiza el workflow corregido
+## Flujo automatizado
 
-1. Valida sintaxis y ejecuta `npm test`.
-2. Crea un artefacto descargable `apex-swarm-preview` con **solo** HTML, CSS y JavaScript públicos; retención de 7 días.
-3. Antes de desplegar, consulta la configuración Pages en modo solo lectura.
-4. Si Pages no existe (404), **no publica**, deja instrucciones en el resumen de GitHub Actions y mantiene la validación disponible.
-5. Si Pages tiene origen `workflow`, publica el artefacto validado de manera automática desde `main`. Los pull requests nunca despliegan.
-6. No crea ni solicita tokens personales, no activa Pages automáticamente y no altera la configuración administrativa del repositorio.
+- En cada pull request que modifique APEX Swarm o este workflow: pruebas JavaScript y artefacto `apex-swarm-preview` durante 7 días, **sin despliegue**.
+- En cada push a `main` que afecte a esos archivos o ejecución manual: las mismas pruebas; si pasan, se ejecuta la publicación del sitio estático mediante las acciones GitHub Pages configuradas. Los permisos elevados se conceden solo al job de despliegue.
+- El workflow **no habilita Pages por API** y no requiere token personal. Para gestionar su visibilidad: https://github.com/apxsolutionspe/Apex_Manager/settings/pages
+- Revisa las ejecuciones y sus artefactos: https://github.com/apxsolutionspe/Apex_Manager/actions/workflows/apex-swarm-pages.yml
 
-## ÚNICA operación administrativa manual para habilitar publicación
+## Criterios de aceptación
 
-**Requiere decisión y aprobación expresa del propietario, porque la interfaz pasará a ser pública.**
+- [ ] CI del pull request exitosa en Python 3.12/3.13.
+- [ ] Job de vista previa del pull request exitoso y paquete disponible.
+- [ ] Pull request fusionado sin conflictos.
+- [ ] CI de `main` exitosa con el SHA fusionado.
+- [ ] Job de Pages posterior a la fusión exitoso, y URL pública verificada mediante HTTP(S).
+- [ ] Las políticas de privacidad y controles de datos personales se revisan antes de usar datos de usuarios reales.
 
-1. Abre **https://github.com/apxsolutionspe/Apex_Manager/settings/pages** con tu sesión de GitHub.
-2. En **Build and deployment → Source**, elige **GitHub Actions**.
-3. Después de aplicar ese cambio, abre **https://github.com/apxsolutionspe/Apex_Manager/actions/workflows/apex-swarm-pages.yml** y elige **Run workflow** en la rama `main` si no hay una ejecución automática nueva.
-4. Comprueba en el workflow que los jobs **Probar**, **Revisar Pages** y **Publicar** terminen correctamente y visita la URL indicada por el despliegue. Nunca se debe declarar un despliegue exitoso solo porque `npm test` aprobó.
-5. Si es necesario revertir la exposición pública, ve a **Settings → Pages** y despublica el sitio según las opciones de GitHub.
+## Restricciones
 
-> Activar Pages **no** resuelve el alojamiento persistente de la tienda comercial: FastAPI/SQLite necesitan un servidor/servicio con persistencia, HTTPS, secretos y backups.
-
-## Verificación y limitaciones
-
-- Antes de habilitar Pages, descarga **apex-swarm-preview** desde la ejecución de Actions para inspeccionar el paquete estático; no es una URL pública.
-- Las pruebas unitarias no prueban permisos, RLS, integraciones externas ni accesibilidad en móviles. Continuar QA visual y pruebas en usuario anónimo y autenticado.
-- El proyecto APEX Swarm muestra señales públicas: no realiza custodia, transferencias ni acredita propiedad sobre activos.
-- No almacenar contraseñas, claves privadas ni datos personales de clientes en GitHub Actions artifacts.
-- No habilitar seguimiento operativo 24/7 sin un backend, políticas de uso de fuentes y controles de coste.
-
-## Fuentes oficiales
-- https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-- https://github.com/actions/configure-pages/blob/main/action.yml
+El sitio APEX Swarm no es una tienda comercial ni un sistema de custodia financiera. No guardar credenciales privadas ni datos de clientes en artefactos o repositorios. La presencia de pruebas unitarias y una publicación exitosa **no equivale a una auditoría integral de seguridad**. El servicio no ejecuta procesamiento 24/7 automáticamente cuando el navegador está cerrado.

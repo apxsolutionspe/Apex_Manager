@@ -1,4 +1,4 @@
-name: APEX Swarm · QA y publicación segura
+name: APEX Swarm · QA, vista previa y publicación
 
 on:
   push:
@@ -20,23 +20,23 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  verify:
-    name: Probar y preparar vista previa descargable
+  preview:
+    name: Pruebas y vista previa descargable
     runs-on: ubuntu-latest
     steps:
-      - name: Obtener código
+      - name: Clonar repositorio
         uses: actions/checkout@v4
-      - name: Preparar Node.js
+      - name: Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validar JavaScript y ejecutar pruebas
+      - name: Verificar sintaxis y pruebas
         working-directory: apex-global-intelligence-swarm
         run: |
           node --check app.js
           node --check core.js
           npm test
-      - name: Empaquetar únicamente archivos públicos
+      - name: Empaquetar solo frontend público
         run: |
           mkdir -p site
           cp apex-global-intelligence-swarm/index.html site/
@@ -47,7 +47,7 @@ jobs:
           test -s site/app.js
           test -s site/core.js
           test -s site/style.css
-      - name: Guardar vista previa de 7 días (no publica la web)
+      - name: Conservar vista previa durante 7 días
         uses: actions/upload-artifact@v4
         with:
           name: apex-swarm-preview
@@ -55,49 +55,10 @@ jobs:
           if-no-files-found: error
           retention-days: 7
 
-  pages-ready:
-    name: Revisar Pages sin cambiar su configuración
-    needs: verify
+  verify-and-deploy:
+    name: Desplegar únicamente desde main
+    needs: preview
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: read
-    outputs:
-      enabled: ${{ steps.probe.outputs.enabled }}
-    steps:
-      - name: Detectar configuración autorizada de GitHub Pages
-        id: probe
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          status="$(curl --silent --show-error --location \
-            --output /tmp/pages.json --write-out '%{http_code}' \
-            --header "Authorization: Bearer $GH_TOKEN" \
-            --header "Accept: application/vnd.github+json" \
-            --header "X-GitHub-Api-Version: 2022-11-28" \
-            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages")"
-          if [ "$status" = "200" ]; then
-            build_type="$(python3 -c 'import json; print(json.load(open("/tmp/pages.json")).get("build_type", ""))')"
-            if [ "$build_type" = "workflow" ]; then
-              echo "enabled=true" >> "$GITHUB_OUTPUT"
-              echo "GitHub Pages está configurado con GitHub Actions. Se habilita el despliegue del sitio estático." >> "$GITHUB_STEP_SUMMARY"
-            else
-              echo "enabled=false" >> "$GITHUB_OUTPUT"
-              echo "Pages existe, pero su origen no es GitHub Actions. Seleccionar **Settings → Pages → Source: GitHub Actions**." >> "$GITHUB_STEP_SUMMARY"
-            fi
-          elif [ "$status" = "404" ]; then
-            echo "enabled=false" >> "$GITHUB_OUTPUT"
-            echo "Pages todavía no está habilitado. Las pruebas y el artefacto sí están disponibles; ninguna web fue publicada. El propietario puede habilitarlo en **Settings → Pages → Source: GitHub Actions**." >> "$GITHUB_STEP_SUMMARY"
-          else
-            echo "No fue posible comprobar Pages (HTTP $status). Verificar los permisos de GitHub Actions y la configuración del repositorio." >> "$GITHUB_STEP_SUMMARY"
-            exit 1
-          fi
-
-  deploy:
-    name: Publicar sitio estático solo con Pages habilitado
-    needs: [verify, pages-ready]
-    if: needs.pages-ready.outputs.enabled == 'true' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -107,17 +68,24 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Descargar artefacto verificado
-        uses: actions/download-artifact@v4
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+      - name: Node.js
+        uses: actions/setup-node@v4
         with:
-          name: apex-swarm-preview
-          path: ./site
-      - name: Configurar GitHub Pages existente
+          node-version: '22'
+      - name: Verificar sintaxis y pruebas
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check app.js
+          node --check core.js
+          npm test
+      - name: Preparar GitHub Pages (habilitado por propietario)
         uses: actions/configure-pages@v5
-      - name: Preparar artefacto de Pages
+      - name: Subir únicamente el sitio de APEX Swarm
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./site
+          path: ./apex-global-intelligence-swarm
       - name: Publicar
         id: deployment
         uses: actions/deploy-pages@v4
