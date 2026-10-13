@@ -8,7 +8,7 @@ try{
  await page.goto('http://127.0.0.1:4173/',{waitUntil:'domcontentloaded'});
  await page.locator('.app').waitFor({timeout:12000});
  assert.match(await page.locator('h1').first().innerText(),/Centro de inteligencia/);
- await page.waitForFunction(() => document.body.innerText.includes('Señales públicas reales'),null,{timeout:12000});
+ await page.waitForFunction(() => document.body.textContent.includes('Señales públicas reales'),null,{timeout:12000});
  await page.locator('[data-action="go-radar"]').first().click();
  assert.match(await page.locator('h1').first().innerText(),/Radar automático/);
  await page.locator('[data-action="nav"][data-page="opportunities"]').click();
