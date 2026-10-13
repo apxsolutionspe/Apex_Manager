@@ -11,10 +11,16 @@
 - Probados backups con `sqlite3.backup()` más `PRAGMA integrity_check` y restauración de datos sintéticos.
 - Probado control de privacidad en modo no-demo, evidencia de aceptación y `/api/readiness`.
 
-## No confirmado en este entorno
+## Ejecutado en GitHub Actions (rama feature, sin despliegue)
 
-- Chromium local: **bloqueado** por política del navegador (`net::ERR_BLOCKED_BY_ADMINISTRATOR` incluso sobre `data:`). No afirmar que E2E pasó localmente.
-- GitHub Actions E2E y auditoría de dependencias: **requieren observar la ejecución de la nueva PR**.
+- CI en Python 3.12 y 3.13: **aprobada**, 18 pruebas API (ejecución 38422722169).
+- Chromium/Playwright: **2 pruebas smoke aprobadas** con recorrido móvil de cotización y acceso admin/equipo (ejecución 38422722627).
+- `pip-audit` con versiones actualizadas de FastAPI y Starlette: **aprobado**, sin vulnerabilidades reportadas en esa ejecución (38422722334).
+- Se descubrió y corrigió un error real: el formulario cliente mostraba un error JS tras recibir HTTP 201. Corregido usando una referencia estable al formulario; se corrigió el mismo patrón en alta de órdenes.
+- La validación local con Chromium sigue **bloqueada** por la política del entorno (`net::ERR_BLOCKED_BY_ADMINISTRATOR`); los E2E sí se ejecutaron en GitHub.
+
+## No confirmado
+
 - Rendimiento bajo carga, accesibilidad con lector de pantalla, Safari real, cumplimiento jurídico, pruebas de intrusión.
 - Funcionamiento en hosting real, backups programados y disponibilidad del servicio: no se ha desplegado.
 
