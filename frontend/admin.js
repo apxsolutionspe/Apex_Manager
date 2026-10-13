@@ -25,12 +25,12 @@ $('#login-form').addEventListener('submit', async e=>{
   catch(err){$('#login-error').textContent=err.message;$('#login-error').hidden=false;}
   finally{button.disabled=false;button.textContent='Ingresar al panel →';}
 });
-const tabTitles={resumen:'Panel general',cotizaciones:'Cotizaciones',servicios:'Órdenes de servicio',productos:'Catálogo comercial'};
+const tabTitles={resumen:'Panel general',cotizaciones:'Cotizaciones',servicios:'Órdenes de servicio',productos:'Catálogo comercial',auditoria:'Registro de auditoría'};
 async function openTab(tab){
   document.querySelectorAll('.side-tab').forEach(button=>button.classList.toggle('selected', button.dataset.tab===tab));
   document.querySelectorAll('.admin-tab').forEach(section=>section.hidden=section.id!==`tab-${tab}`);
   $('#breadcrumb').textContent=`GESTIÓN / ${tab.toUpperCase()}`;$('#panel-heading').textContent=tabTitles[tab];
-  try {if(tab==='resumen') await loadSummary();if(tab==='cotizaciones') await loadQuotes();if(tab==='servicios') await loadJobs();if(tab==='productos') await loadProducts();}
+  try {if(tab==='resumen') await loadSummary();if(tab==='cotizaciones') await loadQuotes();if(tab==='servicios') await loadJobs();if(tab==='productos') await loadProducts();if(tab==='auditoria') await loadAudit();}
   catch(err){notifyError(err);}
 }
 document.querySelectorAll('.side-tab').forEach(button=>button.addEventListener('click',()=>openTab(button.dataset.tab)));
@@ -46,10 +46,16 @@ async function loadJobs(){const jobs=await request('/api/admin/jobs');$('#job-ta
 $('#job-table').addEventListener('change',async e=>{if(!e.target.matches('[data-job-id]'))return;const s=e.target;s.disabled=true;try{await request(`/api/admin/jobs/${Number(s.dataset.jobId)}`,{method:'PATCH',body:JSON.stringify({status:s.value})});toast('Servicio actualizado.');}catch(err){notifyError(err);await loadJobs();}finally{s.disabled=false;}});
 $('#open-new-job').addEventListener('click',()=>{$('#job-form-wrap').hidden=false;$('#job-form input[name="title"]').focus();});
 $('#cancel-job').addEventListener('click',()=>{$('#job-form-wrap').hidden=true;$('#job-form').reset();});
-$('#job-form').addEventListener('submit',async e=>{e.preventDefault();const values=Object.fromEntries(new FormData(e.currentTarget));if(!values.quote_id)delete values.quote_id;else values.quote_id=Number(values.quote_id);try{await request('/api/admin/jobs',{method:'POST',body:JSON.stringify(values)});toast('Orden de servicio creada.');e.currentTarget.reset();$('#job-form-wrap').hidden=true;await loadJobs();}catch(err){notifyError(err);}});
+$('#job-form').addEventListener('submit',async e=>{e.preventDefault();const form=e.currentTarget;const values=Object.fromEntries(new FormData(form));if(!values.quote_id)delete values.quote_id;else values.quote_id=Number(values.quote_id);try{await request('/api/admin/jobs',{method:'POST',body:JSON.stringify(values)});toast('Orden de servicio creada.');form.reset();$('#job-form-wrap').hidden=true;await loadJobs();}catch(err){notifyError(err);}});
 async function loadProducts(){products=await request('/api/admin/products');$('#product-table').innerHTML=products.length?`<table><thead><tr><th>Artículo</th><th>Tipo / categoría</th><th>Precio</th><th>Visibilidad</th><th>Acción</th></tr></thead><tbody>${products.map(p=>`<tr><td><strong>${esc(p.emoji)} ${esc(p.name)}</strong><small>SKU: ${esc(p.sku)}</small></td><td>${esc(p.kind)}<small>${esc(p.category)}</small></td><td>${esc(money(p.price_cents))}</td><td><span class="state-badge ${p.active?'active':'inactive'}">${p.active?'Activo':'Oculto'}</span></td><td><button type="button" class="edit-link" data-edit="${p.id}">Editar ↗</button></td></tr>`).join('')}</tbody></table>`:'<div class="empty-state">El catálogo aún no contiene artículos.</div>';}
 function showProduct(product){const f=$('#product-form');f.reset();for(const key of ['id','sku','name','category','description','kind','emoji'])if(product?.[key]!=null)f.elements[key].value=product[key];f.elements.price.value=product?.price_cents!=null?(product.price_cents/100).toFixed(2):'';f.elements.stock.value=product?.stock??'';f.elements.featured.checked=Boolean(product?.featured);f.elements.active.checked=product?Boolean(product.active):true;$('#product-form-title').textContent=product?'Editar artículo':'Agregar al catálogo';$('#product-form-wrap').hidden=false;f.elements.name.focus();}
 $('#open-new-product').addEventListener('click',()=>showProduct(null));
 $('#cancel-product').addEventListener('click',()=>{$('#product-form-wrap').hidden=true;$('#product-form').reset();});
 $('#product-table').addEventListener('click',e=>{const b=e.target.closest('[data-edit]');if(!b)return;const p=products.find(p=>p.id===Number(b.dataset.edit));if(p)showProduct(p);});
 $('#product-form').addEventListener('submit',async e=>{e.preventDefault();const f=e.currentTarget;const v=Object.fromEntries(new FormData(f));const id=Number(v.id);const input={sku:v.sku,name:v.name,category:v.category,description:v.description,kind:v.kind,emoji:v.emoji||'◈',featured:f.elements.featured.checked,active:f.elements.active.checked,price_cents:v.price===''?null:Math.round(Number(v.price)*100),stock:v.stock===''?null:Number(v.stock)};try{await request(id?`/api/admin/products/${id}`:'/api/admin/products',{method:id?'PUT':'POST',body:JSON.stringify(input)});toast(id?'Artículo actualizado.':'Artículo agregado.');$('#product-form-wrap').hidden=true;f.reset();await loadProducts();}catch(err){notifyError(err);}});
+
+async function loadAudit(){
+  const rows=await request('/api/admin/audit?limit=100');
+  $('#audit-table').innerHTML=rows.length?`<table><thead><tr><th>Fecha</th><th>Acción</th><th>Entidad</th><th>Detalle técnico</th></tr></thead><tbody>${rows.map(r=>`<tr><td>${esc(fmt(r.created_at))}</td><td>${esc(r.action)}</td><td>${esc(r.entity)} #${Number(r.entity_id)}</td><td>${esc(JSON.stringify(r.details||{}))}</td></tr>`).join('')}</tbody></table>`:'<div class="empty-state">Sin movimientos administrativos registrados.</div>';
+}
+$('#refresh-audit').addEventListener('click',()=>openTab('auditoria'));

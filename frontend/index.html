@@ -10,6 +10,7 @@
   <script src="/static/app.js" type="module"></script>
 </head>
 <body>
+  <div id="intake-banner" class="demo-banner" role="status" hidden>VISTA PREVIA · El registro de solicitudes no está habilitado. Puedes explorar el catálogo sin enviar datos personales.</div>
   <div id="demo-banner" class="demo-banner" hidden>ENTORNO DE DEMOSTRACIÓN · Productos y servicios de ejemplo. Precios y disponibilidad por confirmar.</div>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -89,11 +90,13 @@
   <aside id="cart-drawer" class="cart-drawer" role="dialog" aria-modal="true" aria-labelledby="cart-title" aria-hidden="true" tabindex="-1">
     <div class="drawer-head"><div><span class="kicker">TU SELECCIÓN</span><h2 id="cart-title">Mi cotización</h2></div><button id="close-cart" type="button" class="icon-button" aria-label="Cerrar carrito">✕</button></div>
     <div class="drawer-body"><div id="cart-items"></div>
+      <p id="intake-disabled" class="privacy-note" hidden>La recepción de cotizaciones aún no está habilitada. Este sitio se encuentra en preparación comercial.</p>
       <form id="quote-form"><h3>Datos de contacto</h3>
         <div class="form-group"><label for="customer-name">Nombre completo *</label><input id="customer-name" name="customer_name" required minlength="2" maxlength="100" autocomplete="name" placeholder="¿Cómo te llamas?"></div>
         <div class="form-group"><label for="customer-phone">WhatsApp o teléfono *</label><input id="customer-phone" name="phone" type="tel" required minlength="7" maxlength="25" autocomplete="tel" placeholder="Ej. 987654321"></div>
         <div class="form-group"><label for="customer-email">Correo electrónico (opcional)</label><input id="customer-email" name="email" type="email" maxlength="160" autocomplete="email" placeholder="correo@ejemplo.com"></div>
         <div class="form-group"><label for="customer-notes">Cuéntanos más (opcional)</label><textarea id="customer-notes" name="notes" rows="3" maxlength="1000" placeholder="Detalles de tu proyecto o necesidad..."></textarea></div>
+        <div class="form-group"><label><input type="checkbox" name="consent" value="true" required> He leído el <a href="/privacidad" target="_blank" rel="noopener noreferrer">aviso de tratamiento de datos</a> y autorizo usar mis datos únicamente para responder esta cotización. *</label></div>
         <div id="quote-error" class="form-error" role="alert" hidden></div>
         <button id="send-quote" type="submit" class="btn btn-primary btn-full">Registrar solicitud <span>→</span></button><p class="privacy-note">Tu información se usará únicamente para atender esta solicitud. No procesamos pagos en este sitio.</p>
       </form>

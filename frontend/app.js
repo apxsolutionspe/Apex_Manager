@@ -12,6 +12,7 @@ let filter = 'todos';
 let search = '';
 let cart = {};
 let lastQuote = null;
+let intakeEnabled = false;
 try { const stored = JSON.parse(localStorage.getItem('apex_cart') || '{}'); if (stored && typeof stored === 'object' && !Array.isArray(stored)) cart = stored; } catch { cart = {}; }
 const saveCart = () => { localStorage.setItem('apex_cart', JSON.stringify(cart)); updateCount(); };
 const itemCount = () => Object.values(cart).reduce((n, q) => n + (Number.isInteger(q) ? Math.max(0, q) : 0), 0);
@@ -37,7 +38,8 @@ function renderCart() {
   const total = chosen.reduce((n, p) => n + ((p.price_cents || 0) * cart[p.id]), 0);
   const old = $('#cart-total'); if (old) old.remove();
   if (chosen.length) {const summary = document.createElement('div'); summary.className = 'cart-total'; summary.id = 'cart-total'; summary.innerHTML = `<span>${totalKnown ? 'Total referencial' : 'Presupuesto estimado'}</span><strong>${totalKnown ? esc(currency(total)) : 'Sujeto a cotización'}</strong>`; list.after(summary);}
-  $('#quote-form').hidden = !chosen.length || Boolean(lastQuote);
+  $('#quote-form').hidden = !chosen.length || Boolean(lastQuote) || !intakeEnabled;
+  $('#intake-disabled').hidden = !chosen.length || Boolean(lastQuote) || intakeEnabled;
   $('#quote-success').hidden = !lastQuote;
   updateCount();
 }
@@ -66,17 +68,18 @@ $('#catalog-search').addEventListener('input', e => {search = e.target.value.tri
 document.querySelectorAll('[data-filter]').forEach(b => b.addEventListener('click', () => {filter = b.dataset.filter; document.querySelectorAll('[data-filter]').forEach(t => {t.classList.toggle('active', t === b); t.setAttribute('aria-pressed', String(t === b));}); renderCatalog();}));
 $('#quote-form').addEventListener('submit', async e => {
   e.preventDefault();
+  const quoteForm = e.currentTarget;
   const error = $('#quote-error'); error.hidden = true;
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
   const data = Object.fromEntries(new FormData(e.currentTarget));
   const btn = $('#send-quote'); btn.disabled = true; btn.textContent = 'Registrando...';
   try {
-    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, items})});
+    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, consent: data.consent === 'true', items})});
     $('#quote-code').textContent = `Código de seguimiento: ${lastQuote.code}`;
     const link = $('#whatsapp-link'); link.hidden = !lastQuote.whatsapp_url;
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
-    cart = {}; saveCart(); e.currentTarget.reset(); renderCart(); toast('Solicitud registrada correctamente');
+    cart = {}; saveCart(); quoteForm.reset(); renderCart(); toast('Solicitud registrada correctamente');
   } catch (err) {error.textContent = err.message; error.hidden = false;}
   finally {btn.disabled = false; btn.innerHTML = 'Registrar solicitud <span>→</span>';}
 });
@@ -96,7 +99,7 @@ $('#track-form').addEventListener('submit', async e => {
 });
 $('#year').textContent = new Date().getFullYear();
 async function init() {
-  try {const [data, config] = await Promise.all([api('/api/products'), api('/api/config')]); products = data; if (config.demo_mode) $('#demo-banner').hidden = false;
+  try {const [data, config] = await Promise.all([api('/api/products'), api('/api/config')]); products = data; intakeEnabled = Boolean(config.quote_intake_enabled); if (config.demo_mode) $('#demo-banner').hidden = false; if (!intakeEnabled) $('#intake-banner').hidden = false;
     for (const [id, quantity] of Object.entries(cart)) {const p = products.find(p => p.id === Number(id)); if (!p || !Number.isInteger(quantity) || quantity < 1) delete cart[id]; else cart[id] = Math.min(50, quantity, p.stock ?? 50); }
     saveCart(); renderCatalog(); renderCart();
   } catch {$('#catalog-grid').innerHTML = '<div class="empty-state">No pudimos cargar el catálogo. Actualiza la página para reintentar.</div>';}

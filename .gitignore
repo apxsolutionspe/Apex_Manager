@@ -1,10 +1,15 @@
 .env
+.env.*
+!.env.example
 .venv/
 __pycache__/
 .pytest_cache/
 *.py[cod]
 data/
+backups/
+qa-artifacts/
 *.db
 *.db-shm
 *.db-wal
+*.sqlite3
 .DS_Store
