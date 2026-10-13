@@ -1,0 +1,37 @@
+name: QA APEX Swarm · Navegador
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'apex-global-intelligence-swarm/**'
+      - '.github/workflows/apex-swarm-browser.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  browser-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Preparar Chromium
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          npm install --no-save playwright
+          npx playwright install chromium --with-deps
+      - name: Servir sitio local
+        run: |
+          python3 -m http.server 4173 --directory apex-global-intelligence-swarm > /tmp/apex-http.log 2>&1 &
+          sleep 2
+      - name: Probar navegador
+        working-directory: apex-global-intelligence-swarm
+        run: node tests/browser.mjs
+      - name: Capturas QA
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apex-swarm-qa
+          path: apex-global-intelligence-swarm/apex-*.png
+          if-no-files-found: ignore
