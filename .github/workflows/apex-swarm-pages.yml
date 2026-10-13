@@ -11,6 +11,8 @@ on:
       - 'apex-global-intelligence-swarm/**'
       - '.github/workflows/apex-swarm-pages.yml'
   workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *" # Public read-only refresh; UTC (may be delayed by GitHub)
 
 permissions:
   contents: read
@@ -80,6 +82,8 @@ jobs:
           node --check app.js
           node --check core.js
           npm test
+      - name: Actualizar radar público en segundo plano
+        run: node apex-global-intelligence-swarm/scripts/refresh-feed.mjs
       - name: Preparar GitHub Pages (habilitado por propietario)
         uses: actions/configure-pages@v5
       - name: Subir únicamente el sitio de APEX Swarm
