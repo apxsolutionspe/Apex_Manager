@@ -32,8 +32,10 @@ jobs:
           node --check app.js
           node --check core.js
           npm test
-      - name: Preparar GitHub Pages
+      - name: Preparar y habilitar GitHub Pages automáticamente
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Subir únicamente el sitio de APEX Swarm
         uses: actions/upload-pages-artifact@v4
         with:
