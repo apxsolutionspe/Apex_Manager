@@ -9,6 +9,13 @@ try{
  await page.locator('.app').waitFor({timeout:12000});
  assert.match(await page.locator('h1').first().innerText(),/Centro de inteligencia/);
  await page.screenshot({path:'apex-desktop.png',fullPage:true});
+ await page.locator('[data-action="scan"]').first().click();
+ await page.waitForFunction(() => !document.querySelector('.runprogress') && !document.body.innerText.includes('Escaneo en curso:'),null,{timeout:35000});
+ const bodyAfterScan=await page.locator('body').innerText();
+ assert.ok(bodyAfterScan.includes('Última ejecución'),'El panel muestra el resultado del ciclo real');
+ await page.screenshot({path:'apex-after-scan.png',fullPage:true});
+ console.log('RESULTADO ESCANEO (fragmento):',bodyAfterScan.slice(0,850));
+
  await page.locator('[data-action="nav"][data-page="explore"]').click();
  assert.match(await page.locator('h1').first().innerText(),/Exploración/);
  await page.locator('[data-action="nav"][data-page="settings"]').click();
