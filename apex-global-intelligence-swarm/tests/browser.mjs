@@ -9,6 +9,15 @@ try{
  await page.locator('.app').waitFor({timeout:12000});
  assert.match(await page.locator('h1').first().innerText(),/Centro de inteligencia/);
  await page.waitForFunction(() => document.body.textContent.includes('Señales públicas reales'),null,{timeout:12000});
+ const feedResult=await page.request.get('http://127.0.0.1:4173/feed/latest.json');
+ assert.equal(feedResult.status(),200,'El archivo de resultados reales debe existir');
+ const actualFeed=await feedResult.json();
+ assert.equal(actualFeed.schema,'apex-public-research-v1');
+ assert.ok(Array.isArray(actualFeed.items));
+ await page.waitForFunction(() => document.body.textContent.includes('RADAR FUNCIONANDO') || document.body.textContent.includes('RADAR PARCIAL'),null,{timeout:15000});
+ const actualCount=Number((await page.locator('.cards .card').first().locator('.k-value').textContent()).replace(/[, ]/g,''));
+ assert.equal(actualCount,actualFeed.items.length,'El panel debe usar el conteo exacto de la fuente real');
+ console.log('Radar verificado:',JSON.stringify({count:actualCount,status:actualFeed.status,sources:actualFeed.sources.map(x=>({source:x.source,count:x.count,ok:x.ok}))}));
  await page.locator('[data-action="go-radar"]').first().click();
  assert.match(await page.locator('h1').first().innerText(),/Radar automático/);
  await page.locator('[data-action="nav"][data-page="opportunities"]').click();
