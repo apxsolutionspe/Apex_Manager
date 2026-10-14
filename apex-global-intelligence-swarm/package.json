@@ -1,10 +1,10 @@
 {
   "name": "apex-global-intelligence-swarm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "private": true,
   "scripts": {
-    "test": "node --test tests/core.test.mjs",
-    "check": "node --check app.js"
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check app.js && node --check triage-page.js && node --check scripts/prioritize-feed.mjs"
   }
 }
