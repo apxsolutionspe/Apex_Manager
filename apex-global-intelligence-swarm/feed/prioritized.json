@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T17:12:21.823Z",
+  "generated_at": "2026-10-14T21:40:07.496Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 220,
+    "total_evaluated": 245,
     "investigar": 1,
-    "informativa": 205,
-    "descartar": 14,
+    "informativa": 228,
+    "descartar": 16,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -37,6 +37,30 @@
         "issue_open_now": true
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty: Open the claim model — anyone can work an issue, and only the merge pays",
+      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
+      "source_created_at": "2026-10-14T20:46:32Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -235,6 +259,53 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1252",
+      "source_created_at": "2026-10-14T20:27:03Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 95,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty $50] Decrypted 13.60 system modules (/system/common/lib)",
+      "url": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
+      "source_created_at": "2026-10-14T21:18:19Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Song upload from 💼 form fails with 'Failed to fetch' (first tester, $5 bounty) + pending-mint indicator for owner",
       "url": "https://github.com/TheJollyLaMa/DecentBusking/issues/176",
       "source_created_at": "2026-10-14T16:43:45Z",
@@ -275,6 +346,55 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1591",
+      "source_created_at": "2026-10-14T20:30:19Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty: let the publisher name the escrow term, within bounds",
+      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
+      "source_created_at": "2026-10-14T20:56:35Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -809,6 +929,54 @@
     },
     {
       "source": "github",
+      "title": "【intake 输入】lingshu #604：抽取器对 HTML 块结束条件与 CommonMark 三处分歧 —— 对有围栏的正文误报「没有围栏代码块」（量具失效）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/440",
+      "source_created_at": "2026-10-14T20:29:29Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu #612：嵌套容器内的 ⑥ 型 HTML 块起点被漏判 —— 页面不可见的围栏被抽出并真执行（repro-bot 安全面）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/439",
+      "source_created_at": "2026-10-14T20:29:26Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[Bug][P1] check_plan「`to` 优先」（0105788 / #169）把被拒命令与落选分事件也当成态迁移：任何人发一条会被拒的命令，就能把 issue 面的态「洗」进账本，真实的「态冲突 / 缺账本事件」从对账报告里消失（`--strict` 由 1 变 0）",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/405",
       "source_created_at": "2026-10-14T17:00:23Z",
@@ -1244,6 +1412,106 @@
     },
     {
       "source": "github",
+      "title": "Knos task V34CAP: every capability at its newest (internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/286",
+      "source_created_at": "2026-10-14T20:18:35Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Knos task V34GAME: many attempts at once, as a game, to a product (wall 3, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/284",
+      "source_created_at": "2026-10-14T20:18:18Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Contributor onboarding for the OSS launch",
+      "url": "https://github.com/genfeedai/genfeed.ai/issues/6964",
+      "source_created_at": "2026-10-14T20:37:17Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Proposal: adopt pdd-kit, open-source Product-Driven Development",
+      "url": "https://github.com/SuperteamDAO/earn/issues/1524",
+      "source_created_at": "2026-10-14T20:52:02Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Rework factions into extensible personal and faction relations",
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/568",
       "source_created_at": "2026-10-14T15:40:00Z",
@@ -1611,6 +1879,101 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Job runner executes setup and commands after a commit mismatch",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/72",
+      "source_created_at": "2026-10-14T20:36:19Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Rename issue-numbered docs to descriptive names",
+      "url": "https://github.com/StellarLock/StellarLock/issues/987",
+      "source_created_at": "2026-10-14T21:20:10Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "M14: sustainability — every key off by default",
+      "url": "https://github.com/hasan-sdaif/crafthub/issues/14",
+      "source_created_at": "2026-10-14T20:41:35Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Missing Pets: Thistleleaf Adventurer | Wondrous Wisdomball",
+      "url": "https://github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/168",
+      "source_created_at": "2026-10-14T20:28:13Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2322,6 +2685,206 @@
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Knos task V34LABS: the best designs go to cloud labs and fabs (internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/285",
+      "source_created_at": "2026-10-14T20:18:26Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Knos task V34IDEA: an idea in from anyone, then is it wanted (wall 1, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/283",
+      "source_created_at": "2026-10-14T20:18:08Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Knos task V34PAY: pay on proof from any source (wall 2, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/282",
+      "source_created_at": "2026-10-14T20:17:56Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "paraloom-wallet: Multi-account SwapOutput cross-contamination misattributes reshielded SPL notes across accounts and leaves phantom SPL notes un-evictable",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/880",
+      "source_created_at": "2026-10-14T20:47:13Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "X-Debug-Eval header executes code (intentional feature)",
+      "url": "https://github.com/zik-instinct/nginx-with-RCE/issues/1",
+      "source_created_at": "2026-10-14T20:24:42Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "CraftHub: closing gap #2 (collaboration without accounts) — a decision brief for the administrators",
+      "url": "https://github.com/storytold/figcraft/issues/357",
+      "source_created_at": "2026-10-14T20:49:26Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Missing Activity: Shadowlands Callings",
+      "url": "https://github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/169",
+      "source_created_at": "2026-10-14T20:33:41Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "BF-060: Security hardening — threat model, Postgres RLS defense in depth, sandbox and secrets hardening, ASVS review",
+      "url": "https://github.com/khanakhun/business-finder/issues/60",
+      "source_created_at": "2026-10-14T20:28:33Z",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3338,581 +3901,6 @@
       "source_created_at": "2026-10-13T18:30:04Z",
       "first_seen_at": "2026-10-13T18:42:28.330Z",
       "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96957 | .NET SDK Security Feature Bypass Vulnerability",
-      "url": "https://github.com/dotnet/sdk/issues/56615",
-      "source_created_at": "2026-10-13T18:30:00Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96238 | .NET SDK Security Feature Bypass Vulnerability",
-      "url": "https://github.com/dotnet/sdk/issues/56614",
-      "source_created_at": "2026-10-13T18:29:55Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96237 | .NET SDK Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/sdk/issues/56613",
-      "source_created_at": "2026-10-13T18:29:50Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96233 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135708",
-      "source_created_at": "2026-10-13T18:29:30Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96231 | .NET and Visual Studio Elevation of Privilege Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135707",
-      "source_created_at": "2026-10-13T18:29:20Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96960 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/490",
-      "source_created_at": "2026-10-13T18:30:18Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96959 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/489",
-      "source_created_at": "2026-10-13T18:30:12Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96958 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/488",
-      "source_created_at": "2026-10-13T18:30:06Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96957 | .NET SDK Security Feature Bypass Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/487",
-      "source_created_at": "2026-10-13T18:30:01Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96238 | .NET SDK Security Feature Bypass Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/486",
-      "source_created_at": "2026-10-13T18:29:57Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96237 | .NET SDK Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/485",
-      "source_created_at": "2026-10-13T18:29:52Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96236 | ASP.NET Core Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/484",
-      "source_created_at": "2026-10-13T18:29:47Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96235 | .NET and Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/483",
-      "source_created_at": "2026-10-13T18:29:42Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96235 | .NET and Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/wpf/issues/12026",
-      "source_created_at": "2026-10-13T18:29:40Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96234 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/482",
-      "source_created_at": "2026-10-13T18:29:37Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96234 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/wpf/issues/12025",
-      "source_created_at": "2026-10-13T18:29:36Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96233 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/481",
-      "source_created_at": "2026-10-13T18:29:32Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96232 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/480",
-      "source_created_at": "2026-10-13T18:29:27Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96232 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/wpf/issues/12024",
-      "source_created_at": "2026-10-13T18:29:25Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96231 | .NET and Visual Studio Elevation of Privilege Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/479",
-      "source_created_at": "2026-10-13T18:29:22Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96230 | ASP.NET Core Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/478",
-      "source_created_at": "2026-10-13T18:29:17Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-96229 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/477",
-      "source_created_at": "2026-10-13T18:29:11Z",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "交付：lingshu 身体库贡献结算核对 —— 8 件 PR 按「内容在库」判定落地 3 处（#26 / #286 / #3 部位②），另 5 件未采纳并逐条反证",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/274",
-      "source_created_at": "2026-10-13T17:22:58Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [

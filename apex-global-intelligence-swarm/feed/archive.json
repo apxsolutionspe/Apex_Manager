@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-14T17:12:20.990Z",
+  "updated_at": "2026-10-14T21:40:04.890Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,517 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762468",
+      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
+      "url": "https://words.filippo.io/seeds-bounty/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T01:34:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-bounty",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49760509",
+      "title": "Intel Appears to End Its Bug Bounty Program",
+      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "evidence": "",
+      "source_created_at": "2026-09-18T21:29:33Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "evidence": "",
+      "source_created_at": "2026-09-16T16:32:41Z",
+      "opp_type": "otro",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49721998",
+      "title": "Bug Bounty Operating Principles",
+      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "evidence": "",
+      "source_created_at": "2026-09-16T04:12:21Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49657229",
+      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "url": "https://hackerone.com/mozilla/updates?type=team",
+      "evidence": "",
+      "source_created_at": "2026-09-11T12:23:19Z",
+      "opp_type": "bug_bounty",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49677392",
+      "title": "Pacing Is a Setting on a Dial",
+      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
+      "evidence": "",
+      "source_created_at": "2026-09-12T21:28:15Z",
+      "opp_type": "otro",
+      "score": 4,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855159430",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1591",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-14 20:30 UTC #### 1. [【intake 输入】lingshu #604：抽取器对 HTML 块结束条件与 CommonMark 三处分歧 —— 对有围栏的正文误报「没有围栏代码块」（量具失效）](https://github.com/FuRongJun-1999/dsh-bounty/issues/440) - **Repository:** [FuRongJun-1999/dsh-bounty](https://github.com/FuRongJun-1999/dsh-bounty) - **Comments:** 0 - **Last Updated:** 2026-10-14T20:29:29Z #### 2. [【intake 输入】lingshu #612：嵌套容器内的 ⑥ 型 HTML 块起点被漏判 —— 页面不可见的围栏被抽出并真执行（repro-bot 安全面）](https://github.com/FuRongJun-1999/dsh-bounty/issues/439) - **Repository:** [FuRongJun-199",
+      "source_created_at": "2026-10-14T20:30:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1591",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855110475",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1252",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-14 20:27 UTC #### 1. [[diagnostic] E8001 reference example rejects with E0003 instead of demonstrating a warning](https://github.com/limitlessprojects/Go-Hybrid/issues/50) - **Repository:** [limitlessprojects/Go-Hybrid](https://github.com/limitlessprojects/Go-Hybrid) - **Comments:** 1 - **Last Updated:** 2026-10-14T20:26:42Z #### 2. [[Bounty: $95] Make `visual-regression.yml` compare baselines instead of regenerating them](https://github.com/Signpost-Labs/signpost-app/issues/43) - **Reposito",
+      "source_created_at": "2026-10-14T20:27:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1252",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855831879",
+      "title": "[Bounty $50] Decrypted 13.60 system modules (/system/common/lib)",
+      "url": "https://github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
+      "evidence": "First of all, thank you for the 13.60 kernel dump. I've verified the SHA256 and cross-validated it against my own live research (sysent @ 0xE6E5C0, allproc @ 0x3589E80, PMAP_STORE @ 0x3B48FF8, everything matches perfectly). Excellent work. **Offering $50 (PayPal, or your preferred method)** for the remaining piece I need for my research project: ## Requested 1. **`/system/common/lib/`** — decrypted, in-memory copies of the system modules (.prx) from a 13.60 console (libkernel, libSceGnmDriver, libSceVideoOut, libc, etc. — the full set you can g",
+      "source_created_at": "2026-10-14T21:18:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/terrafirma2021/ps5-13.60-kernel-dump/issues/1",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855530346",
+      "title": "Bounty: let the publisher name the escrow term, within bounds",
+      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/172",
+      "evidence": "## Deliverable One pull request, merged, that lets a publisher name how long the escrow holds a funded issue — replacing the fixed 14 days with a per-issue term the publisher sets at publish time, validated against bounds and shown to contributors before they claim. Nothing else changes. ## Context The escrow deadline is fixed at 14 days for every issue, but it does not have to be. The contract does not hard-code 14 days: `commit` takes the deadline as a parameter and only refuses a deadline that is not in the future (`if (deadline C2 end subgr",
+      "source_created_at": "2026-10-14T20:56:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/172",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855385981",
+      "title": "Bounty: Open the claim model — anyone can work an issue, and only the merge pays",
+      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
+      "evidence": "## Deliverable One pull request, merged, that replaces the exclusive, time-boxed claim with an open market: any number of contributors may claim and work one issue at the same time, each claim never expires and never blocks another, the platform pays only for a contributor's first review, everything after that is the contributor's to pay, and the money goes to the pull request the publisher merges. Nothing else changes. ## Context Today a claim is exclusive and time-boxed. `Store.claim` (`backend/src/misthos/store.py:2954`) only accepts an issu",
+      "source_created_at": "2026-10-14T20:46:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/171",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855243528",
+      "title": "Job runner executes setup and commands after a commit mismatch",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/72",
+      "evidence": "I found that the job runner continues executing after it detects the wrong checkout commit. I would like to submit this as a useful-improvement report under BOUNTY.md. The job schema says `sha` pins the commit the job must run. At main commit `8fb92385a54f3934959c1ff059cb13f2ffe2e78d`, `tools/runner/runner.py` records a failed `sha-check`, then enters both the setup and command loops. The final summary correctly fails, but only after commands from the wrong checkout have already run. The runner is used by the CI/heavy workflows and the Kaggle w",
+      "source_created_at": "2026-10-14T20:36:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/72",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5854981260",
+      "title": "Knos task V34CAP: every capability at its newest (internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/286",
+      "evidence": "# Knos task V34CAP: every capability at its newest (internal dogfooding) Buyer: V34DOG (Knos as its own first customer). Worker: V34CAP. Pay: 15 test units of devnet test mint FrSNZ9Lhf1gEE5SfmY6AjF4GxisqoX5Jd8S9VX27ZUyL (6 dp, no monetary value) in a knos_pay escrow; deadline 3 days after funding. Source: TASK-VALLEY \"Use every capability at its newest\" and CAPABILITIES-GAP.md. ## Rules 1. The stale version is gone: pyproject.toml, server.json (and its package entry) and both plugin manifests (plugin/.claude-plugin/plugin.json, plugin/.codex-p",
+      "source_created_at": "2026-10-14T20:18:35Z",
+      "opp_type": "subvencion",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/drexthealpha/knos-e2e/issues/286",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5854978816",
+      "title": "Knos task V34LABS: the best designs go to cloud labs and fabs (internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/285",
+      "evidence": "# Knos task V34LABS: the best designs go to cloud labs and fabs (internal dogfooding) Buyer: V34DOG (Knos as its own first customer). Worker: V34LABS. Pay: 20 test units of devnet test mint FrSNZ9Lhf1gEE5SfmY6AjF4GxisqoX5Jd8S9VX27ZUyL (6 dp, no monetary value) in a knos_pay escrow; deadline 3 days after funding. Source: TASK-VALLEY step 5 and TASK-LABS. Recorded fixtures only: no real orders, no real money. ## Rules 1. `knos.labs.ADAPTERS` maps a name to an adapter with `quote`, `order`, `status` and `results`, one lab-adapter interface. It has",
+      "source_created_at": "2026-10-14T20:18:26Z",
+      "opp_type": "subvencion",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/drexthealpha/knos-e2e/issues/285",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5854976493",
+      "title": "Knos task V34GAME: many attempts at once, as a game, to a product (wall 3, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/284",
+      "evidence": "# Knos task V34GAME: many attempts at once, as a game, to a product (wall 3, internal dogfooding) Buyer: V34DOG (Knos as its own first customer). Worker: V34GAME. Pay: 20 test units of devnet test mint FrSNZ9Lhf1gEE5SfmY6AjF4GxisqoX5Jd8S9VX27ZUyL (6 dp, no monetary value) in a knos_pay escrow; deadline 3 days after funding. Source: TASK-VALLEY steps 3 and 6. AI scientists and human players attack the same goal in parallel through the same API (Foldit/EteRNA style); funders pool across attempts; a verified result graduates and every contributor ",
+      "source_created_at": "2026-10-14T20:18:18Z",
+      "opp_type": "subvencion",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/drexthealpha/knos-e2e/issues/284",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5854973991",
+      "title": "Knos task V34IDEA: an idea in from anyone, then is it wanted (wall 1, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/283",
+      "evidence": "# Knos task V34IDEA: an idea in from anyone, then is it wanted (wall 1, internal dogfooding) Buyer: V34DOG (Knos as its own first customer). Worker: V34IDEA. Pay: 20 test units of devnet test mint FrSNZ9Lhf1gEE5SfmY6AjF4GxisqoX5Jd8S9VX27ZUyL (6 dp, no monetary value) in a knos_pay escrow; deadline 3 days after funding. Source: TASK-VALLEY steps 1 and 2, all fields of science. ## Rules 1. `knos.ideas.SOURCES` names at least person, agent, player, openalex, arxiv, pubmed, europepmc, biorxiv, medrxiv, crossref, clinicaltrials and patent. `knos.ide",
+      "source_created_at": "2026-10-14T20:18:08Z",
+      "opp_type": "subvencion",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/drexthealpha/knos-e2e/issues/283",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5854971096",
+      "title": "Knos task V34PAY: pay on proof from any source (wall 2, internal dogfooding)",
+      "url": "https://github.com/drexthealpha/knos-e2e/issues/282",
+      "evidence": "# Knos task V34PAY: pay on proof from any source (wall 2, internal dogfooding) Buyer: V34DOG (Knos as its own first customer). Worker: V34PAY. Pay: 30 test units of devnet test mint FrSNZ9Lhf1gEE5SfmY6AjF4GxisqoX5Jd8S9VX27ZUyL (6 dp, no monetary value) in a knos_pay escrow; deadline 3 days after funding. Source: TASK-VALLEY step 4 and TASK-V0334. Today knos_pay releases money only on a GitHub Actions OIDC token, so a researcher with a paper, a dataset, a computation or a lab result cannot be paid. Build the release on proof from any source. ## ",
+      "source_created_at": "2026-10-14T20:17:56Z",
+      "opp_type": "subvencion",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/drexthealpha/knos-e2e/issues/282",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855858606",
+      "title": "Rename issue-numbered docs to descriptive names",
+      "url": "https://github.com/StellarLock/StellarLock/issues/987",
+      "evidence": "## Summary Some docs are named after the issue that created them: `docs/issue-713-bulk-partial-failure.md`, `docs/storage-optimization-148.md`, `docs/bounty-payout-policy-357.md`. ## Problem Issue numbers are meaningless to readers and make the docs folder hard to browse. ## Task Rename them (e.g. `bulk-actions-partial-failure.md`, `storage-optimization.md`, `bounty-payout-policy.md`) with `git mv` and update every link to them. ## Acceptance Criteria - [ ] No doc filename contains an issue number - [ ] No broken links (search the repo for the ",
+      "source_created_at": "2026-10-14T21:20:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/StellarLock/StellarLock/issues/987",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855768100",
+      "title": "[soundness] Moving a may-share peer of a parameter escapes the O5.1 non-owned check (h2 := h; task worker(move h2) - OK accepted, fatal error: concurrent map writes)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/75",
+      "evidence": "### Revision (`git rev-parse HEAD`) `8fb92385a54f3934959c1ff059cb13f2ffe2e78d` (origin/main, 2026-10-14 19:51 UTC). Also reproduced on the heads of open PRs #32 (`8d9c9ba`) and #34 (`36e93f6`) - not covered by either. Related but distinct from the fix for this file in PR #74 (call-result sharing, issue #73): that PR edges call results; this gap is about **moving** a share peer and exists for the LEXICAL form too. ## Summary (Bounty Track #5 - Soundness P0) `check_non_owned_move` (freeze.rs) derives `non_owned_origin` from the binding's own orig",
+      "source_created_at": "2026-10-14T21:13:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/75",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855467292",
+      "title": "[soundness] Call results that shallow-copy or launder argument storage escape the O5.2 freeze (h2 := alias_holder(h1); generic id(m))",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/73",
+      "evidence": "### Revision (`git rev-parse HEAD`) `8fb92385a54f3934959c1ff059cb13f2ffe2e78d` (origin/main, 2026-10-14 19:51 UTC). Also affects release `v0.1.0` logic (same `record_may_share` / `record_alias` code paths). ## Summary (Bounty Track #5 - Soundness P0) `loans.rs::record_may_share` has no `Expr::Call` arm, and `record_alias`'s Call arm only records when the call's **result shape** is `Map`/`Slice`/`Pointer` (`TypeShape::is_reference_alias`). A function call that hands back storage owned by (or shallow-copied from) one of its arguments therefore cr",
+      "source_created_at": "2026-10-14T20:52:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/73",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855314694",
+      "title": "M14: sustainability — every key off by default",
+      "url": "https://github.com/hasan-sdaif/crafthub/issues/14",
+      "evidence": "**Spec §23, memo in docs/proposals/sustainability-posture.md.** The support system, the adjustable commission, the contributor points and quarterly distributions, the bounty board and the transparency reports. Exit: the donation e2e (a badge, zero capabilities); TRS1-TRS4; TB1-TB4; the zero-footprint check with every key off.",
+      "source_created_at": "2026-10-14T20:41:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/hasan-sdaif/crafthub/issues/14",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855146917",
+      "title": "【intake 输入】lingshu #604：抽取器对 HTML 块结束条件与 CommonMark 三处分歧 —— 对有围栏的正文误报「没有围栏代码块」（量具失效）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/440",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、`/deliver`、`/verify`、`/settle`， 也不自行加 `bounty` 标签 —— 外部账号对 `dsh-bounty` 只有 `pull` 权限（`gh api repos/FuRongJun-1999/dsh-bounty --jq .permissions` 现读 = `{\"admin\":false,\"maintain\":false,\"pull\":true,\"push\":false,\"triage\":false}`）， `POST /issues/{n}/labels` 会返回 403 ⇒ **标签需维护者代打**。 依据 `docs/bounty/README.md`：「**外部贡献申报**走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏； 维护者裁定后由维护者**另立**悬赏。」 缺陷本体、复现与全部读数都发生在**目标仓 `FuRongJun-1999/lingshu`**；本站只做登记与溯源，不重复承载代码。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/li",
+      "source_created_at": "2026-10-14T20:29:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/440",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855145972",
+      "title": "【intake 输入】lingshu #612：嵌套容器内的 ⑥ 型 HTML 块起点被漏判 —— 页面不可见的围栏被抽出并真执行（repro-bot 安全面）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/439",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、`/deliver`、`/verify`、`/settle`， 也不自行加 `bounty` 标签 —— 外部账号对 `dsh-bounty` 只有 `pull` 权限（`gh api repos/FuRongJun-1999/dsh-bounty --jq .permissions` 现读 = `{\"admin\":false,\"maintain\":false,\"pull\":true,\"push\":false,\"triage\":false}`）， `POST /issues/{n}/labels` 会返回 403 ⇒ **标签需维护者代打**。 依据 `docs/bounty/README.md`：「**外部贡献申报**走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏； 维护者裁定后由维护者**另立**悬赏。」 缺陷本体、复现与全部读数都发生在**目标仓 `FuRongJun-1999/lingshu`**；本站只做登记与溯源，不重复承载代码。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/li",
+      "source_created_at": "2026-10-14T20:29:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/439",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855128022",
+      "title": "Missing Pets: Thistleleaf Adventurer | Wondrous Wisdomball",
+      "url": "https://github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/168",
+      "evidence": "Thistleleaf Adventurer | Wondrous Wisdomball New category: Bounty Quests They come from the bounty box (or off an item from the bounty box) Bounty is the name given by blizzard for \"do x number of quests for this faction today\" sets needs confirmation of kirin tor id this is a split form #167 for modularity. i have most of what's needed ready but there is a faction id confirmation necessary. assign to me and i'll make a pr when i have it ready to resolve. may piggy back on #166",
+      "source_created_at": "2026-10-14T20:28:13Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/168",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855256647",
+      "title": "Contributor onboarding for the OSS launch",
+      "url": "https://github.com/genfeedai/genfeed.ai/issues/6964",
+      "evidence": "Part of #1433. Belongs to the **open-source self-host launch (Phase 1)** and is **not gated on #334**. The repo already has most contributor plumbing: `CONTRIBUTING.md` (343 lines, with a Portless dev path, PR contract, CLA and label guide), `CODE_OF_CONDUCT.md`, `GOVERNANCE.md`, `SUPPORT.md`, issue forms (`bug.yml`, `feature.yml`, `task.yml` plus `config.yml` routing to Discussions), a PR template, and a README \"Contributing\" section with the dev commands. This issue covers only the gaps found on 2026-10-14. ## Verified gaps 1. **No issues for",
+      "source_created_at": "2026-10-14T20:37:17Z",
+      "opp_type": "otro",
+      "score": 29,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/genfeedai/genfeed.ai/issues/6964",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855395609",
+      "title": "paraloom-wallet: Multi-account SwapOutput cross-contamination misattributes reshielded SPL notes across accounts and leaves phantom SPL notes un-evictable",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/880",
+      "evidence": "## Summary In `paraloom-wallet` (`lib/paraloom/swapOutputs.ts`, `lib/paraloom/bridge.ts`, `lib/paraloom/reshieldRecovery.ts`, `lib/paraloom/swapReconcile.ts`, `src/popup/Home.tsx`, and `src/background/index.ts`), `SwapOutput` records in `chrome.storage.local` (`paraloom_swap_outputs`) are stored globally without binding each entry to the owning account's `shieldedAddress`, and `recoverReshieldedNote()` does not verify the 32-byte recipient `pubkey` in the on-chain `deposit_note_spl` instruction data. When a user with multiple accounts in the wa",
+      "source_created_at": "2026-10-14T20:47:13Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/880",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855074924",
+      "title": "X-Debug-Eval header executes code (intentional feature)",
+      "url": "https://github.com/zik-instinct/nginx-with-RCE/issues/1",
+      "evidence": "This is a parody demo, not the official nginx project.\\n\\nThe `X-Debug-Eval` joke is simulated only: the page offers a few buttons and shows canned outputs. No request header is evaluated, and neither application code nor shell commands are executed. The “RCE” is a deliberately planted joke concept, but this repository does not implement real remote code execution.\\n\\nSee `index.html` for the fake terminal, scripted outputs, and celebratory animation.",
+      "source_created_at": "2026-10-14T20:24:42Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zik-instinct/nginx-with-RCE/issues/1",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855466523",
+      "title": "Proposal: adopt pdd-kit, open-source Product-Driven Development",
+      "url": "https://github.com/SuperteamDAO/earn/issues/1524",
+      "evidence": "Hi! I'm Itai, and I work on [pdd-kit](https://github.com/itai-gendler/pdd-kit), an open-source tool for keeping a product model next to the code. I've mapped Superteam Earn's behavior into one. Before opening any pull request, I'd like your opinion: would a model like this be useful to Superteam Earn's maintainers and contributors? It's on a branch of my fork, so nothing here changes unless you want it to. **pdd-kit is fully open source (MIT).** The format, the CLI, the agent skills and the report are all in [github.com/itai-gendler/pdd-kit](ht",
+      "source_created_at": "2026-10-14T20:52:02Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SuperteamDAO/earn/issues/1524",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855428252",
+      "title": "CraftHub: closing gap #2 (collaboration without accounts) — a decision brief for the administrators",
+      "url": "https://github.com/storytold/figcraft/issues/357",
+      "evidence": "## The one paragraph The family is fourteen world-class apps, each clean, independent and privacy-complete — and today a **set of individual tools**: collaborating means emailing files, selling means no marketplace exists, and anyone without a powerful machine (or unwilling to install) is excluded entirely. Your own docs record the gap: `collab-protocol.md` names its unexecuted step six as *\"Accounts: people signing in, per-person permissions, teams and projects\"* — the structure is ready; the missing layer is accounts, teams and permissions ab",
+      "source_created_at": "2026-10-14T20:49:26Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/storytold/figcraft/issues/357",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855206681",
+      "title": "Missing Activity: Shadowlands Callings",
+      "url": "https://github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/169",
+      "evidence": "Notes: * Callings might be considered \"bounties\" by blizzard and easily added there once the first set is in * Multiple Pets will be picked up. * Might be restricted to only seeing your aligned group and thus need to not check others Shadowlands Callings: Follow a 3 day pattern that goes as follows: * A Call to X: * Bastion: Gilded Wader chances (specific treasures, 1-4 per day) * Maldraxxus: up to 3 Skittering Venomspitter chances and not always present Slime-Coated Crate (I used to put the coords in because you won't see it unless you zone in",
+      "source_created_at": "2026-10-14T20:33:41Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/169",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5855133027",
+      "title": "BF-060: Security hardening — threat model, Postgres RLS defense in depth, sandbox and secrets hardening, ASVS review",
+      "url": "https://github.com/khanakhun/business-finder/issues/60",
+      "evidence": "> 📄 **Source of truth:** [`docs/tickets/BF-060-security-hardening-threat-model.md`](https://github.com/khanakhun/business-finder/blob/main/docs/tickets/BF-060-security-hardening-threat-model.md) — edit the file, then run `node scripts/tickets/sync-issues.mjs`. | Milestone | Epic | Priority | Size | Depends on | Blocks | |---|---|---|---|---|---| | M5 Learn & Scale | ops | P0 | L | BF-010 (#10), BF-011 (#11), BF-036 (#36), BF-043 (#43), BF-048 (#48), BF-052 (#52), BF-054 (#54) | BF-061 (#61) | ## Context By M5 the platform has: - many trust bou",
+      "source_created_at": "2026-10-14T20:28:33Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/khanakhun/business-finder/issues/60",
+      "first_seen_at": "2026-10-14T21:40:04.890Z",
+      "last_seen_at": "2026-10-14T21:40:04.890Z"
     },
     {
       "source": "github",
@@ -323,96 +833,6 @@
       "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
-      "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762468",
-      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
-      "url": "https://words.filippo.io/seeds-bounty/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T01:34:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-bounty",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49760509",
-      "title": "Intel Appears to End Its Bug Bounty Program",
-      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "evidence": "",
-      "source_created_at": "2026-09-18T21:29:33Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49729492",
-      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
-      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
-      "evidence": "",
-      "source_created_at": "2026-09-16T16:32:41Z",
-      "opp_type": "otro",
-      "score": 17,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
       "source": "github",
       "external_id": "5851484286",
       "title": "Integrate the Contracts2 mod into BetterFactions",
@@ -455,51 +875,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1251",
       "first_seen_at": "2026-10-14T16:33:24.786Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49721998",
-      "title": "Bug Bounty Operating Principles",
-      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "evidence": "",
-      "source_created_at": "2026-09-16T04:12:21Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49657229",
-      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "url": "https://hackerone.com/mozilla/updates?type=team",
-      "evidence": "",
-      "source_created_at": "2026-09-11T12:23:19Z",
-      "opp_type": "bug_bounty",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49677392",
-      "title": "Pacing Is a Setting on a Dial",
-      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
-      "evidence": "",
-      "source_created_at": "2026-09-12T21:28:15Z",
-      "opp_type": "otro",
-      "score": 4,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
@@ -3309,6 +3684,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-14T21:40:04.890Z",
+      "generated_at": "2026-10-14T21:40:04.890Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 1019
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 2446
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 25,
+      "seen_again": 22,
+      "archive_total": 245,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-14T17:12:20.990Z",
       "generated_at": "2026-10-14T17:12:20.990Z",
