@@ -37,6 +37,7 @@ jobs:
         run: |
           node --check app.js
           node --check core.js
+          npm run check
           npm test
       - name: Empaquetar actualización local verificable
         run: |
@@ -52,6 +53,10 @@ jobs:
           cp apex-global-intelligence-swarm/app.js site/
           cp apex-global-intelligence-swarm/core.js site/
           cp apex-global-intelligence-swarm/style.css site/
+          cp apex-global-intelligence-swarm/servicios.html site/
+          cp apex-global-intelligence-swarm/servicios-core.js site/
+          cp apex-global-intelligence-swarm/servicios-page.js site/
+          test -s site/servicios.html
           test -s site/index.html
           test -s site/app.js
           test -s site/core.js
@@ -88,6 +93,7 @@ jobs:
         run: |
           node --check app.js
           node --check core.js
+          npm run check
           npm test
       - name: Empaquetar actualización local verificable
         run: |
