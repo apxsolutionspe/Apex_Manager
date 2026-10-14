@@ -33,6 +33,13 @@ export function classifySignal(item,now=Date.now()) {
   const hasWords=positiveRx.test(text);
   const hasTitleWords=positiveRx.test(title);
   const hasMoney=sums.some(n=>n>0 && n<1000000);
+  // A word 'bounty' in a software issue may describe the product, not a job.
+  // Require published reward conditions and a direct budget claim before prioritizing.
+  const termsLink=/https:\/\/github\.com\/[^\s)]+\/(?:blob|tree)\/[^\s)]*\/(?:BOUNTY|REWARDS|REWARD|FUNDING|PRIZES)\.md\b/i.test(text);
+  const rewardTerms=/\b(?:payouts?|payments?|rewarded|reward pool|bounty pool|pay only after|paid after|prize money)\b/i.test(text);
+  const aggregator=/\b(?:bounty alert|bounty solution|roundup|news|list of bounties|scanner's detection)\b/i.test(title);
+  const described=String(item.evidence||'').trim().length>=100;
+  const supportedOffer=hasMoney&&termsLink&&rewardTerms&&described&&!aggregator;
   const date=Date.parse(item.source_created_at||item.first_seen_at||'');
   const days=Number.isFinite(date)?Math.floor((now-date)/MS_DAY):Infinity;
   const fresh=days>=0 && days<=CURRENT_DAYS;
@@ -40,10 +47,14 @@ export function classifySignal(item,now=Date.now()) {
   priority=Math.max(0,Math.min(90,priority));
   if(!open)reasons.push('No se confirmó que el issue esté abierto mediante la API original');
   if(!fresh)reasons.push('Fecha ausente, futura o anterior al período de revisión');
-  if(!hasMoney)reasons.push('No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro');
+  if(!hasMoney)reasons.push('No aparece un importe publicado en el anuncio');
+  if(!termsLink)reasons.push('Sin enlace a bases de recompensa en el registro');
+  if(!rewardTerms)reasons.push('Sin descripción explícita de condiciones de pago');
+  if(aggregator)reasons.push('Noticia o recopilación, no una oferta directa');
+  if(!described)reasons.push('Descripción insuficiente para evaluar condiciones');
   if(!String(item.evidence||'').trim())reasons.push('Sin descripción de requisitos en el registro disponible');
   if(!hasWords)reasons.push('No hay indicación de incentivo remunerado');
-  const status= open&&fresh&&hasTitleWords&&priority>=60?'investigar':'informativa';
+  const status= open&&fresh&&hasTitleWords&&supportedOffer&&priority>=60?'investigar':'informativa';
   reasons.push(status==='investigar'?'Candidato para verificar bases oficiales, elegibilidad y condiciones de pago':'No cumple los criterios mínimos para priorización');
   return {status,priority,reasons,checks:{eligibility:false,ownership:false,payment:false},published_amount_usd:hasMoney?Math.max(...sums.filter(n=>n>0&&n<1000000)):null};
 }
