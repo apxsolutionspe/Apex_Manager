@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-14T04:51:39.956Z",
+  "updated_at": "2026-10-14T11:49:56.000Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,517 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49935155",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T16:09:12Z",
+      "opp_type": "otro",
+      "score": 14,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5847123242",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1589",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-14 11:41 UTC #### 1. [Request to co-sign an unspent 6,300,243-sat funding output with Boltz's LND node (channel never locked in, Dec 2023)](https://github.com/BoltzExchange/boltz-backend/issues/1513) - **Repository:** [BoltzExchange/boltz-backend](https://github.com/BoltzExchange/boltz-backend) - **Comments:** 0 - **Last Updated:** 2026-10-14T11:39:49Z #### 2. [Three dead links in the Hardware Bug Bounty Programs table](https://github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2) - **R",
+      "source_created_at": "2026-10-14T11:41:34Z",
+      "opp_type": "bug_bounty",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1589",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5847098190",
+      "title": "Three dead links in the Hardware Bug Bounty Programs table",
+      "url": "https://github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2",
+      "evidence": "Checked the links in `sections/09-resources/04-bug-bounties.md` and three are dead: - Ring (via Bugcrowd): https://bugcrowd.com/ring → 404 - Samsung SmartThings security reporting: https://developer.samsung.com/smartthings/security-reporting → 404 - Google Nest security rewards: https://www.google.com/nest/security-rewards/ → 404 These are listed in the \"Major Hardware Bug Bounty Programs\" table as live programs. Need to find current URLs (programs may have moved to HackerOne/Bugcrowd under different slugs) or drop the rows if the programs are ",
+      "source_created_at": "2026-10-14T11:39:37Z",
+      "opp_type": "bug_bounty",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846201528",
+      "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/6",
+      "evidence": "**This issue participates in the [$500 Hybrid Bounty pool](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md).** Payouts ride the top-10 ladder there. Read [BOUNTY.md](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md) first: pay only after reproduction. ## The target The corpus (`corpus/`) is the project's tripwire: every case pins a checker verdict with a written rationale, and CI keeps it honest. We want more hostile cases, because the corpus is only as strong as the nastiest file in it. A good contribution ",
+      "source_created_at": "2026-10-14T10:31:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 48,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/6",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846201177",
+      "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
+      "evidence": "**This issue participates in the [$500 Hybrid Bounty pool](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md).** Payouts ride the top-10 ladder there ($75 / $60 / $50 podium, $45 for places 4 to 10). Read [BOUNTY.md](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md) before submitting: pay only after reproduction. ## The target Hybrid's whole promise is [GUARANTEES.md](https://github.com/limitlessprojects/Go-Hybrid/blob/main/GUARANTEES.md): a program the checker **accepts** is free of data races on shared mutab",
+      "source_created_at": "2026-10-14T10:31:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/5",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845808856",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 基线的 `run(\"retry\")` **无尝试上限** —— 被重试步骤真抛 `RuntimeError` 就**永不返回**，且它的 `ATTEMPTS 3` 是**假造注入**的产出（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/371",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml` L4-7「刻意**不**自动打标签（fail-closed）……而 `bounty` 标签是状态机的**准入闸**（`_check_claimable` 要求 `bounty` 在），自动打标 = 外部人可自授悬赏身份。故标签一律由维护者手动打」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` L68-70：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：冻结仓镜像 `_cross_eval_audit/repo`（与同批 P0-01 同一冻结基线 `main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`，2026-10-1",
+      "source_created_at": "2026-10-14T10:02:38Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/371",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845801169",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 基线 resume 档读数「自述冒充实测」＋ 四家同一读数三种口径（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/368",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml`「`bounty` 标签是状态机的**准入闸**……故标签一律由维护者手动打」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` §二：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z）。 **缺陷所在**：`bench/cross_eval/harness/baseline.py`、`bench/cross_eval/systems/llamaindex_impl.py`（＋四家读数口径）。 ## 交付物 | 项 | 值 | |-",
+      "source_created_at": "2026-10-14T10:02:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/368",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846818899",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：三处畸形「根形状」裸栈 ＋ `check_marker_reverts` 标记表为空静默退 0（维护者代立锚点 · 源 PR #366 已合入）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/379",
+      "evidence": "本件为**维护者代立**的 intake 锚点：外部贡献者 @acrot0 直接以 PR 形式交付，未另开 intake issue，故由维护者依 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间」补立登记件，供账本 `covers` 溯源。**本件不打 `bounty` 标签**（intake 是输入，不是悬赏）。 ## 交付物 | 项 | 值 | |---|---| | 源 PR | **#366**（`fix(guards): 畸形「根形状」不再裸栈 —— 三处判据面补 fail-closed`） | | 作者 | @acrot0 | | 合并提交 | `1f765dd28836`（维护者 squash 合入 `main`，作者归属保留 `acrot0`） | | 基线 | `77ff74bf6449` | | 体量 | +296/−7 · 7 文件 | | CI | `bounty-board-check` success · `review-check` success | | 同批 | PR **#376**（同作者）为其中间 commit `000d21c` 的复刻，**不单独合并**，内容已被本笔覆盖 | ## 缺陷本体（三",
+      "source_created_at": "2026-10-14T11:17:52Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/379",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846744357",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1250",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-14 11:12 UTC #### 1. [📚 DOCTRINE — Coverage Crosswalk](https://github.com/sanehunters/sane_android/issues/7) - **Repository:** [sanehunters/sane_android](https://github.com/sanehunters/sane_android) - **Comments:** 0 - **Last Updated:** 2026-10-14T11:09:34Z #### 2. [D27 · Reporting, Severity Rating & Evidence — 83 tests](https://github.com/sanehunters/sane_android/issues/45) - **Repository:** [sanehunters/sane_android](https://github.com/sanehunters/sane_android) - **Comments:** 0 - **Last ",
+      "source_created_at": "2026-10-14T11:12:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1250",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845906369",
+      "title": "【贡献申报】cross-eval（dsh-bounty issue #67 交付面）7 件量具/判据缺陷：P0×2 ＋ P1×5 —— 附逐条复现读数、参考补丁、定点变异与去重边界",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/375",
+      "evidence": "> 申报人：`@zijinmengxi` ｜ 范围：**`FuRongJun-1999/dsh-bounty`（子面 `bench/cross_eval`，即悬赏 #67 的交付面）** > 类别：**缺陷报告（7 件，均开在本仓）＋ 参考补丁（7 个，随 issue 附 diff，未开 PR）** > 本单为 `intake` 输入（**不打 `bounty`**，按 `docs/bounty/README.md` 末节「外部贡献申报走 intake 命名空间」），请维护者裁定后决定是否纳入结算表。 > 本账号在 `FuRongJun-1999/dsh-bounty` 无 push／triage 权限（`permissions` 只到 `pull`），故只能走 issue 通道；**未开 PR**（本机 `git` 走 schannel 不可用，且本批交付形态按 #67 的「评论证据块（分析/复现类）」），参考补丁以 diff ＋ 锚点式 `apply.py` ＋ 守卫件形式随各 issue 附上。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z，即 #67 第二份交",
+      "source_created_at": "2026-10-14T10:09:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/375",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845897855",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 守卫 R5「围栏读数必须逐字可指」有三条绕过面（跨引擎贴条／`#` 前缀／正文不核对），编造读数整篇免检（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/374",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml`「`bounty` 标签是状态机的**准入闸**……故标签一律由维护者手动打」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` §二：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z，即 issue #67 第二份交付 PR #282 合并后的 HEAD）。 **缺陷所在**：`scripts/check_reviews.py` 的 R5 判据，三处代码锚点：`raw_pool()`（L94-106）、`CMD_PREFIX`（L",
+      "source_created_at": "2026-10-14T10:08:50Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/374",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845894718",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 守卫 `section_body()` 取标题**首次出现**且不看围栏 ⇒ 假标题可架空 R7/R10/R11/R12（真未测节清空仍全绿）（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/373",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml`「刻意**不**自动打标签（fail-closed）……而 `bounty` 标签是状态机的**准入闸**（`_check_claimable` 要求 `bounty` 在），自动打标 = 外部人可自授悬赏身份。故标签一律由维护者手动打」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md`：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z，即 issue #67 第二份交付 PR #282 合并后的 HEAD）。 **缺陷所在**：`",
+      "source_created_at": "2026-10-14T10:08:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/373",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845861107",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 自证套件 10 条定点变异对 12 条判据 —— R3 零覆盖、A11 只断言「>= 10」、R4/R5/R6 只注入 LangGraph 一份、R8 只被首模式证明（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/372",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml` L6-L7「标签是状态机的**准入闸**（`_check_claimable` 要求 `bounty` 在），自动打标 = 外部人可自授悬赏身份 ⇒ 故标签一律由维护者手动打：`bounty` ＋ `bounty:open` ＋ `difficulty:{easy|medium|hard|expert}`」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` L70：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z，即 issue ",
+      "source_created_at": "2026-10-14T10:06:13Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/372",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845807069",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 守卫 R8 缺 `sha256` 即判通过 ＋ runner 失败模式退出码恒 0 ＋ 引擎自报证据键被 6 键白名单静默丢弃（同一族三处，附 `cfg_for` 形参零引用）（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/370",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml` L6-L7「标签是状态机的**准入闸**（`_check_claimable` 要求 `bounty` 在），自动打标 = 外部人可自授悬赏身份 ⇒ 故标签一律由维护者手动打：`bounty` ＋ `bounty:open` ＋ `difficulty:{easy|medium|hard|expert}`」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` L70：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（issue #67 第二份交付 PR #282 合并后的 ",
+      "source_created_at": "2026-10-14T10:02:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/370",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845799470",
+      "title": "【intake 输入】dsh-bounty（`bounty_site`）：cross-eval 报告 4 类共 21 条读数「指不到出处／指到错出处」，守卫 R5 覆盖不到该形态（子面 `bench/cross_eval`）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/367",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`.github/ISSUE_TEMPLATE/bounty.yml`「`bounty` 标签是状态机的**准入闸**……故标签一律由维护者手动打」⇒ 外部人**无法自授悬赏身份**； > `docs/bounty/README.md` §二：`/claim` 的校验②要求「`bounty` 标签**在**且为 `open`/`expired` 态」。 > > ⇒ **本件不主张认领**，仅提供可复核证据，供维护者裁定。 > 权限现状（如实）：本账号对 `dsh-bounty` 的 `permissions` 只到 `pull`，无法自行加 `intake` 标签。 **审计基线**：`main` @ `e65be3ee147b3a6f5fd505faf8f43f308b6cadb9`（2026-10-14T07:49:57Z，即 issue #67 第二份交付 PR #282 合并后的 HEAD）。 **缺陷所在**：`docs/reviews/*.md`（三份方案报告 ＋ 测评方法论）与 `scripts/check_reviews.py` 的 R5 判据。 ## 交付",
+      "source_created_at": "2026-10-14T10:02:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/367",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5847100641",
+      "title": "Request to co-sign an unspent 6,300,243-sat funding output with Boltz's LND node (channel never locked in, Dec 2023)",
+      "url": "https://github.com/BoltzExchange/boltz-backend/issues/1513",
+      "evidence": "Hello Boltz team, First, thank you for reading this at all. I know the last few months have been hard ones for Boltz, and this is a request for a favour rather than a bug report: one signature from your LND node would release funds of mine that have been stuck since 2023. I am filing it here because email to hi@bol.tz and the support centre has gone unanswered since 3 September, and I understand the team has changed. If this is the wrong place, I would be grateful for a pointer to the right one. **What happened** On 14 December 2023 my Core Lig",
+      "source_created_at": "2026-10-14T11:39:49Z",
+      "opp_type": "subvencion",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BoltzExchange/boltz-backend/issues/1513",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846672152",
+      "title": "【贡献申报】周期 PR 审核：lingshu × dsh-memory 14 件在飞 PR 的独立复核（主审 + 对抗双轮，附 14 条已发布评论与逐条复现读数）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/377",
+      "evidence": "> **归属与档位（按本仓口径）**：`project:memory` · 难度自申请 **expert**（申请 **10 分**；最终由维护者定档）· 影响等级建议 **A**（量具/判据失效 + 阻断级缺陷被拦截；详见 §四）· 证据强度自评 **强**（今日两轮 **42 条**复核全部在**已发布的上游评论**里可公开查证，附钉死 SHA 与逐条原始读数） > > **性质声明**：本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签（外部账号对本仓只有 `pull` 权限），也不发 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md`「准入面」末段：外部贡献申报走 intake 命名空间（不打 bounty），是输入不是悬赏，维护者裁定后另立悬赏。 > > **利益关系公示**：报告作者与申请账号同为 `@ybyz2`，复核由作者侧 AI 实施，属**自提交申报**，不是独立第三方验收。 > > **诚实边界（先说结论）**：本批是**评审类交付**（今日两轮对上游 **42 件**在飞 PR 的独立复核；本件 §二 列出最新一轮",
+      "source_created_at": "2026-10-14T11:06:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/377",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846327979",
+      "title": "Security report: tari-ootle unauthenticated single-peer fill of the 64 MiB consensus future-view buffer at the nearest view permanently locks out honest proposals and votes (GHSA-96fw-3mr9-2qq2)",
+      "url": "https://github.com/tari-project/special_contributions/issues/185",
+      "evidence": "Retro bounty for @Char0n1507 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-96fw-3mr9-2qq2](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-96fw-3mr9-2qq2). The report showed that unauthenticated single-peer fill of the 64 MiB consensus future-view buffer at the nearest view permanently locks out honest proposals and votes. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2921. **No code work is required ",
+      "source_created_at": "2026-10-14T10:40:50Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/185",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5847061682",
+      "title": "Crash in [Adventure Map] dialog (AI turn) EIP: H3era hd.0042F786. Code: C0000005",
+      "url": "https://github.com/ERA-Projects/era-project-eng/issues/950",
+      "evidence": "Description: > #### The game crashes with the message \"map drawing error\". Mod List: Aphra's Creature Fixes (HD Edition) [v0.2.2] Stable Diffusion Portraits 1.0.0 [v1.0.0] HD Edition+fix+ai (ENG) [v0.1.0] JS - new terrains v.1.2.1 [v1.2.1] Third Upgrade Mod [v3.4.2] JS - main module v.1.21 [v1.21] ERA Spells [v0.6 Beta] JS - new objects v.1.36 [v1.36] Stack Experience Rebalance [v0.9] Advanced Classes Mod 1.11 [v1.11] ShimmY Improved Objects [v1.2] Hit Landing Effects [v2.01] New_Terrains [v1.0] ERA scripts [v3] Darkened Players [v1.0] Bigger B",
+      "source_created_at": "2026-10-14T11:36:47Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ERA-Projects/era-project-eng/issues/950",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846752263",
+      "title": "[intake][贡献申报] 世界过程第1组：时间会意、示教迁移与运动组合体（lingshu #567）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/378",
+      "evidence": "# 世界过程第 1 组自发贡献申报 ## 意图声明 申请维护者评估世界过程第 1 组的新增能力。 本申报走普通 intake，不自行定难度、影响或分数。 申报人：@rinDBeans。 ## 固定版本与增量边界 - 功能 PR：[lingshu #567](https://github.com/FuRongJun-1999/lingshu/pull/567)。 - 交付提交：[`eba6575abc0dc3b27f92de8da76620ab172feec3`](https://github.com/FuRongJun-1999/lingshu/commit/eba6575abc0dc3b27f92de8da76620ab172feec3)。 - 本组新增功能提交：[`d854482`](https://github.com/FuRongJun-1999/lingshu/commit/d854482569623f5a7ffd3fc1ec368477acaee07f)。 - 新增功能比较基线：`894493b42b255f7060e9f3d93ff4d524505ac61c`。 - 前置依赖：[lingshu #516](https://github.com/FuRongJun-199",
+      "source_created_at": "2026-10-14T11:12:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/378",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846706015",
+      "title": "D27 · Reporting, Severity Rating & Evidence — 83 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/45",
+      "evidence": "## D27 · Reporting, Severity Rating & Evidence — 83 items · phase P9 | Read | Why | |---|---| | [`START.md`](https://github.com/sanehunters/sane_android/blob/main/START.md) §5 | how to work one domain: card → applicability probe → items in triage order → `scripts/mark.py` | | [`cards/D27.md`](https://github.com/sanehunters/sane_android/blob/main/cards/D27.md) | this battery (mirrored below) | | `python3 scripts/item.py D27-001` | any item in full; never load the chapter | | [`checklist/D27-reporting-and-evidence.md`](https://github.com/sanehunt",
+      "source_created_at": "2026-10-14T11:09:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/sanehunters/sane_android/issues/45",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846704060",
+      "title": "D22 · Platform & OS Version-Specific Behaviour — 86 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/40",
+      "evidence": "## D22 · Platform & OS Version-Specific Behaviour — 86 items · phase P4 | Read | Why | |---|---| | [`START.md`](https://github.com/sanehunters/sane_android/blob/main/START.md) §5 | how to work one domain: card → applicability probe → items in triage order → `scripts/mark.py` | | [`cards/D22.md`](https://github.com/sanehunters/sane_android/blob/main/cards/D22.md) | this battery (mirrored below) | | `python3 scripts/item.py D22-001` | any item in full; never load the chapter | | [`checklist/D22-platform-version-behaviour.md`](https://github.com/s",
+      "source_created_at": "2026-10-14T11:09:13Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/sanehunters/sane_android/issues/40",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846702264",
+      "title": "D17 · Dynamic Code Loading, Deserialization & Supply Chain — 86 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/35",
+      "evidence": "## D17 · Dynamic Code Loading, Deserialization & Supply Chain — 86 items · phase P4 | Read | Why | |---|---| | [`START.md`](https://github.com/sanehunters/sane_android/blob/main/START.md) §5 | how to work one domain: card → applicability probe → items in triage order → `scripts/mark.py` | | [`cards/D17.md`](https://github.com/sanehunters/sane_android/blob/main/cards/D17.md) | this battery (mirrored below) | | `python3 scripts/item.py D17-001` | any item in full; never load the chapter | | [`checklist/D17-dynamic-loading-and-supplychain.md`](htt",
+      "source_created_at": "2026-10-14T11:09:05Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/sanehunters/sane_android/issues/35",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5846701909",
+      "title": "D16 · Native Code, JNI & Memory Safety — 65 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/34",
+      "evidence": "## D16 · Native Code, JNI & Memory Safety — 65 items · phase P4 | Read | Why | |---|---| | [`START.md`](https://github.com/sanehunters/sane_android/blob/main/START.md) §5 | how to work one domain: card → applicability probe → items in triage order → `scripts/mark.py` | | [`cards/D16.md`](https://github.com/sanehunters/sane_android/blob/main/cards/D16.md) | this battery (mirrored below) | | `python3 scripts/item.py D16-001` | any item in full; never load the chapter | | [`checklist/D16-native-code-and-memory.md`](https://github.com/sanehunters/s",
+      "source_created_at": "2026-10-14T11:09:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/sanehunters/sane_android/issues/34",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845599639",
+      "title": "Some issues with the 60-CVE baseline dataset in your paper",
+      "url": "https://github.com/BUseclab/cve-genie/issues/4",
+      "evidence": "Dear maintainers, We recently attempted to evaluate our latest work on your baseline dataset, but we found several errors in the dataset information. Our findings suggest that the CVE reproduction failures are not caused by environment setup failures as stated in your paper, but rather by incorrect collection of information about the target under test. For example, in your dataset at baseline/exp-1/CVE-2025-1040, the entry is: \"sw_version_wget\": \"https://github.com/significant-gravitas/autogpt/archive/refs/tags/v0.3.1.zip\" However, after checki",
+      "source_created_at": "2026-10-14T09:48:00Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BUseclab/cve-genie/issues/4",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5845561538",
+      "title": "UI-FE-069 — Run Support, Status, Security, and Legal E2E Journeys",
+      "url": "https://github.com/DigiNodes/truthbounty-frontend/issues/641",
+      "evidence": "## Problem context The approved six-batch screen catalogue does not assign this cross-cutting production boundary to a focused open issue. This task must be implemented once and consumed by the relevant compositions. ## Technical scope - Exercise docs, status, incidents, contact, support request, responsible disclosure, privacy, terms, disclosures, consent versioning, and system-support states. - Use only approved legal/content fixtures and sanitized operational data. ## Security, architecture, and accessibility constraints - Follow the approve",
+      "source_created_at": "2026-10-14T09:45:11Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/DigiNodes/truthbounty-frontend/issues/641",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49767561",
+      "title": "How many times will my son see my parents?",
+      "url": "https://countyourtimes.com/our-son",
+      "evidence": "",
+      "source_created_at": "2026-09-19T15:52:46Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "countyourtimes.com/our-son",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z"
     },
     {
       "source": "hackernews",
@@ -219,36 +729,6 @@
     },
     {
       "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
-    },
-    {
-      "source": "hackernews",
       "external_id": "49760509",
       "title": "Intel Appears to End Its Bug Bounty Program",
       "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
@@ -259,21 +739,6 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-14T04:51:39.956Z"
     },
@@ -2034,21 +2499,6 @@
     },
     {
       "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "hackernews",
       "external_id": "49937131",
       "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
       "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
@@ -2089,66 +2539,6 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:24:37.789Z"
     },
@@ -2259,6 +2649,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-14T11:49:56.000Z",
+      "generated_at": "2026-10-14T11:49:56.000Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 349
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 552
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 26,
+      "seen_again": 21,
+      "archive_total": 176,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-14T04:51:39.956Z",
       "generated_at": "2026-10-14T04:51:39.956Z",
