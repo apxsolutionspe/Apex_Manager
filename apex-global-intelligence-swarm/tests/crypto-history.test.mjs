@@ -1,0 +1,15 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {applyResearchHistory,researchPriority,MAX_HISTORY_RUNS} from '../scripts/crypto-history.mjs';
+import {buildCloudRadar} from '../scripts/crypto-watch.mjs';
+import {CAMPAIGNS,makeRadar} from '../scripts/crypto-core.mjs';
+const date=new Date('2026-10-14T12:00:00Z');
+const feed=()=>{const f=makeRadar(CAMPAIGNS,date);f.stats.checked_public_sources=3;f.stats.public_source_matches=1;f.opportunities[0].source_confirmed=true;f.opportunities[0].official_page_access='texto_publico_coincidente';return f};
+test('History starts with one full run and no claimed cash',()=>{const x=applyResearchHistory(feed());assert.equal(x.research_history.runs.length,1);assert.equal(x.research_history.total_checks,3);assert.equal(x.economics.verified_income_usd,0)});
+test('Source match rate accumulates across scans',()=>{const a=applyResearchHistory(feed()),f=feed();f.generated_at='2026-10-14T13:00:00Z';f.opportunities[0].source_confirmed=false;f.stats.public_source_matches=0;const b=applyResearchHistory(f,a);assert.equal(b.research_history.campaigns[0].checked_runs,2);assert.equal(b.research_history.campaigns[0].source_match_rate_pct,50);assert.equal(b.research_history.runs.length,2)});
+test('Repeated run timestamp dedupes records',()=>{const a=applyResearchHistory(feed()),b=applyResearchHistory(feed(),a);assert.equal(b.research_history.runs.length,1)});
+test('Rejects incompatible historical data',()=>assert.throws(()=>applyResearchHistory(feed(),{schema:'unexpected'}),/no sobrescribir/));
+test('Rejects invalid current data',()=>assert.throws(()=>applyResearchHistory({schema:'x',opportunities:[]}),/inválido/));
+test('Closes finished programs at priority zero',()=>{const x={...feed().opportunities[1],status:'plazo_finalizado',source_confirmed:true};assert.equal(researchPriority(x,date).score,0)});
+test('Prioritization does not imply a payment',()=>{const x=applyResearchHistory(feed());assert.match(x.ranking_note,/no predicción/);assert(x.opportunities.every(y=>y.amount_received_verified===0 && y.automatic_claim_possible===false))});
+test('History is bounded to 168 samples',()=>{let a=null;for(let i=0;i<MAX_HISTORY_RUNS+11;i++){const f=feed();f.generated_at=new Date(date.getTime()+i*3600000).toISOString();a=applyResearchHistory(f,a)}assert.equal(a.research_history.runs.length,MAX_HISTORY_RUNS);assert.equal(a.research_history.total_checks,MAX_HISTORY_RUNS*3)});
+test('Cloud run with mock source saves history',async()=>{const a=await buildCloudRadar({now:date,fetcher:async()=>({ok:true,headers:{get:()=>''},text:async()=>'<html>not confirmed</html>'})});assert.equal(a.research_history.runs.length,1);assert.equal(a.research_history.total_public_matches,0)});
