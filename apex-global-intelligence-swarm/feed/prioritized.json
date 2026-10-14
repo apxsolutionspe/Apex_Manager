@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T15:54:55.323Z",
+  "generated_at": "2026-10-14T15:57:43.455Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -11,34 +11,13 @@
   },
   "summary": {
     "total_evaluated": 202,
-    "investigar": 2,
-    "informativa": 186,
+    "investigar": 1,
+    "informativa": 187,
     "descartar": 14,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
-    {
-      "source": "github",
-      "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/6",
-      "source_created_at": "2026-10-14T10:31:05Z",
-      "first_seen_at": "2026-10-14T11:49:56.000Z",
-      "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
-      "priority": 82,
-      "reasons": [
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 500,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
     {
       "source": "github",
       "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
@@ -54,7 +33,8 @@
       "checks": {
         "eligibility": false,
         "ownership": false,
-        "payment": false
+        "payment": false,
+        "issue_open_now": true
       },
       "published_amount_usd": 500,
       "monetary_value_received": 0,
@@ -66,7 +46,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
       "source_created_at": "2026-10-14T15:23:47Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -232,11 +212,34 @@
     },
     {
       "source": "github",
+      "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/6",
+      "source_created_at": "2026-10-14T10:31:05Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago",
+        "La API oficial confirmó que el issue ya no está abierto o no es un issue"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false,
+        "issue_open_now": false
+      },
+      "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[SC-48] Decentralized Public Goods Bounty Matching Pool with Milestone Payouts",
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
       "source_created_at": "2026-10-14T15:24:48Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -259,7 +262,7 @@
       "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
       "source_created_at": "2026-10-14T13:06:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -282,7 +285,7 @@
       "url": "https://github.com/tamgahq/sandbox/issues/2",
       "source_created_at": "2026-10-14T14:02:35Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -691,7 +694,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/2",
       "source_created_at": "2026-10-14T13:00:27Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [
@@ -1102,7 +1105,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/3",
       "source_created_at": "2026-10-14T13:00:29Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1127,7 +1130,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/1",
       "source_created_at": "2026-10-14T13:00:26Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1449,7 +1452,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/395",
       "source_created_at": "2026-10-14T14:37:51Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1473,7 +1476,7 @@
       "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
       "source_created_at": "2026-10-14T15:22:36Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1497,7 +1500,7 @@
       "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
       "source_created_at": "2026-10-14T15:03:14Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1521,7 +1524,7 @@
       "url": "https://github.com/zeduchat/zedu-fe/issues/815",
       "source_created_at": "2026-10-14T13:02:11Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2000,7 +2003,7 @@
       "url": "https://github.com/everstrat-xyz/contracts/issues/54",
       "source_created_at": "2026-10-14T13:27:18Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2025,7 +2028,7 @@
       "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
       "source_created_at": "2026-10-14T15:35:04Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2050,7 +2053,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/5",
       "source_created_at": "2026-10-14T13:00:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2075,7 +2078,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/4",
       "source_created_at": "2026-10-14T13:00:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2099,7 +2102,7 @@
       "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/21",
       "source_created_at": "2026-10-14T12:52:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2124,7 +2127,7 @@
       "url": "https://github.com/razorpay/go-financial/issues/49",
       "source_created_at": "2026-10-14T15:38:20Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2148,7 +2151,7 @@
       "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
       "source_created_at": "2026-10-14T15:35:00Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2173,7 +2176,7 @@
       "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
       "source_created_at": "2026-10-14T14:46:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2198,7 +2201,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
       "source_created_at": "2026-10-14T14:38:50Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2223,7 +2226,7 @@
       "url": "https://github.com/sourcey/startup-credits/issues/1759",
       "source_created_at": "2026-10-14T14:32:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2248,7 +2251,7 @@
       "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
       "source_created_at": "2026-10-14T13:34:02Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2273,7 +2276,7 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
       "source_created_at": "2026-10-14T15:47:28Z",
       "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -3898,7 +3901,7 @@
       "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
       "source_created_at": "2026-10-09T00:11:59Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 46,
       "reasons": [
@@ -3924,7 +3927,7 @@
       "url": "https://github.com/microg/GmsCore/issues/2994",
       "source_created_at": "2026-10-11T13:09:25Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "last_seen_at": "2026-10-14T15:57:42.623Z",
       "status": "informativa",
       "priority": 46,
       "reasons": [
