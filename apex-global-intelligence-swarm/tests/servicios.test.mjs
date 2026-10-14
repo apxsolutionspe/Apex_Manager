@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {SERVICIOS,WHATSAPP_PUBLICO,armarSolicitud,enlaceWhatsApp} from '../servicios-core.js';
+test('Catálogo contiene servicios reales, sin duplicados',()=>{assert.equal(SERVICIOS.length,6);assert.equal(new Set(SERVICIOS.map(x=>x.id)).size,6)});
+test('Solicitud requiere servicio',()=>assert.throws(()=>armarSolicitud({servicios:[]}),/Selecciona/));
+test('Genera brief concreto sin cobros ni promesas',()=>{const t=armarSolicitud({servicios:['web','redes'],negocio:'Comercio',detalle:'Necesito catálogo',plazo:'Este mes'});assert.match(t,/Página web corporativa/);assert.match(t,/Internet, Wi-Fi y redes/);assert.match(t,/sin contratos|no es una cotización vinculante/i)});
+test('Excluye identificadores arbitrarios de productos',()=>{const t=armarSolicitud({servicios:['no-existe','soporte']});assert.ok(t.includes('Soporte y mantenimiento TI'));assert.ok(!t.includes('no-existe'))});
+test('Normaliza texto ingresado y limita longitud',()=>{const t=armarSolicitud({servicios:['web'],detalle:'x'.repeat(3000)+'\r\nOTRO'});assert.ok(t.length<1000);assert.ok(!t.includes('OTRO'))});
+test('No acepta plazos inventados',()=>{const t=armarSolicitud({servicios:['web'],plazo:'en 5 minutos'});assert.match(t,/Por definir/);assert.doesNotMatch(t,/en 5 minutos/)});
+test('Contacto pertenece al canal comercial publicado',()=>assert.equal(WHATSAPP_PUBLICO,'51931797758'));
+test('URL WhatsApp conserva contenido codificado',()=>{const u=new URL(enlaceWhatsApp({servicios:['software'],negocio:'Tienda & Co.'}));assert.equal(u.hostname,'wa.me');assert.equal(u.pathname,'/51931797758');assert.match(u.searchParams.get('text'),/Tienda & Co\./)});
+test('No introduce scripts ejecutables en la página',()=>{const t=armarSolicitud({servicios:['web'],detalle:'<img src=x onerror=alert(1)>'});assert.ok(t.includes('<img'));assert.ok(typeof t==='string')});
