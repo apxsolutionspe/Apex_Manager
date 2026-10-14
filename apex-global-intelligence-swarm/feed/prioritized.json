@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T16:13:59.943Z",
+  "generated_at": "2026-10-14T16:30:18.221Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 203,
+    "total_evaluated": 205,
     "investigar": 1,
-    "informativa": 188,
+    "informativa": 190,
     "descartar": 14,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -46,7 +46,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
       "source_created_at": "2026-10-14T15:23:47Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
       "source_created_at": "2026-10-14T15:24:48Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -262,7 +262,7 @@
       "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
       "source_created_at": "2026-10-14T13:06:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -285,7 +285,7 @@
       "url": "https://github.com/tamgahq/sandbox/issues/2",
       "source_created_at": "2026-10-14T14:02:35Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -694,7 +694,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/2",
       "source_created_at": "2026-10-14T13:00:27Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [
@@ -1105,32 +1105,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/3",
       "source_created_at": "2026-10-14T13:00:29Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🏹 Shared transaction test vectors (Rust ⇄ TypeScript)",
-      "url": "https://github.com/jackdishman/blockula/issues/1",
-      "source_created_at": "2026-10-14T13:00:26Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1155,6 +1130,31 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/568",
       "source_created_at": "2026-10-14T15:40:00Z",
       "first_seen_at": "2026-10-14T16:12:16.930Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Shared transaction test vectors (Rust ⇄ TypeScript)",
+      "url": "https://github.com/jackdishman/blockula/issues/1",
+      "source_created_at": "2026-10-14T13:00:26Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
       "last_seen_at": "2026-10-14T16:13:59.135Z",
       "status": "informativa",
       "priority": 63,
@@ -1473,35 +1473,11 @@
     },
     {
       "source": "github",
-      "title": "【intake 输入】dsh-memory #313 复验：#148 的修复漏接 check/record_accepted —— private/secret 明文骨架仍落 _writelimit.json（维护者判定成立，落修 a15f5f25；修复由维护者完成）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/395",
-      "source_created_at": "2026-10-14T14:37:51Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Auto-track accepted quests + Track every quest",
       "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
       "source_created_at": "2026-10-14T15:22:36Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1525,7 +1501,7 @@
       "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
       "source_created_at": "2026-10-14T15:03:14Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1548,6 +1524,78 @@
       "title": "[Marketing] Add a sponsorship program and application page for university hackathons",
       "url": "https://github.com/zeduchat/zedu-fe/issues/815",
       "source_created_at": "2026-10-14T13:02:11Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Integrate the Contracts2 mod into BetterFactions",
+      "url": "https://github.com/garretreichenbach/BetterFactions/issues/38",
+      "source_created_at": "2026-10-14T16:25:08Z",
+      "first_seen_at": "2026-10-14T16:30:15.807Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu：hex_search 两处声明与实现不一致——blindspot_evidence.pos 实为深度、evaluate_node 注释阈值 0.5/0.3 与实现 0.35/0.12 不符",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/398",
+      "source_created_at": "2026-10-14T16:17:52Z",
+      "first_seen_at": "2026-10-14T16:30:15.807Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory #313 复验：#148 的修复漏接 check/record_accepted —— private/secret 明文骨架仍落 _writelimit.json（维护者判定成立，落修 a15f5f25；修复由维护者完成）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/395",
+      "source_created_at": "2026-10-14T14:37:51Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
       "last_seen_at": "2026-10-14T16:13:59.135Z",
       "status": "informativa",
@@ -2028,7 +2076,7 @@
       "url": "https://github.com/everstrat-xyz/contracts/issues/54",
       "source_created_at": "2026-10-14T13:27:18Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2053,7 +2101,7 @@
       "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
       "source_created_at": "2026-10-14T15:35:04Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2078,7 +2126,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/5",
       "source_created_at": "2026-10-14T13:00:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2103,7 +2151,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/4",
       "source_created_at": "2026-10-14T13:00:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2127,7 +2175,7 @@
       "url": "https://github.com/razorpay/go-financial/issues/49",
       "source_created_at": "2026-10-14T15:38:20Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2151,7 +2199,7 @@
       "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
       "source_created_at": "2026-10-14T15:35:00Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2176,7 +2224,7 @@
       "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
       "source_created_at": "2026-10-14T14:46:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2201,7 +2249,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
       "source_created_at": "2026-10-14T14:38:50Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2226,7 +2274,7 @@
       "url": "https://github.com/sourcey/startup-credits/issues/1759",
       "source_created_at": "2026-10-14T14:32:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2251,7 +2299,7 @@
       "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
       "source_created_at": "2026-10-14T13:34:02Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2276,7 +2324,7 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
       "source_created_at": "2026-10-14T15:47:28Z",
       "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
+      "last_seen_at": "2026-10-14T16:30:15.807Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -3892,57 +3940,6 @@
         "payment": false
       },
       "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "交付：lingshu 贡献结算核对 —— 7 件 PR 按「内容在库」判定实际落地 2 件（#26 / #286），另 5 件未采纳并逐条给出反证",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/265",
-      "source_created_at": "2026-10-13T16:51:28Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "hackernews",
-      "title": "Omarchy launches $100k bug bounty program on HackerOne",
-      "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
-      "source_created_at": "2026-10-09T00:11:59Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
-      "status": "informativa",
-      "priority": 46,
-      "reasons": [
-        "No se confirmó que el issue esté abierto mediante la API original",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Descripción insuficiente para evaluar condiciones",
-        "Sin descripción de requisitos en el registro disponible",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 100,
       "monetary_value_received": 0,
       "verified_payment": false
     }
