@@ -99,6 +99,8 @@ jobs:
       - name: Actualizar radar público en segundo plano
         run: node apex-global-intelligence-swarm/scripts/refresh-feed.mjs
       - name: Clasificar señales públicas sin ejecutar reclamaciones
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           node apex-global-intelligence-swarm/scripts/prioritize-feed.mjs
           test -s apex-global-intelligence-swarm/feed/prioritized.json
