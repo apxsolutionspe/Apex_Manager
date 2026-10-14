@@ -1,0 +1,3630 @@
+{
+  "schema": "apex-prioritized-v1",
+  "generated_at": "2026-10-14T15:50:55.300Z",
+  "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
+  "methodology": {
+    "version": 1,
+    "fresh_days": 45,
+    "automatic_code_execution": false,
+    "automatic_claims": false,
+    "automatic_transfers": false
+  },
+  "summary": {
+    "total_evaluated": 202,
+    "investigar": 31,
+    "informativa": 157,
+    "descartar": 14,
+    "verified_payouts": 0,
+    "verified_income_usd": 0
+  },
+  "items": [
+    {
+      "source": "github",
+      "title": "[SC-30] Decentralized Bounty & GitHub Issue Micro-Payment Reward Protocol",
+      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
+      "source_created_at": "2026-10-14T15:23:47Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1589",
+      "source_created_at": "2026-10-14T11:41:34Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[frontend] Show the scanner's detection for a bounty's package",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
+      "source_created_at": "2026-10-13T21:22:05Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "adapter:bounty-scope — Snapshot-based Bug Bounty metadata verification (HackerOne/Bugcrowd)",
+      "url": "https://github.com/kate8382/AURA/issues/87",
+      "source_created_at": "2026-10-13T17:16:51Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] 账本 `role` 不是权威面：`revoke` 压不住 `BOUNTY_REVIEWERS` 名单里的审核员；账本 `maintainer` 角色在真模式里完全不被读取（grant 无效、revoke 也无效）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
+      "source_created_at": "2026-10-13T17:01:53Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P2] 3682f5c 的作者闸只挂在 `/claim` 上：招标路径 `/bid → /select → /verify → /settle` 不查作者（`/bid` 连 `bounty` 标签闸也不查），外部人发布的 issue 带上 `bounty:contest` 就能一路结算",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
+      "source_created_at": "2026-10-13T17:01:56Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Solution] coollabsio/coolify#8232: [Enhancement]: Add Open Replay",
+      "url": "https://github.com/chiuhehe1-design/conm/issues/36",
+      "source_created_at": "2026-10-13T17:06:27Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "investigar",
+      "priority": 85,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/6",
+      "source_created_at": "2026-10-14T10:31:05Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 82,
+      "reasons": [
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
+      "source_created_at": "2026-10-14T10:31:03Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 82,
+      "reasons": [
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[SC-48] Decentralized Public Goods Bounty Matching Pool with Milestone Payouts",
+      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
+      "source_created_at": "2026-10-14T15:24:48Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[OWL Bounty Radar] Open pilot — 10 bounty due diligence checks / 15 Base USDC",
+      "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
+      "source_created_at": "2026-10-14T13:06:46Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Describe how to try a bounty in the README",
+      "url": "https://github.com/tamgahq/sandbox/issues/2",
+      "source_created_at": "2026-10-14T14:02:35Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Three dead links in the Hardware Bug Bounty Programs table",
+      "url": "https://github.com/SeedonD/Hardware-Hacking-Starter-Pack/issues/2",
+      "source_created_at": "2026-10-14T11:39:37Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1250",
+      "source_created_at": "2026-10-14T11:12:17Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】cross-eval（dsh-bounty issue #67 交付面）7 件量具/判据缺陷：P0×2 ＋ P1×5 —— 附逐条复现读数、参考补丁、定点变异与去重边界",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/375",
+      "source_created_at": "2026-10-14T10:09:26Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "High: No web UI for Ash Pit bounty place/cancel",
+      "url": "https://github.com/LegendofKEK/bichael/issues/294",
+      "source_created_at": "2026-10-14T03:39:46Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Critical: PvP bounty uses synthetic receipts with no live escrow gate",
+      "url": "https://github.com/LegendofKEK/bichael/issues/290",
+      "source_created_at": "2026-10-14T03:39:42Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Priced MCP operations are free and ungated at their REST twins (spend grant, cap, room allowance, single-use all bypassed)",
+      "url": "https://github.com/Uuriko/project-room/issues/3269",
+      "source_created_at": "2026-10-13T21:52:41Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Medium] Escrow settlement is not atomic across its two stores: in-memory dispute machine survives DB rollback, and closeEpoch commits partial settlements on per-bounty errors",
+      "url": "https://github.com/Uuriko/project-room/issues/3275",
+      "source_created_at": "2026-10-13T21:54:08Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[High] Split-decided 1-milli bounty wedges in 'approved' forever: epoch sweep throws 'nothing approved to sweep' before settling the claim bond (successor to #2840)",
+      "url": "https://github.com/Uuriko/project-room/issues/3263",
+      "source_created_at": "2026-10-13T21:49:44Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[contract] Minimum bounty amount per token",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/172",
+      "source_created_at": "2026-10-13T21:22:40Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[contract] Reject self-claims by the bounty creator",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/171",
+      "source_created_at": "2026-10-13T21:22:33Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty templates management for clients",
+      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
+      "source_created_at": "2026-10-13T21:21:56Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Mobile: end-to-end tests with Maestro or Detox for sign-in and bounty browsing",
+      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
+      "source_created_at": "2026-10-13T21:22:48Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[SecurityWeek] Google Partially Reverses Chrome Bug Bounty Cuts",
+      "url": "https://github.com/SecOpsNews/news/issues/75026",
+      "source_created_at": "2026-10-13T17:09:08Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Units and the economy: bounty, combo and upkeep",
+      "url": "https://github.com/vandelay87/pile-up/issues/175",
+      "source_created_at": "2026-10-13T18:24:32Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[贡献验收申请][expert] LarryE135：dsh-bounty 审核员机制 / 准入面三层审计 5 条（P1×3 / P2×2），请纳入结算表",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/272",
+      "source_created_at": "2026-10-13T17:02:15Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Solution] coollabsio/coolify#8264: [Enhancement]: WordPress + OpenLiteSpeed service template",
+      "url": "https://github.com/chiuhehe1-design/conm/issues/35",
+      "source_created_at": "2026-10-13T17:04:35Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "investigar",
+      "priority": 73,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Patrols] Retribution patrols/bounty hunters from coyotes if attacked by player",
+      "url": "https://github.com/DeonUrist/WildWasteland/issues/115",
+      "source_created_at": "2026-10-14T02:14:43Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "investigar",
+      "priority": 65,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Sin descripción de requisitos en el registro disponible",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
+      "source_created_at": "2026-10-13T22:30:11Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 65,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
+      "source_created_at": "2026-10-13T22:29:01Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "investigar",
+      "priority": 65,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Fuzz targets for transaction and block decoding",
+      "url": "https://github.com/jackdishman/blockula/issues/2",
+      "source_created_at": "2026-10-14T13:00:27Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu：7 条缺陷报告在 214717b 上的复跑（#485/#491/#492/#493/#494/#495 仍复现 · #496 已由第三方修复）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/294",
+      "source_created_at": "2026-10-14T04:24:14Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】lingshu_ng 工程版（LingShu-prime Liyang/，rel-v1.26 5f32856c）：零外部依赖核心＋4 独立插件 · 确定性测试矩阵 · 上游 API 兼容 260/260 签名、215/260 实测实现 · 附复跑命令与未胜项",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/293",
+      "source_created_at": "2026-10-14T04:17:20Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bug: upload endpoint accepts empty file submissions as successful uploads (reissue via #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13311",
+      "source_created_at": "2026-10-14T02:25:09Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bug: Missing Input Validation on Search Query (reissue via #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13309",
+      "source_created_at": "2026-10-14T02:13:37Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[frontend] Cache contract reads between pages",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/168",
+      "source_created_at": "2026-10-13T21:22:16Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] build_state 遇非数字 rounds 崩溃，bot 流程卡死",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/275",
+      "source_created_at": "2026-10-13T17:52:39Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] 晋升判据把真模式的 `round=1`（真实返工一次）当成「追溯性中性占位」：每条都先被退回一次的人判达标，偶尔一次过闸的人反被「一次过闸占比」挡下",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/267",
+      "source_created_at": "2026-10-13T17:01:52Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[red-team] stadtwien-my-sharepoint: alvo descoberto (arkadiyt)",
+      "url": "https://github.com/steingui/redteam-ops/issues/116",
+      "source_created_at": "2026-10-13T16:34:33Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[red-team] teach-classdojo: alvo descoberto (arkadiyt)",
+      "url": "https://github.com/steingui/redteam-ops/issues/117",
+      "source_created_at": "2026-10-13T16:34:33Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[red-team] api-classdojo: alvo descoberto (arkadiyt)",
+      "url": "https://github.com/steingui/redteam-ops/issues/115",
+      "source_created_at": "2026-10-13T16:34:32Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[red-team] binance: alvo descoberto (arkadiyt)",
+      "url": "https://github.com/steingui/redteam-ops/issues/113",
+      "source_created_at": "2026-10-13T16:34:31Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[red-team] new-food-bolt: alvo descoberto (arkadiyt)",
+      "url": "https://github.com/steingui/redteam-ops/issues/114",
+      "source_created_at": "2026-10-13T16:34:31Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "📋 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+      "source_created_at": "2026-10-13T21:40:05Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 67,
+      "reasons": [
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Python SDK: read the chain and send signed transfers",
+      "url": "https://github.com/jackdishman/blockula/issues/3",
+      "source_created_at": "2026-10-14T13:00:29Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Shared transaction test vectors (Rust ⇄ TypeScript)",
+      "url": "https://github.com/jackdishman/blockula/issues/1",
+      "source_created_at": "2026-10-14T13:00:26Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Owner Cockpit slice 2: Money (cents + credits, never mixed) and Roster sections",
+      "url": "https://github.com/Uuriko/project-room/issues/3343",
+      "source_created_at": "2026-10-14T01:29:24Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Owner Cockpit slice 1: GET /api/owner/overview cross-room read model with Decisions + Exceptions",
+      "url": "https://github.com/Uuriko/project-room/issues/3342",
+      "source_created_at": "2026-10-14T01:29:21Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[frontend] Empty-state call to action for researchers",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/182",
+      "source_created_at": "2026-10-13T21:23:39Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[contract] Add a `get_config` getter",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/173",
+      "source_created_at": "2026-10-13T21:22:46Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Operator unpublish ignored by opportunities, project-offers, and public-work tasks listings",
+      "url": "https://github.com/Uuriko/project-room/issues/3280",
+      "source_created_at": "2026-10-13T21:55:37Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Feat: Gamification & Categorized XP System",
+      "url": "https://github.com/donetick/donetick/issues/885",
+      "source_created_at": "2026-10-13T21:22:41Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Admin reports: export CSV for revenue, users, bounties, disputes",
+      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
+      "source_created_at": "2026-10-13T21:22:05Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] _do_settle 遇畸形 criteria 崩溃，无法结算",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/276",
+      "source_created_at": "2026-10-13T17:52:44Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P2] 守卫盲区：真模式审核员授权（`handle_issue_comment` 里的 `is_rev`）没有一条断言覆盖，「任何人都是审核员」的变异体 124/124 全绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/271",
+      "source_created_at": "2026-10-13T17:01:57Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] 回避闸只看「动作那一刻」的持有者：审核员先 `/appraise` 再 `/claim`，自评的影响等级随标记带进自己的结算；招标中的投标人也能给自己的任务定级，维护者可 `/select` 自己",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/269",
+      "source_created_at": "2026-10-13T17:01:54Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Central Command | Reconcile paid probes vs recurring production revenue (Oct 13)",
+      "url": "https://github.com/industrial-platform-ai/industrial-platform-agent-tools/issues/46",
+      "source_created_at": "2026-10-13T22:30:09Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 60,
+      "reasons": [
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 0.45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Paid bug-report offer: current eligibility and Nano / USDT payout before work",
+      "url": "https://github.com/PayRam/payram-scripts/issues/113",
+      "source_created_at": "2026-10-13T16:40:21Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 60,
+      "reasons": [
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory #313 复验：#148 的修复漏接 check/record_accepted —— private/secret 明文骨架仍落 _writelimit.json（维护者判定成立，落修 a15f5f25；修复由维护者完成）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/395",
+      "source_created_at": "2026-10-14T14:37:51Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Auto-track accepted quests + Track every quest",
+      "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
+      "source_created_at": "2026-10-14T15:22:36Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "bug fixes",
+      "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
+      "source_created_at": "2026-10-14T15:03:14Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Marketing] Add a sponsorship program and application page for university hackathons",
+      "url": "https://github.com/zeduchat/zedu-fe/issues/815",
+      "source_created_at": "2026-10-14T13:02:11Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】周期 PR 审核：lingshu × dsh-memory 14 件在飞 PR 的独立复核（主审 + 对抗双轮，附 14 条已发布评论与逐条复现读数）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/377",
+      "source_created_at": "2026-10-14T11:06:49Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle unauthenticated single-peer fill of the 64 MiB consensus future-view buffer at the nearest view permanently locks out honest proposals and votes (GHSA-96fw-3mr9-2qq2)",
+      "url": "https://github.com/tari-project/special_contributions/issues/185",
+      "source_created_at": "2026-10-14T10:40:50Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "High: PvpBounty OPERATOR_ROLE can drain all open bounties",
+      "url": "https://github.com/LegendofKEK/bichael/issues/293",
+      "source_created_at": "2026-10-14T03:39:45Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "High: PvpBounty cancel/claim pays current ownerOf (Transfer grief)",
+      "url": "https://github.com/LegendofKEK/bichael/issues/292",
+      "source_created_at": "2026-10-14T03:39:44Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】dsh-bench #2–#8：报告可自带门槛放宽判定、构建不经发布闸、方法试验与已失效报告进榜、安全暂停条目进「值得试」、报告页卡片可手填、证据链接只查非空（P0×6），过期不可重算等口径缺陷（P1×4）；附复现",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/288",
+      "source_created_at": "2026-10-14T02:27:51Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu：coggraph 四处记忆读取改 utf-8-sig 剥 BOM，BOM 笔记不再被整篇静默跳过（PR #437 已合并）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/286",
+      "source_created_at": "2026-10-14T01:31:06Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[LAUNCH-001][P0] Qualify independent code reviewer and separate release approver",
+      "url": "https://github.com/sovereign-codex/Codex-control-center/issues/19",
+      "source_created_at": "2026-10-14T04:05:33Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory #284 复验：token 守卫已由 2ea5b792 修复，而 md_cg.test_logref 在 CI 上仍被记成 PASS（缺 zstandard ⇒ 模块内 SKIP ⇒ rc=0）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/292",
+      "source_created_at": "2026-10-14T04:05:24Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Outfitter v0] Receipts: tools_used[] capture + 'Made with' rail",
+      "url": "https://github.com/Uuriko/project-room/issues/3374",
+      "source_created_at": "2026-10-14T02:46:27Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Design (ocaps): one place for each access rule",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/401",
+      "source_created_at": "2026-10-14T02:36:40Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "REST credits door lets any member (incl. guests) read any lane's full bilateral ledger history; MCP restricts the same read to your own lane",
+      "url": "https://github.com/Uuriko/project-room/issues/3281",
+      "source_created_at": "2026-10-13T21:55:40Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "ORNL hardware validation: 2004 Prius back-EMF correlation (Phase A source audit first)",
+      "url": "https://github.com/coilemdev/coilem/issues/69",
+      "source_created_at": "2026-10-13T17:09:35Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
+      "source_created_at": "2026-10-13T18:19:24Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Miner CLI: attest a GitHub account and link it to the miner hotkey",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
+      "source_created_at": "2026-10-13T18:18:59Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Staff recovery for vessel records the game could not put right",
+      "url": "https://github.com/LuminariMUD/Luminari-Source/issues/256",
+      "source_created_at": "2026-10-13T17:39:38Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[贡献验收申请][hard] LarryE135：dsh-memory 今日修复回归 2 条（#186 / #132 修复副作用，P1×2），请纳入结算表",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/273",
+      "source_created_at": "2026-10-13T17:02:16Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory：coldverify 队列跨实例静默丢条目（_persist 全量覆写 + 每实例各持内存队列）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/266",
+      "source_created_at": "2026-10-13T16:56:31Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory：证据包通路丢密级（private 观测经 export→import 在对端落成 internal 明文）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/264",
+      "source_created_at": "2026-10-13T16:26:19Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory：分支派生写丢密级（fork/rewrite/merge 把 private 落成 internal 明文）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/263",
+      "source_created_at": "2026-10-13T16:26:18Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T17:28:33.193Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Strategy proposal: LlamaLendLoopStrat — wstETH/crvUSD loop with fxSAVE buffer as the book's ETH-delta hedge",
+      "url": "https://github.com/everstrat-xyz/contracts/issues/54",
+      "source_created_at": "2026-10-14T13:27:18Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[TV SHOW]: Sonic Underground (1999)",
+      "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
+      "source_created_at": "2026-10-14T15:35:04Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Post-quantum p2p transport: hybrid X25519 + ML-KEM-768 handshake",
+      "url": "https://github.com/jackdishman/blockula/issues/5",
+      "source_created_at": "2026-10-14T13:00:33Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🏹 Wallet: QR code + payment links on Receive",
+      "url": "https://github.com/jackdishman/blockula/issues/4",
+      "source_created_at": "2026-10-14T13:00:31Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "docs: README still shows the rejected bare managed escape hatch",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/21",
+      "source_created_at": "2026-10-14T12:52:46Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Rate: missing pmt factor in Newton derivative breaks cash-flow scale invariance",
+      "url": "https://github.com/razorpay/go-financial/issues/49",
+      "source_created_at": "2026-10-14T15:38:20Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Pentest Swarm AI donor → governed Autonomous Security Validation Swarm",
+      "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
+      "source_created_at": "2026-10-14T15:35:00Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Replace panic_safety_audit placeholder with real review",
+      "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
+      "source_created_at": "2026-10-14T14:46:31Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[缺陷] review-roleplay-check 在 CI 上永久红：守卫拿「显示名」拼 raw 文件名，Linux 大小写敏感下必然找不到",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
+      "source_created_at": "2026-10-14T14:38:50Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Missing record: Hatchet startup discount program",
+      "url": "https://github.com/sourcey/startup-credits/issues/1759",
+      "source_created_at": "2026-10-14T14:32:33Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[player eu46ho] Imperials seem to be going back to trying to keep all their forces in one bunch",
+      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
+      "source_created_at": "2026-10-14T13:34:02Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add witnessed crimes, funded bounties and Marshall pursuit",
+      "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
+      "source_created_at": "2026-10-14T15:47:28Z",
+      "first_seen_at": "2026-10-14T15:47:40.981Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Installer launcher overwrites explicit HYB_RUNTIME_DIR (offline repro + fix)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/20",
+      "source_created_at": "2026-10-14T12:42:28Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:46:10.743Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Request to co-sign an unspent 6,300,243-sat funding output with Boltz's LND node (channel never locked in, Dec 2023)",
+      "url": "https://github.com/BoltzExchange/boltz-backend/issues/1513",
+      "source_created_at": "2026-10-14T11:39:49Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Crash in [Adventure Map] dialog (AI turn) EIP: H3era hd.0042F786. Code: C0000005",
+      "url": "https://github.com/ERA-Projects/era-project-eng/issues/950",
+      "source_created_at": "2026-10-14T11:36:47Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake][贡献申报] 世界过程第1组：时间会意、示教迁移与运动组合体（lingshu #567）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/378",
+      "source_created_at": "2026-10-14T11:12:51Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "D27 · Reporting, Severity Rating & Evidence — 83 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/45",
+      "source_created_at": "2026-10-14T11:09:22Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "D22 · Platform & OS Version-Specific Behaviour — 86 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/40",
+      "source_created_at": "2026-10-14T11:09:13Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "D17 · Dynamic Code Loading, Deserialization & Supply Chain — 86 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/35",
+      "source_created_at": "2026-10-14T11:09:05Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "D16 · Native Code, JNI & Memory Safety — 65 tests",
+      "url": "https://github.com/sanehunters/sane_android/issues/34",
+      "source_created_at": "2026-10-14T11:09:04Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Some issues with the 60-CVE baseline dataset in your paper",
+      "url": "https://github.com/BUseclab/cve-genie/issues/4",
+      "source_created_at": "2026-10-14T09:48:00Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "UI-FE-069 — Run Support, Status, Security, and Legal E2E Journeys",
+      "url": "https://github.com/DigiNodes/truthbounty-frontend/issues/641",
+      "source_created_at": "2026-10-14T09:45:11Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】dsh-memory PR #299：相对时间锚定——写入侧把「昨天 / last Tuesday」归一成事件区间，点名日期的问句可命中（MDCG_TIME_ANCHOR，默认关）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/287",
+      "source_created_at": "2026-10-14T01:34:19Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory：冲突台账半截行让 check/info 永久报 UnicodeDecodeError、新记忆静默全丢（PR #300 已由维护者裁决「合并」并落地 main）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/290",
+      "source_created_at": "2026-10-14T03:48:42Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申请】dsh-memory #294 #295 #296 #297 #298：冲突闸 REJECT 后飞轮把 private 正文以 internal 明文建成工单、访客可读（P0）；睡眠周期 lib.git 不分记忆根致跨根/跨租户串库（有条件 P0）；频率闸 DEFER 后自动记忆正文无去向、插件计为成功（有条件 P0）；同 id 改写 private 节点降为 internal 明文（有争议 P0）；冲突台账明文记录 private 条件、写令牌可读（P1）；附复现与参考补丁",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/289",
+      "source_created_at": "2026-10-14T02:29:06Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】lingshu PR #473：检索结构锚定——问句点名容器（第N章 / 第N次会话）时容器内排序优先（LINGSHU_ANCHOR，默认关）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/285",
+      "source_created_at": "2026-10-14T01:28:57Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【贡献申报】lingshu PR #447：检索与置信度综合改动——FTS5/BM25、语境扩展、不刷新近因、矛盾感知、证据账本、TMS（全部默认关闭，附可复现基准）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/284",
+      "source_created_at": "2026-10-14T01:28:47Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Watchdog: Rechecks are overdue",
+      "url": "https://github.com/gn45db4tjc-ship-it/predecessor-meta/issues/149",
+      "source_created_at": "2026-10-14T03:12:15Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Outfitter] App Store: curated catalog -> self-serve -> metered",
+      "url": "https://github.com/Uuriko/project-room/issues/3375",
+      "source_created_at": "2026-10-14T02:47:19Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Closure campaign: live speed, reclaimable storage, inspection readiness",
+      "url": "https://github.com/Emaren/app-prodn/issues/539",
+      "source_created_at": "2026-10-13T21:27:58Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Delete stale resources in the qa repository.",
+      "url": "https://github.com/phetsims/qa/issues/1464",
+      "source_created_at": "2026-10-13T21:50:33Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Server dont Start?",
+      "url": "https://github.com/addison2k/DauntlessForever/issues/1",
+      "source_created_at": "2026-10-13T21:48:51Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "audit(contract): auditoría de TTL/storage, contabilidad de yield y brechas de invariantes (STORAGE-02, STATE-10) con correcciones",
+      "url": "https://github.com/David1984TK/Bimex/issues/409",
+      "source_created_at": "2026-10-13T22:01:30Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Make the character screen clear and finished on desktop and phones",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/299",
+      "source_created_at": "2026-10-13T21:33:41Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96960 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135711",
+      "source_created_at": "2026-10-13T18:30:16Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96959 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135710",
+      "source_created_at": "2026-10-13T18:30:11Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96958 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135709",
+      "source_created_at": "2026-10-13T18:30:04Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96957 | .NET SDK Security Feature Bypass Vulnerability",
+      "url": "https://github.com/dotnet/sdk/issues/56615",
+      "source_created_at": "2026-10-13T18:30:00Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96238 | .NET SDK Security Feature Bypass Vulnerability",
+      "url": "https://github.com/dotnet/sdk/issues/56614",
+      "source_created_at": "2026-10-13T18:29:55Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96237 | .NET SDK Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/sdk/issues/56613",
+      "source_created_at": "2026-10-13T18:29:50Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96233 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135708",
+      "source_created_at": "2026-10-13T18:29:30Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96231 | .NET and Visual Studio Elevation of Privilege Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135707",
+      "source_created_at": "2026-10-13T18:29:20Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96960 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/490",
+      "source_created_at": "2026-10-13T18:30:18Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96959 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/489",
+      "source_created_at": "2026-10-13T18:30:12Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96958 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/488",
+      "source_created_at": "2026-10-13T18:30:06Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96957 | .NET SDK Security Feature Bypass Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/487",
+      "source_created_at": "2026-10-13T18:30:01Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96238 | .NET SDK Security Feature Bypass Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/486",
+      "source_created_at": "2026-10-13T18:29:57Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96237 | .NET SDK Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/485",
+      "source_created_at": "2026-10-13T18:29:52Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96236 | ASP.NET Core Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/484",
+      "source_created_at": "2026-10-13T18:29:47Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96235 | .NET and Visual Studio Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/483",
+      "source_created_at": "2026-10-13T18:29:42Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96235 | .NET and Visual Studio Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/wpf/issues/12026",
+      "source_created_at": "2026-10-13T18:29:40Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96234 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/482",
+      "source_created_at": "2026-10-13T18:29:37Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96234 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/wpf/issues/12025",
+      "source_created_at": "2026-10-13T18:29:36Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96233 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/481",
+      "source_created_at": "2026-10-13T18:29:32Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96232 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/480",
+      "source_created_at": "2026-10-13T18:29:27Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96232 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/wpf/issues/12024",
+      "source_created_at": "2026-10-13T18:29:25Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96231 | .NET and Visual Studio Elevation of Privilege Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/479",
+      "source_created_at": "2026-10-13T18:29:22Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96230 | ASP.NET Core Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/478",
+      "source_created_at": "2026-10-13T18:29:17Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-96229 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/477",
+      "source_created_at": "2026-10-13T18:29:11Z",
+      "first_seen_at": "2026-10-13T18:42:28.330Z",
+      "last_seen_at": "2026-10-13T18:42:28.330Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "交付：lingshu 身体库贡献结算核对 —— 8 件 PR 按「内容在库」判定落地 3 处（#26 / #286 / #3 部位②），另 5 件未采纳并逐条反证",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/274",
+      "source_created_at": "2026-10-13T17:22:58Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Feature] Widget showcase in storybook",
+      "url": "https://github.com/GoodDollar/GoodWidget/issues/250",
+      "source_created_at": "2026-10-13T17:19:32Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Test gaps left by the vessel steps S9-S15",
+      "url": "https://github.com/LuminariMUD/Luminari-Source/issues/257",
+      "source_created_at": "2026-10-13T17:39:40Z",
+      "first_seen_at": "2026-10-13T18:24:37.789Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-70035 | .NET and Visual Studio Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/wpf/issues/12017",
+      "source_created_at": "2026-10-13T18:26:34Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-70007 | .NET and Visual Studio Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/450",
+      "source_created_at": "2026-10-13T18:26:30Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-70007 | .NET and Visual Studio Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/wpf/issues/12016",
+      "source_created_at": "2026-10-13T18:26:28Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-69651 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/449",
+      "source_created_at": "2026-10-13T18:26:25Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-69651 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135698",
+      "source_created_at": "2026-10-13T18:26:23Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-66822 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/448",
+      "source_created_at": "2026-10-13T18:26:19Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-66822 | .NET and Visual Studio Information Disclosure Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135697",
+      "source_created_at": "2026-10-13T18:26:18Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-58280 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/447",
+      "source_created_at": "2026-10-13T18:26:14Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-58280 | .NET and Visual Studio Denial of Service Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135696",
+      "source_created_at": "2026-10-13T18:26:12Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-105016 | Microsoft QUIC Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/446",
+      "source_created_at": "2026-10-13T18:26:09Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-105016 | Microsoft QUIC Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/135695",
+      "source_created_at": "2026-10-13T18:26:07Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Microsoft Security Advisory CVE-2026-102870 | ASP.NET Core Remote Code Execution Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/445",
+      "source_created_at": "2026-10-13T18:26:04Z",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Preregister: refute Hertz–Lupu-Gladstein–Heshami–Goldberg Conjecture 7 (arXiv:2501.02047, Quantum Stud. Math. Found. 13, 34 (2026)): the purity of a state under loss is not always log-convex in T (ρ₁ = diag(1/100, 3/4, 6/25), T = 49/50)",
+      "url": "https://github.com/the-omega-institute/trureturing/issues/16345",
+      "source_created_at": "2026-10-13T16:38:03Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "交付：lingshu 贡献结算核对 —— 7 件 PR 按「内容在库」判定实际落地 2 件（#26 / #286），另 5 件未采纳并逐条给出反证",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/265",
+      "source_created_at": "2026-10-13T16:51:28Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "hackernews",
+      "title": "Omarchy launches $100k bug bounty program on HackerOne",
+      "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
+      "source_created_at": "2026-10-09T00:11:59Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 46,
+      "reasons": [
+        "No se confirmó que el issue esté abierto mediante la API original",
+        "Sin descripción de requisitos en el registro disponible",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 100,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "hackernews",
+      "title": "MicroG: [Bounty] RCS Support [$14999]",
+      "url": "https://github.com/microg/GmsCore/issues/2994",
+      "source_created_at": "2026-10-11T13:09:25Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "status": "informativa",
+      "priority": 46,
+      "reasons": [
+        "No se confirmó que el issue esté abierto mediante la API original",
+        "Sin descripción de requisitos en el registro disponible",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 14999,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    }
+  ]
+}
