@@ -58,6 +58,10 @@ jobs:
           cp apex-global-intelligence-swarm/servicios-page.js site/
           cp apex-global-intelligence-swarm/crypto.html site/
           cp apex-global-intelligence-swarm/crypto-page.js site/
+          cp apex-global-intelligence-swarm/wallet.html site/
+          cp apex-global-intelligence-swarm/wallet-page.js site/
+          cp apex-global-intelligence-swarm/wallet-core.mjs site/
+          test -s site/wallet.html
           test -s site/crypto.html
           test -s site/servicios.html
           test -s site/index.html
