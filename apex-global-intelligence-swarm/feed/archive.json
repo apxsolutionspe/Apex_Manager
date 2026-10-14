@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-14T17:10:19.346Z",
+  "updated_at": "2026-10-14T17:12:20.990Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/StellarDevHub/soroban-playground/issues/1826",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/StellarDevHub/soroban-playground/issues/1844",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Spotnick2/GlassQuestTracker/issues/4",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/LizardByte/ThemerrDB/issues/8959",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/razorpay/go-financial/issues/49",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/rrahul0904/agent-work-os/issues/184",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ROAM-game-org/road-machiners/issues/570",
       "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ROAM-game-org/road-machiners/issues/568",
       "first_seen_at": "2026-10-14T16:12:16.930Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -365,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -380,7 +380,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -395,7 +395,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -410,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -425,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/garretreichenbach/BetterFactions/issues/38",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -440,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/398",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -455,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1251",
       "first_seen_at": "2026-10-14T16:33:24.786Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -470,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -485,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hackerone.com/mozilla/updates?type=team",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "hackernews",
@@ -500,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -515,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/TheJollyLaMa/DecentBusking/issues/176",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -530,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/MentorsMind/MentorsMind-Contract/issues/1286",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -545,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/401",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -560,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/MentorsMind/MentorsMind-Contract/issues/1282",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -575,7 +575,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Hel-Phone/HelPhone/issues/788",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -590,7 +590,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/MentorsMind/MentorsMind-Contract/issues/1288",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -605,7 +605,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/hanoi96international-gif/Test/issues/1",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -620,7 +620,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1590",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -635,7 +635,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/chatmcp/mcpso/issues/5392",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -650,7 +650,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/406",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -665,7 +665,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/405",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -680,7 +680,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/404",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -695,7 +695,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/403",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -710,7 +710,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/402",
       "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:10:19.346Z"
+      "last_seen_at": "2026-10-14T17:12:20.990Z"
     },
     {
       "source": "github",
@@ -3309,6 +3309,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-14T17:12:20.990Z",
+      "generated_at": "2026-10-14T17:12:20.990Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 489
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 629
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 0,
+      "seen_again": 47,
+      "archive_total": 220,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-14T17:10:19.346Z",
       "generated_at": "2026-10-14T17:10:19.346Z",
