@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T16:31:54.636Z",
+  "generated_at": "2026-10-14T16:33:25.583Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 205,
+    "total_evaluated": 206,
     "investigar": 1,
-    "informativa": 190,
+    "informativa": 191,
     "descartar": 14,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -46,7 +46,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
       "source_created_at": "2026-10-14T15:23:47Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
       "source_created_at": "2026-10-14T15:24:48Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -262,7 +262,7 @@
       "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
       "source_created_at": "2026-10-14T13:06:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -285,12 +285,37 @@
       "url": "https://github.com/tamgahq/sandbox/issues/2",
       "source_created_at": "2026-10-14T14:02:35Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1251",
+      "source_created_at": "2026-10-14T16:33:17Z",
+      "first_seen_at": "2026-10-14T16:33:24.786Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1105,7 +1130,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/3",
       "source_created_at": "2026-10-14T13:00:29Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1130,7 +1155,7 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/568",
       "source_created_at": "2026-10-14T15:40:00Z",
       "first_seen_at": "2026-10-14T16:12:16.930Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1477,7 +1502,7 @@
       "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
       "source_created_at": "2026-10-14T15:22:36Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1501,7 +1526,7 @@
       "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
       "source_created_at": "2026-10-14T15:03:14Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1525,7 +1550,7 @@
       "url": "https://github.com/zeduchat/zedu-fe/issues/815",
       "source_created_at": "2026-10-14T13:02:11Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1549,7 +1574,7 @@
       "url": "https://github.com/garretreichenbach/BetterFactions/issues/38",
       "source_created_at": "2026-10-14T16:25:08Z",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1573,7 +1598,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/398",
       "source_created_at": "2026-10-14T16:17:52Z",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2076,7 +2101,7 @@
       "url": "https://github.com/everstrat-xyz/contracts/issues/54",
       "source_created_at": "2026-10-14T13:27:18Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2101,7 +2126,7 @@
       "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
       "source_created_at": "2026-10-14T15:35:04Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2126,7 +2151,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/5",
       "source_created_at": "2026-10-14T13:00:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2151,7 +2176,7 @@
       "url": "https://github.com/jackdishman/blockula/issues/4",
       "source_created_at": "2026-10-14T13:00:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2175,7 +2200,7 @@
       "url": "https://github.com/razorpay/go-financial/issues/49",
       "source_created_at": "2026-10-14T15:38:20Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2199,7 +2224,7 @@
       "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
       "source_created_at": "2026-10-14T15:35:00Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2224,7 +2249,7 @@
       "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
       "source_created_at": "2026-10-14T14:46:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2249,7 +2274,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
       "source_created_at": "2026-10-14T14:38:50Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2274,7 +2299,7 @@
       "url": "https://github.com/sourcey/startup-credits/issues/1759",
       "source_created_at": "2026-10-14T14:32:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2299,7 +2324,7 @@
       "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
       "source_created_at": "2026-10-14T13:34:02Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2324,7 +2349,7 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
       "source_created_at": "2026-10-14T15:47:28Z",
       "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
+      "last_seen_at": "2026-10-14T16:33:24.786Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -3900,31 +3925,6 @@
       "source_created_at": "2026-10-13T18:26:04Z",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Preregister: refute Hertz–Lupu-Gladstein–Heshami–Goldberg Conjecture 7 (arXiv:2501.02047, Quantum Stud. Math. Found. 13, 34 (2026)): the purity of a state under loss is not always log-convex in T (ρ₁ = diag(1/100, 3/4, 6/25), T = 49/50)",
-      "url": "https://github.com/the-omega-institute/trureturing/issues/16345",
-      "source_created_at": "2026-10-13T16:38:03Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
