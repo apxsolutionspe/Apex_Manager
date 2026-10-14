@@ -98,11 +98,15 @@ jobs:
           test -s apex-global-intelligence-swarm/local-updates/APEX_Swarm_patch_v0.3.0.zip
       - name: Actualizar radar público en segundo plano
         run: node apex-global-intelligence-swarm/scripts/refresh-feed.mjs
+      - name: Clasificar señales públicas sin ejecutar reclamaciones
+        run: |
+          node apex-global-intelligence-swarm/scripts/prioritize-feed.mjs
+          test -s apex-global-intelligence-swarm/feed/prioritized.json
       - name: Conservar historial público de oportunidades en GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add apex-global-intelligence-swarm/feed/archive.json
+          git add apex-global-intelligence-swarm/feed/archive.json apex-global-intelligence-swarm/feed/prioritized.json
           if git diff --cached --quiet; then
             echo "El archivo histórico no cambió."
           else
