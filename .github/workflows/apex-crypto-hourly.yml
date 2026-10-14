@@ -1,0 +1,65 @@
+name: APEX Crypto · vigilancia horaria sin custodia
+
+on:
+  schedule:
+    - cron: '23 * * * *' # 24 h/día, frecuencia nominal 1 hora (GitHub puede retrasar)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/apex-crypto-hourly.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apex-crypto-hourly
+  cancel-in-progress: false
+
+jobs:
+  public-crypto-research:
+    name: Revisar recompensas oficiales, comprobar pruebas y conservar historial
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Código del propietario
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Node.js estable
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Comprobar sintaxis y pruebas del radar cripto
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check scripts/crypto-core.mjs
+          node --check scripts/crypto-history.mjs
+          node --check scripts/crypto-watch.mjs
+          node --test tests/crypto.test.mjs tests/crypto-history.test.mjs
+      - name: Investigación cripto solo lectura y guardado con reintentos
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            node apex-global-intelligence-swarm/scripts/crypto-watch.mjs
+            node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto.json');if(f.economics.verified_income_usd!==0||f.opportunities.some(x=>x.automatic_claim_possible!==false))process.exit(1);"
+            git add apex-global-intelligence-swarm/feed/crypto.json
+            if git diff --cached --quiet; then
+              echo "No hubo cambios."
+              exit 0
+            fi
+            git commit -m "data(crypto): vigilancia horaria pública [skip ci]"
+            if git push origin HEAD:main; then
+              echo "Radar cripto actualizado, intento $attempt."
+              exit 0
+            fi
+            echo "::warning::Otro proceso modificó main, recuperando la última versión ($attempt/3)"
+            git fetch --no-tags origin main
+            git reset --hard origin/main
+          done
+          echo "::error::No fue posible conservar el informe tras tres intentos."
+          exit 1
