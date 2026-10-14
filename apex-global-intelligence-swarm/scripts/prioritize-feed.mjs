@@ -80,9 +80,36 @@ export function buildPrioritized(archive,{now=Date.now(),maxItems=MAX_ITEMS}={})
   summary,items:out.slice(0,Math.max(1,Math.min(MAX_ITEMS,maxItems)))};
 }
 
+export async function verifyCandidatesOpen(data,{fetchImpl=fetch,token='',maxChecks=12}={}) {
+ const candidates=data.items.filter(x=>x.status==='investigar').slice(0,maxChecks);
+ await Promise.all(candidates.map(async x=>{
+   const match=String(x.url||'').match(/^https:\/\/github\.com\/([A-Za-z0-9_.-]+)\/([A-Za-z0-9_.-]+)\/issues\/(\d+)(?:[/?#]|$)/);
+   if(!match){x.status='informativa';x.reasons.push('URL del issue no verificable');return;}
+   const endpoint='https://api.github.com/repos/'+encodeURIComponent(match[1])+'/'+encodeURIComponent(match[2])+'/issues/'+match[3];
+   try {
+     const response=await fetchImpl(endpoint,{headers:{Accept:'application/vnd.github+json','User-Agent':'APEX-PRIME-X-Public-Triage/1.1',...(token?{Authorization:'Bearer '+token}:{})},redirect:'error',signal:AbortSignal.timeout(8000)});
+     if(!response.ok)throw new Error('HTTP '+response.status);
+     const issue=await response.json();
+     if(issue.state!=='open' || issue.pull_request){
+       x.status='informativa';x.reasons.push('La API oficial confirmó que el issue ya no está abierto o no es un issue');
+       x.checks.issue_open_now=false;
+     }else{x.checks.issue_open_now=true;}
+   }catch(error){
+     x.status='informativa';x.reasons.push('Estado actual sin confirmar por API; no se prioriza ('+String(error?.message||error).slice(0,40)+')');
+     x.checks.issue_open_now=null;
+   }
+ }));
+ data.summary.investigar=data.items.filter(x=>x.status==='investigar').length;
+ data.summary.informativa=data.summary.total_evaluated-data.summary.descartar-data.summary.investigar;
+ const order={investigar:0,informativa:1,descartar:2};
+ data.items.sort((a,b)=>order[a.status]-order[b.status]||b.priority-a.priority);
+ return data;
+}
+
 async function main(){
  const archive=JSON.parse(await fs.readFile(path.join(root,'feed/archive.json'),'utf8'));
  const data=buildPrioritized(archive);
+ await verifyCandidatesOpen(data,{token:process.env.GITHUB_TOKEN||''});
  const dest=path.join(root,'feed/prioritized.json');
  await fs.mkdir(path.dirname(dest),{recursive:true});
  await fs.writeFile(dest,JSON.stringify(data,null,2)+'\n','utf8');
