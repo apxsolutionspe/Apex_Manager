@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {classifySignal,buildPrioritized} from '../scripts/prioritize-feed.mjs';
+import {classifySignal,buildPrioritized,verifyCandidatesOpen} from '../scripts/prioritize-feed.mjs';
 const now=Date.parse('2026-10-14T12:00:00Z');
 const sample={source:'github',title:'[Bounty] Fix TypeScript web app $200',url:'https://github.com/acme/project/issues/20',
   link_check:'issue_abierto_segun_api',source_created_at:'2026-10-12T10:00:00Z',evidence:'This issue is part of the $200 bounty pool. See https://github.com/acme/project/blob/main/BOUNTY.md before submitting. Payouts are conditional on accepted work and code review. This is a real software development task.'};
@@ -24,3 +24,10 @@ test('Todos los items evaluados pero salida limitada',()=>{
 });
 
 test('A word bounty in a development discussion is not a payable offer',()=>assert.equal(classifySignal({...sample,title:'How to build bounty templates',evidence:'Documentation of an internal product feature; no reward offered.'},now).status,'informativa'));
+
+test('Descarta prioridad al confirmar que issue fue cerrado, sin afectar cobros', async()=>{
+ const a=buildPrioritized({schema:'apex-public-archive-v1',items:[sample]},{now});
+ const calls=[];await verifyCandidatesOpen(a,{fetchImpl:async (url)=>{calls.push(url);return {ok:true,json:async()=>({state:'closed'})}},maxChecks:1});
+ assert.equal(calls[0],'https://api.github.com/repos/acme/project/issues/20');
+ assert.equal(a.summary.investigar,0);assert.equal(a.items[0].status,'informativa');assert.equal(a.summary.verified_income_usd,0);
+});
