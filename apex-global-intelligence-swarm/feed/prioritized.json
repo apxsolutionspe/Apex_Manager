@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T15:50:55.300Z",
+  "generated_at": "2026-10-14T15:54:55.323Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -11,167 +11,13 @@
   },
   "summary": {
     "total_evaluated": 202,
-    "investigar": 31,
-    "informativa": 157,
+    "investigar": 2,
+    "informativa": 186,
     "descartar": 14,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
-    {
-      "source": "github",
-      "title": "[SC-30] Decentralized Bounty & GitHub Issue Micro-Payment Reward Protocol",
-      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
-      "source_created_at": "2026-10-14T15:23:47Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1589",
-      "source_created_at": "2026-10-14T11:41:34Z",
-      "first_seen_at": "2026-10-14T11:49:56.000Z",
-      "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[frontend] Show the scanner's detection for a bounty's package",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
-      "source_created_at": "2026-10-13T21:22:05Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "adapter:bounty-scope — Snapshot-based Bug Bounty metadata verification (HackerOne/Bugcrowd)",
-      "url": "https://github.com/kate8382/AURA/issues/87",
-      "source_created_at": "2026-10-13T17:16:51Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] 账本 `role` 不是权威面：`revoke` 压不住 `BOUNTY_REVIEWERS` 名单里的审核员；账本 `maintainer` 角色在真模式里完全不被读取（grant 无效、revoke 也无效）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
-      "source_created_at": "2026-10-13T17:01:53Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P2] 3682f5c 的作者闸只挂在 `/claim` 上：招标路径 `/bid → /select → /verify → /settle` 不查作者（`/bid` 连 `bounty` 标签闸也不查），外部人发布的 issue 带上 `bounty:contest` 就能一路结算",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
-      "source_created_at": "2026-10-13T17:01:56Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Solution] coollabsio/coolify#8232: [Enhancement]: Add Open Replay",
-      "url": "https://github.com/chiuhehe1-design/conm/issues/36",
-      "source_created_at": "2026-10-13T17:06:27Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "investigar",
-      "priority": 85,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
     {
       "source": "github",
       "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
@@ -216,16 +62,187 @@
     },
     {
       "source": "github",
+      "title": "[SC-30] Decentralized Bounty & GitHub Issue Micro-Payment Reward Protocol",
+      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
+      "source_created_at": "2026-10-14T15:23:47Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1589",
+      "source_created_at": "2026-10-14T11:41:34Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[frontend] Show the scanner's detection for a bounty's package",
+      "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
+      "source_created_at": "2026-10-13T21:22:05Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "adapter:bounty-scope — Snapshot-based Bug Bounty metadata verification (HackerOne/Bugcrowd)",
+      "url": "https://github.com/kate8382/AURA/issues/87",
+      "source_created_at": "2026-10-13T17:16:51Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:26:40.272Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] 账本 `role` 不是权威面：`revoke` 压不住 `BOUNTY_REVIEWERS` 名单里的审核员；账本 `maintainer` 角色在真模式里完全不被读取（grant 无效、revoke 也无效）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/268",
+      "source_created_at": "2026-10-13T17:01:53Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P2] 3682f5c 的作者闸只挂在 `/claim` 上：招标路径 `/bid → /select → /verify → /settle` 不查作者（`/bid` 连 `bounty` 标签闸也不查），外部人发布的 issue 带上 `bounty:contest` 就能一路结算",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/270",
+      "source_created_at": "2026-10-13T17:01:56Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Solution] coollabsio/coolify#8232: [Enhancement]: Add Open Replay",
+      "url": "https://github.com/chiuhehe1-design/conm/issues/36",
+      "source_created_at": "2026-10-13T17:06:27Z",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-13T18:24:37.789Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[SC-48] Decentralized Public Goods Bounty Matching Pool with Milestone Payouts",
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
       "source_created_at": "2026-10-14T15:24:48Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
-      "status": "investigar",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -242,12 +259,13 @@
       "url": "https://github.com/karinasandorik-bit/OWL-CORE/issues/24",
       "source_created_at": "2026-10-14T13:06:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
-      "status": "investigar",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -264,12 +282,13 @@
       "url": "https://github.com/tamgahq/sandbox/issues/2",
       "source_created_at": "2026-10-14T14:02:35Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
-      "status": "investigar",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -287,11 +306,13 @@
       "source_created_at": "2026-10-14T11:39:37Z",
       "first_seen_at": "2026-10-14T11:49:56.000Z",
       "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -309,11 +330,14 @@
       "source_created_at": "2026-10-14T11:12:17Z",
       "first_seen_at": "2026-10-14T11:49:56.000Z",
       "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -331,11 +355,13 @@
       "source_created_at": "2026-10-14T10:09:26Z",
       "first_seen_at": "2026-10-14T11:49:56.000Z",
       "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -353,11 +379,13 @@
       "source_created_at": "2026-10-14T03:39:46Z",
       "first_seen_at": "2026-10-14T04:51:39.956Z",
       "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -375,11 +403,13 @@
       "source_created_at": "2026-10-14T03:39:42Z",
       "first_seen_at": "2026-10-14T04:51:39.956Z",
       "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -397,11 +427,13 @@
       "source_created_at": "2026-10-13T21:52:41Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -419,11 +451,13 @@
       "source_created_at": "2026-10-13T21:54:08Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -441,11 +475,13 @@
       "source_created_at": "2026-10-13T21:49:44Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -463,11 +499,13 @@
       "source_created_at": "2026-10-13T21:22:40Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -485,11 +523,13 @@
       "source_created_at": "2026-10-13T21:22:33Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -507,11 +547,13 @@
       "source_created_at": "2026-10-13T21:21:56Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -529,11 +571,13 @@
       "source_created_at": "2026-10-13T21:22:48Z",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -551,11 +595,13 @@
       "source_created_at": "2026-10-13T17:09:08Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -573,11 +619,13 @@
       "source_created_at": "2026-10-13T18:24:32Z",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -595,11 +643,13 @@
       "source_created_at": "2026-10-13T17:02:15Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -617,78 +667,14 @@
       "source_created_at": "2026-10-13T17:04:35Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "investigar",
+      "status": "informativa",
       "priority": 73,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Patrols] Retribution patrols/bounty hunters from coyotes if attacked by player",
-      "url": "https://github.com/DeonUrist/WildWasteland/issues/115",
-      "source_created_at": "2026-10-14T02:14:43Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "investigar",
-      "priority": 65,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Sin descripción de requisitos en el registro disponible",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
-      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
-      "source_created_at": "2026-10-13T22:30:11Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
-      "priority": 65,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
-      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
-      "source_created_at": "2026-10-13T22:29:01Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "investigar",
-      "priority": 65,
-      "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
@@ -705,11 +691,13 @@
       "url": "https://github.com/jackdishman/blockula/issues/2",
       "source_created_at": "2026-10-14T13:00:27Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -731,7 +719,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -753,7 +743,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -775,7 +767,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -797,7 +791,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -819,7 +815,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -841,7 +839,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -863,7 +863,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -885,7 +887,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -907,7 +911,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -929,7 +935,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -951,7 +959,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -973,7 +983,9 @@
       "status": "informativa",
       "priority": 70,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -995,6 +1007,8 @@
       "status": "informativa",
       "priority": 67,
       "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1008,15 +1022,93 @@
     },
     {
       "source": "github",
+      "title": "[Patrols] Retribution patrols/bounty hunters from coyotes if attacked by player",
+      "url": "https://github.com/DeonUrist/WildWasteland/issues/115",
+      "source_created_at": "2026-10-14T02:14:43Z",
+      "first_seen_at": "2026-10-14T04:51:39.956Z",
+      "last_seen_at": "2026-10-14T04:51:39.956Z",
+      "status": "informativa",
+      "priority": 65,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
+        "Sin descripción de requisitos en el registro disponible",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
+      "source_created_at": "2026-10-13T22:30:11Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 65,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
+      "source_created_at": "2026-10-13T22:29:01Z",
+      "first_seen_at": "2026-10-13T22:43:52.678Z",
+      "last_seen_at": "2026-10-13T22:43:52.678Z",
+      "status": "informativa",
+      "priority": 65,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🏹 Python SDK: read the chain and send signed transfers",
       "url": "https://github.com/jackdishman/blockula/issues/3",
       "source_created_at": "2026-10-14T13:00:29Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1035,11 +1127,13 @@
       "url": "https://github.com/jackdishman/blockula/issues/1",
       "source_created_at": "2026-10-14T13:00:26Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1062,7 +1156,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1085,7 +1181,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1108,7 +1206,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1131,7 +1231,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1154,7 +1256,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1177,7 +1281,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1200,7 +1306,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1223,7 +1331,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1246,7 +1356,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1269,7 +1381,9 @@
       "status": "informativa",
       "priority": 63,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1292,6 +1406,8 @@
       "status": "informativa",
       "priority": 60,
       "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1314,6 +1430,7 @@
       "status": "informativa",
       "priority": 60,
       "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1332,11 +1449,13 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/395",
       "source_created_at": "2026-10-14T14:37:51Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1354,11 +1473,13 @@
       "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
       "source_created_at": "2026-10-14T15:22:36Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1376,11 +1497,13 @@
       "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
       "source_created_at": "2026-10-14T15:03:14Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1398,11 +1521,13 @@
       "url": "https://github.com/zeduchat/zedu-fe/issues/815",
       "source_created_at": "2026-10-14T13:02:11Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1424,7 +1549,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1446,7 +1573,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1468,7 +1597,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1490,7 +1621,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1512,7 +1645,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1534,7 +1669,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1556,7 +1693,8 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1578,7 +1716,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1600,7 +1740,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1622,7 +1764,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1644,7 +1788,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1666,7 +1812,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1688,7 +1836,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1710,7 +1860,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1732,7 +1884,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1754,7 +1908,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1776,7 +1932,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1798,7 +1956,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1820,7 +1980,9 @@
       "status": "informativa",
       "priority": 58,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1838,11 +2000,13 @@
       "url": "https://github.com/everstrat-xyz/contracts/issues/54",
       "source_created_at": "2026-10-14T13:27:18Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1861,11 +2025,13 @@
       "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
       "source_created_at": "2026-10-14T15:35:04Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1884,11 +2050,13 @@
       "url": "https://github.com/jackdishman/blockula/issues/5",
       "source_created_at": "2026-10-14T13:00:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1907,11 +2075,12 @@
       "url": "https://github.com/jackdishman/blockula/issues/4",
       "source_created_at": "2026-10-14T13:00:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1930,11 +2099,13 @@
       "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/21",
       "source_created_at": "2026-10-14T12:52:46Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1953,11 +2124,12 @@
       "url": "https://github.com/razorpay/go-financial/issues/49",
       "source_created_at": "2026-10-14T15:38:20Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1976,11 +2148,13 @@
       "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
       "source_created_at": "2026-10-14T15:35:00Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -1999,11 +2173,13 @@
       "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
       "source_created_at": "2026-10-14T14:46:31Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2022,11 +2198,13 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
       "source_created_at": "2026-10-14T14:38:50Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2045,11 +2223,13 @@
       "url": "https://github.com/sourcey/startup-credits/issues/1759",
       "source_created_at": "2026-10-14T14:32:33Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2068,11 +2248,13 @@
       "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
       "source_created_at": "2026-10-14T13:34:02Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2091,11 +2273,13 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
       "source_created_at": "2026-10-14T15:47:28Z",
       "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2118,7 +2302,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2141,7 +2327,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2164,7 +2352,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2187,7 +2377,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2210,7 +2402,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2233,7 +2427,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2256,7 +2452,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2279,7 +2477,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2302,7 +2502,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2325,7 +2527,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2348,7 +2552,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2371,7 +2577,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2394,7 +2602,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2417,7 +2627,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2440,7 +2652,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2463,7 +2677,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2486,7 +2702,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2509,7 +2727,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2532,7 +2752,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2555,7 +2777,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2578,7 +2802,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2601,7 +2827,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2624,7 +2852,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2647,7 +2877,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2670,7 +2902,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2693,7 +2927,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2716,7 +2952,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2739,7 +2977,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2762,7 +3002,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2785,7 +3027,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2808,7 +3052,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2831,7 +3077,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2854,7 +3102,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2877,7 +3127,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2900,7 +3152,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2923,7 +3177,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2946,7 +3202,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2969,7 +3227,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2992,7 +3252,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3015,7 +3277,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3038,7 +3302,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3061,7 +3327,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3084,7 +3352,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3107,7 +3377,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3130,7 +3402,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3153,7 +3427,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3176,7 +3452,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3199,7 +3477,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3222,7 +3502,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3245,7 +3527,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3268,7 +3552,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3291,7 +3577,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3314,7 +3602,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3337,7 +3627,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3360,7 +3652,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3383,7 +3677,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3406,7 +3702,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3429,7 +3727,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3452,7 +3752,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3475,7 +3777,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3498,7 +3802,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3521,7 +3827,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3544,7 +3852,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3567,7 +3877,9 @@
       "status": "informativa",
       "priority": 51,
       "reasons": [
-        "No hay una cifra de pago verificable; incluso si se menciona, no garantiza cobro",
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3586,11 +3898,14 @@
       "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
       "source_created_at": "2026-10-09T00:11:59Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 46,
       "reasons": [
         "No se confirmó que el issue esté abierto mediante la API original",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
         "Sin descripción de requisitos en el registro disponible",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -3609,11 +3924,14 @@
       "url": "https://github.com/microg/GmsCore/issues/2994",
       "source_created_at": "2026-10-11T13:09:25Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T15:50:54.301Z",
+      "last_seen_at": "2026-10-14T15:54:54.316Z",
       "status": "informativa",
       "priority": 46,
       "reasons": [
         "No se confirmó que el issue esté abierto mediante la API original",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
         "Sin descripción de requisitos en el registro disponible",
         "No cumple los criterios mínimos para priorización"
       ],
