@@ -39,3 +39,13 @@ El sistema no puede confirmar automáticamente que una persona controla una dire
 - Motor: `scripts/refresh-feed.mjs`; solo consulta hosts aprobados, valida el formato, deduplica y publica hasta 40 señales.
 - La primera ejecución comprobada devolvió 25 registros de GitHub y 25 de Hacker News; 40 señales de lectura pública se guardaron en el artefacto desplegado. No se reclamaron ni adquirieron activos financieros.
 - Para automatizar los **expedientes privados** con navegador cerrado hace falta un componente de servidor autenticado, permisos mínimos y revisión de amenazas. No está implementado en v0.1.
+
+
+## Captación comercial gratuita (octubre 2026)
+
+`servicios.html` presenta una solicitud de alcance para los servicios tecnológicos de APEX PRIME X. Utiliza `servicios-core.js` y `servicios-page.js` para preparar un breve mensaje sin persistencia de datos. El visitante elige qué servicios necesita y decide si desea enviar el mensaje al WhatsApp comercial de la marca, obtenido de su propia publicación programada en Metricool. No hay cobros, promesas de resultados ni mensajes enviados automáticamente.
+
+- URL prevista: `https://apxsolutionspe.github.io/Apex_Manager/servicios.html` (verificar despliegue GitHub Pages antes de difundir).
+- Control de calidad: `npm test` y `npm run check`; pruebas de enlaces y validación de entradas.
+- **No se confunden contactos recibidos, mensajes preparados ni posibles presupuestos con ingresos cobrados.**
+- No recopilar credenciales ni claves financieras mediante el formulario.
