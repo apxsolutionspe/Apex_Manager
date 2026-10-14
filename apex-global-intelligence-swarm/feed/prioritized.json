@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-14T16:47:56.996Z",
+  "generated_at": "2026-10-14T17:09:06.443Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 211,
+    "total_evaluated": 220,
     "investigar": 1,
-    "informativa": 196,
+    "informativa": 205,
     "descartar": 14,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -46,7 +46,7 @@
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
       "source_created_at": "2026-10-14T15:23:47Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/TheJollyLaMa/DecentBusking/issues/176",
       "source_created_at": "2026-10-14T16:43:45Z",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -257,16 +257,113 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty-Radar",
+      "url": "https://github.com/hanoi96international-gif/Test/issues/1",
+      "source_created_at": "2026-10-14T16:58:44Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[SC-48] Decentralized Public Goods Bounty Matching Pool with Milestone Payouts",
       "url": "https://github.com/StellarDevHub/soroban-playground/issues/1844",
       "source_created_at": "2026-10-14T15:24:48Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1251",
+      "source_created_at": "2026-10-14T16:33:17Z",
+      "first_seen_at": "2026-10-14T16:33:24.786Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add require_not_paused to lib.rs reward distribution path",
+      "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1288",
+      "source_created_at": "2026-10-14T16:49:27Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1590",
+      "source_created_at": "2026-10-14T16:48:09Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -290,31 +387,6 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1251",
-      "source_created_at": "2026-10-14T16:33:17Z",
-      "first_seen_at": "2026-10-14T16:33:24.786Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -724,6 +796,30 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] check_plan「`to` 优先」（0105788 / #169）把被拒命令与落选分事件也当成态迁移：任何人发一条会被拒的命令，就能把 issue 面的态「洗」进账本，真实的「态冲突 / 缺账本事件」从对账报告里消失（`--strict` 由 1 变 0）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/405",
+      "source_created_at": "2026-10-14T17:00:23Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1152,7 +1248,7 @@
       "url": "https://github.com/ROAM-game-org/road-machiners/issues/568",
       "source_created_at": "2026-10-14T15:40:00Z",
       "first_seen_at": "2026-10-14T16:12:16.930Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1524,31 +1620,7 @@
       "url": "https://github.com/Spotnick2/GlassQuestTracker/issues/4",
       "source_created_at": "2026-10-14T15:22:36Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "bug fixes",
-      "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
-      "source_created_at": "2026-10-14T15:03:14Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1572,7 +1644,7 @@
       "url": "https://github.com/garretreichenbach/BetterFactions/issues/38",
       "source_created_at": "2026-10-14T16:25:08Z",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1596,7 +1668,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/398",
       "source_created_at": "2026-10-14T16:17:52Z",
       "first_seen_at": "2026-10-14T16:30:15.807Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1620,7 +1692,7 @@
       "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1286",
       "source_created_at": "2026-10-14T16:45:32Z",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -1644,6 +1716,102 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/401",
       "source_created_at": "2026-10-14T16:45:05Z",
       "first_seen_at": "2026-10-14T16:45:43.864Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add remote server: Jobbi Agent Gigs (https://jobbi.org/mcp)",
+      "url": "https://github.com/chatmcp/mcpso/issues/5392",
+      "source_created_at": "2026-10-14T17:01:48Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu #596：_ConnShim 缺 executemany/rollback——#515 批量状态写在脑侧 store 恒失效（每次 ingest 两次 AttributeError 后静默回落）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/406",
+      "source_created_at": "2026-10-14T17:07:15Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu：#331/#588 类型闸的又两个旁路——set_anchor / add_structure_node 把 bytes 写进不可变层，永久毒化 recall 与 export_all",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/402",
+      "source_created_at": "2026-10-14T17:00:12Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "bug fixes",
+      "url": "https://github.com/OliverSchiffmann/REVPack/issues/61",
+      "source_created_at": "2026-10-14T15:03:14Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
       "last_seen_at": "2026-10-14T16:47:56.671Z",
       "status": "informativa",
       "priority": 58,
@@ -2167,36 +2335,11 @@
     },
     {
       "source": "github",
-      "title": "Strategy proposal: LlamaLendLoopStrat — wstETH/crvUSD loop with fxSAVE buffer as the book's ETH-delta hedge",
-      "url": "https://github.com/everstrat-xyz/contracts/issues/54",
-      "source_created_at": "2026-10-14T13:27:18Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[TV SHOW]: Sonic Underground (1999)",
       "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
       "source_created_at": "2026-10-14T15:35:04Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2221,7 +2364,7 @@
       "url": "https://github.com/razorpay/go-financial/issues/49",
       "source_created_at": "2026-10-14T15:38:20Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
@@ -2244,6 +2387,156 @@
       "title": "Pentest Swarm AI donor → governed Autonomous Security Validation Swarm",
       "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
       "source_created_at": "2026-10-14T15:35:00Z",
+      "first_seen_at": "2026-10-14T15:46:10.743Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add witnessed crimes, funded bounties and Marshall pursuit",
+      "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
+      "source_created_at": "2026-10-14T15:47:28Z",
+      "first_seen_at": "2026-10-14T15:47:40.981Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add SecureStorageAccess namespace isolation to lib.rs",
+      "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1282",
+      "source_created_at": "2026-10-14T16:42:34Z",
+      "first_seen_at": "2026-10-14T16:45:43.864Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "# ISP-118: High-latency intercontinental link (2s RTT, thin pipe) — Stellar tx submission vs txBatcher timeout tuning vs user-facing progress honesty",
+      "url": "https://github.com/Hel-Phone/HelPhone/issues/788",
+      "source_created_at": "2026-10-14T16:37:40Z",
+      "first_seen_at": "2026-10-14T16:45:43.864Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] ae2c1a3（#242，修 #198）把定标 `rounds` 改成 0 后，中标者的**投标物不再算一轮交付**：定标后第一次验收不通过、返工再交，仍按「一次过闸」结算 2×base，晋升也计作 round=0；同样的经历走 `/claim` 只得 base；招标路径还因此多一次交付机会",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/404",
+      "source_created_at": "2026-10-14T17:00:21Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug][P1] #279 的「等级不得随人迁移」把**评价者本人后续的 `/verify`、`/settle`** 也当成迁移：维护者自评自结、审核员评后自验这两条常规流程，影响等级都会从标记、结算事件和每日贡献表里静默消失",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/403",
+      "source_created_at": "2026-10-14T17:00:19Z",
+      "first_seen_at": "2026-10-14T17:09:05.960Z",
+      "last_seen_at": "2026-10-14T17:09:05.960Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Strategy proposal: LlamaLendLoopStrat — wstETH/crvUSD loop with fxSAVE buffer as the book's ETH-delta hedge",
+      "url": "https://github.com/everstrat-xyz/contracts/issues/54",
+      "source_created_at": "2026-10-14T13:27:18Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
       "last_seen_at": "2026-10-14T16:47:56.671Z",
       "status": "informativa",
@@ -2345,81 +2638,6 @@
       "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
       "source_created_at": "2026-10-14T13:34:02Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add witnessed crimes, funded bounties and Marshall pursuit",
-      "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
-      "source_created_at": "2026-10-14T15:47:28Z",
-      "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add SecureStorageAccess namespace isolation to lib.rs",
-      "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1282",
-      "source_created_at": "2026-10-14T16:42:34Z",
-      "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "# ISP-118: High-latency intercontinental link (2s RTT, thin pipe) — Stellar tx submission vs txBatcher timeout tuning vs user-facing progress honesty",
-      "url": "https://github.com/Hel-Phone/HelPhone/issues/788",
-      "source_created_at": "2026-10-14T16:37:40Z",
-      "first_seen_at": "2026-10-14T16:45:43.864Z",
       "last_seen_at": "2026-10-14T16:47:56.671Z",
       "status": "informativa",
       "priority": 51,
@@ -3694,231 +3912,6 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/274",
       "source_created_at": "2026-10-13T17:22:58Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Feature] Widget showcase in storybook",
-      "url": "https://github.com/GoodDollar/GoodWidget/issues/250",
-      "source_created_at": "2026-10-13T17:19:32Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Test gaps left by the vessel steps S9-S15",
-      "url": "https://github.com/LuminariMUD/Luminari-Source/issues/257",
-      "source_created_at": "2026-10-13T17:39:40Z",
-      "first_seen_at": "2026-10-13T18:24:37.789Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-70035 | .NET and Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/wpf/issues/12017",
-      "source_created_at": "2026-10-13T18:26:34Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-70007 | .NET and Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/450",
-      "source_created_at": "2026-10-13T18:26:30Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-70007 | .NET and Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/wpf/issues/12016",
-      "source_created_at": "2026-10-13T18:26:28Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-69651 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/449",
-      "source_created_at": "2026-10-13T18:26:25Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-69651 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135698",
-      "source_created_at": "2026-10-13T18:26:23Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-66822 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/448",
-      "source_created_at": "2026-10-13T18:26:19Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Microsoft Security Advisory CVE-2026-66822 | .NET and Visual Studio Information Disclosure Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135697",
-      "source_created_at": "2026-10-13T18:26:18Z",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-13T18:26:40.272Z",
       "status": "informativa",
       "priority": 51,
