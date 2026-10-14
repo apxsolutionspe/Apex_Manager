@@ -1,8 +1,9 @@
 // Parallel public-source checking with strict source allowlist and bounded response size.
-import {writeFile,mkdir} from 'node:fs/promises';
+import {writeFile,mkdir,readFile} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {CAMPAIGNS,allowedCampaignUrl,makeRadar} from './crypto-core.mjs';
+import {applyResearchHistory} from './crypto-history.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const OUT=path.join(root,'feed/crypto.json');
 export async function inspectOfficial(item,fetcher=fetch){
@@ -20,7 +21,7 @@ export async function inspectOfficial(item,fetcher=fetch){
   return {official_page_access:source_confirmed?'texto_publico_coincidente':'pagina_sin_detalle_suficiente',source_confirmed};
  }catch(e){return {official_page_access:'error_red_o_redireccion',source_confirmed:false};}
 }
-export async function buildCloudRadar({campaigns=CAMPAIGNS,fetcher=fetch,now=new Date()}={}){
+export async function buildCloudRadar({campaigns=CAMPAIGNS,fetcher=fetch,now=new Date(),previous=null}={}){
  const feed=makeRadar(campaigns,now);
  // 3 independent read-only checkers. No self-replication, logins, keys or claim signatures.
  const checks=await Promise.all(campaigns.map(x=>inspectOfficial(x,fetcher)));
@@ -31,7 +32,10 @@ export async function buildCloudRadar({campaigns=CAMPAIGNS,fetcher=fetch,now=new
  return feed;
 }
 async function main(){
- const feed=await buildCloudRadar();await mkdir(path.dirname(OUT),{recursive:true});
+ let previous=null;
+ try { previous=JSON.parse(await readFile(OUT,'utf8')); }
+ catch(e) { if(e.code!=='ENOENT')throw e; }
+ const feed=await buildCloudRadar({previous});await mkdir(path.dirname(OUT),{recursive:true});
  await writeFile(OUT,JSON.stringify(feed,null,2)+'\n','utf8');
  console.log(JSON.stringify({schema:feed.schema,generated_at:feed.generated_at,statistics:feed.stats,verified_income_usd:0}));
 }
