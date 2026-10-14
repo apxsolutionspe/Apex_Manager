@@ -56,6 +56,9 @@ jobs:
           cp apex-global-intelligence-swarm/servicios.html site/
           cp apex-global-intelligence-swarm/servicios-core.js site/
           cp apex-global-intelligence-swarm/servicios-page.js site/
+          cp apex-global-intelligence-swarm/crypto.html site/
+          cp apex-global-intelligence-swarm/crypto-page.js site/
+          test -s site/crypto.html
           test -s site/servicios.html
           test -s site/index.html
           test -s site/app.js
@@ -110,11 +113,15 @@ jobs:
         run: |
           node apex-global-intelligence-swarm/scripts/prioritize-feed.mjs
           test -s apex-global-intelligence-swarm/feed/prioritized.json
+      - name: Investigar recompensas cripto solo en fuentes oficiales
+        run: |
+          node apex-global-intelligence-swarm/scripts/crypto-watch.mjs
+          test -s apex-global-intelligence-swarm/feed/crypto.json
       - name: Conservar historial público de oportunidades en GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add apex-global-intelligence-swarm/feed/archive.json apex-global-intelligence-swarm/feed/prioritized.json
+          git add apex-global-intelligence-swarm/feed/archive.json apex-global-intelligence-swarm/feed/prioritized.json apex-global-intelligence-swarm/feed/crypto.json
           if git diff --cached --quiet; then
             echo "El archivo histórico no cambió."
           else
@@ -128,7 +135,8 @@ jobs:
                 git reset --hard origin/main
                 node apex-global-intelligence-swarm/scripts/refresh-feed.mjs
                 node apex-global-intelligence-swarm/scripts/prioritize-feed.mjs
-                git add apex-global-intelligence-swarm/feed/archive.json apex-global-intelligence-swarm/feed/prioritized.json
+                node apex-global-intelligence-swarm/scripts/crypto-watch.mjs
+                git add apex-global-intelligence-swarm/feed/archive.json apex-global-intelligence-swarm/feed/prioritized.json apex-global-intelligence-swarm/feed/crypto.json
                 if git diff --cached --quiet; then
                   echo "Historial ya está actualizado."
                   break
