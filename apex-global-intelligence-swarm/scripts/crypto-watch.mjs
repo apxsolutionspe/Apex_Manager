@@ -29,7 +29,7 @@ export async function buildCloudRadar({campaigns=CAMPAIGNS,fetcher=fetch,now=new
  feed.stats.public_source_matches=checks.filter(x=>x.source_confirmed).length;
  feed.stats.checked_public_sources=checks.length;
  feed.stats.pending_individual_verification=feed.opportunities.filter(x=>x.status!=='plazo_finalizado').length;
- return feed;
+ return applyResearchHistory(feed,previous);
 }
 async function main(){
  let previous=null;
