@@ -8,7 +8,8 @@ export function formatWei(wei,decimals=6){
  if(typeof wei!=='bigint'||wei<0n)throw Error('Saldo inválido');
  const whole=(wei/1000000000000000000n).toString();
  const fraction=(wei%1000000000000000000n).toString().padStart(18,'0').slice(0,Math.max(0,Math.min(18,decimals)));
- return whole+(fraction&&/[1-9]/.test(fraction)?'.'+fraction:'');
+ const trimmed=fraction.replace(/0+$/,'');
+ return whole+(trimmed?'.'+trimmed:'');
 }
 export function compareBalances(previous,current){
  if(typeof current!=='bigint'||current<0n)throw Error('Saldo inválido');
