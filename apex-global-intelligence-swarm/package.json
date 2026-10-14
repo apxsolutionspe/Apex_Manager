@@ -5,6 +5,6 @@
   "private": true,
   "scripts": {
     "test": "node --test tests/*.test.mjs",
-    "check": "node --check app.js && node --check triage-page.js && node --check scripts/prioritize-feed.mjs && node --check servicios-core.js && node --check servicios-page.js && node --check crypto-page.js && node --check scripts/crypto-core.mjs && node --check scripts/crypto-watch.mjs"
+    "check": "node --check app.js && node --check triage-page.js && node --check scripts/prioritize-feed.mjs && node --check servicios-core.js && node --check servicios-page.js && node --check crypto-page.js && node --check scripts/crypto-core.mjs && node --check scripts/crypto-watch.mjs && node --check scripts/crypto-history.mjs"
   }
 }
