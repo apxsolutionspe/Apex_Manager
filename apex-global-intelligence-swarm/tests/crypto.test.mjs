@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {CAMPAIGNS,allowedCampaignUrl,makeRadar,publicCampaignView} from '../scripts/crypto-core.mjs';
+import {buildCloudRadar,inspectOfficial} from '../scripts/crypto-watch.mjs';
+const date=new Date('2026-10-14T12:00:00Z');
+test('only official Binance HTTPS campaigns',()=>{assert.equal(allowedCampaignUrl(CAMPAIGNS[0].url),true);assert.equal(allowedCampaignUrl('https://www.binance.com.attacker.org/en/support/announcement/detail/5fc0f803346b4b5085b0e1c5d16d8b2c'),false);assert.equal(allowedCampaignUrl('javascript:alert(1)'),false)});
+test('fixed limited campaigns, no invented claims',()=>{const x=makeRadar(CAMPAIGNS,date);assert.equal(x.opportunities.length,3);assert.equal(x.economics.verified_income_usd,0);assert(x.opportunities.every(s=>s.eligible_wallet_verified===false && s.amount_received_verified===0))});
+test('expires according to fixed official date',()=>assert.equal(publicCampaignView(CAMPAIGNS[1],new Date('2026-10-20T12:00:00Z')).status,'plazo_finalizado'));
+test('indeterminate without individual eligibility',()=>assert.equal(publicCampaignView(CAMPAIGNS[0],date).status,'plazo_por_confirmar'));
+test('no sign, transfer or self-multiplication',()=>assert(CAMPAIGNS.every(x=>x.requires_human_action && x.requires_kyc && !x.requires_prior_assets)));
+test('200 official with matching text confirms only public source',async()=>{const a=await inspectOfficial(CAMPAIGNS[0],async()=>({ok:true,headers:{get:()=>''},text:async()=>'<html>Bitcoin 0.00001 BTC 2026-10-01</html>'}));assert.equal(a.source_confirmed,true)});
+test('JS app shells not enough',async()=>{const a=await inspectOfficial(CAMPAIGNS[0],async()=>({ok:true,headers:{get:()=>''},text:async()=>'<html>Loading</html>'}));assert.equal(a.source_confirmed,false)});
+test('rejects redirects and failed requests',async()=>{const a=await inspectOfficial(CAMPAIGNS[0],async()=>{throw Error('redirect');});assert.equal(a.source_confirmed,false)});
+test('rejects unexpectedly huge responses',async()=>{const a=await inspectOfficial(CAMPAIGNS[0],async()=>({ok:true,headers:{get:key=>key==='content-length'?'999999':null},text:async()=>{throw Error('must not read')}}));assert.equal(a.source_confirmed,false)});
+test('cloud scans do not create money even if all websites respond',async()=>{const r=await buildCloudRadar({now:date,fetcher:async()=>({ok:true,headers:{get:()=>''},text:async()=>'<html>Bitcoin 0.00001 BTC 2026-10-01 Word of the Day 2026-10-18 USDC Community Voice 500 USDC</html>'})});assert.equal(r.stats.checked_public_sources,3);assert.equal(r.stats.public_source_matches,3);assert.equal(r.economics.verified_withdrawals,0);assert.equal(r.economics.verified_income_usd,0)});
