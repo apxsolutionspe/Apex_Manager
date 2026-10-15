@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T20:04:36.863Z",
+  "generated_at": "2026-10-15T20:05:14.540Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -46,7 +46,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/5",
       "source_created_at": "2026-10-15T20:02:07Z",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -69,7 +69,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/3",
       "source_created_at": "2026-10-15T20:02:02Z",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -92,7 +92,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/16",
       "source_created_at": "2026-10-15T20:02:58Z",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -115,7 +115,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/13",
       "source_created_at": "2026-10-15T20:02:51Z",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -138,7 +138,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/12",
       "source_created_at": "2026-10-15T20:02:49Z",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -161,7 +161,7 @@
       "url": "https://github.com/Parabola-org/parabola/issues/11",
       "source_created_at": "2026-10-15T20:02:45Z",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -607,6 +607,328 @@
     },
     {
       "source": "github",
+      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+      "url": "https://github.com/Parabola-org/parabola/issues/4",
+      "source_created_at": "2026-10-15T20:02:04Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/Parabola-org/parabola/issues/2",
+      "source_created_at": "2026-10-15T20:01:56Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/Parabola-org/parabola/issues/1",
+      "source_created_at": "2026-10-15T20:01:50Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
+      "url": "https://github.com/Parabola-org/parabola/issues/20",
+      "source_created_at": "2026-10-15T20:03:08Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
+      "url": "https://github.com/Parabola-org/parabola/issues/19",
+      "source_created_at": "2026-10-15T20:03:06Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+      "url": "https://github.com/Parabola-org/parabola/issues/18",
+      "source_created_at": "2026-10-15T20:03:03Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 60,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+      "url": "https://github.com/Parabola-org/parabola/issues/17",
+      "source_created_at": "2026-10-15T20:03:01Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 60,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
+      "url": "https://github.com/Parabola-org/parabola/issues/15",
+      "source_created_at": "2026-10-15T20:02:55Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
+      "url": "https://github.com/Parabola-org/parabola/issues/14",
+      "source_created_at": "2026-10-15T20:02:53Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+      "url": "https://github.com/Parabola-org/parabola/issues/10",
+      "source_created_at": "2026-10-15T20:02:39Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+      "url": "https://github.com/Parabola-org/parabola/issues/9",
+      "source_created_at": "2026-10-15T20:02:33Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+      "url": "https://github.com/Parabola-org/parabola/issues/8",
+      "source_created_at": "2026-10-15T20:02:25Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
+      "url": "https://github.com/Parabola-org/parabola/issues/7",
+      "source_created_at": "2026-10-15T20:02:18Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $125] Add structured progress callbacks to transfer()",
+      "url": "https://github.com/Parabola-org/parabola/issues/6",
+      "source_created_at": "2026-10-15T20:02:13Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:05:13.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 125,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
       "url": "https://github.com/ASCTP/parabola/issues/27",
       "source_created_at": "2026-10-15T19:56:11Z",
@@ -671,328 +993,6 @@
         "payment": false
       },
       "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
-      "url": "https://github.com/Parabola-org/parabola/issues/4",
-      "source_created_at": "2026-10-15T20:02:04Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
-      "url": "https://github.com/Parabola-org/parabola/issues/2",
-      "source_created_at": "2026-10-15T20:01:56Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
-      "url": "https://github.com/Parabola-org/parabola/issues/1",
-      "source_created_at": "2026-10-15T20:01:50Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
-      "url": "https://github.com/Parabola-org/parabola/issues/20",
-      "source_created_at": "2026-10-15T20:03:08Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
-      "url": "https://github.com/Parabola-org/parabola/issues/19",
-      "source_created_at": "2026-10-15T20:03:06Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-      "url": "https://github.com/Parabola-org/parabola/issues/18",
-      "source_created_at": "2026-10-15T20:03:03Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-      "url": "https://github.com/Parabola-org/parabola/issues/17",
-      "source_created_at": "2026-10-15T20:03:01Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
-      "url": "https://github.com/Parabola-org/parabola/issues/15",
-      "source_created_at": "2026-10-15T20:02:55Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
-      "url": "https://github.com/Parabola-org/parabola/issues/14",
-      "source_created_at": "2026-10-15T20:02:53Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-      "url": "https://github.com/Parabola-org/parabola/issues/10",
-      "source_created_at": "2026-10-15T20:02:39Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
-      "url": "https://github.com/Parabola-org/parabola/issues/9",
-      "source_created_at": "2026-10-15T20:02:33Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
-      "url": "https://github.com/Parabola-org/parabola/issues/8",
-      "source_created_at": "2026-10-15T20:02:25Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
-      "url": "https://github.com/Parabola-org/parabola/issues/7",
-      "source_created_at": "2026-10-15T20:02:18Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $125] Add structured progress callbacks to transfer()",
-      "url": "https://github.com/Parabola-org/parabola/issues/6",
-      "source_created_at": "2026-10-15T20:02:13Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 125,
       "monetary_value_received": 0,
       "verified_payment": false
     },
