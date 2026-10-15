@@ -34,3 +34,67 @@ for(const url of [
  }catch(e){error=e}
 }
 if(error){results.textContent='La consulta pública aún no está disponible: '+String(error.message||error);metrics.replaceChildren(metric('Estado','sin información'))}
+
+function drawDiscovery(d){
+ const container=document.getElementById('discovery');
+ const metrics=document.getElementById('discovery-metrics');
+ const updated=document.getElementById('discovery-updated');
+ if(!container||!metrics||!updated)return;
+ const list=Array.isArray(d.opportunities)?d.opportunities.slice(0,50):[];
+ metrics.replaceChildren(
+  metric('Fuentes oficiales bajo seguimiento',d.stats.official_pages_checked),
+  metric('Páginas accesibles',d.stats.pages_read),
+  metric('Anuncios para investigar',list.length),
+  metric('Elegibilidad y depósitos verificados','0')
+ );
+ const allowed=new Set(['www.binance.com','www.coinbase.com','blog.kraken.com','www.okx.com',
+  'blog.uniswap.org','aave.com','optimism.io','gov.uniswap.org','gov.optimism.io']);
+ const descriptions={
+  security_warning:'Señal de seguridad: no conectar billetera ni compartir secretos.',
+  requires_capital_or_activity_review:'Puede exigir dinero, operaciones o activos: no es una recompensa gratuita comprobada.',
+  manual_action_or_conditions:'Puede exigir solicitud, concurso, verificación o participación personal.',
+  eligibility_not_verified:'Anuncio informativo: elegibilidad y gratuidad pendientes de confirmar.'
+ };
+ const nowYear=new Date().getUTCFullYear();
+ const historic=x=>{
+  const years=String(x.title).match(/\b20\d{2}\b/g)||[];
+  return years.some(y=>Number(y)<nowYear);
+ };
+ list.sort((a,b)=>Number(historic(a))-Number(historic(b)));
+ container.replaceChildren();
+ for(const x of list){
+  const article=document.createElement('article');article.className='item';
+  const state=document.createElement('span');state.className='pill'+(historic(x)?' closed':'');
+  state.textContent=historic(x)?'Referencia con año anterior':'Anuncio sin vigencia comprobada';
+  const heading=document.createElement('h2');heading.textContent=String(x.title).slice(0,180);
+  article.append(state,heading);
+  article.append(info('Origen',String(x.source)),info('Control de riesgo',descriptions[x.screening]||'Evaluación pendiente'));
+  const note=document.createElement('div');note.className='danger';note.textContent='No hay derecho de cobro confirmado. No existe transferencia automática.';
+  article.append(note);
+  try{
+   const url=new URL(x.url);
+   if(url.protocol==='https:'&&allowed.has(url.hostname)&&x.screening!=='security_warning'){
+    const link=document.createElement('a');link.href=url.href;link.rel='noopener noreferrer';link.target='_blank';
+    link.textContent='Consultar anuncio en su origen ↗';article.append(link);
+   }
+  }catch{}
+  container.append(article);
+ }
+ if(!list.length){const empty=document.createElement('div');empty.className='empty';empty.textContent='No se identificaron anuncios aptos para investigación en la última exploración. Ningún activo fue cobrado.';container.append(empty)}
+ updated.textContent='Última actualización: '+new Date(d.generated_at).toLocaleString('es-PE')+
+  '. Fuente oficial no equivale a beneficio legítimamente adquirido. No incluye datos de tu billetera.';
+}
+for(const url of [
+ 'https://raw.githubusercontent.com/apxsolutionspe/Apex_Manager/main/apex-global-intelligence-swarm/feed/crypto-discovery.json',
+ './feed/crypto-discovery.json'
+]){
+ try{
+  const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Error HTTP '+r.status);
+  const d=await r.json();
+  if(d.schema!=='apex-crypto-discovery-v1'||!Array.isArray(d.opportunities)||
+     d.stats?.confirmed_eligible!==0||d.stats?.verified_deposits!==0)throw Error('Informe incompatible');
+  drawDiscovery(d);break;
+ }catch(e){
+  document.getElementById('discovery').textContent='La exploración DeFi no está disponible ahora. Ningún resultado fue asumido.';
+ }
+}
