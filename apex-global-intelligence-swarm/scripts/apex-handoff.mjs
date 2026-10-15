@@ -42,7 +42,7 @@ export function buildHandoff({discovery,health,leads,crypto,now=new Date()}){
   operating_mode:'scheduled source checks, public reports, private watch-only wallet checks; no unattended transfers',
   pending:[
    'Validate qualifying rewards with original issuer and country conditions',
-   'Implement privacy-preserving persistent deposit audit requiring owner-controlled encryption key',
+   'Activate and test encrypted deposit audit once APEX_WALLET_AUDIT_KEY is saved in GitHub Actions secrets',
    'Add private incident notifications without exposing the monitored wallet',
    'Improve availability of official blocked/oversized sources without bypassing protections'
   ],
