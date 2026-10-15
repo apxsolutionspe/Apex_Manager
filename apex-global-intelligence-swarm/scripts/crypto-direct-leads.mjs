@@ -24,13 +24,55 @@ export const VERIFIED_ANNOUNCEMENTS=Object.freeze([
   wallet_transfer_supported:false,
   automatic_claim_supported:false,
   source_checked_by_research_on:'2026-10-15'
+ }) ,
+ Object.freeze({
+  id:'binance-wotd-intelligence-2026-10',
+  title:'Binance Word of the Day · 5 palabras correctas, categoría sin trading',
+  issuer:'Binance',
+  official_url:'https://www.binance.com/en/square/post/376351996964354',
+  campaign_begins:'2026-10-12T00:00:00Z',
+  campaign_end:'2026-10-18T23:59:00Z',
+  announced_reward:'Participación proporcional en fondo de 3,000 USDC, sujeto a elegibilidad y resultados',
+  account_created_after:null,
+  monthly_cap:null,
+  conditions:['Cuenta de Binance verificada (antigua o nueva)','País admitido','Acertar al menos 5 palabras antes del cierre','Canje de cualquier vale en Rewards Hub; premios variables y no garantizados','La categoría adicional de 7,000 USDC exige trading: NO priorizada'],
+  requires_new_personal_account:false,
+  known_deposit_required:false,
+  reward_location:'Binance Rewards Hub; no depósito directo en MetaMask',
+  geographic_eligibility:'no_verificada',
+  individual_eligibility:'no_verificada',
+  current_quota:'no_verificada',
+  wallet_transfer_supported:false,
+  automatic_claim_supported:false,
+  source_checked_by_research_on:'2026-10-15'
+ }),
+ Object.freeze({
+  id:'binance-ai-feedback-2026-10',
+  title:'Binance AI · opiniones auténticas, 25 premios de 20 USDC',
+  issuer:'Binance',
+  official_url:'https://www.binance.com/en/support/announcement/detail/8fd1fe0094b34442b322c177894666bf',
+  campaign_begins:'2026-10-12T12:00:00Z',
+  campaign_end:'2026-10-18T23:59:00Z',
+  announced_reward:'20 USDC en vales para 25 ganadores seleccionados por calidad',
+  account_created_after:null,
+  monthly_cap:25,
+  conditions:['Cuenta Binance verificada de país participante','Probar Binance AI y redactar opiniones verdaderas','Seguir Binance Angels en X y republicar el post oficial con #BinanceAI','Enviar enlace del post al canal #builders-chat del Discord oficial','Ganadores elegidos por criterio del organizador; distribución prevista hasta 30 de octubre'],
+  requires_new_personal_account:false,
+  known_deposit_required:false,
+  reward_location:'Binance Rewards Hub; no depósito directo en MetaMask',
+  geographic_eligibility:'no_verificada',
+  individual_eligibility:'no_verificada',
+  current_quota:'no_verificada',
+  wallet_transfer_supported:false,
+  automatic_claim_supported:false,
+  source_checked_by_research_on:'2026-10-15'
  })
 ]);
 export function evaluateLead(c,{asOf=new Date(),registration=null,kyc=false,eligibleCountry=null}={}){
- if(!c||typeof c!=='object'||!/^https:\/\/www\.binance\.com\/en\/square\/post\/\d+$/.test(c.official_url))throw Error('Invalid official source');
+ if(!c||typeof c!=='object'||!/^https:\/\/www\.binance\.com\/(?:en\/square\/post\/\d+|en\/support\/announcement\/detail\/[a-f0-9]{32})$/.test(c.official_url))throw Error('Invalid official source');
  if(asOf.getTime()<new Date(c.campaign_begins).getTime())return {status:'not_started',may_claim:false};
  if(c.campaign_end&&asOf.getTime()>new Date(c.campaign_end).getTime())return {status:'expired',may_claim:false};
- if(registration && new Date(registration).getTime()<=new Date(c.account_created_after).getTime())
+ if(c.requires_new_personal_account && registration && new Date(registration).getTime()<=new Date(c.account_created_after).getTime())
   return {status:'registration_ineligible',may_claim:false};
  if(eligibleCountry===false)return {status:'region_not_eligible',may_claim:false};
  if(!kyc||!registration||eligibleCountry!==true)return {status:'personal_eligibility_pending',may_claim:false};
