@@ -10,6 +10,7 @@ on:
       - '.github/workflows/apex-crypto-hourly.yml'
       - 'apex-global-intelligence-swarm/scripts/crypto-*.mjs'
       - 'apex-global-intelligence-swarm/tests/crypto*.test.mjs'
+      - 'apex-global-intelligence-swarm/native/**'
       - 'apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs'
 
 permissions:
@@ -42,7 +43,15 @@ jobs:
           node --check scripts/crypto-watch.mjs
           node --check scripts/crypto-discovery.mjs
           node --test tests/crypto.test.mjs tests/crypto-history.test.mjs tests/crypto-discovery.test.mjs
+      - name: Compilar y probar clasificador nativo Rust sin dependencias externas
+        run: |
+          rustc --version
+          rustc --edition=2021 --test apex-global-intelligence-swarm/native/crypto_classifier.rs -o "$RUNNER_TEMP/apex-native-test"
+          "$RUNNER_TEMP/apex-native-test"
+          rustc --edition=2021 -O apex-global-intelligence-swarm/native/crypto_classifier.rs -o "$RUNNER_TEMP/apex-native-screen"
       - name: Investigación cripto solo lectura y guardado con reintentos
+        env:
+          APEX_CRYPTO_NATIVE_CLASSIFIER: ${{ runner.temp }}/apex-native-screen
         shell: bash
         run: |
           set -euo pipefail
