@@ -20,7 +20,7 @@
 - El reporte público no demuestra elegibilidad real de ninguna billetera. Un anuncio de recompensa no es dinero cobrado.
 - El secreto de GitHub Actions `APEX_WALLET_ADDRESS` fue configurado por su propietario. **NUNCA** poner dirección, frase semilla o claves privadas en este archivo, logs o feeds públicos.
 - El monitor consulta saldos ETH y eventos de entrada de contratos ERC-20 permitidos en Ethereum (USDC, USDT, DAI, LINK, UNI). No firma ni envía transacciones.
-- No existe registro privado permanente y auditado de depósitos entre ejecuciones, ni reclamación autónoma de tokens, ni pago automático verificado.
+- El módulo `scripts/wallet-audit.mjs` y 6 pruebas de cifrado AES-256-GCM ya están integrados; el historial longitudinal permanece **PENDIENTE DE ACTIVACIÓN**, porque falta configurar el secreto independiente `APEX_WALLET_AUDIT_KEY` (32 bytes aleatorios, codificados en 64 caracteres hexadecimales). El módulo nunca debe recibir la frase semilla, contraseña o clave privada de MetaMask. Al activarlo, se almacenará únicamente un fichero cifrado en `state/wallet-audit.enc.json`, visible como texto cifrado dentro del repositorio público; no incluye dirección ni saldo en claro, pero las actualizaciones del fichero pueden ser observables. El servicio RPC seguirá viendo la dirección que consulta. Los aumentos de saldo NO equivalen a ganancias hasta verificar su procedencia.
 - Ingresos o recompensas **verificados por APEX** en el último estado confirmado: **US$ 0**. Comprobar el dato nuevamente en cada sesión.
 - Un cupón Binance limitado a cuentas recién creadas fue retirado de los candidatos activos; no permitir registros múltiples automatizados para eludir requisitos.
 - Actualmente no hay evidencias de que APEX haya generado fondos, transferido criptomonedas o reclamado recompensas.
@@ -40,7 +40,7 @@ Texto sugerido para pegar en el chat nuevo:
 
 1. **Validar fuentes:** monitor de salud e incidencias, distinguir bloqueo 403/502, HTML excesivo y página accesible sin candidatos.
 2. **Mejorar calidad:** limitar falsos positivos, fechas obsoletas, costes de gas, KYC regional y trabajos que no sean recompensa pasiva.
-3. **Vigilancia privada longitudinal:** usar almacenamiento cifrado, con clave que controle el propietario; no subir registros personales al repositorio público.
+3. **Vigilancia privada longitudinal:** módulo y pruebas implementados. El propietario debe guardar `APEX_WALLET_AUDIT_KEY` en los secretos de Actions para iniciar snapshots cifrados; jamás enviar esta clave al chat. No subir datos descifrados; un cambio de saldo es una observación, no prueba de ingresos.
 4. **Alertas sin exposición:** notificar solo incidencias verificadas y sin publicar datos de cuentas.
 5. **Ingresos reales:** documentar condiciones del emisor, comprobar que el beneficiario puede reclamar y verificar pago oficial; toda acción con firma o gasto exige aprobación del titular.
 
