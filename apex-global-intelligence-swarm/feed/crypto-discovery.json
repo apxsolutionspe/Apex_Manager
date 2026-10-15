@@ -1,11 +1,11 @@
 {
   "schema": "apex-crypto-discovery-v1",
-  "generated_at": "2026-10-15T16:52:01.447Z",
+  "generated_at": "2026-10-15T16:52:26.972Z",
   "mode": "public_official_read_only",
   "statement": "Announced campaigns are not verified eligibility or money.",
   "stats": {
-    "official_pages_checked": 5,
-    "pages_read": 3,
+    "official_pages_checked": 7,
+    "pages_read": 4,
     "candidate_announcements": 0,
     "confirmed_eligible": 0,
     "verified_deposits": 0
@@ -29,6 +29,16 @@
     {
       "id": "kraken-blog",
       "result": "read",
+      "candidate_count": 0
+    },
+    {
+      "id": "kraken-promotions",
+      "result": "read",
+      "candidate_count": 0
+    },
+    {
+      "id": "kraken-product",
+      "result": "network_or_redirect_error",
       "candidate_count": 0
     },
     {
