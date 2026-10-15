@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T17:28:16.618Z",
+  "updated_at": "2026-10-15T20:01:27.650Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872969669",
+      "title": "[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
+      "url": "https://github.com/ASCTP/parabola/issues/23",
+      "evidence": "**Context** `website/` is the project's landing page with a scripted hero animation (`website/src/hero-animation.ts`, `website/src/animations.ts`). Marketing pages built around canvas/CSS animation commonly ship without `prefers-reduced-motion` handling, keyboard-navigable CTAs, or proper document landmarks — and this page is the first impression for developers evaluating the SDK. Without seeing the rendered page the exact gaps can't be listed exhaustively, so this bounty is scoped to an audit-plus-fix pass rather than a single known bug. **Pro",
+      "source_created_at": "2026-10-15T19:55:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/23",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872972318",
+      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
+      "url": "https://github.com/ASCTP/parabola/issues/27",
+      "evidence": "**Context** `convertPrecision` in `src/utils/encoding.ts:137-147` implements the Arc(6)↔Stellar(7) decimal conversion that sits at the heart of every cross-chain amount in this SDK, but it is not exported from `src/index.ts` — integrators building fee displays or amount inputs against both chains have to reimplement bigint scaling themselves. Meanwhile `parseUsdcAmount`/`formatUsdcAmount` (same file, lines 92-115) and `decimalsForChain` have test files, but there is no dedicated coverage of conversion round trips (up-scale then down-scale, trun",
+      "source_created_at": "2026-10-15T19:56:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/27",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872950112",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/ASCTP/parabola/issues/7",
+      "evidence": "**Context** `pollTransactionStatus` in `src/chains/stellar.ts:71-86` calls `server.getTransaction(hash)` inside a bare `while` loop with no error handling. A single transient RPC failure (connection reset, 5xx from the Soroban RPC) rejects the whole loop with whatever error the Stellar SDK threw — a bare error with no hash attached. This contradicts the module's own contract: the comment directly below (lines 81-85) says the hash must be surfaced via `SubmissionTimeoutError` because the transaction was already broadcast. Today that guarantee on",
+      "source_created_at": "2026-10-15T19:54:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/7",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872971484",
+      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
+      "url": "https://github.com/ASCTP/parabola/issues/26",
+      "evidence": "**Context** `bytes32ToStellarAddress` in `src/utils/encoding.ts:28-32` does `Buffer.from(hex, \"hex\")` with no validation and passes the result straight to `StrKey.encodeEd25519PublicKey`. `Buffer.from` silently truncates at the first non-hex character and accepts odd-length strings by dropping the leading nibble, so garbage input produces a garbage-but-plausible `G...` address instead of an error. Its sibling `stellarAddressToBytes32` (lines 12-25) validates both directions of the strkey round trip; this inverse got missed. It's exported from t",
+      "source_created_at": "2026-10-15T19:56:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/26",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872970669",
+      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+      "url": "https://github.com/ASCTP/parabola/issues/25",
+      "evidence": "**Context** `scripts/testnet-smoke.mjs` is the end-to-end testnet check (`pnpm smoke`) and one of the few signals that the SDK works against live Circle Iris and real contracts. Public testnets and faucets flake constantly — transient RPC 5xx, attestation delays just over the poll window, faucet rate limits. A smoke script with no retry or step-level reporting turns every flake into a false alarm, and a script that doesn't exit non-zero on partial failure turns real breakage into a green-looking run. **Proposed Change** Restructure the script i",
+      "source_created_at": "2026-10-15T19:56:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/25",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872970259",
+      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+      "url": "https://github.com/ASCTP/parabola/issues/24",
+      "evidence": "**Context** The README documents the happy path well, and `src/errors.ts` has excellent inline rationale — but a integrator debugging a failed mainnet transfer has to assemble the recovery story by reading source. The pieces are scattered: `TransferError.burnTxHash` (recover via `completeMint`), `AttestationNotReadyError` (retryable, burn is safe), `SubmissionTimeoutError` (hash exists, outcome unknown — check the chain before retrying), `IrisRequestError` (Circle-side outage, retry), and `resolveBurn` for inspecting a burn you didn't produce. ",
+      "source_created_at": "2026-10-15T19:56:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/24",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872969052",
+      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
+      "url": "https://github.com/ASCTP/parabola/issues/22",
+      "evidence": "**Context** `package.json` publishes a dual CJS/ESM build (`main`/`module`/`exports`) via tsup, but declares no `sideEffects` field (bundlers must assume the SDK can have side effects and keep more than necessary), and nothing validates that the published artifact's export map, `files`, and types entries are actually coherent. `pnpm build` succeeding does not catch misconfigured `exports` paths or types that don't resolve for `moduleResolution: \"node16\"` consumers — the class of bug that only surfaces after `npm publish`. **Proposed Change** Ad",
+      "source_created_at": "2026-10-15T19:55:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/22",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872968526",
+      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
+      "url": "https://github.com/ASCTP/parabola/issues/21",
+      "evidence": "**Context** `demos/wallet-transfer-demo` drives real transfers but has no path for the failure mode the SDK bends over backwards to support: the burn succeeded, then attestation or mint failed. `TransferError` carries `burnTxHash` exactly so a caller can resume with `completeMint()` (`src/errors.ts:7-30`, README recovery docs). In the demo, a post-burn failure presumably surfaces as a dead-end error toast, and the user has no way to retry the mint without re-burning — which would double-spend. **Proposed Change** Detect `TransferError` with a n",
+      "source_created_at": "2026-10-15T19:55:53Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/21",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872967445",
+      "title": "[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
+      "url": "https://github.com/ASCTP/parabola/issues/20",
+      "evidence": "**Context** `src/errors.ts` defines the SDK's entire failure taxonomy — `TransferError`, `AttestationNotReadyError`, `IrisRequestError`, `SubmissionTimeoutError` — and there is no `tests/errors.test.ts`. Nothing asserts constructor wiring (`burnTxHash` attachment, optional `code`/`status`), `instanceof` behavior after a bundling pass, or that `src/index.ts` actually exports the public API the README documents. A refactor that drops an export or renames a field currently sails through CI until a user hits it at runtime. **Proposed Change** Add `",
+      "source_created_at": "2026-10-15T19:55:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/20",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872966789",
+      "title": "[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
+      "url": "https://github.com/ASCTP/parabola/issues/19",
+      "evidence": "**Context** Two recovery loops in `src/chains/stellar.ts` have hard-coded timing with no caller control: `waitForAllowance` (lines 210-227) does 6 attempts × 1500ms, and `retryOnTransientRpcLag` (lines 278-294) does 3 attempts × 2000ms. A backend on a slow RPC provider may need longer; a latency-sensitive path may want faster failure. The knobs are currently compile-time constants, while every other timing concern in the SDK (`pollInterval`, `pollTimeout`) is already a documented option. **Proposed Change** Add optional fields to `TransferOptio",
+      "source_created_at": "2026-10-15T19:55:46Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/19",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872965992",
+      "title": "[Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+      "url": "https://github.com/ASCTP/parabola/issues/18",
+      "evidence": "**Context** CI (`.github/workflows/ci.yml`) runs typecheck, tests, build, commitlint, and PR-title lint — but no static analysis of the code itself. `package.json` has no lint script and ESLint is not a devDependency. Rules that would have caught real classes of issues in this codebase — floating promises in the polling loops, unsafe `any` casts around signer types (`src/transfer.ts:254-269`), unused catches (`src/chains/stellar.ts:153-155`) — are unenforced, and contributors have no local lint feedback loop. **Proposed Change** Add `eslint` + ",
+      "source_created_at": "2026-10-15T19:55:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/18",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872965082",
+      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+      "url": "https://github.com/ASCTP/parabola/issues/17",
+      "evidence": "**Context** Arc USDC has 6 decimals, Stellar USDC has 7 (`src/constants.ts`, `src/utils/amount.ts:14-16`). `transfer()` parses the amount in *source* chain decimals only. A Stellar→Arc transfer of `\"1.1234567\"` parses fine at 7 decimals and burns 11234567 stroops-of-USDC — but the destination is a 6-decimal token, so the precision difference is resolved by whatever the on-chain contracts do, and the caller was never told their amount had more precision than the destination supports. `convertPrecision` in `src/utils/encoding.ts:137-147` even doc",
+      "source_created_at": "2026-10-15T19:55:38Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/17",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872964002",
+      "title": "[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+      "url": "https://github.com/ASCTP/parabola/issues/16",
+      "evidence": "**Context** `decodeCctpMessage` in `src/utils/message.ts:88-121` validates only minimum length, then reads every header and body field at hard-coded V2 offsets (lines 14-36, cross-checked against Circle's reference contracts). It never checks the `version` header field or `burnBodyVersion`. If Circle ships a V3 message format with different field layout, or a non-burn body ever reaches this decoder, the function returns a confidently wrong decode — wrong amount, wrong recipient — and `completeMint` / `resolveBurn` would act on it. For a functio",
+      "source_created_at": "2026-10-15T19:55:34Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/16",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872962670",
+      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+      "url": "https://github.com/ASCTP/parabola/issues/14",
+      "evidence": "**Context** `burn()` in `src/transfer.ts:153-179` calls `approveUsdcOnArc` unconditionally before every Arc-sourced burn, submitting an exact-amount ERC-20 approve even when TokenMessengerV2 already has an allowance ≥ `amountRaw` from a prior transfer. That's an extra transaction, extra Arc gas, and an extra confirmation wait on every transfer from the same hot wallet — a real cost for any service running frequent transfers. The exact-amount approval policy (comment at lines 160-163) is good for minimizing standing allowance, but reading the cu",
+      "source_created_at": "2026-10-15T19:55:28Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/14",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872961095",
+      "title": "[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
+      "url": "https://github.com/ASCTP/parabola/issues/13",
+      "evidence": "**Context** `transfer()` in `src/transfer.ts:56-71` can silently downgrade a fast transfer to standard when the quoted fee exceeds `options.maxFee` or the fixed 15s fast estimate exceeds `options.maxWait`. `estimateFee` in `src/estimate.ts:15-39` knows nothing about either knob: it always reports fast as available and quotes the current fee. A caller that shows the `estimateFee` result to a user and then calls `transfer()` with `maxFee` set can charge a different mode and fee than quoted — the quote is decorative. **Proposed Change** Extend `Es",
+      "source_created_at": "2026-10-15T19:55:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/13",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872958938",
+      "title": "[Bounty: $125] Add structured progress callbacks to transfer()",
+      "url": "https://github.com/ASCTP/parabola/issues/12",
+      "evidence": "**Context** `transfer()` in `src/transfer.ts:43-139` runs up to four distinct stages — recipient readiness check, approve, burn (+ confirmation), attestation polling, mint — with no way for a caller to observe progress except by parsing thrown errors after the fact. The README positions transfer observability as where this project is headed. Today a long standard transfer is a silent gap of up to `pollTimeout` (default 300s, `src/constants.ts:80`). Services and the demo app cannot show stage-level status, and operators cannot metric per-stage d",
+      "source_created_at": "2026-10-15T19:55:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/12",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872958127",
+      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+      "url": "https://github.com/ASCTP/parabola/issues/11",
+      "evidence": "**Context** Nothing in the SDK accepts an `AbortSignal`. `pollForAttestation` (`src/iris/poll.ts:133-170`), `pollTransactionStatus` (`src/chains/stellar.ts:71-86`), and `waitForAllowance`/`retryOnTransientRpcLag` (`src/chains/stellar.ts:210-294`) all run `while` loops with fixed deadlines and no external cancellation. A service shutting down, a user navigating away from the demo, or a request-scoped timeout in a web backend cannot stop an in-flight transfer. This matters most after the burn: the README and `TransferError` docs promise the calle",
+      "source_created_at": "2026-10-15T19:55:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/11",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872957451",
+      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+      "url": "https://github.com/ASCTP/parabola/issues/10",
+      "evidence": "**Context** `checkStellarRecipientReady` in `src/chains/stellar.ts:144-177` wraps `server.getAccount(recipient)` in a bare `catch` that returns `{ exists: false, hasTrustline: false, ready: false }`. Any failure — DNS error, RPC 503, rate limit on the public mainnet endpoint (which `src/constants.ts:49-52` explicitly warns is rate-limited) — is indistinguishable from an account that genuinely was never funded. `assertStellarRecipientReady` in `src/transfer.ts:207-223` then throws \"recipient does not exist yet. It must be funded with at least th",
+      "source_created_at": "2026-10-15T19:55:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/10",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872956436",
+      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+      "url": "https://github.com/ASCTP/parabola/issues/9",
+      "evidence": "**Context** `pollForAttestation` in `src/iris/poll.ts:133-170` tolerates up to 5 consecutive failures before giving up — the right policy against a public API. But `getAttestation` (lines 102-122), used by `resolveBurn` in `src/transfer.ts:285-304`, calls `pollOnce` exactly once and throws `IrisRequestError` on the first failure. So `resolveBurn`, the SDK's read-only \"what did this burn commit to?\" helper, is strictly less reliable than the polling path for no documented reason. A single dropped connection makes a caller believe the burn is unr",
+      "source_created_at": "2026-10-15T19:55:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/9",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872955472",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/ASCTP/parabola/issues/8",
+      "evidence": "**Context** `fetchFastTransferFeeBps` in `src/iris/poll.ts:10-23` does `body.find((entry) => entry.finalityThreshold <= 1000)` and falls back to `return fastEntry?.minimumFee ?? 0`. If Iris changes its response shape, returns an empty array, or ships a tier with a different threshold, every fast transfer is silently quoted a zero fee — in `transfer()` this flows into `feeRaw = 0` and a `TransferResult.fee` of `\"0\"`, and in `estimateFee` it produces a free-looking quote. The same function also throws a bare `Error` on HTTP failure (line 18) even",
+      "source_created_at": "2026-10-15T19:54:55Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/8",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872823917",
+      "title": "Carrier knows about fights in its system",
+      "url": "https://github.com/dseelinger/d47/issues/1185",
+      "evidence": "d47 already folds the fight around the Commander. `NearbyFight` (`src/D47.Core/Callouts/NearbyFight.cs`) counts kills (`Bounty`, `FactionKillBond`) and stamps the last action, a kill or an `UnderAttack`, with the time, for the current system only. It clears on `LoadGame`, `Died`, and an `FSDJump`, `CarrierJump` or `Location` into another system. `LineWriter` reads it for invented combat chatter (`NpcChatter.CombatScene`, `src/D47.Core/Callouts/NpcChatter.cs:770`). Nothing the carrier says is told about it. The tower's and captain's callout brie",
+      "source_created_at": "2026-10-15T19:45:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dseelinger/d47/issues/1185",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872590120",
+      "title": "[Programme] Digital thread for rocket turbopump supply chains — open slices",
+      "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/21",
+      "evidence": "Handling: Unclassified — public **Status:** schema v0.2.1-draft is merged (#4, #5). This issue is the index for the next phase of the open call in #3. Work happens in the slice issues below, not here. ## The problem Canada is building its first domestic launch supply chains. For flight-critical parts such as turbopumps, the binding constraint is not the design. It is the evidence chain that proves each part was made, treated, cleaned and inspected the way it must be. Today that chain lives in spreadsheets, cannot be inspected, and cannot move b",
+      "source_created_at": "2026-10-15T19:27:56Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/21",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873036842",
+      "title": "world/voxel_world：build_flatland 的 trees 参数无上界（同一「资源上界」措施里的 size/steps/轨迹三条都有闸，trees 未纳入）",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/701",
+      "evidence": "> **基线**：`fd730b287105194010f82989409f16aef9bde9f8`（= 发布时的 `origin/main`，2026-10-16T03:38:49+08:00，`Merge PR #615`）。 > > **三个 sha 的关系（如实，可复算）**： > · **r59h 的读数**在只读树 `tree-335703e637ce`（= `335703e6`）上跑； > · **本件的重跑读数**在只读树 `tree-2919d532850f`（= `2919d532`）上跑，原始输出落 `snapshots/r59j/`； > · **发布时的 `origin/main`** 是 `fd730b28`（`#615` 合入）。 > 本件引用的 `lingshu/world/voxel_world.py` 与 `lingshu/world/scene_simulator.py` 在这三个 sha 之间**逐字节未变**（LF 归一后 sha256 恒为 `beaf595dc12bfb9d…` / `f1fc508797ab3848…`）；`core.py` 变过两次（`1e8e1943921c34df…` → `99cb80b4378e2133…` ",
+      "source_created_at": "2026-10-15T20:00:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/701",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872582526",
+      "title": "[Slice E] Comparative real-world traces: retired engines under one method",
+      "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
+      "evidence": "Handling: Unclassified — public Part of #3. ## Why this matters One trace is an example. Several traces under the same method are a dataset: they show whether the public record is systematically thin at the same points across programmes. ## The problem Add real-world traces for **retired** engines, each following the same method as the F-1 trace (assigned in #3), so they can be compared in the gap atlas (#16). ## Candidate programmes Retired programmes only, for example **J-2** and **H-1**. Propose others with a reason. Active commercial or mil",
+      "source_created_at": "2026-10-15T19:27:24Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872576709",
+      "title": "[Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 10303-242)",
+      "url": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
+      "evidence": "Handling: Unclassified — public Part of #3. ## Why this matters Industry already records manufacturing and quality data in established standards. A schema that maps cleanly to them can be adopted without re-keying data; one that does not will stay a research artefact. ## The problem Map the OpenChokepoint v0.2.1 digital-thread types and links to existing provenance and manufacturing-data standards, and show the mapping working. ## Scope 1. **Crosswalk** (`docs/standards-crosswalk.md`): for each type and link (Component, SerialItem, MaterialLot,",
+      "source_created_at": "2026-10-15T19:26:59Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
     {
       "source": "github",
@@ -488,81 +983,6 @@
       "last_seen_at": "2026-10-15T17:28:16.618Z"
     },
     {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
       "source": "github",
       "external_id": "5870537260",
       "title": "Idea: an optional \"verified legal body\" badge for bounty takers",
@@ -620,51 +1040,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/92",
       "first_seen_at": "2026-10-15T17:25:01.099Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-15T17:28:16.618Z"
     },
     {
@@ -5274,6 +5649,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T20:01:27.650Z",
+      "generated_at": "2026-10-15T20:01:27.650Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 2455
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 423
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 376,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T17:28:16.618Z",
       "generated_at": "2026-10-15T17:28:16.618Z",
