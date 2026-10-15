@@ -146,3 +146,54 @@ async function loadConditionalLeads(){
  container.textContent='El seguimiento de condiciones oficiales no está disponible actualmente.';
 }
 await loadConditionalLeads();
+
+
+function renderHealthReport(report){
+ const metrics=document.getElementById('health-metrics');
+ const details=document.getElementById('health-details');
+ if(!metrics||!details)return;
+ metrics.replaceChildren(
+  metric('Fuentes registradas',report.health.sources_configured),
+  metric('Fuentes accesibles',report.health.sources_read),
+  metric('Fuentes con fallo',report.health.sources_unavailable),
+  metric('Recompensas cobradas y verificadas',String(report.triage.verified_received_rewards))
+ );
+ const categoryLabels={
+  work_or_security_review:'Trabajo, auditorías o recompensas por contribución',
+  project_grant_not_passive:'Subvenciones sujetas a aprobación',
+  capital_or_trading:'Exigen capital, trading u otra actividad',
+  historical_reference:'Referencias históricas',
+  manual_participation:'Participación personal requerida',
+  informational_not_passive:'Publicaciones informativas',
+  gas_fee_and_conditions_review:'Pueden requerir comisiones',
+  security_blocked:'Riesgo de seguridad',
+  unverified_no_capital_evidence:'Sin gasto evidente, pero sin elegibilidad verificada'
+ };
+ const lines=[];
+ for(const [key,label] of Object.entries(categoryLabels)){
+  const count=Number(report.triage.classified?.[key]||0);
+  if(count)lines.push(label+': '+count);
+ }
+ const failed=report.health.unavailable_sources||[];
+ const base='Clasificación de anuncios: '+(lines.length?lines.join(' · '):'sin anuncios')+'. ';
+ const unavailable=failed.length?'Fuentes sin lectura: '+failed.map(x=>x.source+' ('+x.reason+')').join(', ')+'. ':'';
+ details.textContent=base+unavailable+'Los avisos no demuestran que puedas cobrar una recompensa. Último diagnóstico: '+new Date(report.generated_at).toLocaleString('es-PE')+'.';
+}
+async function loadHealthReport(){
+ const metrics=document.getElementById('health-metrics');
+ for(const url of [
+  'https://raw.githubusercontent.com/apxsolutionspe/Apex_Manager/main/apex-global-intelligence-swarm/feed/crypto-health.json',
+  './feed/crypto-health.json'
+ ]){
+  try{
+   const response=await fetch(url,{cache:'no-store'});
+   if(!response.ok)throw Error('Source health unavailable');
+   const report=await response.json();
+   if(report.schema!=='apex-crypto-health-v1'||report.triage?.verified_income_usd!==0||
+      report.triage?.verified_received_rewards!==0)throw Error('Report incompatible');
+   renderHealthReport(report);return;
+  }catch{}
+ }
+ if(metrics)metrics.textContent='Estado técnico no disponible todavía: la última ejecución podría estar pendiente.';
+}
+await loadHealthReport();
