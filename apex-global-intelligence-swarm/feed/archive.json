@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T04:36:28.122Z",
+  "updated_at": "2026-10-15T11:27:06.536Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z"
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864324928",
+      "title": "# Spike 577 — Quest rewards as claimable airdrops: Merkle-root distributor, pull not push",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/441",
+      "evidence": "> Type: advanced integration spike (extremely difficult) | Effort: 3–8 weeks | Files touched: 16 (14+ required) | Risk: high — cross-boundary, migration-bearing, flag-gated > Status: proposed spike (not yet implemented) | Rollback: feature-flag off + docs revert per PROJECT_ARCHITECTURE.md §10–11 > Batch: second 50 (550–599). Does not duplicate spikes 500–549 — see `docs/spikes/SPIKE_INDEX_500_549.md` for the first batch. ## 1. Context and motivation 911-line push-mint monolith (faucetPending, pollSubmittedMint, 8-min TTL, 409s) replaced by cla",
+      "source_created_at": "2026-10-15T10:20:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PHASE-STELLAR/Phase/issues/441",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864966340",
+      "title": "【测评报告】Yuki 3.9.0 体验快测（记忆域 · 方法试验）：Windows 宿主 14 红 / 25 错逐条归因为平台面，非上游缺陷",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/520",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 \\`/claim\\`、不自行加 \\`bounty\\` 标签 （外部账号对 dsh-bounty 只有 \\`pull\\` 权限），也不发送 \\`/claim\\` \\`/deliver\\` \\`/verify\\` \\`/settle\\`。 依据 \\`docs/bounty/README.md\\` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏； 维护者裁定后由维护者另立悬赏」。 本件是**插件测评报告**，不是缺陷申报。被测对象是外部独立项目，与 DSH 生态无依赖关系； 按 dsh-bench 的 \\`docs/spec/\\` 四份真源（五状态口径、三张单、档位能说什么、未测就写未测）执行。 ## 交付物 | 项 | 值 | |---|---| | 被测项目 | [\\`YuanYeYouTao/Yuki\\`](https://github.com/YuanYeYouTao/Yuki)（Python 包名 \\`qq-ai-bot\\`） | | 版本 / 基线 | **3.9.0** ｜ commit \\`12de953eb34bab084b6aeb6e",
+      "source_created_at": "2026-10-15T11:08:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/520",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864749936",
+      "title": "【intake 输入】lingshu：#479 新增的 engine_meta 密钥闸枚举不全——verifier_config 无密钥 import_all 可覆盖，重启后 dedup_static 越界生效（绕过 D-007 密钥闸与 #118 的 [0.5,0.95] 钳制）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/519",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签 （外部账号对 dsh-bounty 只有 `pull` 权限，`POST /issues/{{n}}/labels` 实测 403 `Must have admin rights to Repository.`），也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）： 它是**输入**，不是悬赏；维护者裁定后由维护者另立悬赏」。 本件的缺陷本体、复现、守卫与修复 PR 全部发生在 **目标仓 `FuRongJun-1999/lingshu`**， 悬赏仓侧只做登记与溯源，不重复承载代码。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/lingshu` | | 缺陷 issue | https://github.com/FuRongJun-1999/lingshu/issues/671 | | 修复 PR | **未提** —— 修法为",
+      "source_created_at": "2026-10-15T10:52:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/519",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5865197717",
+      "title": "[soundness] builtin copy(dst, src) shares reference elements but records no may-share edge — task boundary races with 0 diagnostics",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/178",
+      "evidence": "### Revision (`git rev-parse HEAD`) `110bcf0e7bf07fc4ccfa2c2b299532383a91b3d7` (`origin/main`) ## Summary (Bounty Track #5 — Soundness P0) The builtin `copy(dst, src)` is not modelled by the checker at all (`grep '\"copy\"' compiler/crates/` is empty). For a slice whose **element** is a reference type (`[]map[...]`, `[][]...`, `[]*T`, or a struct/array carrying one), `copy` is element-wise: it duplicates the element *references*, so `dst[i]` and `src[i]` end up aliasing the exact same map/slice. The checker records the may-share / alias edge only",
+      "source_created_at": "2026-10-15T11:24:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/178",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5865153009",
+      "title": "Security report: tari-ootle state Sync Accepts Hash-Only Substates as Verified State Despite Matching Checkpoint Root (GHSA-5rx8-8wf2-rwv2)",
+      "url": "https://github.com/tari-project/special_contributions/issues/217",
+      "evidence": "Retro bounty for @GSXRspartan for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-5rx8-8wf2-rwv2](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-5rx8-8wf2-rwv2). The report showed that state Sync Accepts Hash-Only Substates as Verified State Despite Matching Checkpoint Root. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2935. **No code work is required here.** Details stay in the advisory until it is publi",
+      "source_created_at": "2026-10-15T11:21:39Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/217",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5865141651",
+      "title": "Security report: tari-ootle debug log flood: per-call `tari_debug` budget lets one transaction write ~7 GiB of validator logs for ~0.25 tTARI (GHSA-q46j-2mj8-wvqp)",
+      "url": "https://github.com/tari-project/special_contributions/issues/216",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-q46j-2mj8-wvqp](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-q46j-2mj8-wvqp). The report showed that debug log flood: per-call `tari_debug` budget lets one transaction write ~7 GiB of validator logs for ~0.25 tTARI. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2949. **No code work is required here.** Details stay in the advisor",
+      "source_created_at": "2026-10-15T11:20:51Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/216",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864847269",
+      "title": "Security report: tari-ootle transactions are fully re-executed on every block they meet a deferrable soft lock conflict, with no fee ever charged, crowding out the per-block execution budget (GHSA-gp95-gx5w-9545)",
+      "url": "https://github.com/tari-project/special_contributions/issues/215",
+      "evidence": "Retro bounty for @chironbuilds for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-gp95-gx5w-9545](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-gp95-gx5w-9545). The report showed that transactions are fully re-executed on every block they meet a deferrable soft lock conflict, with no fee ever charged, crowding out the per-block execution budget. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2945. **No co",
+      "source_created_at": "2026-10-15T10:59:34Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/215",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864697015",
+      "title": "# Spike 630 — KYC and AML hooks for fiat on-ramp and large claims with sanctions screening",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/493",
+      "evidence": "> Type: advanced integration spike (extremely difficult) | Effort: 3–8 weeks | Files touched: 17 (14+ required) | Risk: high — cross-boundary, migration-bearing, flag-gated > Status: proposed spike (not yet implemented) | Rollback: feature-flag off + docs revert per PROJECT_ARCHITECTURE.md §10–11 > Batch: third 50 (600–649). Does not duplicate spikes 500–599 — see `docs/spikes/SPIKE_INDEX_500_549.md` and `docs/spikes/SPIKE_INDEX_550_599.md`. ## 1. Context and motivation Faucet/quest/bounty gated only by deny-list, Turnstile, sybil score, quest ",
+      "source_created_at": "2026-10-15T10:48:34Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PHASE-STELLAR/Phase/issues/493",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864407792",
+      "title": "Security report: tari-ootle confidential.create_output_proof produces undecryptable, unspendable outputs (GHSA-pj47-wg83-jrjr)",
+      "url": "https://github.com/tari-project/special_contributions/issues/214",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-pj47-wg83-jrjr](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-pj47-wg83-jrjr). The report showed that confidential.create_output_proof produces undecryptable, unspendable outputs. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2946. **No code work is required here.** Details stay in the advisory until it is published. ## Done when",
+      "source_created_at": "2026-10-15T10:26:49Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/214",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864386238",
+      "title": "Security report: tari-ootle unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers (GHSA-ph9g-xc95-wj99)",
+      "url": "https://github.com/tari-project/special_contributions/issues/213",
+      "evidence": "Retro bounty for @taribugsubmitter for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-ph9g-xc95-wj99](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-ph9g-xc95-wj99). The report showed that unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#2944. **No code work is required here.** Details stay in the advisory until it is publish",
+      "source_created_at": "2026-10-15T10:25:16Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/213",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5865090006",
+      "title": "【intake 输入】dsh-bench（`bench`）：半宽公式 `(U-L)/2` **三处并存**，而命名的 `half_width` 单点**零调用** —— 「一律用 verdict.py 复算」的口径名存实亡",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/526",
+      "evidence": "**锚定提交**：`f8947419cbb9a0fe92116512cad2078170ee2234`（`FuRongJun-1999/dsh-bench` 的 `main`，2026-10-15T05:00:15Z）。 **取证方式**：`ast.walk` 收集 `Call` / `FunctionDef` 节点后逐条打印 `文件:行号`（**不是** grep 计数）。 --- ## 一、现象：半宽公式 `(U-L)/2` 有**三处**，而**命名单点零调用** | # | 位置 | 形态 | AST 证据 | |---|---|---|---| | **①** | `scripts/verdict.py` **L233-236** | `def half_width(interval) -> float:` —— **命名单点** | **全仓调用点 0 处** | | **②** | `scripts/verdict.py` **L559** | `half = (U - L) / 2.0` —— 真实判定路径上的内联 | `Decision.half_width=half`（L695） | | **③** | `scripts/validate_data.py` **L",
+      "source_created_at": "2026-10-15T11:17:09Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/526",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864977488",
+      "title": "[intake] 贡献申报（逐件）：lingshu #653——STEdge.from_row 补逐行容错，decay_cycle/图算法不再被单条坏边整体打断",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/524",
+      "evidence": "[intake] 贡献申报（**逐件**）：lingshu #653——STEdge.from_row 补逐行容错，decay_cycle/图算法不再被单条坏边整体打断 > 口径说明：吸取 #487/#491 打包被单一 easy 覆盖的教训（该两件已申诉中），本申报**一件一报**。下表证据可直接复核；若认为本件不足 medium，请在裁决回执中给出对照先例（本仓单件 medium=3 先例：#174/#176/#241/#254）。 | 项 | 内容 | |---|---| | 交付物 | [lingshu PR #669](https://github.com/FuRongJun-1999/lingshu/pull/669)（**已合并**，合并提交 `6f403cc4`，2026-10-15） | | 缺陷与修法 | STEdge.from_row 是所有边读取的唯一反序列化点，裸调 EdgeType/ConditionSpace.from_json——一条坏边让 get_edge/find_cycles/infer_causal_paths/decay_cycle 四路径整体中断（#267 节点侧的边侧孪生）。修法：_tolerant_edges（#267 _toleran",
+      "source_created_at": "2026-10-15T11:09:08Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/524",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864977287",
+      "title": "[intake] 贡献申报（逐件）：lingshu #651——channel_credibility 写入侧补通道名闸（reset fail-closed/_update warn 跳过/save 过滤）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/523",
+      "evidence": "[intake] 贡献申报（**逐件**）：lingshu #651——channel_credibility 写入侧补通道名闸（reset fail-closed/_update warn 跳过/save 过滤） > 口径说明：吸取 #487/#491 打包被单一 easy 覆盖的教训（该两件已申诉中），本申报**一件一报**。下表证据可直接复核；若认为本件不足 medium，请在裁决回执中给出对照先例（本仓单件 medium=3 先例：#174/#176/#241/#254）。 | 项 | 内容 | |---|---| | 交付物 | [lingshu PR #668](https://github.com/FuRongJun-1999/lingshu/pull/668)（**已合并**，合并提交 `a9278d0e`，2026-10-15） | | 缺陷与修法 | 写入侧（_update setdefault/reset 直接赋值）对通道名零校验——任意名静默建档 known=True、进 registry、persist 落盘；同文件 _load 有 allowlist，两条路径纪律相反（#539 只修了查询侧）。修法三闸：reset(未知) raise ValueError",
+      "source_created_at": "2026-10-15T11:09:07Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/523",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864977024",
+      "title": "[intake] 贡献申报（逐件）：lingshu #648——session_chains 产物口径统一（chains 全量落盘去 [:40]），meta.sessions==len(chains) 恒成立",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/522",
+      "evidence": "[intake] 贡献申报（**逐件**）：lingshu #648——session_chains 产物口径统一（chains 全量落盘去 [:40]），meta.sessions==len(chains) 恒成立 > 口径说明：吸取 #487/#491 打包被单一 easy 覆盖的教训（该两件已申诉中），本申报**一件一报**。下表证据可直接复核；若认为本件不足 medium，请在裁决回执中给出对照先例（本仓单件 medium=3 先例：#174/#176/#241/#254）。 | 项 | 内容 | |---|---| | 交付物 | [lingshu PR #667](https://github.com/FuRongJun-1999/lingshu/pull/667)（**已合并**，合并提交 `eae26fa3`，2026-10-15） | | 缺陷与修法 | 三字段两套口径：meta.sessions 全量、hubs/edges 不截断、chains 只落前 40 条 ⇒ 45 会话夹具 45 vs 40、第 45 条链丢失而其边仍在——守卫按 chains 断言的正确性依赖「会话数<40」隐含前提。修法（方案 B，实测依据）：去 [:40] 全量落盘——体积实测证明截",
+      "source_created_at": "2026-10-15T11:09:06Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/522",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864976881",
+      "title": "[intake] 贡献申报（逐件）：lingshu #645——build_viewer 对 R5 同名 phantom 边按 #359/#606 同口径过滤＋损耗计数可见",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/521",
+      "evidence": "[intake] 贡献申报（**逐件**）：lingshu #645——build_viewer 对 R5 同名 phantom 边按 #359/#606 同口径过滤＋损耗计数可见 > 口径说明：吸取 #487/#491 打包被单一 easy 覆盖的教训（该两件已申诉中），本申报**一件一报**。下表证据可直接复核；若认为本件不足 medium，请在裁决回执中给出对照先例（本仓单件 medium=3 先例：#174/#176/#241/#254）。 | 项 | 内容 | |---|---| | 交付物 | [lingshu PR #666](https://github.com/FuRongJun-1999/lingshu/pull/666)（**已合并**，合并提交 `d27b2e2e`，2026-10-15） | | 缺陷与修法 | 被审计侧判「不存在」的 R5 phantom 边（同名节点自身标题行递归互引）在 viewer 画成「正文互引」且默认勾选可见、虚增 degree。修法：消费侧折叠循环前按 naming_report 完全同口径（title 映射＋rule 判定＋标题相等）过滤；过滤量按 #618 纪律可见（stdout 损耗行＋顶层 phantom_r5_drop",
+      "source_created_at": "2026-10-15T11:09:05Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/521",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864472033",
+      "title": "[intake 输入] dsh-memory（md_cg/writelimit）限流闸的「保护优先」豁免只比大小、不校验值域：writelimit.check:172-177 的 float(importance_hint) >= 0.7 使越界值 2.0/inf 与合法高值 0.8 不可区分，同窗口已满时三者均放行（频率限流+同构聚合被静默短路、返回 None 不报错不留痕）；写侧数值守卫 _require_unit_number（mdcg.py:1623，判据 [0,1] 有限数、非有限视同",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/518",
+      "evidence": "= 0.7 使越界值 2.0/inf 与合法高值 0.8 不可区分，同窗口已满时三者均放行（频率限流+同构聚合被静默短路、返回 None 不报错不留痕）；写侧数值守卫 _require_unit_number（mdcg.py:1623，判据 [0,1] 有限数、非有限视同非法）只挂在 add 落盘面（mdcg.py:2545），未覆盖 add 之前的前置闸 ⇒ 同一值闸门放行、add fail-closed 拒绝，两道判据时序反了；nan 方向相反（不豁免）；守卫 test_writelimit 只用 hint=0.9 一组、越界值零覆盖，打正确修法仍全绿（零判别力）；无数据损坏（闸门失效非落盘污染），P1\", \"severity_hint\": \"P1\", \"component\": \"md_cg/writelimit\"} --> **模块**：`md_cg/writelimit.py`（写入侧限流 · 同构聚合前置闸） **基线**：`main@e39d2f8bd8dd` **类型**：P1 · 域校验时序差 · 自我承诺与实现不一致 ## 一、定位 | 项 | 值 | |---|---| | 仓库 | `FuRongJun-1999/dsh-memory` | | 基线 | mai",
+      "source_created_at": "2026-10-15T10:31:44Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/518",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5865062035",
+      "title": "[wildcard] Replace graph-based borrow checking with Compile-Time Affine Capability Tokens",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/175",
+      "evidence": "### The idea, in a paragraph Currently, Hybrid maintains a complex, reactive graph of aliases (`record_alias`, `record_may_share`), mutable loan windows (`LoanTarget::MapSlot`, `LoanTarget::Handle`), and freeze states across lexical statements to approximate Rust-like borrow checking over Go semantics. As evidenced by recent soundness waves (#27, #82, #137, #138), this graph approach suffers from combinatorial edge holes whenever bindings cross closure captures, inner-scope rebinds, or interprocedural returns. Instead of tracking pointers and m",
+      "source_created_at": "2026-10-15T11:15:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/175",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864952157",
+      "title": "# Spike 663 — Machine-readable API versioning with changelog and deprecation policy",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/526",
+      "evidence": "> Type: advanced integration spike (extremely difficult) | Effort: 3–8 weeks | Files touched: 16 (14+ required) | Risk: high — cross-boundary, migration-bearing, flag-gated > Status: proposed spike (not yet implemented) | Rollback: feature-flag off + docs revert per PROJECT_ARCHITECTURE.md §10–11 > Batch: fourth 50 (650–699). Does not duplicate spikes 500–649 — see `docs/spikes/SPIKE_INDEX_500_549.md`, `docs/spikes/SPIKE_INDEX_550_599.md` and `docs/spikes/SPIKE_INDEX_600_649.md`. Dedup verified against 150 existing titles by independent researc",
+      "source_created_at": "2026-10-15T11:07:19Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PHASE-STELLAR/Phase/issues/526",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864825043",
+      "title": "[Bug] freshness 衰减下界遗漏层保护与按分保护",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/378",
+      "evidence": "## 现象 基线：`e39d2f8bd8dd65ed5a0f17d3c8b884300fd671c9`。 检索衰减下界只读取显式 `protected` 位。 层保护与按分保护节点会得到普通衰减下界，和已有保护判定不一致。 ## 最小复现 ```python from md_cg import freshness as F print(F.protected_floor({\"importance\": 0.9, \"protected\": True})) print(F.protected_floor({\"importance\": 0.9, \"layer\": \"anchor\"})) print(F.protected_floor({\"importance\": 0.9})) ``` 修前分别约为 `0.777778`、`0.001000`、`0.001000`。 上述输入中的层保护、显式位、缺省来源高分，均由 [protect.is_protected]( ) 判为受保护。 这三条输入应使用相同的保护下界。 ## 根因 [protected_floor]( ) 只检查 `entry.protected`。 [entry_weight]( ) 取数时还漏了 `layer` 与 `import",
+      "source_created_at": "2026-10-15T10:57:53Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/378",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864823631",
+      "title": "[Bug] trust 与 lifecycle 的状态降级判据遗漏层保护",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/377",
+      "evidence": "## 现象 基线：`e39d2f8bd8dd65ed5a0f17d3c8b884300fd671c9`。 trust 与 lifecycle 的状态降级只检查显式 `protected`、`immutable` 位。 没有这两个位的 self、anchor 层节点，得不到既有层保护的降级豁免。 ## 最小复现 ```python from md_cg import trust as T, lifecycle as L print(T.stamp({\"layer\": \"anchor\", T.STATE_FIELD: \"verified\"}, \"doubted\")) print(L.stamp({\"layer\": \"anchor\", L.STATE_FIELD: \"active\"}, \"converged\")) ``` 修前两条都返回成功，并修改传入元数据的状态。 已有保护判定把 anchor、self 层视为受保护。 未传 `override=True` 时，预期返回 `protected`，原状态不变。 隔离记忆库也复现了同一问题：anchor 节点从 verified 降为 doubted，返回 `ok=True, changed=True` 并落盘。 ## 根因 [trust.s",
+      "source_created_at": "2026-10-15T10:57:47Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/377",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864761853",
+      "title": "Could Pinky promises show up as assurances on launch pages?",
+      "url": "https://github.com/Identity-md/worker/issues/4",
+      "evidence": "Hi Adam, This is Pinky ([pinkybond.fun](https://pinkybond.fun)), launch #1166 on Robinhood Chain. Pinky lets a holder put IMD behind a promise about their own wallet, like *\"I won't move a single token of X for 30 days\"*. When the term ends, the contract asks your oracle and pays the bond out on the verdict. Every settlement is a paid `oracle.request` through the Intake. We noticed launches have a list of outside assurances (`GET /launches/:id/assurances`: audits and bounties). A Pinky promise is the same kind of thing: a check on the people be",
+      "source_created_at": "2026-10-15T10:53:20Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Identity-md/worker/issues/4",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864746141",
+      "title": "# Spike 637 — Age-gating for campaigns with 18-plus and 21-plus enforcement",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/499",
+      "evidence": "> Type: advanced integration spike (extremely difficult) | Effort: 3–8 weeks | Files touched: 17 (14+ required) | Risk: high — cross-boundary, migration-bearing, flag-gated > Status: proposed spike (not yet implemented) | Rollback: feature-flag off + docs revert per PROJECT_ARCHITECTURE.md §10–11 > Batch: third 50 (600–649). Does not duplicate spikes 500–599 — see `docs/spikes/SPIKE_INDEX_500_549.md` and `docs/spikes/SPIKE_INDEX_550_599.md`. ## 1. Context and motivation No DOB, no age field, no campaign gate. ProfileData no birth_year/DOB/age_v",
+      "source_created_at": "2026-10-15T10:52:06Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PHASE-STELLAR/Phase/issues/499",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864691561",
+      "title": "[Bug] heartbeat_ledger_stats 丢弃业务失败并把失败心跳计为正常",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/376",
+      "evidence": "## 现象 基线：`e39d2f8bd8dd65ed5a0f17d3c8b884300fd671c9`。 `heartbeat_ledger_stats` 丢弃业务档的失败行，并把失败心跳计入正常周期。 两种表现来自同一根因：函数只按 `kind==\"beat\"` 取数，再把行缩成时间戳。 ## 既有契约 [sustain.py]( ) 已声明失败档必须在台账可见。 业务档异常的写入路径也已记录 `kind=\"tick\"`、`ok=False` 和 `error`。 ## 修前与修后实测 隔离台账含 3 条成功心跳、1 条失败心跳和 2 条业务档失败。 | 读数 | 修前 | 修后 | |---|---|---| | 正常周期数 `n` | 4 | 3 | | 最长区间内周期数 | 4 | 3 | | 最长区间秒数 | 250.0 | 200.0 | | 失败读数 | 无 | `failed=3`，明细含 1 条 beat 与 2 条 tick | | 按 reflect 档查询 | `absent=True` | `absent=False, n=0, failed=1` | 定点夹具调用真实 `SustainLoop.beat()` 与业务档包装函数产生失败行。 修前同一套断言为",
+      "source_created_at": "2026-10-15T10:48:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/376",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864475059",
+      "title": "[Bug] state_event 空串撤回未使槽位退役",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/375",
+      "evidence": "## 现象 基线为 `e39d2f8bd8dd65ed5a0f17d3c8b884300fd671c9`。 `cg(op=state_event)` 按工具说明用 `new=\"\"` 撤回状态后，槽位仍为 `active`。 同一输入仅把 `new` 改为 `None`，槽位就按预期退役。 ## 最小复现 在仓库根运行以下 Python 代码。代码通过工具分发入口写入隔离临时库。 ```python from tempfile import TemporaryDirectory from md_cg.mdcos import MdCGOS from md_cg import mcp_server, state_slots with TemporaryDirectory() as root: cg = MdCGOS(root) for old, new, kind, seq in [ (None, \"别墅\", \"enablement\", 1), (\"别墅\", \"\", \"retraction\", 2), ]: mcp_server._cg_call(cg, { \"op\": \"state_event\", \"subject\": \"甲\", \"slot\": \"住所\", \"old\": old, \"n",
+      "source_created_at": "2026-10-15T10:31:59Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/375",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5864416113",
+      "title": "# Spike 587 — Email and SMS bridges for quest, offer, takedown and digest notifications",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/451",
+      "evidence": "> Type: advanced integration spike (extremely difficult) | Effort: 3–8 weeks | Files touched: 17 (14+ required) | Risk: high — cross-boundary, migration-bearing, flag-gated > Status: proposed spike (not yet implemented) | Rollback: feature-flag off + docs revert per PROJECT_ARCHITECTURE.md §10–11 > Batch: second 50 (550–599). Does not duplicate spikes 500–549 — see `docs/spikes/SPIKE_INDEX_500_549.md` for the first batch. ## 1. Context and motivation Only webhook-alerts (operator) + notification-store (in-app) exist. Wallet (G...56) != email/ph",
+      "source_created_at": "2026-10-15T10:27:29Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PHASE-STELLAR/Phase/issues/451",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z"
     },
     {
       "source": "github",
@@ -4059,6 +4434,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T11:27:06.536Z",
+      "generated_at": "2026-10-15T11:27:06.536Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 582
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 570
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 295,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T04:36:28.122Z",
       "generated_at": "2026-10-15T04:36:28.122Z",

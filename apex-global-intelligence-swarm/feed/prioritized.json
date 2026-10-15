@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T04:36:28.744Z",
+  "generated_at": "2026-10-15T11:27:07.187Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 270,
+    "total_evaluated": 295,
     "investigar": 1,
-    "informativa": 252,
-    "descartar": 17,
+    "informativa": 274,
+    "descartar": 20,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1001,6 +1001,30 @@
     },
     {
       "source": "github",
+      "title": "【测评报告】Yuki 3.9.0 体验快测（记忆域 · 方法试验）：Windows 宿主 14 红 / 25 错逐条归因为平台面，非上游缺陷",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/520",
+      "source_created_at": "2026-10-15T11:08:20Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Add a 'Hall bounties' pointer to the SuperAgent API rewards page",
       "url": "https://github.com/LiamVisionary/bee-scouts/issues/3",
       "source_created_at": "2026-10-15T04:30:32Z",
@@ -1603,6 +1627,106 @@
     },
     {
       "source": "github",
+      "title": "# Spike 663 — Machine-readable API versioning with changelog and deprecation policy",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/526",
+      "source_created_at": "2026-10-15T11:07:19Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug] freshness 衰减下界遗漏层保护与按分保护",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/378",
+      "source_created_at": "2026-10-15T10:57:53Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug] trust 与 lifecycle 的状态降级判据遗漏层保护",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/377",
+      "source_created_at": "2026-10-15T10:57:47Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug] state_event 空串撤回未使槽位退役",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/375",
+      "source_created_at": "2026-10-15T10:31:59Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "A cheap x402 inference backend for tiny.place agents",
       "url": "https://github.com/tinyhumansai/tiny.place/issues/286",
       "source_created_at": "2026-10-15T03:55:45Z",
@@ -2169,6 +2293,198 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu：#479 新增的 engine_meta 密钥闸枚举不全——verifier_config 无密钥 import_all 可覆盖，重启后 dedup_static 越界生效（绕过 D-007 密钥闸与 #118 的 [0.5,0.95] 钳制）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/519",
+      "source_created_at": "2026-10-15T10:52:23Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[soundness] builtin copy(dst, src) shares reference elements but records no may-share edge — task boundary races with 0 diagnostics",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/178",
+      "source_created_at": "2026-10-15T11:24:51Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle state Sync Accepts Hash-Only Substates as Verified State Despite Matching Checkpoint Root (GHSA-5rx8-8wf2-rwv2)",
+      "url": "https://github.com/tari-project/special_contributions/issues/217",
+      "source_created_at": "2026-10-15T11:21:39Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle debug log flood: per-call `tari_debug` budget lets one transaction write ~7 GiB of validator logs for ~0.25 tTARI (GHSA-q46j-2mj8-wvqp)",
+      "url": "https://github.com/tari-project/special_contributions/issues/216",
+      "source_created_at": "2026-10-15T11:20:51Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle transactions are fully re-executed on every block they meet a deferrable soft lock conflict, with no fee ever charged, crowding out the per-block execution budget (GHSA-gp95-gx5w-9545)",
+      "url": "https://github.com/tari-project/special_contributions/issues/215",
+      "source_created_at": "2026-10-15T10:59:34Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "# Spike 630 — KYC and AML hooks for fiat on-ramp and large claims with sanctions screening",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/493",
+      "source_created_at": "2026-10-15T10:48:34Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle confidential.create_output_proof produces undecryptable, unspendable outputs (GHSA-pj47-wg83-jrjr)",
+      "url": "https://github.com/tari-project/special_contributions/issues/214",
+      "source_created_at": "2026-10-15T10:26:49Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Security report: tari-ootle unverified state-sync batch epoch defeats epoch GC and re-infects downstream peers (GHSA-ph9g-xc95-wj99)",
+      "url": "https://github.com/tari-project/special_contributions/issues/213",
+      "source_created_at": "2026-10-15T10:25:16Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 58,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3084,6 +3400,231 @@
     },
     {
       "source": "github",
+      "title": "# Spike 577 — Quest rewards as claimable airdrops: Merkle-root distributor, pull not push",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/441",
+      "source_created_at": "2026-10-15T10:20:43Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-bench（`bench`）：半宽公式 `(U-L)/2` **三处并存**，而命名的 `half_width` 单点**零调用** —— 「一律用 verdict.py 复算」的口径名存实亡",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/526",
+      "source_created_at": "2026-10-15T11:17:09Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake] 贡献申报（逐件）：lingshu #653——STEdge.from_row 补逐行容错，decay_cycle/图算法不再被单条坏边整体打断",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/524",
+      "source_created_at": "2026-10-15T11:09:08Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake] 贡献申报（逐件）：lingshu #648——session_chains 产物口径统一（chains 全量落盘去 [:40]），meta.sessions==len(chains) 恒成立",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/522",
+      "source_created_at": "2026-10-15T11:09:06Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake] 贡献申报（逐件）：lingshu #645——build_viewer 对 R5 同名 phantom 边按 #359/#606 同口径过滤＋损耗计数可见",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/521",
+      "source_created_at": "2026-10-15T11:09:05Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Could Pinky promises show up as assurances on launch pages?",
+      "url": "https://github.com/Identity-md/worker/issues/4",
+      "source_created_at": "2026-10-15T10:53:20Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "# Spike 637 — Age-gating for campaigns with 18-plus and 21-plus enforcement",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/499",
+      "source_created_at": "2026-10-15T10:52:06Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug] heartbeat_ledger_stats 丢弃业务失败并把失败心跳计为正常",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/376",
+      "source_created_at": "2026-10-15T10:48:10Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "# Spike 587 — Email and SMS bridges for quest, offer, takedown and digest notifications",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/451",
+      "source_created_at": "2026-10-15T10:27:29Z",
+      "first_seen_at": "2026-10-15T11:27:06.536Z",
+      "last_seen_at": "2026-10-15T11:27:06.536Z",
+      "status": "informativa",
+      "priority": 51,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "dsh-memory 三档自治准入闸为生产死面：`settle()` **零调用点**——`MDCG_AUTONOMY=full` 在任何真实进程里**无条件生效**，R1–R4 读数一条不跑",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/458",
       "source_created_at": "2026-10-15T03:27:29Z",
@@ -3339,554 +3880,6 @@
       "source_created_at": "2026-10-14T20:17:56Z",
       "first_seen_at": "2026-10-14T21:40:04.890Z",
       "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "paraloom-wallet: Multi-account SwapOutput cross-contamination misattributes reshielded SPL notes across accounts and leaves phantom SPL notes un-evictable",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/880",
-      "source_created_at": "2026-10-14T20:47:13Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "X-Debug-Eval header executes code (intentional feature)",
-      "url": "https://github.com/zik-instinct/nginx-with-RCE/issues/1",
-      "source_created_at": "2026-10-14T20:24:42Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "CraftHub: closing gap #2 (collaboration without accounts) — a decision brief for the administrators",
-      "url": "https://github.com/storytold/figcraft/issues/357",
-      "source_created_at": "2026-10-14T20:49:26Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Missing Activity: Shadowlands Callings",
-      "url": "https://github.com/GurliGebis/WoWAddon-BattlePetCompletionist/issues/169",
-      "source_created_at": "2026-10-14T20:33:41Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "BF-060: Security hardening — threat model, Postgres RLS defense in depth, sandbox and secrets hardening, ASVS review",
-      "url": "https://github.com/khanakhun/business-finder/issues/60",
-      "source_created_at": "2026-10-14T20:28:33Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[TV SHOW]: Sonic Underground (1999)",
-      "url": "https://github.com/LizardByte/ThemerrDB/issues/8959",
-      "source_created_at": "2026-10-14T15:35:04Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Rate: missing pmt factor in Newton derivative breaks cash-flow scale invariance",
-      "url": "https://github.com/razorpay/go-financial/issues/49",
-      "source_created_at": "2026-10-14T15:38:20Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Pentest Swarm AI donor → governed Autonomous Security Validation Swarm",
-      "url": "https://github.com/rrahul0904/agent-work-os/issues/184",
-      "source_created_at": "2026-10-14T15:35:00Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add witnessed crimes, funded bounties and Marshall pursuit",
-      "url": "https://github.com/ROAM-game-org/road-machiners/issues/570",
-      "source_created_at": "2026-10-14T15:47:28Z",
-      "first_seen_at": "2026-10-14T15:47:40.981Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add SecureStorageAccess namespace isolation to lib.rs",
-      "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1282",
-      "source_created_at": "2026-10-14T16:42:34Z",
-      "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "# ISP-118: High-latency intercontinental link (2s RTT, thin pipe) — Stellar tx submission vs txBatcher timeout tuning vs user-facing progress honesty",
-      "url": "https://github.com/Hel-Phone/HelPhone/issues/788",
-      "source_created_at": "2026-10-14T16:37:40Z",
-      "first_seen_at": "2026-10-14T16:45:43.864Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] ae2c1a3（#242，修 #198）把定标 `rounds` 改成 0 后，中标者的**投标物不再算一轮交付**：定标后第一次验收不通过、返工再交，仍按「一次过闸」结算 2×base，晋升也计作 round=0；同样的经历走 `/claim` 只得 base；招标路径还因此多一次交付机会",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/404",
-      "source_created_at": "2026-10-14T17:00:21Z",
-      "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] #279 的「等级不得随人迁移」把**评价者本人后续的 `/verify`、`/settle`** 也当成迁移：维护者自评自结、审核员评后自验这两条常规流程，影响等级都会从标记、结算事件和每日贡献表里静默消失",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/403",
-      "source_created_at": "2026-10-14T17:00:19Z",
-      "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Strategy proposal: LlamaLendLoopStrat — wstETH/crvUSD loop with fxSAVE buffer as the book's ETH-delta hedge",
-      "url": "https://github.com/everstrat-xyz/contracts/issues/54",
-      "source_created_at": "2026-10-14T13:27:18Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Replace panic_safety_audit placeholder with real review",
-      "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/921",
-      "source_created_at": "2026-10-14T14:46:31Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[缺陷] review-roleplay-check 在 CI 上永久红：守卫拿「显示名」拼 raw 文件名，Linux 大小写敏感下必然找不到",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/396",
-      "source_created_at": "2026-10-14T14:38:50Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Missing record: Hatchet startup discount program",
-      "url": "https://github.com/sourcey/startup-credits/issues/1759",
-      "source_created_at": "2026-10-14T14:32:33Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[player eu46ho] Imperials seem to be going back to trying to keep all their forces in one bunch",
-      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/806",
-      "source_created_at": "2026-10-14T13:34:02Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🏹 Post-quantum p2p transport: hybrid X25519 + ML-KEM-768 handshake",
-      "url": "https://github.com/jackdishman/blockula/issues/5",
-      "source_created_at": "2026-10-14T13:00:33Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:33:24.786Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🏹 Wallet: QR code + payment links on Receive",
-      "url": "https://github.com/jackdishman/blockula/issues/4",
-      "source_created_at": "2026-10-14T13:00:31Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:33:24.786Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "docs: README still shows the rejected bare managed escape hatch",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/21",
-      "source_created_at": "2026-10-14T12:52:46Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:11:26.955Z",
-      "status": "informativa",
-      "priority": 51,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Installer launcher overwrites explicit HYB_RUNTIME_DIR (offline repro + fix)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/20",
-      "source_created_at": "2026-10-14T12:42:28Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T15:46:10.743Z",
       "status": "informativa",
       "priority": 51,
       "reasons": [
