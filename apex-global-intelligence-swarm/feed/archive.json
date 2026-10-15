@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T21:03:27.047Z",
+  "updated_at": "2026-10-15T21:04:57.107Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873890069",
+      "title": "Threads: send a few quick messages while a task runs and check they're answered together",
+      "url": "https://github.com/useagenthq/useagent/issues/156",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that several short messages you send while the agent is busy get answered together in one turn. ## Try this 1. Start a task that takes a few minutes: `Build a one-page website for a made-up bakery and open it in the browser.` 2. While it works, queue three short messages one after another: `Use a blue color scheme.`, `A",
+      "source_created_at": "2026-10-15T21:03:18Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/156",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873889247",
+      "title": "Bots: run a morning brief routine that reads Gmail and Calendar on its own",
+      "url": "https://github.com/useagenthq/useagent/issues/155",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot routine that only reads your apps finishes without stopping on an approval card, and that it still stops when it needs to change something. Use test Google accounts. ## Try this 1. Connect Gmail and Google Calendar (account menu, then Apps). 2. Create a bot called \"Morning brief\". 3. Add a routine, Weekdays 9",
+      "source_created_at": "2026-10-15T21:03:14Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/155",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873888398",
+      "title": "Connectors: read Linear without a click, and check that creating an issue asks first",
+      "url": "https://github.com/useagenthq/useagent/issues/154",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can list and search Linear issues without an approval click, and that changes still ask first. Use a Linear workspace you own. A new one with a test team is fine. ## Try this 1. Create a team with six or so issues in different states, with a few labels and priorities. 2. Open your account menu, then Apps,",
+      "source_created_at": "2026-10-15T21:03:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/154",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873899530",
+      "title": "Account-deletion purge (#2737) breaks the bounty journal hash chain — orphaned counterparty legs",
+      "url": "https://github.com/Uuriko/project-room/issues/3550",
+      "evidence": "Found by the 2026-10-15 full-system map (money-system dossier, code-anchored; ~/workspace/project-room-full-map/money-system.md). The self-serve account-deletion purge landed in #2737 removes the deleted account's bounty journal rows, which orphans the counterparty legs of the same movements and breaks the journal's hash chain — post-deletion verification can no longer replay those movements end-to-end. Fix shape: deletion should tombstone/anonymize the account's legs in place (preserving amounts, counterparties, and chain order) rather than re",
+      "source_created_at": "2026-10-15T21:03:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Uuriko/project-room/issues/3550",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873911761",
+      "title": "Models: switch engine or model partway through a thread and see what carries over",
+      "url": "https://github.com/useagenthq/useagent/issues/177",
+      "evidence": "Check what you can change in a thread that's already going, and what the agent still knows afterwards. ## Try this 1. Start a thread on Claude Code: `Create a small to-do app in plain HTML and JavaScript.` 2. When it's done, open the model picker, switch to another model, and ask: `Add a button that clears finished items.` 3. Then try switching the engine, for example to OpenCode, and ask: `What have you built so far, and in which files?` 4. Try Chat too, and ask a question about the code. 5. Switch back to where you started and ask for one mor",
+      "source_created_at": "2026-10-15T21:04:46Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/177",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873910735",
+      "title": "Automations: ask the agent in plain words to schedule something for you",
+      "url": "https://github.com/useagenthq/useagent/issues/176",
+      "evidence": "Check whether the agent can set up a schedule from a normal request in a thread. ## Try this 1. In a normal thread, ask: `Every weekday at 8:30 my time, check the top three posts on news.ycombinator.com and give me one line on each. Set that up.` 2. See what the agent does, and whether it asks for your timezone. 3. Open Automations and find what it made. 4. In the same thread, ask it to change the schedule to Mondays only, then to stop it. ## What to look for - The agent sets up the automation, or tells you clearly how to. - What shows on the A",
+      "source_created_at": "2026-10-15T21:04:42Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/176",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873909783",
+      "title": "Automations: run a real recurring job for a week and check it stays useful",
+      "url": "https://github.com/useagenthq/useagent/issues/175",
+      "evidence": "Check whether an automation stays useful over several runs. ## Try this 1. Pick something you'd want every day or week: a digest of a topic you follow, new releases of an open-source project you use, or new posts on a blog. 2. Create it in Automations with clear instructions: what to check, what to write, how long, and \"say nothing new if nothing changed\". 3. Turn it on and let it run at least five times. 4. Read each result. Change the instructions once if something annoys you. ## What to look for - Results stay accurate and on topic, and link",
+      "source_created_at": "2026-10-15T21:04:38Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/175",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873908651",
+      "title": "Automations: edit, pause and delete one, and check what happens to its runs",
+      "url": "https://github.com/useagenthq/useagent/issues/174",
+      "evidence": "Check the full life of an automation. ## Try this 1. Create an automation (Automations, New automation) that runs every hour with a small job, and turn it on. 2. After one run, use Edit automation to change the instructions. 3. Pause it, wait past its next run time, then turn it on again. 4. Use Run now while a run is already going. 5. Delete it, then check Active runs and your sidebar. 6. Try the search box and the Active and Paused filters. ## What to look for - The new instructions apply from the next run. - A paused automation doesn't run. ",
+      "source_created_at": "2026-10-15T21:04:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/174",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873907599",
+      "title": "Automations: set a custom schedule and timezone, and check when it really runs",
+      "url": "https://github.com/useagenthq/useagent/issues/173",
+      "evidence": "Check custom cron schedules and timezones on automations. ## Try this 1. In Automations, choose New automation with a custom Cron expression, `*/15 * * * *` (every 15 minutes), and a small job: `Add the current time to a file called ticks.md, one line per run.` 2. Set Timezone to your own, for example Europe/London or Asia/Kolkata. Save and turn it on. 3. Make a second one with `0 9 * * 1-5` and a timezone far from yours. 4. Watch the first runs of each. 5. Try saving an invalid cron and an invalid timezone. 6. Pause or delete the 15 minute one",
+      "source_created_at": "2026-10-15T21:04:29Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/173",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873906569",
+      "title": "Automations: create one, turn it on, and check its first runs",
+      "url": "https://github.com/useagenthq/useagent/issues/172",
+      "evidence": "Check setting up a scheduled task on the Automations page. ## Try this 1. Open Automations (app.useagent.org/agent/automations) and choose New automation. 2. What should run: \"Daily weather note\". Instructions: `Find tomorrow's weather for and write a three-line note on what to wear.` Cadence: Daily. Set your Timezone. 3. Save it. Note its state, then turn it on. 4. Use Run now once. 5. Wait for its first scheduled run, then open View history. ## What to look for - It's clear that new automations start paused, and how to turn one on. - Run now ",
+      "source_created_at": "2026-10-15T21:04:25Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/172",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873905494",
+      "title": "Computer use: check that screenshots match what the agent says it did",
+      "url": "https://github.com/useagenthq/useagent/issues/171",
+      "evidence": "Check that the agent's screenshots back up what it tells you. ## Try this 1. Ask for a short web task you can check: `Go to wikipedia.org, find the article on the Eiffel Tower, scroll to the section on its height, and take a screenshot at each step.` 2. Compare each screenshot with the agent's words. 3. Ask: `Now find when it was last repainted and show me where on the page that is.` 4. Do two more short tasks of your own on other sites. ## What to look for - One screenshot per step, in order, showing what the agent says it shows. - No claims a",
+      "source_created_at": "2026-10-15T21:04:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/171",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873904445",
+      "title": "Computer use: edit a document in the desktop apps and export it as a PDF",
+      "url": "https://github.com/useagenthq/useagent/issues/170",
+      "evidence": "Check the agent working in the desktop apps, not just the browser. ## Try this 1. Ask: `On the desktop, open a text editor or office app, write a one-page letter to a made-up landlord about a broken heater, and save it.` 2. Follow up: `Make the subject line bold, add today's date at the top, and export it as a PDF.` 3. Follow up: `Open the PDF and take a screenshot of it.` 4. Download the files from the Files tab and open them on your own computer. ## What to look for - The agent uses the desktop apps, and you can watch it in the Browser tab. -",
+      "source_created_at": "2026-10-15T21:04:17Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/170",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873903468",
+      "title": "Computer use: get past cookie banners, pop-ups and slow pages",
+      "url": "https://github.com/useagenthq/useagent/issues/169",
+      "evidence": "Check how the agent copes with busy, real-world sites. ## Try this 1. Pick three busy sites with cookie banners or sign-up pop-ups: a news site, a recipe site and an online shop. 2. Ask for something on each that sits further down the page: `Find the ingredients list for a lasagna recipe on .`, `Find the return policy on .` 3. Ask it to take a screenshot of what it found. 4. Watch the Browser tab while it works. ## What to look for - It closes banners and pop-ups, refusing optional cookies where it can, instead of getting stuck. - It waits for ",
+      "source_created_at": "2026-10-15T21:04:13Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/169",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873902373",
+      "title": "Computer use: have the agent test a page it built at phone and desktop sizes",
+      "url": "https://github.com/useagenthq/useagent/issues/168",
+      "evidence": "Check that the agent opens and tests what it builds, instead of only describing it. ## Try this 1. Ask: `Build a one-page site for a made-up yoga studio with a class timetable and a contact form. Open it in the browser and test it.` 2. Follow up: `Check it at phone width and at desktop width. Take a screenshot of each and fix anything that breaks.` 3. Follow up: `Click every link and button and tell me what happens.` 4. Open the Browser tab and look at the page yourself. ## What to look for - The agent really opens the page and takes screenshot",
+      "source_created_at": "2026-10-15T21:04:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/168",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873901266",
+      "title": "Computer use: build a spec and price table for three products from their own pages",
+      "url": "https://github.com/useagenthq/useagent/issues/167",
+      "evidence": "Check how accurately the agent pulls numbers from real product and shop pages. ## Try this 1. Pick three similar products, for example three budget headphones or three e-readers. 2. Ask: `Open each maker's official page, then one shop page for each. Build a table with price, battery life, weight and a link for each, plus a screenshot of each page.` 3. Follow up: `Add each price in another currency, and say which shop includes shipping.` 4. Check two of the numbers yourself. ## What to look for - The numbers match the pages, and each row links t",
+      "source_created_at": "2026-10-15T21:04:05Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/167",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873900144",
+      "title": "Computer use: fill in a form with tricky fields and see how it handles errors",
+      "url": "https://github.com/useagenthq/useagent/issues/166",
+      "evidence": "Check how the agent copes with date pickers, dropdowns, uploads and validation errors. ## Try this 1. Find a public practice form made for testing, with a date picker, dropdowns, a file upload and required fields (search \"practice form for automation testing\"). 2. Ask the agent to fill it in with made-up details you give it, and stop before the final submit. 3. Give it one value the form will reject, such as a bad email or a date in the past. 4. Ask it to change one field, then submit (on the practice site only). ## What to look for - Each fiel",
+      "source_created_at": "2026-10-15T21:04:00Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/166",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873899074",
+      "title": "Computer use: log in to a site yourself, then let the agent carry on",
+      "url": "https://github.com/useagenthq/useagent/issues/165",
+      "evidence": "Check how the agent handles a login page, and handing over to you so you can sign in yourself. ## Try this 1. Make a test account on a site that needs a login, such as a to-do app or a project board. 2. Ask: `Open , log in, and add three items to my list: milk, eggs, bread.` Don't give it the password. 3. Watch what it does at the login page. 4. In the Browser tab, use Take control, log in yourself, then Release control and tell the agent you're in. 5. Let it finish, then check the site yourself. ## What to look for - The agent stops and asks y",
+      "source_created_at": "2026-10-15T21:03:56Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/165",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873898011",
+      "title": "Computer use: take control of the agent's desktop mid-task, then hand it back",
+      "url": "https://github.com/useagenthq/useagent/issues/164",
+      "evidence": "Check the live desktop view and taking over from the agent while it works. ## Try this 1. Start a task that uses the browser: `Open a weather site and find the 5-day forecast for Oslo. Take a screenshot.` 2. Open the Browser tab on the right side of the thread to watch the desktop live. 3. While it works, press Take control, click around (scroll, open a new tab), then press Release control. 4. Tell the agent what you did: `I opened a new tab, carry on from there.` 5. Take control again and type into a page. 6. Try it in a narrow window or on a ",
+      "source_created_at": "2026-10-15T21:03:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/164",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873897010",
+      "title": "Bots: hand work to a bot with an @mention in another thread",
+      "url": "https://github.com/useagenthq/useagent/issues/163",
+      "evidence": "Check what happens when you @mention one of your bots in a normal thread. ## Try this 1. Create a bot called \"Reviewer\" with the Standing rule: `Review for correctness first, then style. Never change files yourself.` 2. In a normal thread, ask the agent to write a small script, for example a Python function that splits a bill between friends. 3. In the same thread, type `@Reviewer please review this.` and pick the bot from the list. 4. Open the handoff thread from the bot's page (Bot details, Handoffs). 5. Mention the bot again in the same thre",
+      "source_created_at": "2026-10-15T21:03:48Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/163",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873896053",
+      "title": "Bots: add a routine, use Test run, and check when it really runs",
+      "url": "https://github.com/useagenthq/useagent/issues/162",
+      "evidence": "Check routines on a bot: Test run, the schedule, the Runs list and editing. ## Try this 1. Create a bot. In Bot details, under Routines, choose Add routine. 2. Make one with Every hour and a small job: `Add a line with the current time and one fun fact to a file called log.md.` 3. Make a second one with a custom cron expression, for example `30 14 * * *`, set to about 20 minutes from now. 4. Use Test run on the first routine and watch the bot's home thread. 5. Wait for both to run on their own, then open each routine's Runs list. 6. Use Edit ro",
+      "source_created_at": "2026-10-15T21:03:44Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/162",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873895062",
+      "title": "Bots: add a starter bot from the Marketplace and give it a first job",
+      "url": "https://github.com/useagenthq/useagent/issues/161",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the bot Marketplace and how a starter bot behaves on its first jobs. ## Try this 1. Go to Bots (app.useagent.org/bots) and open Marketplace. 2. Look through the Discover, Bots, Apps and Installed tabs, and search by a keyword. 3. Pick a starter bot, for example Scout or Release notes. Check what the New bot dialog fills",
+      "source_created_at": "2026-10-15T21:03:40Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/161",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873894013",
+      "title": "Models: pick Codex without a ChatGPT account and check the message",
+      "url": "https://github.com/useagenthq/useagent/issues/160",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what happens when you choose the Codex engine before connecting a ChatGPT account. ## Try this 1. On an account with no ChatGPT connected, open a new thread and pick Codex in the engine picker. 2. Send a small task: `Write a haiku about Mondays into a file called haiku.txt.` 3. Read the message and follow the way out it",
+      "source_created_at": "2026-10-15T21:03:35Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/160",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873892867",
+      "title": "Models: check what the app tells you when a credit or capacity limit is reached",
+      "url": "https://github.com/useagenthq/useagent/issues/159",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. The app may start you on Claude Opus 5.5 credit from us and then move you to GLM credits from us. Check that it says clearly where you stand and, when a limit is reached, what to do next. ## Try this 1. On a new account, read the note under the composer about your credit before your first task. 2. Do real work over a few days",
+      "source_created_at": "2026-10-15T21:03:31Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/159",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873891869",
+      "title": "Threads: try the Queue, Send now and Remove controls while a task runs",
+      "url": "https://github.com/useagenthq/useagent/issues/158",
+      "evidence": "Check what the controls do when you type while the agent is still working. ## Try this 1. Start a task that takes a few minutes: `Research three budget laptops and write a comparison table.` 2. While it runs, type a message. The send button should read Queue. Queue it. 3. Queue a second message, then use Remove on it. 4. Queue a third, then use Send now on it. 5. Start another task, queue two messages, then press Stop. 6. Try the same on a phone-sized screen. ## What to look for - Queued messages show in a list and wait for the current turn to ",
+      "source_created_at": "2026-10-15T21:03:27Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/158",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873890957",
+      "title": "Threads: check the agent still remembers early details in a long thread",
+      "url": "https://github.com/useagenthq/useagent/issues/157",
+      "evidence": "Check whether the agent still knows what you told it early in a long thread, many turns later and after a break. ## Try this 1. Start a thread and give it a few details up front: a project name, two numbers (a budget and a deadline), a person's name, and a rule like \"never use the color red\". 2. Work with it for 15 or more turns on something real: build a small site, write and revise a document, or analyze a CSV. 3. Every five turns, check one early detail without repeating it: `What budget did I give you at the start?` 4. Leave the thread for ",
+      "source_created_at": "2026-10-15T21:03:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/157",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:04:57.107Z"
     },
     {
       "source": "github",
@@ -245,51 +740,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/auscaster/frantic-board/issues/514",
       "first_seen_at": "2026-10-15T20:11:43.807Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
@@ -365,126 +815,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Uuriko/project-room/issues/3547",
       "first_seen_at": "2026-10-15T20:43:17.253Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873890069",
-      "title": "Threads: send a few quick messages while a task runs and check they're answered together",
-      "url": "https://github.com/useagenthq/useagent/issues/156",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that several short messages you send while the agent is busy get answered together in one turn. ## Try this 1. Start a task that takes a few minutes: `Build a one-page website for a made-up bakery and open it in the browser.` 2. While it works, queue three short messages one after another: `Use a blue color scheme.`, `A",
-      "source_created_at": "2026-10-15T21:03:18Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/156",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873889247",
-      "title": "Bots: run a morning brief routine that reads Gmail and Calendar on its own",
-      "url": "https://github.com/useagenthq/useagent/issues/155",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot routine that only reads your apps finishes without stopping on an approval card, and that it still stops when it needs to change something. Use test Google accounts. ## Try this 1. Connect Gmail and Google Calendar (account menu, then Apps). 2. Create a bot called \"Morning brief\". 3. Add a routine, Weekdays 9",
-      "source_created_at": "2026-10-15T21:03:14Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/155",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873888398",
-      "title": "Connectors: read Linear without a click, and check that creating an issue asks first",
-      "url": "https://github.com/useagenthq/useagent/issues/154",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can list and search Linear issues without an approval click, and that changes still ask first. Use a Linear workspace you own. A new one with a test team is fine. ## Try this 1. Create a team with six or so issues in different states, with a few labels and priorities. 2. Open your account menu, then Apps,",
-      "source_created_at": "2026-10-15T21:03:10Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/154",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
       "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
@@ -6325,6 +6655,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-15T21:04:57.107Z",
+      "generated_at": "2026-10-15T21:04:57.107Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 278
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 48
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 22,
+      "seen_again": 24,
+      "archive_total": 443,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T21:03:27.047Z",
       "generated_at": "2026-10-15T21:03:27.047Z",
       "status": "ok",
@@ -9641,67 +10032,6 @@
       "new_items": 1,
       "seen_again": 45,
       "archive_total": 203,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:11:26.955Z",
-      "generated_at": "2026-10-14T16:11:26.955Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 299
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 1326
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 202,
       "steps": [
         {
           "agent": "Recolector",
