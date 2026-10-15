@@ -35,3 +35,32 @@ test('Kraken category navigation is not a reward candidate',()=>{
  const html='<a href="/category/product/promotions">Promotions</a>';
  assert.equal(findRelevantLinks(html,SOURCES.find(x=>x.id==='kraken-blog')).length,0);
 });
+
+test('Official DeFi article URLs are allowed but spoofed links are not',()=>{
+ assert.equal(permittedPage('https://blog.uniswap.org/official-airdrop'),true);
+ assert.equal(permittedPage('https://aave.com/blog/official-grants-program'),true);
+ assert.equal(permittedPage('https://optimism.io/blog/rewards'),true);
+ assert.equal(permittedPage('https://gov.optimism.io/t/airdrop-eligibility/1234'),true);
+ assert.equal(permittedPage('https://gov.uniswap.org/t/grants-program/1234'),true);
+ assert.equal(permittedPage('https://blog.uniswap.org.attacker.test/fake-airdrop'),false);
+ assert.equal(permittedPage('https://blog.kraken.com/category/product/promotions'),false);
+});
+test('DeFi yield is flagged as requiring capital; grants require a human review',()=>{
+ const a=findRelevantLinks('<a href="/blog/defi-airdrop">Airdrop rewards require yield deposits</a>',SOURCES.find(s=>s.id==='aave-defi'));
+ assert.equal(a[0].screening,'requires_capital_or_activity_review');
+ const b=findRelevantLinks('<a href="/blog/ecosystem-grants">Ecosystem grants and funding</a>',SOURCES.find(s=>s.id==='aave-defi'));
+ assert.equal(b[0].screening,'manual_action_or_conditions');
+});
+test('Discovery never exceeds four simultaneous network requests',async()=>{
+ let active=0,peak=0;
+ const sources=Array.from({length:13},()=>SOURCES[0]);
+ const output=await discover({sources,fetcher:async()=>{
+  active++;peak=Math.max(peak,active);
+  await new Promise(resolve=>setTimeout(resolve,5));
+  active--;
+  return {ok:true,headers:{get:()=>''},text:async()=>'<html></html>'};
+ }});
+ assert(peak<=4);assert(peak>=2);
+ assert.equal(output.stats.official_pages_checked,13);
+ assert.equal(output.stats.candidate_announcements,0);
+});
