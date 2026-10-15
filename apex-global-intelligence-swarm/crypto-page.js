@@ -44,8 +44,8 @@ function drawDiscovery(d){
  metrics.replaceChildren(
   metric('Fuentes oficiales bajo seguimiento',d.stats.official_pages_checked),
   metric('Páginas accesibles',d.stats.pages_read),
-  metric('Anuncios para investigar',list.length),
-  metric('Elegibilidad y depósitos verificados','0')
+  metric('Anuncios sin derecho de cobro comprobado',list.length),
+  metric('Recompensas gratuitas confirmadas','0')
  );
  const allowed=new Set(['www.binance.com','www.coinbase.com','blog.kraken.com','www.okx.com',
   'blog.uniswap.org','aave.com','optimism.io','gov.uniswap.org','gov.optimism.io']);
@@ -60,7 +60,7 @@ function drawDiscovery(d){
   const years=String(x.title).match(/\b20\d{2}\b/g)||[];
   return years.some(y=>Number(y)<nowYear);
  };
- list.sort((a,b)=>Number(historic(a))-Number(historic(b)));
+ list.sort((a,b)=>Number(b.review_priority||0)-Number(a.review_priority||0) || Number(historic(a))-Number(historic(b)));
  container.replaceChildren();
  for(const x of list){
   const article=document.createElement('article');article.className='item';
@@ -68,7 +68,10 @@ function drawDiscovery(d){
   state.textContent=historic(x)?'Referencia con año anterior':'Anuncio sin vigencia comprobada';
   const heading=document.createElement('h2');heading.textContent=String(x.title).slice(0,180);
   article.append(state,heading);
-  article.append(info('Origen',String(x.source)),info('Control de riesgo',descriptions[x.screening]||'Evaluación pendiente'));
+  article.append(info('Origen',String(x.source)),
+   info('Categoría',String(x.review_group||'investigación pendiente')),
+   info('Control de riesgo',descriptions[x.screening]||'Evaluación pendiente'),
+   info('Evaluación',String(x.review_reason||'Sin elegibilidad ni importe acreditado confirmado')));
   const note=document.createElement('div');note.className='danger';note.textContent='No hay derecho de cobro confirmado. No existe transferencia automática.';
   article.append(note);
   try{
@@ -82,7 +85,7 @@ function drawDiscovery(d){
  }
  if(!list.length){const empty=document.createElement('div');empty.className='empty';empty.textContent='No se identificaron anuncios aptos para investigación en la última exploración. Ningún activo fue cobrado.';container.append(empty)}
  updated.textContent='Última actualización: '+new Date(d.generated_at).toLocaleString('es-PE')+
-  '. Fuente oficial no equivale a beneficio legítimamente adquirido. No incluye datos de tu billetera.';
+  '. Nuevos anuncios observados: '+String(d.stats.new_candidate_count||0)+'. Ninguna oportunidad se considera cobrable sin verificación. No incluye datos de tu billetera.';
 }
 for(const url of [
  'https://raw.githubusercontent.com/apxsolutionspe/Apex_Manager/main/apex-global-intelligence-swarm/feed/crypto-discovery.json',
