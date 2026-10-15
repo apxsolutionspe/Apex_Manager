@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T20:06:26.873Z",
+  "updated_at": "2026-10-15T20:11:43.807Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -255,12 +255,12 @@
       "evidence": "> **基线**：`fd730b287105194010f82989409f16aef9bde9f8`（= 发布时的 `origin/main`，2026-10-16T03:38:49+08:00，`Merge PR #615`）。 > > **三个 sha 的关系（如实，可复算）**： > · **r59h 的读数**在只读树 `tree-335703e637ce`（= `335703e6`）上跑； > · **本件的重跑读数**在只读树 `tree-2919d532850f`（= `2919d532`）上跑，原始输出落 `snapshots/r59j/`； > · **发布时的 `origin/main`** 是 `fd730b28`（`#615` 合入）。 > 本件引用的 `lingshu/world/voxel_world.py` 与 `lingshu/world/scene_simulator.py` 在这三个 sha 之间**逐字节未变**（LF 归一后 sha256 恒为 `beaf595dc12bfb9d…` / `f1fc508797ab3848…`）；`core.py` 变过两次（`1e8e1943921c34df…` → `99cb80b4378e2133…` ",
       "source_created_at": "2026-10-15T20:00:51Z",
       "opp_type": "otro",
-      "score": 28,
+      "score": 29,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/701",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -270,12 +270,12 @@
       "evidence": "**Context** Nothing in the SDK accepts an `AbortSignal`. `pollForAttestation` (`src/iris/poll.ts:133-170`), `pollTransactionStatus` (`src/chains/stellar.ts:71-86`), and `waitForAllowance`/`retryOnTransientRpcLag` (`src/chains/stellar.ts:210-294`) all run `while` loops with fixed deadlines and no external cancellation. A service shutting down, a user navigating away from the demo, or a request-scoped timeout in a web backend cannot stop an in-flight transfer. This matters most after the burn: the README and `TransferError` docs promise the calle",
       "source_created_at": "2026-10-15T20:02:07Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 42,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/5",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/4",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/3",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/2",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/1",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/16",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -360,12 +360,12 @@
       "evidence": "**Context** `convertPrecision` in `src/utils/encoding.ts:137-147` implements the Arc(6)↔Stellar(7) decimal conversion that sits at the heart of every cross-chain amount in this SDK, but it is not exported from `src/index.ts` — integrators building fee displays or amount inputs against both chains have to reimplement bigint scaling themselves. Meanwhile `parseUsdcAmount`/`formatUsdcAmount` (same file, lines 92-115) and `decimalsForChain` have test files, but there is no dedicated coverage of conversion round trips (up-scale then down-scale, trun",
       "source_created_at": "2026-10-15T20:03:08Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 43,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/20",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -375,12 +375,12 @@
       "evidence": "**Context** `bytes32ToStellarAddress` in `src/utils/encoding.ts:28-32` does `Buffer.from(hex, \"hex\")` with no validation and passes the result straight to `StrKey.encodeEd25519PublicKey`. `Buffer.from` silently truncates at the first non-hex character and accepts odd-length strings by dropping the leading nibble, so garbage input produces a garbage-but-plausible `G...` address instead of an error. Its sibling `stellarAddressToBytes32` (lines 12-25) validates both directions of the strkey round trip; this inverse got missed. It's exported from t",
       "source_created_at": "2026-10-15T20:03:06Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 43,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/19",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -390,12 +390,12 @@
       "evidence": "**Context** `scripts/testnet-smoke.mjs` is the end-to-end testnet check (`pnpm smoke`) and one of the few signals that the SDK works against live Circle Iris and real contracts. Public testnets and faucets flake constantly — transient RPC 5xx, attestation delays just over the poll window, faucet rate limits. A smoke script with no retry or step-level reporting turns every flake into a false alarm, and a script that doesn't exit non-zero on partial failure turns real breakage into a green-looking run. **Proposed Change** Restructure the script i",
       "source_created_at": "2026-10-15T20:03:03Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 43,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/18",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -410,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/17",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -425,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/15",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -440,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/14",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -455,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/13",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -470,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/12",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -485,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/11",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -500,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/10",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -515,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/9",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -530,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/8",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -545,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/7",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -560,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/6",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -570,12 +570,12 @@
       "evidence": "## 性质声明 - 本件是**外部贡献申报（intake 输入）**，不是悬赏；不打 `bounty` 标签。 - 我方账号 `hawkongz` 对 `FuRongJun-1999/dsh-bounty` 的 permissions 实测为 `pull=true / push=false / triage=false` ⇒ **不能自行打标签**，**需维护者代打 `intake` 标签**。 - 上游 issue：https://github.com/FuRongJun-1999/lingshu/issues/701（发布时维护者通常尚未判定；如判定后与本件不一致，以维护者判定为准） - 交付物是**缺陷报告**本身；若缺陷最终由维护者自行修复，该修复**不计入**申报人交付。 ## 判据（数值以当次脚本打印值为准，不写死） - 查重：三池词面检索未命中本件主张（`MAX_TREES` / 「trees 上限」）——`lingshu` issue 最新窗口 289 条（含 closed）＋ PR 池 155 条（`state=all`）＋ `dsh-bounty` 最新窗口 358 条；命中的 `trees` 条目已逐条打开比对，另有 5 条相似度候选（#459/#25/#368",
       "source_created_at": "2026-10-15T20:02:18Z",
       "opp_type": "bounty_codigo",
-      "score": 30,
+      "score": 32,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/624",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -590,7 +590,127 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/dseelinger/d47/issues/1185",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762468",
+      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
+      "url": "https://words.filippo.io/seeds-bounty/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T01:34:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-bounty",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49760509",
+      "title": "Intel Appears to End Its Bug Bounty Program",
+      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "evidence": "",
+      "source_created_at": "2026-09-18T21:29:33Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "evidence": "",
+      "source_created_at": "2026-09-16T16:32:41Z",
+      "opp_type": "otro",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873158473",
+      "title": "support: agent-26e42c — uncertain result of bounty #120 claim request",
+      "url": "https://github.com/auscaster/frantic-board/issues/514",
+      "evidence": "### Public Frantic agent id agent-26e42c ### GitHub handle associated with the agent NelsonAlmarales ### What is blocked? Another account access problem ### Public details I am requesting help with an uncertain claim result, not claiming or delivering a bounty through this issue. This report was prepared with AI assistance on behalf of the operator. On 2026-10-15 at approximately 19:49:45 UTC (the local attempt timestamp), our Windows client attempted POST /v1/claims for bounty #120 and agent-26e42c. Before the request it wrote its local pendin",
+      "source_created_at": "2026-10-15T20:09:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/auscaster/frantic-board/issues/514",
+      "first_seen_at": "2026-10-15T20:11:43.807Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873025894",
+      "title": "fix: corrected spans cannot shrink run time bounds",
+      "url": "https://github.com/neatlogs/neatroots/issues/137",
+      "evidence": "### Problem When an existing span is resent with corrected timestamps, Neatroots replaces the span row but run-level time bounds can only expand. If the replaced span previously supplied the earliest start or latest end, `runs.started_ms` and `runs.last_span_ms` retain timestamps that no stored span has anymore. This is the timestamp counterpart to the aggregate-replacement consistency fixed in #118/#122. ### Steps to reproduce On current `main` (`d6a1029977`): 1. Ingest span A with timestamps 100–1000 ms. 2. Ingest span B in the same trace wit",
+      "source_created_at": "2026-10-15T20:00:01Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/137",
+      "first_seen_at": "2026-10-15T20:11:43.807Z",
+      "last_seen_at": "2026-10-15T20:11:43.807Z"
     },
     {
       "source": "github",
@@ -620,96 +740,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762468",
-      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
-      "url": "https://words.filippo.io/seeds-bounty/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T01:34:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-bounty",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49760509",
-      "title": "Intel Appears to End Its Bug Bounty Program",
-      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "evidence": "",
-      "source_created_at": "2026-09-18T21:29:33Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:06:26.873Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49729492",
-      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
-      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
-      "evidence": "",
-      "source_created_at": "2026-09-16T16:32:41Z",
-      "opp_type": "otro",
-      "score": 17,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-15T20:06:26.873Z"
     },
     {
@@ -5965,6 +5995,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-15T20:11:43.807Z",
+      "generated_at": "2026-10-15T20:11:43.807Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 670
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 638
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 2,
+      "seen_again": 45,
+      "archive_total": 399,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T20:06:26.873Z",
       "generated_at": "2026-10-15T20:06:26.873Z",
       "status": "ok",
@@ -9280,67 +9371,6 @@
       "unique_in_cycle": 46,
       "new_items": 0,
       "seen_again": 46,
-      "archive_total": 46,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-13T17:27:00.159Z",
-      "generated_at": "2026-10-13T17:27:00.159Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 323
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 580
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 46,
-      "seen_again": 0,
       "archive_total": 46,
       "steps": [
         {
