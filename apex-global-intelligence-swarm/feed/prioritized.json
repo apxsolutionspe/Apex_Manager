@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T20:01:30.181Z",
+  "generated_at": "2026-10-15T20:02:17.366Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 376,
+    "total_evaluated": 381,
     "investigar": 1,
-    "informativa": 351,
+    "informativa": 356,
     "descartar": 24,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -46,7 +46,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/23",
       "source_created_at": "2026-10-15T19:55:58Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -69,7 +69,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/20",
       "source_created_at": "2026-10-15T19:55:48Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -92,7 +92,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/19",
       "source_created_at": "2026-10-15T19:55:46Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -115,7 +115,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/18",
       "source_created_at": "2026-10-15T19:55:42Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -138,7 +138,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/11",
       "source_created_at": "2026-10-15T19:55:07Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -161,7 +161,53 @@
       "url": "https://github.com/ASCTP/parabola/issues/9",
       "source_created_at": "2026-10-15T19:55:00Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+      "url": "https://github.com/Parabola-org/parabola/issues/5",
+      "source_created_at": "2026-10-15T20:02:07Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 125,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+      "url": "https://github.com/Parabola-org/parabola/issues/3",
+      "source_created_at": "2026-10-15T20:02:02Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -473,7 +519,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/27",
       "source_created_at": "2026-10-15T19:56:11Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -492,34 +538,11 @@
     },
     {
       "source": "github",
-      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
-      "url": "https://github.com/ASCTP/parabola/issues/7",
-      "source_created_at": "2026-10-15T19:54:32Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
       "url": "https://github.com/ASCTP/parabola/issues/26",
       "source_created_at": "2026-10-15T19:56:07Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -542,7 +565,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/25",
       "source_created_at": "2026-10-15T19:56:03Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -565,7 +588,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/24",
       "source_created_at": "2026-10-15T19:56:01Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -588,7 +611,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/22",
       "source_created_at": "2026-10-15T19:55:56Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -611,7 +634,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/21",
       "source_created_at": "2026-10-15T19:55:53Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -634,7 +657,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/17",
       "source_created_at": "2026-10-15T19:55:38Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -657,7 +680,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/16",
       "source_created_at": "2026-10-15T19:55:34Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -680,7 +703,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/14",
       "source_created_at": "2026-10-15T19:55:28Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -703,7 +726,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/13",
       "source_created_at": "2026-10-15T19:55:21Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -726,7 +749,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/12",
       "source_created_at": "2026-10-15T19:55:11Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -749,7 +772,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/10",
       "source_created_at": "2026-10-15T19:55:04Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -771,6 +794,98 @@
       "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
       "url": "https://github.com/ASCTP/parabola/issues/8",
       "source_created_at": "2026-10-15T19:54:55Z",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+      "url": "https://github.com/Parabola-org/parabola/issues/4",
+      "source_created_at": "2026-10-15T20:02:04Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/Parabola-org/parabola/issues/2",
+      "source_created_at": "2026-10-15T20:01:56Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/Parabola-org/parabola/issues/1",
+      "source_created_at": "2026-10-15T20:01:50Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/ASCTP/parabola/issues/7",
+      "source_created_at": "2026-10-15T19:54:32Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
       "last_seen_at": "2026-10-15T20:01:27.650Z",
       "status": "informativa",
@@ -3739,126 +3854,6 @@
       "source_created_at": "2026-10-15T17:23:17Z",
       "first_seen_at": "2026-10-15T17:25:01.099Z",
       "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "security: Publish formal SECURITY.md with vulnerability disclosure policy and PGP key",
-      "url": "https://github.com/progidyken-hub/BLUEWHALE/issues/296",
-      "source_created_at": "2026-10-15T17:26:18Z",
-      "first_seen_at": "2026-10-15T17:28:16.618Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[GoodBounty-Patch] Streaming widget: light-theme parity and UI structure alignment",
-      "url": "https://github.com/GoodDollar/GoodWidget/issues/255",
-      "source_created_at": "2026-10-15T15:49:46Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T17:03:43.650Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Third-party GitHub App 'Drips Wave' holds org-wide issue/PR write access",
-      "url": "https://github.com/Konfirm-xyz/konfirm-contracts/issues/101",
-      "source_created_at": "2026-10-15T15:34:58Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Security contact?",
-      "url": "https://github.com/blockvisionhq/sui-go-sdk/issues/102",
-      "source_created_at": "2026-10-15T15:33:15Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:42:28.425Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "hive-memory-bench: 外部横向评测交付 —— 材料效应 +84.20 pp / 三类中文损伤机制 / 零干扰池上界已量化",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/604",
-      "source_created_at": "2026-10-15T15:10:50Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [

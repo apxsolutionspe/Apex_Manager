@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T20:01:27.650Z",
+  "updated_at": "2026-10-15T20:02:16.798Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/23",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -345,27 +345,12 @@
       "evidence": "**Context** `convertPrecision` in `src/utils/encoding.ts:137-147` implements the Arc(6)↔Stellar(7) decimal conversion that sits at the heart of every cross-chain amount in this SDK, but it is not exported from `src/index.ts` — integrators building fee displays or amount inputs against both chains have to reimplement bigint scaling themselves. Meanwhile `parseUsdcAmount`/`formatUsdcAmount` (same file, lines 92-115) and `decimalsForChain` have test files, but there is no dedicated coverage of conversion round trips (up-scale then down-scale, trun",
       "source_created_at": "2026-10-15T19:56:11Z",
       "opp_type": "bounty_codigo",
-      "score": 42,
+      "score": 43,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/27",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5872950112",
-      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
-      "url": "https://github.com/ASCTP/parabola/issues/7",
-      "evidence": "**Context** `pollTransactionStatus` in `src/chains/stellar.ts:71-86` calls `server.getTransaction(hash)` inside a bare `while` loop with no error handling. A single transient RPC failure (connection reset, 5xx from the Soroban RPC) rejects the whole loop with whatever error the Stellar SDK threw — a bare error with no hash attached. This contradicts the module's own contract: the comment directly below (lines 81-85) says the hash must be surfaced via `SubmissionTimeoutError` because the transaction was already broadcast. Today that guarantee on",
-      "source_created_at": "2026-10-15T19:54:32Z",
-      "opp_type": "bounty_codigo",
-      "score": 42,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ASCTP/parabola/issues/7",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -380,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/26",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -395,7 +380,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/25",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -410,7 +395,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/24",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -425,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/22",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -440,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/21",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -455,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/20",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -470,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/19",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -485,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/18",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -500,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/17",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -515,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/16",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -530,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/14",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -545,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/13",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -560,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/12",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -575,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/11",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -590,7 +575,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/10",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -605,7 +590,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/9",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
     },
     {
       "source": "github",
@@ -619,6 +604,111 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ASCTP/parabola/issues/8",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873036842",
+      "title": "world/voxel_world：build_flatland 的 trees 参数无上界（同一「资源上界」措施里的 size/steps/轨迹三条都有闸，trees 未纳入）",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/701",
+      "evidence": "> **基线**：`fd730b287105194010f82989409f16aef9bde9f8`（= 发布时的 `origin/main`，2026-10-16T03:38:49+08:00，`Merge PR #615`）。 > > **三个 sha 的关系（如实，可复算）**： > · **r59h 的读数**在只读树 `tree-335703e637ce`（= `335703e6`）上跑； > · **本件的重跑读数**在只读树 `tree-2919d532850f`（= `2919d532`）上跑，原始输出落 `snapshots/r59j/`； > · **发布时的 `origin/main`** 是 `fd730b28`（`#615` 合入）。 > 本件引用的 `lingshu/world/voxel_world.py` 与 `lingshu/world/scene_simulator.py` 在这三个 sha 之间**逐字节未变**（LF 归一后 sha256 恒为 `beaf595dc12bfb9d…` / `f1fc508797ab3848…`）；`core.py` 变过两次（`1e8e1943921c34df…` → `99cb80b4378e2133…` ",
+      "source_created_at": "2026-10-15T20:00:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/701",
+      "first_seen_at": "2026-10-15T20:01:27.650Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873054560",
+      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+      "url": "https://github.com/Parabola-org/parabola/issues/5",
+      "evidence": "**Context** Nothing in the SDK accepts an `AbortSignal`. `pollForAttestation` (`src/iris/poll.ts:133-170`), `pollTransactionStatus` (`src/chains/stellar.ts:71-86`), and `waitForAllowance`/`retryOnTransientRpcLag` (`src/chains/stellar.ts:210-294`) all run `while` loops with fixed deadlines and no external cancellation. A service shutting down, a user navigating away from the demo, or a request-scoped timeout in a web backend cannot stop an in-flight transfer. This matters most after the burn: the README and `TransferError` docs promise the calle",
+      "source_created_at": "2026-10-15T20:02:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/5",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873053954",
+      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+      "url": "https://github.com/Parabola-org/parabola/issues/4",
+      "evidence": "**Context** `checkStellarRecipientReady` in `src/chains/stellar.ts:144-177` wraps `server.getAccount(recipient)` in a bare `catch` that returns `{ exists: false, hasTrustline: false, ready: false }`. Any failure — DNS error, RPC 503, rate limit on the public mainnet endpoint (which `src/constants.ts:49-52` explicitly warns is rate-limited) — is indistinguishable from an account that genuinely was never funded. `assertStellarRecipientReady` in `src/transfer.ts:207-223` then throws \"recipient does not exist yet. It must be funded with at least th",
+      "source_created_at": "2026-10-15T20:02:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/4",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873053305",
+      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+      "url": "https://github.com/Parabola-org/parabola/issues/3",
+      "evidence": "**Context** `pollForAttestation` in `src/iris/poll.ts:133-170` tolerates up to 5 consecutive failures before giving up — the right policy against a public API. But `getAttestation` (lines 102-122), used by `resolveBurn` in `src/transfer.ts:285-304`, calls `pollOnce` exactly once and throws `IrisRequestError` on the first failure. So `resolveBurn`, the SDK's read-only \"what did this burn commit to?\" helper, is strictly less reliable than the polling path for no documented reason. A single dropped connection makes a caller believe the burn is unr",
+      "source_created_at": "2026-10-15T20:02:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/3",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873051890",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/Parabola-org/parabola/issues/2",
+      "evidence": "**Context** `fetchFastTransferFeeBps` in `src/iris/poll.ts:10-23` does `body.find((entry) => entry.finalityThreshold <= 1000)` and falls back to `return fastEntry?.minimumFee ?? 0`. If Iris changes its response shape, returns an empty array, or ships a tier with a different threshold, every fast transfer is silently quoted a zero fee — in `transfer()` this flows into `feeRaw = 0` and a `TransferResult.fee` of `\"0\"`, and in `estimateFee` it produces a free-looking quote. The same function also throws a bare `Error` on HTTP failure (line 18) even",
+      "source_created_at": "2026-10-15T20:01:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/2",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873050567",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/Parabola-org/parabola/issues/1",
+      "evidence": "**Context** `pollTransactionStatus` in `src/chains/stellar.ts:71-86` calls `server.getTransaction(hash)` inside a bare `while` loop with no error handling. A single transient RPC failure (connection reset, 5xx from the Soroban RPC) rejects the whole loop with whatever error the Stellar SDK threw — a bare error with no hash attached. This contradicts the module's own contract: the comment directly below (lines 81-85) says the hash must be surfaced via `SubmissionTimeoutError` because the transaction was already broadcast. Today that guarantee on",
+      "source_created_at": "2026-10-15T20:01:50Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/1",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:02:16.798Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5872950112",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/ASCTP/parabola/issues/7",
+      "evidence": "**Context** `pollTransactionStatus` in `src/chains/stellar.ts:71-86` calls `server.getTransaction(hash)` inside a bare `while` loop with no error handling. A single transient RPC failure (connection reset, 5xx from the Soroban RPC) rejects the whole loop with whatever error the Stellar SDK threw — a bare error with no hash attached. This contradicts the module's own contract: the comment directly below (lines 81-85) says the hash must be surfaced via `SubmissionTimeoutError` because the transaction was already broadcast. Today that guarantee on",
+      "source_created_at": "2026-10-15T19:54:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ASCTP/parabola/issues/7",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
       "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
@@ -649,21 +739,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/21",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873036842",
-      "title": "world/voxel_world：build_flatland 的 trees 参数无上界（同一「资源上界」措施里的 size/steps/轨迹三条都有闸，trees 未纳入）",
-      "url": "https://github.com/FuRongJun-1999/lingshu/issues/701",
-      "evidence": "> **基线**：`fd730b287105194010f82989409f16aef9bde9f8`（= 发布时的 `origin/main`，2026-10-16T03:38:49+08:00，`Merge PR #615`）。 > > **三个 sha 的关系（如实，可复算）**： > · **r59h 的读数**在只读树 `tree-335703e637ce`（= `335703e6`）上跑； > · **本件的重跑读数**在只读树 `tree-2919d532850f`（= `2919d532`）上跑，原始输出落 `snapshots/r59j/`； > · **发布时的 `origin/main`** 是 `fd730b28`（`#615` 合入）。 > 本件引用的 `lingshu/world/voxel_world.py` 与 `lingshu/world/scene_simulator.py` 在这三个 sha 之间**逐字节未变**（LF 归一后 sha256 恒为 `beaf595dc12bfb9d…` / `f1fc508797ab3848…`）；`core.py` 变过两次（`1e8e1943921c34df…` → `99cb80b4378e2133…` ",
-      "source_created_at": "2026-10-15T20:00:51Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/701",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
       "last_seen_at": "2026-10-15T20:01:27.650Z"
     },
@@ -5649,6 +5724,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T20:02:16.798Z",
+      "generated_at": "2026-10-15T20:02:16.798Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 253
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 418
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 5,
+      "seen_again": 41,
+      "archive_total": 381,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T20:01:27.650Z",
       "generated_at": "2026-10-15T20:01:27.650Z",
