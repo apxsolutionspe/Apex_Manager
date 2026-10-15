@@ -22,9 +22,9 @@ test('Regional access and identity cannot be inferred or bypassed',()=>{
 });
 test('Public dashboard cannot turn conditional offer into wallet income',()=>{
  const r=createReport({asOf:new Date('2026-10-15T20:00:00Z')});
- assert.equal(r.data.length,0);
+ assert.equal(r.data.length,2);
  assert.equal(r.summary.excluded_new_account_only,1);
- assert.equal(r.summary.actionable_research_candidates,0);
+ assert.equal(r.summary.actionable_research_candidates,2);
  assert.equal(r.summary.verified_income_usd,0);
  assert.equal(r.summary.received_tokens,0);
  assert.equal(r.summary.automatically_claimable,0);
@@ -34,10 +34,10 @@ test('Public dashboard cannot turn conditional offer into wallet income',()=>{
 test('Historical new-account offers may be inspected but not added to the default shortlist',()=>{
  const date=new Date('2026-10-15T20:00:00Z');
  const shown=createReport({asOf:date,includeNewUserOnly:true});
- assert.equal(shown.data.length,1);
+ assert.equal(shown.data.length,3);
  assert.equal(shown.data[0].may_claim,false);
  assert.equal(shown.summary.excluded_new_account_only,0);
- assert.equal(createReport({asOf:date}).data.length,0);
+ assert.equal(createReport({asOf:date}).data.length,2);
 });
 test('Generated public feed does not contain private Binance registration details',()=>{
  const report=createReport({asOf:new Date('2026-10-15T20:00:00Z')});
@@ -45,4 +45,20 @@ test('Generated public feed does not contain private Binance registration detail
  assert.equal(serialized.includes('registration_ineligible'),false);
  assert.equal(serialized.includes('kyc:'),false);
  assert.equal(report.summary.verified_income_usd,0);
+});
+
+test('Older accounts can research no-trading WOTD offer without promising wins',()=>{
+ const campaign=VERIFIED_ANNOUNCEMENTS.find(x=>x.id==='binance-wotd-intelligence-2026-10');
+ assert.equal(campaign.requires_new_personal_account,false);
+ assert.equal(campaign.known_deposit_required,false);
+ assert.equal(campaign.automatic_claim_supported,false);
+ assert.equal(evaluateLead(campaign,{asOf:new Date('2026-10-15T23:00:00Z'),registration:'2022-02-01T00:00:00Z',kyc:true,eligibleCountry:true}).status,'quota_and_issuer_confirmation_pending');
+ assert.equal(evaluateLead(campaign,{asOf:new Date('2026-10-19T00:00:00Z')}).status,'expired');
+});
+test('AI feedback is a conditional award for verified old users and is not self-claimable',()=>{
+ const campaign=VERIFIED_ANNOUNCEMENTS.find(x=>x.id==='binance-ai-feedback-2026-10');
+ assert.equal(campaign.monthly_cap,25);
+ assert.equal(campaign.automatic_claim_supported,false);
+ assert.equal(campaign.wallet_transfer_supported,false);
+ assert.equal(evaluateLead(campaign,{asOf:new Date('2026-10-15T23:00:00Z'),registration:'2022-02-01T00:00:00Z',kyc:true,eligibleCountry:true}).may_claim,false);
 });
