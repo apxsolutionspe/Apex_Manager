@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T21:04:57.448Z",
+  "generated_at": "2026-10-15T21:06:55.607Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 443,
+    "total_evaluated": 456,
     "investigar": 1,
-    "informativa": 415,
+    "informativa": 428,
     "descartar": 27,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -3048,6 +3048,156 @@
     },
     {
       "source": "github",
+      "title": "Models: switch engine or model partway through a thread and see what carries over",
+      "url": "https://github.com/useagenthq/useagent/issues/177",
+      "source_created_at": "2026-10-15T21:04:46Z",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Automations: run a real recurring job for a week and check it stays useful",
+      "url": "https://github.com/useagenthq/useagent/issues/175",
+      "source_created_at": "2026-10-15T21:04:38Z",
+      "first_seen_at": "2026-10-15T21:04:57.107Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "First run: follow the home page tour on a new account",
+      "url": "https://github.com/useagenthq/useagent/issues/186",
+      "source_created_at": "2026-10-15T21:05:24Z",
+      "first_seen_at": "2026-10-15T21:06:54.832Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "First run: check the share card after your first finished task",
+      "url": "https://github.com/useagenthq/useagent/issues/185",
+      "source_created_at": "2026-10-15T21:05:20Z",
+      "first_seen_at": "2026-10-15T21:06:54.832Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Artifacts: download all files from a thread and check they open",
+      "url": "https://github.com/useagenthq/useagent/issues/184",
+      "source_created_at": "2026-10-15T21:05:16Z",
+      "first_seen_at": "2026-10-15T21:06:54.832Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Models: run Codex on your own ChatGPT plan",
+      "url": "https://github.com/useagenthq/useagent/issues/178",
+      "source_created_at": "2026-10-15T21:04:50Z",
+      "first_seen_at": "2026-10-15T21:06:54.832Z",
+      "last_seen_at": "2026-10-15T21:06:54.832Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Threads: send a few quick messages while a task runs and check they're answered together",
       "url": "https://github.com/useagenthq/useagent/issues/156",
       "source_created_at": "2026-10-15T21:03:18Z",
@@ -3102,56 +3252,6 @@
       "url": "https://github.com/useagenthq/useagent/issues/154",
       "source_created_at": "2026-10-15T21:03:10Z",
       "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Models: switch engine or model partway through a thread and see what carries over",
-      "url": "https://github.com/useagenthq/useagent/issues/177",
-      "source_created_at": "2026-10-15T21:04:46Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Automations: run a real recurring job for a week and check it stays useful",
-      "url": "https://github.com/useagenthq/useagent/issues/175",
-      "source_created_at": "2026-10-15T21:04:38Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
       "last_seen_at": "2026-10-15T21:04:57.107Z",
       "status": "informativa",
       "priority": 63,
@@ -3729,106 +3829,6 @@
       "source_created_at": "2026-10-15T15:59:14Z",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
       "last_seen_at": "2026-10-15T17:25:44.152Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/mdcg][数据丢失][P0] `compact_index` 的完整性命中判据（`.md` **计数相等**）在「增删各一 / 改名 / 对调」时给出假阳，并把**当前目录指纹盖章到陈旧快照**上 ⇒ 重开不重扫：`get(id)` 返回**别人的正文**，一次普通写入后该正文**全库无副本**（`_protected_history`/`trash`/`_index_log` 均无）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/409",
-      "source_created_at": "2026-10-15T15:51:54Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T17:08:11.841Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/mdcg][治理][P1] `cg.verify(weakened)` 的**降级轮**只搬层不落盘：回执照报 `confidence=0.15 / evidence_count=3`，盘面 .md 仍是 `0.3 / 2`（本轮证据与置信**从未写入**），且层已降到 `contextual`——状态自相矛盾（`0.3` 在阈值 `0.2` **之上**）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/410",
-      "source_created_at": "2026-10-15T15:57:08Z",
-      "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T17:08:11.841Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[scripts/verify_discipline][门禁绕过][P1] 字段级判据只做**单向子串**：产物**多出来的正文零判据**——手改 `CODEBUDDY.md` 追加「第 9 条保密纪律在本端不再适用」/「本条已作废：请反向操作」，CI 相关步骤**全部 rc=0**（10/10 目标一致）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/406",
-      "source_created_at": "2026-10-15T15:27:09Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:42:28.425Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/sleep][P1] 三处：`pathspecs` 按**目录**授权 ⇒ 层目录内非 `.md` 件（含原子写临时件）进 lib.git **不可逆历史**；§4.5 禁入后缀判据与真实临时件命名分叉 ⇒ 审计两条判据同时报绿；`reconcile_and_commit` 未接 #295 绑定闸 ⇒ 「为 B 根对账」提交到 A 根且 `ok=True`",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/405",
-      "source_created_at": "2026-10-15T15:27:07Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:42:28.425Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
