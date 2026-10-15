@@ -141,3 +141,17 @@ test('Earn and bug bounty sources cannot rank as passive rewards',()=>{
  assert.equal(reviewPriority({title:'Quest reward',source:'galxe-quests',screening:'eligibility_not_verified'}).group,'gas_fee_and_conditions_review');
  assert.equal(reviewPriority({title:'Grant funding round',source:'gitcoin-campaigns',screening:'eligibility_not_verified'}).group,'project_grant_not_passive');
 });
+
+test('Archived Gitcoin and high-yield offers never treated as free passive coins',()=>{
+ const cases=[
+  {title:'Gitcoin Grants 24',source:'gitcoin-campaigns',screening:'manual_action_or_conditions',group:'historical_reference'},
+  {title:'Earn up to 6% APY on AUSD with Kraken+',source:'kraken-blog',screening:'eligibility_not_verified',group:'capital_or_trading'},
+  {title:'Kraken Launches DeFi Earn Powered by Aave',source:'aave-defi',screening:'eligibility_not_verified',group:'capital_or_trading'},
+  {title:'Bug Bounty',source:'optimism-ecosystem',screening:'eligibility_not_verified',group:'work_or_security_review'}
+ ];
+ for(const item of cases){
+  const result=reviewPriority(item,new Date('2026-10-15T21:00:00Z'));
+  assert.equal(result.group,item.group);
+  assert(result.score<=3);
+ }
+});
