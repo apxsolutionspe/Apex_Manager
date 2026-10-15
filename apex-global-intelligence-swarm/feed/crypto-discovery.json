@@ -1,12 +1,13 @@
 {
   "schema": "apex-crypto-discovery-v1",
-  "generated_at": "2026-10-15T17:03:39.702Z",
+  "generated_at": "2026-10-15T17:06:44.087Z",
   "mode": "public_official_read_only",
   "statement": "Announced campaigns are not verified eligibility or money.",
   "stats": {
     "official_pages_checked": 12,
     "pages_read": 9,
     "candidate_announcements": 18,
+    "native_classifier_used": true,
     "confirmed_eligible": 0,
     "verified_deposits": 0
   },
