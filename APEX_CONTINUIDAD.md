@@ -25,7 +25,7 @@
 - Un cupón Binance limitado a cuentas recién creadas fue retirado de los candidatos activos; no permitir registros múltiples automatizados para eludir requisitos.
 - Actualmente no hay evidencias de que APEX haya generado fondos, transferido criptomonedas o reclamado recompensas.
 
-## Cómo continuar en otro chat
+## Continuidad sin perder el estado\n\n- Página de continuación con mensaje copiable y estado público actualizado: https://apxsolutionspe.github.io/Apex_Manager/continuar.html\n- Resumen público generado automáticamente por la vigilancia horaria: https://github.com/apxsolutionspe/Apex_Manager/blob/main/apex-global-intelligence-swarm/feed/apex-handoff.json\n- El límite de longitud de los chats de ChatGPT es de la plataforma y **no puede desactivarse desde APEX**; usa un nuevo chat en el proyecto con el mensaje copiado.\n- El resumen excluye direcciones, cantidades en la billetera, claves y datos personales. No garantiza ingresos ni detecta pagos verificados.\n\n## Cómo continuar en otro chat
 
 1. Abre un chat nuevo en el mismo proyecto.
 2. Proporciona la URL de este documento y el repositorio, y pide que verifique **primero** la última ejecución de GitHub Actions y los tres reportes públicos.
