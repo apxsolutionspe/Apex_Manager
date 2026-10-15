@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T16:59:40.585Z",
+  "updated_at": "2026-10-15T17:01:51.074Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/GoodDollar/GoodWidget/issues/255",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/409",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/ludovit-scholtz/capitalism/issues/603",
       "first_seen_at": "2026-10-15T15:54:16.415Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/608",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/607",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/410",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/414",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/413",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/412",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/415",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -365,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/411",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -380,7 +380,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/181",
       "first_seen_at": "2026-10-15T16:41:47.411Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -395,7 +395,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/416",
       "first_seen_at": "2026-10-15T16:41:47.411Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -410,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/417",
       "first_seen_at": "2026-10-15T16:41:47.411Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -425,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/930",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -440,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/929",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -455,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/184",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -470,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/183",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -480,12 +480,12 @@
       "evidence": "## Deliverable One pull request, merged, that replaces `/overview` with a dashboard for whoever is signed in: a publisher sees the issues they funded and what waits on them, a contributor sees the work they claimed and what they are owed. The all-time platform funnel, the marketing chrome and the hard-coded signal bars come off the page, and the platform-wide numbers go back to the only place they belong — the landing page's community snapshot. Nothing else changes. ## Context `/overview` is the one app page that never mentions who is looking a",
       "source_created_at": "2026-10-15T16:50:38Z",
       "opp_type": "bounty_codigo",
-      "score": 45,
+      "score": 46,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/vanduc2514/hackathon-circle-misthos/issues/182",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -500,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/609",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -515,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/418",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "github",
@@ -530,7 +530,187 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/beesyst/beeagent/issues/307",
       "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5870381529",
+      "title": "Add bounty operator controls and gate funded activation",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
+      "evidence": "## Outcome Give maintainers an audited way to operate scoped build bounties while keeping funded actions gated. Parent: #2054. Internal implementation/activation owner: [SN-33](https://omniaura-team.atlassian.net/browse/SN-33). ## Required controls - Draft and publish revisioned bounty specifications; refuse publication until fee, fixed alpha reward pool, named reviewer, funding configuration, and public build contract are explicit. - Review queue with exact submissions, claim deadlines, seven-day review targets, overdue flags and reassignment/",
+      "source_created_at": "2026-10-15T16:55:24Z",
+      "opp_type": "subvencion",
+      "score": 55,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2943",
+      "first_seen_at": "2026-10-15T16:59:40.585Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5870381292",
+      "title": "Implement paid bounty slots, alpha fee confirmation, and submission deadlines",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
+      "evidence": "## Outcome Implement the Platform/API and miner CLI path for the paid-slot build-bounty model in parent epic #2054. Extend usable claim infrastructure rather than introducing a second claim authority. ## Required behavior - Publish immutable bounty revisions containing the build contract, alpha fee/reward terms, three-attempt round cap, reviewer, and claim/review windows. Existing signed claims retain their original terms. - Gate paid claims on the verified identity link (#2871) and applicable CLA (#2872). Bind the claim to the bounty revision,",
+      "source_created_at": "2026-10-15T16:55:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2942",
+      "first_seen_at": "2026-10-15T16:59:40.585Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5870381828",
+      "title": "Evaluate one scoped build-bounty pilot against an internal build",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
+      "evidence": "## Outcome Complete one useful open-source build through the paid-slot system in #2054 and decide whether it saves team effort and produces sufficient product value. ## Pilot sequence 1. Rehearse the complete flow without funds: publication, three claims, a timely submission, missed deadline, rejection, shared award, full winner fee refund, team cancellation/system-fault refund, appeal, and transfer reconciliation. 2. Select a bounded team-defined build with a public interface, reproducible acceptance evidence, named reviewer, documented intern",
+      "source_created_at": "2026-10-15T16:55:25Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2944",
+      "first_seen_at": "2026-10-15T16:59:40.585Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762468",
+      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
+      "url": "https://words.filippo.io/seeds-bounty/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T01:34:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-bounty",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49760509",
+      "title": "Intel Appears to End Its Bug Bounty Program",
+      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "evidence": "",
+      "source_created_at": "2026-09-18T21:29:33Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "evidence": "",
+      "source_created_at": "2026-09-16T16:32:41Z",
+      "opp_type": "otro",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49721998",
+      "title": "Bug Bounty Operating Principles",
+      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "evidence": "",
+      "source_created_at": "2026-09-16T04:12:21Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49657229",
+      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "url": "https://hackerone.com/mozilla/updates?type=team",
+      "evidence": "",
+      "source_created_at": "2026-09-11T12:23:19Z",
+      "opp_type": "bug_bounty",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49677392",
+      "title": "Pacing Is a Setting on a Dial",
+      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
+      "evidence": "",
+      "source_created_at": "2026-09-12T21:28:15Z",
+      "opp_type": "otro",
+      "score": 4,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-15T17:01:51.074Z"
     },
     {
       "source": "hackernews",
@@ -654,51 +834,6 @@
     },
     {
       "source": "github",
-      "external_id": "5870381529",
-      "title": "Add bounty operator controls and gate funded activation",
-      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2943",
-      "evidence": "## Outcome Give maintainers an audited way to operate scoped build bounties while keeping funded actions gated. Parent: #2054. Internal implementation/activation owner: [SN-33](https://omniaura-team.atlassian.net/browse/SN-33). ## Required controls - Draft and publish revisioned bounty specifications; refuse publication until fee, fixed alpha reward pool, named reviewer, funding configuration, and public build contract are explicit. - Review queue with exact submissions, claim deadlines, seven-day review targets, overdue flags and reassignment/",
-      "source_created_at": "2026-10-15T16:55:24Z",
-      "opp_type": "subvencion",
-      "score": 55,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2943",
-      "first_seen_at": "2026-10-15T16:59:40.585Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5870381292",
-      "title": "Implement paid bounty slots, alpha fee confirmation, and submission deadlines",
-      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
-      "evidence": "## Outcome Implement the Platform/API and miner CLI path for the paid-slot build-bounty model in parent epic #2054. Extend usable claim infrastructure rather than introducing a second claim authority. ## Required behavior - Publish immutable bounty revisions containing the build contract, alpha fee/reward terms, three-attempt round cap, reviewer, and claim/review windows. Existing signed claims retain their original terms. - Gate paid claims on the verified identity link (#2871) and applicable CLA (#2872). Bind the claim to the bounty revision,",
-      "source_created_at": "2026-10-15T16:55:23Z",
-      "opp_type": "bounty_codigo",
-      "score": 50,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2942",
-      "first_seen_at": "2026-10-15T16:59:40.585Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5870381828",
-      "title": "Evaluate one scoped build-bounty pilot against an internal build",
-      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
-      "evidence": "## Outcome Complete one useful open-source build through the paid-slot system in #2054 and decide whether it saves team effort and produces sufficient product value. ## Pilot sequence 1. Rehearse the complete flow without funds: publication, three claims, a timely submission, missed deadline, rejection, shared award, full winner fee refund, team cancellation/system-fault refund, appeal, and transfer reconciliation. 2. Select a bounded team-defined build with a public interface, reproducible acceptance evidence, named reviewer, documented intern",
-      "source_created_at": "2026-10-15T16:55:25Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ditto-assistant/ditto-subnet/issues/2944",
-      "first_seen_at": "2026-10-15T16:59:40.585Z",
-      "last_seen_at": "2026-10-15T16:59:40.585Z"
-    },
-    {
-      "source": "github",
       "external_id": "5869124430",
       "title": "Third-party GitHub App 'Drips Wave' holds org-wide issue/PR write access",
       "url": "https://github.com/Konfirm-xyz/konfirm-contracts/issues/101",
@@ -740,141 +875,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/allurco/caribbean-adventure/issues/265",
       "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762468",
-      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
-      "url": "https://words.filippo.io/seeds-bounty/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T01:34:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-bounty",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49760509",
-      "title": "Intel Appears to End Its Bug Bounty Program",
-      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "evidence": "",
-      "source_created_at": "2026-09-18T21:29:33Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49729492",
-      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
-      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
-      "evidence": "",
-      "source_created_at": "2026-09-16T16:32:41Z",
-      "opp_type": "otro",
-      "score": 17,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49721998",
-      "title": "Bug Bounty Operating Principles",
-      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "evidence": "",
-      "source_created_at": "2026-09-16T04:12:21Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49657229",
-      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "url": "https://hackerone.com/mozilla/updates?type=team",
-      "evidence": "",
-      "source_created_at": "2026-09-11T12:23:19Z",
-      "opp_type": "bug_bounty",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T16:53:54.736Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49677392",
-      "title": "Pacing Is a Setting on a Dial",
-      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
-      "evidence": "",
-      "source_created_at": "2026-09-12T21:28:15Z",
-      "opp_type": "otro",
-      "score": 4,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-15T16:53:54.736Z"
     },
     {
@@ -5184,6 +5184,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T17:01:51.074Z",
+      "generated_at": "2026-10-15T17:01:51.074Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 1235
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 633
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 0,
+      "seen_again": 47,
+      "archive_total": 345,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T16:59:40.585Z",
       "generated_at": "2026-10-15T16:59:40.585Z",
