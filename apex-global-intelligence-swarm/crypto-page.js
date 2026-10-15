@@ -48,7 +48,9 @@ function drawDiscovery(d){
   metric('Recompensas gratuitas confirmadas','0')
  );
  const allowed=new Set(['www.binance.com','www.coinbase.com','blog.kraken.com','www.okx.com',
-  'blog.uniswap.org','aave.com','optimism.io','gov.uniswap.org','gov.optimism.io']);
+  'blog.uniswap.org','aave.com','optimism.io','gov.uniswap.org','gov.optimism.io',
+  'gitcoin.co','gov.gitcoin.co','superteam.fun','immunefi.com','hackenproof.com','app.galxe.com',
+  'blog.ethereum.org','ethereum.org','www.base.org','blog.base.org']);
  const descriptions={
   security_warning:'Señal de seguridad: no conectar billetera ni compartir secretos.',
   requires_capital_or_activity_review:'Puede exigir dinero, operaciones o activos: no es una recompensa gratuita comprobada.',
@@ -126,6 +128,7 @@ async function loadConditionalLeads(){
     panel.append(info('Anuncio',String(entry.announced_reward)),
      info('Condiciones',Array.isArray(entry.conditions)?entry.conditions.join(' · '):'Por confirmar'),
      info('Acreditación',String(entry.reward_location)),
+     info('Restricción',entry.requires_new_personal_account?'Exclusiva para cuentas nuevas después de la fecha indicada. Las cuentas anteriores no califican.':'Verificar requisitos oficiales'),
      info('Situación','No cobrada; no permite reclamar automáticamente'));
     try{
      const official=new URL(entry.official_url);
