@@ -45,7 +45,8 @@ jobs:
           node --check scripts/crypto-history.mjs
           node --check scripts/crypto-watch.mjs
           node --check scripts/crypto-discovery.mjs
-          node --test tests/crypto.test.mjs tests/crypto-history.test.mjs tests/crypto-discovery.test.mjs
+          node --check scripts/crypto-direct-leads.mjs
+          node --test tests/crypto.test.mjs tests/crypto-history.test.mjs tests/crypto-discovery.test.mjs tests/crypto-direct-leads.test.mjs
       - name: Compilar y probar clasificador nativo Rust sin dependencias externas
         run: |
           rustc --version
@@ -63,9 +64,11 @@ jobs:
           for attempt in 1 2 3; do
             node apex-global-intelligence-swarm/scripts/crypto-watch.mjs
             node apex-global-intelligence-swarm/scripts/crypto-discovery.mjs
+            node apex-global-intelligence-swarm/scripts/crypto-direct-leads.mjs
             node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto.json');if(f.economics.verified_income_usd!==0||f.opportunities.some(x=>x.automatic_claim_possible!==false))process.exit(1);"
             node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto-discovery.json');if(f.stats.verified_deposits!==0||f.stats.confirmed_eligible!==0)process.exit(1);"
-            git add apex-global-intelligence-swarm/feed/crypto.json apex-global-intelligence-swarm/feed/crypto-discovery.json
+            node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto-direct-leads.json');if(f.summary.verified_income_usd!==0||f.summary.automatically_claimable!==0||f.summary.received_tokens!==0)process.exit(1);"
+            git add apex-global-intelligence-swarm/feed/crypto.json apex-global-intelligence-swarm/feed/crypto-discovery.json apex-global-intelligence-swarm/feed/crypto-direct-leads.json
             if git diff --cached --quiet; then
               echo "No hubo cambios."
               exit 0
