@@ -10,6 +10,8 @@ export const SOURCES=Object.freeze([
  {id:'binance-es',url:'https://www.binance.com/es-LA/support/announcement'},
  {id:'coinbase-blog',url:'https://www.coinbase.com/blog/landing'},
  {id:'kraken-blog',url:'https://blog.kraken.com/'},
+ {id:'kraken-promotions',url:'https://blog.kraken.com/category/product/promotions'},
+ {id:'kraken-product',url:'https://blog.kraken.com/product'},
  {id:'okx-help',url:'https://www.okx.com/help'}
 ]);
 const SIGNAL=/\b(airdrop|learn\s*(?:and|&)\s*earn|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|distribuci[oó]n|promoci[oó]n|promotions?|campaign|campa[ñn]a)\b/i;
