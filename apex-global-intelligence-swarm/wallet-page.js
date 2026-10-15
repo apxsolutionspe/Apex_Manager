@@ -1,4 +1,4 @@
-import {isEvmAddress,parseWei,formatWei,compareBalances} from './wallet-core.mjs';
+import {isEvmAddress,parseWei,formatWei,compareBalances,requestWalletAccount,isPendingPermissionError} from './wallet-core.mjs';
 const el=id=>document.getElementById(id);
 const button=el('connect');
 let provider=null,address=null,chain=null,prior=null,busy=false,timer=null,generation=0;
@@ -8,8 +8,15 @@ function reset(){
  el('address').textContent='—';el('chain').textContent='—';el('balance').textContent='—';el('change').textContent='—';
  if(timer!==null){clearInterval(timer);timer=null}
 }
+// EIP-6963 discovers MetaMask explicitly when Brave Wallet also injects a provider.
+const advertisedMetaMask=[];
+window.addEventListener('eip6963:announceProvider',event=>{
+ const {info,provider:announced}=event?.detail||{};
+ if(info?.rdns==='io.metamask'&&announced?.isMetaMask&&typeof announced.request==='function'&&!advertisedMetaMask.includes(announced))advertisedMetaMask.push(announced);
+});
+window.dispatchEvent(new Event('eip6963:requestProvider'));
 function selectedMetaMask(){
- const p=window.ethereum?.providers?.find(x=>x?.isMetaMask)||window.ethereum;
+ const p=advertisedMetaMask[0]||window.ethereum?.providers?.find(x=>x?.isMetaMask)||window.ethereum;
  return p?.isMetaMask&&typeof p.request==='function'?p:null;
 }
 async function refresh(){
@@ -42,9 +49,8 @@ async function connect(){
  if(!p){status('MetaMask no está disponible. Abre esta página con su navegador o instala la extensión oficial.');return}
  button.disabled=true;
  try{
-  const accounts=await p.request({method:'eth_requestAccounts'});
-  const first=Array.isArray(accounts)?accounts[0]:null;
-  if(!isEvmAddress(first))throw Error('MetaMask no entregó una dirección EVM válida');
+  status('Comprobando permisos existentes de MetaMask. Si aparece una ventana de autorización, revísala una sola vez.');
+  const {address:first}=await requestWalletAccount(p);
   if(provider!==p){provider=p;
    p.on?.('accountsChanged',onAccounts);
    p.on?.('chainChanged',()=>{chain=null;prior=null;void refresh()});
@@ -55,7 +61,12 @@ async function connect(){
   status('Conectado con permisos de lectura. Consultando saldo...');
   await refresh();
   timer=setInterval(()=>{if(!document.hidden)void refresh()},30000);
- }catch(e){status('Conexión cancelada o fallida: '+String(e?.message||e).slice(0,140))}
+ }catch(e){
+  if(isPendingPermissionError(e)){
+   status('MetaMask tiene una solicitud anterior pendiente. No pulses Conectar otra vez. Abre MetaMask y revisa sus notificaciones; si no aparece nada, sigue la guía Brave bajo este botón.');
+   document.getElementById('brave-help')?.setAttribute('open','');
+  }else status('Conexión cancelada o fallida: '+String(e?.message||e).slice(0,140));
+ }
  finally{button.disabled=false}
 }
 function onAccounts(accounts){
