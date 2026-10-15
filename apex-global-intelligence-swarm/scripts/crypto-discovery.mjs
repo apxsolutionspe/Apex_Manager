@@ -1,5 +1,5 @@
 // APEX bounded public-announcement discovery: official domains, no login, no wallets, no claims.
-import {writeFile,mkdir} from 'node:fs/promises';
+import {writeFile,mkdir,readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
@@ -95,7 +95,8 @@ async function check(source,fetcher){
   return {id:source.id,result:'read',hits};
  }catch{return {id:source.id,result:'network_or_redirect_error',hits:[]}}
 }
-export async function discover({sources=SOURCES,fetcher=fetch,now=new Date()}={}){
+export async function discover({sources=SOURCES,fetcher=fetch,now=new Date(),previous=null}={}){
+ if(previous!==null&&(previous.schema!=='apex-crypto-discovery-v1'||!Array.isArray(previous.observed_announcements||[])))throw Error('Previous discovery history invalid');
  const results=new Array(sources.length);let cursor=0;
  // A bounded worker pool prevents runaway requests against official providers.
  async function worker(){for(;;){const i=cursor++;if(i>=sources.length)return;results[i]=await check(sources[i],fetcher);}}
@@ -103,11 +104,26 @@ export async function discover({sources=SOURCES,fetcher=fetch,now=new Date()}={}
  const uniq=new Map();
  for(const s of results)for(const hit of s.hits)if(!uniq.has(hit.url))uniq.set(hit.url,hit);
  const opportunities=nativeScreening([...uniq.values()].slice(0,80));
- return {schema:'apex-crypto-discovery-v1',generated_at:now.toISOString(),
+ const seen=new Map((previous?.observed_announcements||[]).filter(x=>typeof x.id==='string').map(x=>[x.id,x]));
+ const at=now.toISOString();
+ let fresh=0;
+ for(const item of opportunities){
+  const earlier=seen.get(item.id);
+  item.first_seen_at=earlier?.first_seen_at||at;
+  item.observations=Math.min(999999,Number(earlier?.observations||0)+1);
+  item.new_candidate=!earlier;
+  if(item.new_candidate)fresh++;
+  seen.set(item.id,{id:item.id,first_seen_at:item.first_seen_at,last_seen_at:at,observations:item.observations});
+ }
+ const observed_announcements=[...seen.values()].sort((a,b)=>b.last_seen_at.localeCompare(a.last_seen_at)).slice(0,500);
+ return {schema:'apex-crypto-discovery-v1',generated_at:now.toISOString(),observed_announcements,
   mode:'public_official_read_only',statement:'Announced campaigns are not verified eligibility or money.',
   stats:{official_pages_checked:results.length,pages_read:results.filter(s=>s.result==='read').length,
-   candidate_announcements:opportunities.length,native_classifier_used:opportunities.native_used===true,confirmed_eligible:0,verified_deposits:0},
+   candidate_announcements:opportunities.length,new_candidate_count:fresh,native_classifier_used:opportunities.native_used===true,confirmed_eligible:0,verified_deposits:0},
   sources:results.map(({id,result,hits})=>({id,result,candidate_count:hits.length})),opportunities};
 }
-async function main(){const result=await discover();await mkdir(path.dirname(OUT),{recursive:true});await writeFile(OUT,JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({sources:result.stats.official_pages_checked,candidates:result.stats.candidate_announcements,eligible_verified:0,received:0}));}
+async function main(){
+ let previous=null;
+ try{previous=JSON.parse(await readFile(OUT,'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+ const result=await discover({previous});await mkdir(path.dirname(OUT),{recursive:true});await writeFile(OUT,JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({sources:result.stats.official_pages_checked,candidates:result.stats.candidate_announcements,eligible_verified:0,received:0}));}
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url))main().catch(e=>{console.error(e);process.exitCode=1});
