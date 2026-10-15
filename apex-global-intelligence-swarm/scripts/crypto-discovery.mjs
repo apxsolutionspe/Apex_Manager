@@ -18,9 +18,14 @@ export const SOURCES=Object.freeze([
  {id:'aave-defi',url:'https://aave.com/blog'},
  {id:'optimism-ecosystem',url:'https://optimism.io/blog/collective'},
  {id:'uniswap-governance',url:'https://gov.uniswap.org/latest'},
- {id:'optimism-governance',url:'https://gov.optimism.io/latest'}
+ {id:'optimism-governance',url:'https://gov.optimism.io/latest'},
+ {id:'ethereum-grants',url:'https://ethereum.org/en/community/grants/'},
+ {id:'ethereum-funding',url:'https://blog.ethereum.org/category/funding-coordination'},
+ {id:'base-ecosystem',url:'https://www.base.org/blog'},
+ {id:'gitcoin-funding',url:'https://gitcoin.co/blog'},
+ {id:'base-announcements',url:'https://blog.base.org/'}
 ]);
-const SIGNAL=/\b(airdrop|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|promoci[oó]n|promotions?|sweepstakes|prize|challenge|contest|campaign|campa[ñn]a|grants?|retrofunding|funding|incentives?|quests?|quiz|token allocations?)\b|learn\s*(?:and|&)\s*earn|distribuci[oó]n/i;
+const SIGNAL=/\b(airdrop|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|promoci[oó]n|promotions?|sweepstakes|prize|challenge|contest|campaign|campa[ñn]a|grants?|retrofunding|funding|incentives?|quests?|quiz|token allocations?|stipend|bounties|retroactive|apply now|funding round)\b|learn\s*(?:and|&)\s*earn|distribuci[oó]n/i;
 const COST=/\b(trad(?:ing|e)|trades|deposit|purchase|buy|hold|stake|staking|subscription|futures|margin|perps|leverage|volume|spot trading|mining|trade-to|suscri|comprar|operar|depositar|dep[oó]sito|mantener|invertir|yield|liquidity|collateral|vault|lending|borrowing)\b/i;
 const SECURITY=/seed\s*phrase|private\s*key|recovery\s*phrase|frase\s*semilla|clave\s*privada/i;
 function fallbackScreening(title){
@@ -58,7 +63,12 @@ export function permittedPage(raw){
   (u.hostname==='blog.uniswap.org'&&/^\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
   (u.hostname==='aave.com'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
   (u.hostname==='optimism.io'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
-  ((u.hostname==='gov.uniswap.org'||u.hostname==='gov.optimism.io')&&/^\/t\/[a-z0-9-]+\/\d+(?:\/\d+)?\/?$/i.test(u.pathname))
+  ((u.hostname==='gov.uniswap.org'||u.hostname==='gov.optimism.io')&&/^\/t\/[a-z0-9-]+\/\d+(?:\/\d+)?\/?$/i.test(u.pathname))||
+  (u.hostname==='ethereum.org'&&/^\/en\/community\/grants\/?$/i.test(u.pathname))||
+  (u.hostname==='blog.ethereum.org'&&/^\/(?:20\d{2}\/\d{2}\/\d{2}\/)?[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
+  (u.hostname==='www.base.org'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
+  (u.hostname==='blog.base.org'&&/^\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
+  (u.hostname==='gitcoin.co'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))
  );}catch{return false}
 }
 export function findRelevantLinks(html,source){
