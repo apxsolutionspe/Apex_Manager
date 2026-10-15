@@ -1,0 +1,32 @@
+<!doctype html><html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Continuar APEX PRIME X en otro chat</title>
+<meta name="description" content="Reanuda el trabajo de APEX PRIME X desde la versión comprobada en GitHub sin divulgar datos privados.">
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#081622;color:#ebf6ff}*{box-sizing:border-box}
+body{margin:0;line-height:1.58}.wrap{max-width:850px;margin:0 auto;padding:32px 20px 65px}
+.logo{letter-spacing:.1em;font-weight:800;color:#24dfc8;font-size:13px}.title{font-size:clamp(30px,5vw,48px);line-height:1.1;margin:28px 0 15px}
+small,p,.muted{color:#b5c7d2}.panel{background:#11293b;border:1px solid #31536a;border-radius:15px;padding:24px;margin:20px 0}
+.metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.metric{background:#091e2e;border:1px solid #335168;border-radius:10px;padding:12px}.metric strong{display:block;font-size:24px}
+button,.action{display:inline-flex;align-items:center;justify-content:center;cursor:pointer;border:none;text-decoration:none;background:#2ddcc0;color:#052126;padding:13px 20px;font-weight:800;border-radius:10px;font:inherit;font-weight:750;min-height:48px}
+.action.alt{background:#1b3447;color:#cfeaf3;border:1px solid #466b7e}.actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+textarea{width:100%;min-height:220px;border:1px solid #47738d;border-radius:10px;background:#071726;color:#e7f4fa;font:14px/1.55 system-ui;padding:14px;resize:vertical}
+.notice{color:#b7c9d6;font-size:14px}a{color:#8ceada}h2{margin:0 0 12px}@media(max-width:600px){.metrics{grid-template-columns:1fr}.actions>*{width:100%}}
+</style></head><body><main class="wrap">
+<div class="logo">AX · APEX PRIME X / CONTINUIDAD</div>
+<h1 class="title">Sigue trabajando sin empezar desde cero</h1>
+<p>El aviso de longitud máxima pertenece a ChatGPT, no a GitHub ni a MetaMask. No se puede desactivar desde APEX. Esta página te permite continuar en un chat nuevo conservando los enlaces y el estado público más reciente.</p>
+<div class="panel"><h2>Último estado público disponible</h2>
+<div class="metrics" id="metrics" aria-live="polite"><div class="metric"><span>Estado</span><strong>Cargando...</strong></div></div>
+<p id="timestamp" class="notice">Consultando resumen generado por GitHub Actions.</p></div>
+<div class="panel"><h2>Mensaje listo para el chat nuevo</h2><p>Copia este mensaje, abre un chat nuevo <strong>dentro del proyecto APEX_PRIME_X</strong> y pégalo. No incluyas claves ni frase de recuperación.</p>
+<textarea id="handoff" readonly aria-label="Mensaje de continuidad"></textarea>
+<div class="actions">
+<button type="button" id="copy">Copiar instrucciones</button>
+<a class="action alt" href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">Abrir ChatGPT ↗</a>
+</div><div id="copy-status" role="status" aria-live="polite" class="notice"></div></div>
+<p><a href="https://github.com/apxsolutionspe/Apex_Manager/blob/main/APEX_CONTINUIDAD.md" target="_blank" rel="noopener noreferrer">Guía permanente del proyecto ↗</a> ·
+<a href="./crypto.html">Radar cripto ↗</a> ·
+<a href="https://github.com/apxsolutionspe/Apex_Manager/actions/workflows/apex-crypto-hourly.yml" target="_blank" rel="noopener noreferrer">Ejecuciones GitHub ↗</a></p>
+<p class="notice">La continuidad no implica ganancias, permisos de transferencia ni monitoreo de saldos privados desde esta página. El monitoreo real depende de las tareas programadas y de sus resultados.</p>
+</main><script type="module" src="./continuar-page.js"></script></body></html>
