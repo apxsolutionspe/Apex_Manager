@@ -97,7 +97,13 @@ jobs:
           node-version: '22'
       - name: Revisar módulo de solo lectura
         run: node --check apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
-      - name: Consultar saldo Ethereum finalizado (si se configuró el secreto)
+      - name: Consultar saldo Ethereum finalizado con configuración obligatoria
         env:
           APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
-        run: node apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
+        shell: bash
+        run: |
+          if [ -z "$APEX_WALLET_ADDRESS" ]; then
+            echo "::error::La supervisión privada no está configurada. Falta APEX_WALLET_ADDRESS."
+            exit 1
+          fi
+          node apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
