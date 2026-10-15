@@ -19,7 +19,7 @@ export function permittedPage(raw){
  try{const u=new URL(raw);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&(
   (u.hostname==='www.binance.com'&&/^\/(?:en|es-LA)\/support\/announcement\/detail\/[a-f0-9]{32}\/?$/i.test(u.pathname))||
   (u.hostname==='www.coinbase.com'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
-  (u.hostname==='blog.kraken.com'&&/^\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/?$/i.test(u.pathname))||
+  (u.hostname==='blog.kraken.com'&&!/^\/(?:category|tag|author|page)\//i.test(u.pathname)&&/^\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/?$/i.test(u.pathname))||
   (u.hostname==='www.okx.com'&&/^\/help\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))
  );}catch{return false}
 }
