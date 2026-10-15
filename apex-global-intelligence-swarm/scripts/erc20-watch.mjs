@@ -2,7 +2,10 @@
 // No signing, token claims, keys, transactions or public deposit records.
 export const TOKEN_CONTRACTS=Object.freeze({
  USDC:'0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
- USDT:'0xdac17f958d2ee523a2206206994597c13d831ec7'
+ USDT:'0xdac17f958d2ee523a2206206994597c13d831ec7',
+ DAI:'0x6b175474e89094c44da98b954eedeac495271d0f',
+ LINK:'0x514910771af9ca656af840dff83e8264ecf986ca',
+ UNI:'0x1f9840a85d5af5bf1d1762f925bdaddc4201f984'
 });
 export const TRANSFER_TOPIC='0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef';
 const RPC='https://ethereum-rpc.publicnode.com';
@@ -60,7 +63,7 @@ export async function run(){
  if(!validAddress(address))throw Error('Wallet address secret not configured');
  const result=await inspectRecentErc20(address);
  // Never log addresses, event payloads or token amounts in a public repository.
- console.log('APEX ERC20: private finalized-window scan completed; no funds moved or received by the agent.');
+ console.log('APEX ERC20: private finalized-window scan of five official token contracts completed; no funds moved by the agent.');
  return result;
 }
 if(process.argv[1]&&import.meta.url===new URL('file://'+process.argv[1]).href){
