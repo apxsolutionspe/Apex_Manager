@@ -18,3 +18,25 @@ export function compareBalances(previous,current){
  return {type:current>previous?'increase':current<previous?'decrease':'unchanged',delta:current>=previous?current-previous:previous-current};
 }
 export const READ_METHODS=Object.freeze(['eth_requestAccounts','eth_accounts','eth_chainId','eth_getBalance']);
+
+/**
+ * Check existing dapp permission before requesting a new one.
+ * Only reads connected accounts or asks to disclose an account.
+ * No transactions, signatures, seed phrases or network writes.
+ */
+export async function requestWalletAccount(provider){
+ if(!provider||typeof provider.request!=='function')throw Error('Proveedor MetaMask no disponible');
+ const existing=await provider.request({method:'eth_accounts'});
+ if(!Array.isArray(existing))throw Error('Respuesta de cuentas inválida');
+ const authorized=existing.find(isEvmAddress);
+ if(authorized)return {address:authorized,requestedPermission:false};
+ const next=await provider.request({method:'eth_requestAccounts'});
+ if(!Array.isArray(next))throw Error('Respuesta de conexión inválida');
+ const address=next.find(isEvmAddress);
+ if(!address)throw Error('MetaMask no entregó una dirección EVM válida');
+ return {address,requestedPermission:true};
+}
+export function isPendingPermissionError(error){
+ const message=String(error?.message||'');
+ return Number(error?.code)===-32002||/already pending|request.*pending|wallet_requestPermissions/i.test(message);
+}
