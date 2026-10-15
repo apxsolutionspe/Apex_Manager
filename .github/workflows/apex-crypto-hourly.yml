@@ -10,6 +10,7 @@ on:
       - '.github/workflows/apex-crypto-hourly.yml'
       - 'apex-global-intelligence-swarm/scripts/crypto-*.mjs'
       - 'apex-global-intelligence-swarm/tests/crypto*.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs'
 
 permissions:
   contents: write
@@ -65,3 +66,26 @@ jobs:
           done
           echo "::error::No fue posible conservar el informe tras tres intentos."
           exit 1
+
+  private-wallet-monitor:
+    name: Consulta privada de saldo ETH, solo lectura
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    permissions:
+      contents: read
+    steps:
+      - name: Obtener módulo de observación sin guardar credenciales
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Revisar módulo de solo lectura
+        run: node --check apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
+      - name: Consultar saldo Ethereum finalizado (si se configuró el secreto)
+        env:
+          APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
+        run: node apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
