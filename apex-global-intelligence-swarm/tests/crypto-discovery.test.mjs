@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';
-import {SOURCES,permittedPage,findRelevantLinks,discover} from '../scripts/crypto-discovery.mjs';
+import {SOURCES,permittedPage,findRelevantLinks,discover,reviewPriority} from '../scripts/crypto-discovery.mjs';
 test('Official announcement paths only',()=>{
  assert.equal(permittedPage('https://www.binance.com/en/support/announcement/detail/1234567890abcdef1234567890abcdef'),true);
  assert.equal(permittedPage('https://www.binance.com.evil.com/en/support/announcement/detail/1234567890abcdef1234567890abcdef'),false);
@@ -80,4 +80,31 @@ test('The source-memory distinguishes newly detected announcements across scans'
 });
 test('Rejects incompatible prior history instead of losing evidence',async()=>{
  await assert.rejects(discover({sources:[],previous:{schema:'wrong'}}),/history invalid/);
+});
+
+test('New official Ethereum, Base and Gitcoin destinations are restricted',()=>{
+ assert.equal(SOURCES.length,17);
+ assert.equal(permittedPage('https://blog.ethereum.org/2025/11/03/new-esp-grants'),true);
+ assert.equal(permittedPage('https://www.base.org/blog/2026-mission-vision-and-strategy'),true);
+ assert.equal(permittedPage('https://gitcoin.co/blog/announcing-gitcoin-grants-24'),true);
+ assert.equal(permittedPage('https://blog.base.org/tokenized-stocks'),true);
+ assert.equal(permittedPage('https://blog.ethereum.org.attacker.invalid/fake-grant'),false);
+ assert.equal(permittedPage('http://gitcoin.co/blog/airdrop'),false);
+ assert.equal(permittedPage('https://www.base.org/blog/../../admin'),false);
+});
+test('Historical and capital-dependent leads cannot rank as free earnings',()=>{
+ const at=new Date('2026-10-15T00:00:00Z');
+ assert.equal(reviewPriority({title:'2024 airdrop rewards',screening:'eligibility_not_verified'},at).score,0);
+ assert.equal(reviewPriority({title:'Deposit ETH to win airdrop',screening:'requires_capital_or_activity_review'},at).score,0);
+ assert.equal(reviewPriority({title:'Enter your seed phrase',screening:'security_warning'},at).score,0);
+ assert.equal(reviewPriority({title:'2026 token airdrop announcement',screening:'eligibility_not_verified'},at).group,'unverified_no_capital_evidence');
+});
+test('Research priority never asserts eligibility or received crypto',async()=>{
+ const html='<a href="/en/support/announcement/detail/1234567890abcdef1234567890abcdef">New airdrop rewards</a>';
+ const data=await discover({sources:[SOURCES[0]],fetcher:async()=>({ok:true,headers:{get:()=>''},text:async()=>html})});
+ assert.equal(data.opportunities[0].review_priority,20);
+ assert.equal(data.opportunities[0].claimed,false);
+ assert.equal(data.opportunities[0].reward_received,false);
+ assert.equal(data.stats.confirmed_eligible,0);
+ assert.equal(data.stats.verified_deposits,0);
 });
