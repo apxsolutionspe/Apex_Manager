@@ -14,8 +14,8 @@ export const SOURCES=Object.freeze([
  {id:'kraken-product',url:'https://blog.kraken.com/product'},
  {id:'okx-help',url:'https://www.okx.com/help'}
 ]);
-const SIGNAL=/\b(airdrop|learn\s*(?:and|&)\s*earn|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|distribuci[oó]n|promoci[oó]n|promotions?|campaign|campa[ñn]a)\b/i;
-const COST=/\b(trad(?:ing|e)|deposit|purchase|buy|hold|stake|staking|subscription|futures|margin|spot trading|mining|trade-to|suscri|comprar|operar|depositar|mantener|inver(?:tir|si[oó]n))\b/i;
+const SIGNAL=/\b(airdrop|learn\s*(?:and|&)\s*earn|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|distribuci[oó]n|promoci[oó]n|promotions?|sweepstakes|prize|challenge|contest|campaign|campa[ñn]a)\b/i;
+const COST=/\b(trad(?:ing|e)|deposit|purchase|buy|hold|stake|staking|subscription|futures|margin|perps|leverage|volume|spot trading|mining|trade-to|suscri|comprar|operar|depositar|mantener|inver(?:tir|si[oó]n))\b/i;
 function unescapeHtml(s){return s.replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');}
 export function permittedPage(raw){
  try{const u=new URL(raw);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&(
