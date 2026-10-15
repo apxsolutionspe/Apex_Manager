@@ -40,7 +40,8 @@ jobs:
           node --check scripts/crypto-core.mjs
           node --check scripts/crypto-history.mjs
           node --check scripts/crypto-watch.mjs
-          node --test tests/crypto.test.mjs tests/crypto-history.test.mjs
+          node --check scripts/crypto-discovery.mjs
+          node --test tests/crypto.test.mjs tests/crypto-history.test.mjs tests/crypto-discovery.test.mjs
       - name: Investigación cripto solo lectura y guardado con reintentos
         shell: bash
         run: |
@@ -49,8 +50,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for attempt in 1 2 3; do
             node apex-global-intelligence-swarm/scripts/crypto-watch.mjs
+            node apex-global-intelligence-swarm/scripts/crypto-discovery.mjs
             node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto.json');if(f.economics.verified_income_usd!==0||f.opportunities.some(x=>x.automatic_claim_possible!==false))process.exit(1);"
-            git add apex-global-intelligence-swarm/feed/crypto.json
+            node -e "const f=require('./apex-global-intelligence-swarm/feed/crypto-discovery.json');if(f.stats.verified_deposits!==0||f.stats.confirmed_eligible!==0)process.exit(1);"
+            git add apex-global-intelligence-swarm/feed/crypto.json apex-global-intelligence-swarm/feed/crypto-discovery.json
             if git diff --cached --quiet; then
               echo "No hubo cambios."
               exit 0
