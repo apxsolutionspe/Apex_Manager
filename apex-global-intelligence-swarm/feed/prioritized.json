@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T20:02:17.366Z",
+  "generated_at": "2026-10-15T20:03:26.747Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 381,
+    "total_evaluated": 397,
     "investigar": 1,
-    "informativa": 356,
-    "descartar": 24,
+    "informativa": 371,
+    "descartar": 25,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -37,6 +37,144 @@
         "issue_open_now": true
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
+      "url": "https://github.com/Parabola-org/parabola/issues/5",
+      "source_created_at": "2026-10-15T20:02:07Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 125,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
+      "url": "https://github.com/Parabola-org/parabola/issues/3",
+      "source_created_at": "2026-10-15T20:02:02Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
+      "url": "https://github.com/Parabola-org/parabola/issues/16",
+      "source_created_at": "2026-10-15T20:02:58Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
+      "url": "https://github.com/Parabola-org/parabola/issues/13",
+      "source_created_at": "2026-10-15T20:02:51Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
+      "url": "https://github.com/Parabola-org/parabola/issues/12",
+      "source_created_at": "2026-10-15T20:02:49Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Add ESLint with typescript-eslint and wire it into CI",
+      "url": "https://github.com/Parabola-org/parabola/issues/11",
+      "source_created_at": "2026-10-15T20:02:45Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -161,52 +299,6 @@
       "url": "https://github.com/ASCTP/parabola/issues/9",
       "source_created_at": "2026-10-15T19:55:00Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
-      "url": "https://github.com/Parabola-org/parabola/issues/5",
-      "source_created_at": "2026-10-15T20:02:07Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 125,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
-      "url": "https://github.com/Parabola-org/parabola/issues/3",
-      "source_created_at": "2026-10-15T20:02:02Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
       "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 90,
@@ -519,7 +611,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/27",
       "source_created_at": "2026-10-15T19:56:11Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -542,7 +634,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/26",
       "source_created_at": "2026-10-15T19:56:07Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -565,7 +657,7 @@
       "url": "https://github.com/ASCTP/parabola/issues/25",
       "source_created_at": "2026-10-15T19:56:03Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -579,6 +671,328 @@
         "payment": false
       },
       "published_amount_usd": 60,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
+      "url": "https://github.com/Parabola-org/parabola/issues/4",
+      "source_created_at": "2026-10-15T20:02:04Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/Parabola-org/parabola/issues/2",
+      "source_created_at": "2026-10-15T20:01:56Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
+      "url": "https://github.com/Parabola-org/parabola/issues/1",
+      "source_created_at": "2026-10-15T20:01:50Z",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
+      "url": "https://github.com/Parabola-org/parabola/issues/20",
+      "source_created_at": "2026-10-15T20:03:08Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
+      "url": "https://github.com/Parabola-org/parabola/issues/19",
+      "source_created_at": "2026-10-15T20:03:06Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+      "url": "https://github.com/Parabola-org/parabola/issues/18",
+      "source_created_at": "2026-10-15T20:03:03Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 60,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
+      "url": "https://github.com/Parabola-org/parabola/issues/17",
+      "source_created_at": "2026-10-15T20:03:01Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 60,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
+      "url": "https://github.com/Parabola-org/parabola/issues/15",
+      "source_created_at": "2026-10-15T20:02:55Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
+      "url": "https://github.com/Parabola-org/parabola/issues/14",
+      "source_created_at": "2026-10-15T20:02:53Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 75,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+      "url": "https://github.com/Parabola-org/parabola/issues/10",
+      "source_created_at": "2026-10-15T20:02:39Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
+      "url": "https://github.com/Parabola-org/parabola/issues/9",
+      "source_created_at": "2026-10-15T20:02:33Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+      "url": "https://github.com/Parabola-org/parabola/issues/8",
+      "source_created_at": "2026-10-15T20:02:25Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
+      "url": "https://github.com/Parabola-org/parabola/issues/7",
+      "source_created_at": "2026-10-15T20:02:18Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 90,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty: $125] Add structured progress callbacks to transfer()",
+      "url": "https://github.com/Parabola-org/parabola/issues/6",
+      "source_created_at": "2026-10-15T20:02:13Z",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T20:03:26.347Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 125,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -795,75 +1209,6 @@
       "url": "https://github.com/ASCTP/parabola/issues/8",
       "source_created_at": "2026-10-15T19:54:55Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
-      "url": "https://github.com/Parabola-org/parabola/issues/4",
-      "source_created_at": "2026-10-15T20:02:04Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
-      "url": "https://github.com/Parabola-org/parabola/issues/2",
-      "source_created_at": "2026-10-15T20:01:56Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors",
-      "url": "https://github.com/Parabola-org/parabola/issues/1",
-      "source_created_at": "2026-10-15T20:01:50Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
       "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
       "priority": 82,
@@ -3490,376 +3835,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🏹 Shared transaction test vectors (Rust ⇄ TypeScript)",
-      "url": "https://github.com/jackdishman/blockula/issues/1",
-      "source_created_at": "2026-10-14T13:00:26Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Owner Cockpit slice 2: Money (cents + credits, never mixed) and Roster sections",
-      "url": "https://github.com/Uuriko/project-room/issues/3343",
-      "source_created_at": "2026-10-14T01:29:24Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Owner Cockpit slice 1: GET /api/owner/overview cross-room read model with Decisions + Exceptions",
-      "url": "https://github.com/Uuriko/project-room/issues/3342",
-      "source_created_at": "2026-10-14T01:29:21Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[frontend] Empty-state call to action for researchers",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/182",
-      "source_created_at": "2026-10-13T21:23:39Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[contract] Add a `get_config` getter",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/173",
-      "source_created_at": "2026-10-13T21:22:46Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Operator unpublish ignored by opportunities, project-offers, and public-work tasks listings",
-      "url": "https://github.com/Uuriko/project-room/issues/3280",
-      "source_created_at": "2026-10-13T21:55:37Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feat: Gamification & Categorized XP System",
-      "url": "https://github.com/donetick/donetick/issues/885",
-      "source_created_at": "2026-10-13T21:22:41Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Admin reports: export CSV for revenue, users, bounties, disputes",
-      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
-      "source_created_at": "2026-10-13T21:22:05Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] _do_settle 遇畸形 criteria 崩溃，无法结算",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/276",
-      "source_created_at": "2026-10-13T17:52:44Z",
-      "first_seen_at": "2026-10-13T18:24:37.789Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P2] 守卫盲区：真模式审核员授权（`handle_issue_comment` 里的 `is_rev`）没有一条断言覆盖，「任何人都是审核员」的变异体 124/124 全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/271",
-      "source_created_at": "2026-10-13T17:01:57Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] 回避闸只看「动作那一刻」的持有者：审核员先 `/appraise` 再 `/claim`，自评的影响等级随标记带进自己的结算；招标中的投标人也能给自己的任务定级，维护者可 `/select` 自己",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/269",
-      "source_created_at": "2026-10-13T17:01:54Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Central Command | Reconcile paid probes vs recurring production revenue (Oct 13)",
-      "url": "https://github.com/industrial-platform-ai/industrial-platform-agent-tools/issues/46",
-      "source_created_at": "2026-10-13T22:30:09Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 60,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 0.45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Paid bug-report offer: current eligibility and Nano / USDT payout before work",
-      "url": "https://github.com/PayRam/payram-scripts/issues/113",
-      "source_created_at": "2026-10-13T16:40:21Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 60,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Carrier knows about fights in its system",
-      "url": "https://github.com/dseelinger/d47/issues/1185",
-      "source_created_at": "2026-10-15T19:45:03Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:01:27.650Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【贡献申报】lingshu #676 + #677 + #680：10/13–10/15 共 114 个 issue 逐个复现复核（3 个 P0 修复未闭环、1 个修复回归、7 个错仓、6 个已修未关、20+ 份报告勘误）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/615",
-      "source_created_at": "2026-10-15T17:23:17Z",
-      "first_seen_at": "2026-10-15T17:25:01.099Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
