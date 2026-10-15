@@ -37,11 +37,16 @@ export function evaluateLead(c,{asOf=new Date(),registration=null,kyc=false,elig
  // An eligible-looking account still needs the quiz and unconfirmed allocation.
  return {status:'quota_and_issuer_confirmation_pending',may_claim:false};
 }
-export function createReport({asOf=new Date()}={}){
+export function createReport({asOf=new Date(),includeNewUserOnly=false}={}){
+ // The actionable dashboard is tailored to already-existing accounts by default.
+ // No private registration date or customer/account information is ever published.
+ const excluded=VERIFIED_ANNOUNCEMENTS.filter(x=>x.requires_new_personal_account&&!includeNewUserOnly);
+ const eligibleForResearch=VERIFIED_ANNOUNCEMENTS.filter(x=>includeNewUserOnly||!x.requires_new_personal_account);
  return {schema:'apex-direct-crypto-leads-v1',generated_at:asOf.toISOString(),
-  note:'Publicly documented campaign, not earned assets. No verification of claimability, availability, or transferred funds.',
-  data:VERIFIED_ANNOUNCEMENTS.map(x=>({...x,...evaluateLead(x,{asOf})})),
+  note:'Only informational research. No personal eligibility, account metadata, earned assets or transactions are stored.',
+  data:eligibleForResearch.map(x=>({...x,...evaluateLead(x,{asOf})})),
   summary:{official_announcements:VERIFIED_ANNOUNCEMENTS.length,
+   excluded_new_account_only:excluded.length,actionable_research_candidates:eligibleForResearch.length,
    personally_eligible_verified:0,automatically_claimable:0,verified_income_usd:0,received_tokens:0}};
 }
 async function main(){
