@@ -1,0 +1,75 @@
+{
+  "schema": "apex-crypto-health-v1",
+  "generated_at": "2026-10-15T20:43:59.539Z",
+  "observed_at": "2026-10-15T20:43:57.740Z",
+  "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
+  "health": {
+    "sources_configured": 24,
+    "sources_read": 16,
+    "sources_unavailable": 8,
+    "failure_types": {
+      "access_denied": 2,
+      "upstream_error": 1,
+      "network_failure": 3,
+      "size_limit": 2,
+      "unexpected_type": 0,
+      "other": 0
+    },
+    "unavailable_sources": [
+      {
+        "source": "coinbase-blog",
+        "reason": "access_denied"
+      },
+      {
+        "source": "kraken-product",
+        "reason": "size_limit"
+      },
+      {
+        "source": "okx-help",
+        "reason": "network_failure"
+      },
+      {
+        "source": "ethereum-grants",
+        "reason": "network_failure"
+      },
+      {
+        "source": "ethereum-funding",
+        "reason": "size_limit"
+      },
+      {
+        "source": "gitcoin-funding",
+        "reason": "upstream_error"
+      },
+      {
+        "source": "base-announcements",
+        "reason": "access_denied"
+      },
+      {
+        "source": "galxe-quests",
+        "reason": "network_failure"
+      }
+    ],
+    "source_report_age_hours": 0,
+    "native_classifier_confirmed": true
+  },
+  "triage": {
+    "announcements_seen": 51,
+    "classified": {
+      "security_blocked": 0,
+      "capital_or_trading": 12,
+      "historical_reference": 9,
+      "work_or_security_review": 13,
+      "project_grant_not_passive": 4,
+      "gas_fee_and_conditions_review": 0,
+      "manual_participation": 6,
+      "informational_not_passive": 7,
+      "unverified_no_capital_evidence": 0
+    },
+    "research_candidates_without_obvious_capital_keywords": 0,
+    "independently_verified_free_rewards": 0,
+    "personally_eligible_verified": 0,
+    "verified_received_rewards": 0,
+    "verified_income_usd": 0
+  },
+  "note": "No amount of scans proves ownership, eligibility, a free grant or a deposit. Private wallet state is never sent to this report."
+}
