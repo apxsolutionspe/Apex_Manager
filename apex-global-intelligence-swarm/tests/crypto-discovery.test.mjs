@@ -64,3 +64,20 @@ test('Discovery never exceeds four simultaneous network requests',async()=>{
  assert.equal(output.stats.official_pages_checked,13);
  assert.equal(output.stats.candidate_announcements,0);
 });
+
+test('The source-memory distinguishes newly detected announcements across scans',async()=>{
+ const html='<a href="/en/support/announcement/detail/1234567890abcdef1234567890abcdef">Official airdrop rewards</a>';
+ const fetcher=async()=>({ok:true,headers:{get:()=>''},text:async()=>html});
+ const first=await discover({sources:[SOURCES[0]],fetcher,now:new Date('2026-10-15T11:00:00Z')});
+ assert.equal(first.stats.new_candidate_count,1);
+ assert.equal(first.opportunities[0].new_candidate,true);
+ const second=await discover({sources:[SOURCES[0]],fetcher,now:new Date('2026-10-15T12:00:00Z'),previous:first});
+ assert.equal(second.stats.new_candidate_count,0);
+ assert.equal(second.opportunities[0].new_candidate,false);
+ assert.equal(second.opportunities[0].observations,2);
+ assert.equal(second.opportunities[0].first_seen_at,first.generated_at);
+ assert.equal(second.stats.confirmed_eligible,0);
+});
+test('Rejects incompatible prior history instead of losing evidence',async()=>{
+ await assert.rejects(discover({sources:[],previous:{schema:'wrong'}}),/history invalid/);
+});
