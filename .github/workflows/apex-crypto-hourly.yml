@@ -17,6 +17,8 @@ on:
       - 'apex-global-intelligence-swarm/scripts/erc20-watch.mjs'
       - 'apex-global-intelligence-swarm/tests/erc20-watch.test.mjs'
       - 'apex-global-intelligence-swarm/tests/private-wallet-observer.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/wallet-audit.mjs'
+      - 'apex-global-intelligence-swarm/tests/wallet-audit.test.mjs'
 
 permissions:
   contents: write
@@ -127,3 +129,64 @@ jobs:
         env:
           APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
         run: node apex-global-intelligence-swarm/scripts/erc20-watch.mjs
+
+  private-encrypted-wallet-audit:
+    name: Historial privado cifrado ETH y ERC-20 (requiere secreto adicional)
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Obtener código y datos ya cifrados
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Probar cifrado, privacidad y lectura sin custodia
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check scripts/wallet-audit.mjs
+          node --test tests/wallet-audit.test.mjs
+      - name: Guardar historial cifrado solo si el propietario activó la clave
+        shell: bash
+        env:
+          APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
+          APEX_WALLET_AUDIT_KEY: ${{ secrets.APEX_WALLET_AUDIT_KEY }}
+        run: |
+          set -euo pipefail
+          if [ -z "$APEX_WALLET_AUDIT_KEY" ]; then
+            echo "::notice::Historial cifrado aún no activado. Falta crear APEX_WALLET_AUDIT_KEY en los secretos de GitHub."
+            exit 0
+          fi
+          if [ -z "$APEX_WALLET_ADDRESS" ]; then
+            echo "::error::La dirección privada no está configurada"
+            exit 1
+          fi
+          if [[ ! "$APEX_WALLET_AUDIT_KEY" =~ ^[a-fA-F0-9]{64}$ ]]; then
+            echo "::error::La clave de cifrado debe ser 32 bytes aleatorios en hexadecimal; no se publicará"
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            node apex-global-intelligence-swarm/scripts/wallet-audit.mjs
+            git add apex-global-intelligence-swarm/state/wallet-audit.enc.json
+            if git diff --cached --quiet; then
+              echo "Historial cifrado al día."
+              exit 0
+            fi
+            git commit -m "data(wallet): observación privada cifrada [skip ci]"
+            if git push origin HEAD:main; then
+              echo "Historial privado guardado en formato autenticado; sin importes visibles."
+              exit 0
+            fi
+            echo "::warning::Se modificó main simultáneamente; reintentando desde el último estado cifrado ($attempt/3)."
+            git fetch --no-tags origin main
+            git reset --hard origin/main
+          done
+          echo "::error::No fue posible conservar el historial cifrado tras tres intentos."
+          exit 1
