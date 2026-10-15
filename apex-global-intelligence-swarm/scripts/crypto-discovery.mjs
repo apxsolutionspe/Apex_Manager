@@ -23,9 +23,16 @@ export const SOURCES=Object.freeze([
  {id:'ethereum-funding',url:'https://blog.ethereum.org/category/funding-coordination'},
  {id:'base-ecosystem',url:'https://www.base.org/blog'},
  {id:'gitcoin-funding',url:'https://gitcoin.co/blog'},
- {id:'base-announcements',url:'https://blog.base.org/'}
+ {id:'base-announcements',url:'https://blog.base.org/'},
+ {id:'gitcoin-campaigns',url:'https://gitcoin.co/campaigns'},
+ {id:'gitcoin-governance',url:'https://gov.gitcoin.co/latest'},
+ {id:'superteam-peru',url:'https://superteam.fun/earn/regions/peru/'},
+ {id:'superteam-earn',url:'https://superteam.fun/earn/'},
+ {id:'immunefi-bounties',url:'https://immunefi.com/bug-bounty/'},
+ {id:'hackenproof-bounties',url:'https://hackenproof.com/programs'},
+ {id:'galxe-quests',url:'https://app.galxe.com/quest'}
 ]);
-const SIGNAL=/\b(airdrop|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|promoci[oó]n|promotions?|sweepstakes|prize|challenge|contest|campaign|campa[ñn]a|grants?|retrofunding|funding|incentives?|quests?|quiz|token allocations?|stipend|bounties|retroactive|apply now|funding round)\b|learn\s*(?:and|&)\s*earn|distribuci[oó]n/i;
+const SIGNAL=/\b(airdrop|giveaway|token rewards?|crypto rewards?|token distribution|recompensas?|promoci[oó]n|promotions?|sweepstakes|prize|challenge|contest|campaign|campa[ñn]a|grants?|retrofunding|funding|incentives?|quests?|quiz|token allocations?|stipend|bounties|bounty|grants?|reward|earn|retroactive|apply now|funding round)\b|learn\s*(?:and|&)\s*earn|distribuci[oó]n/i;
 const COST=/\b(trad(?:ing|e)|trades|deposit|purchase|buy|hold|stake|staking|subscription|futures|margin|perps|leverage|volume|spot trading|mining|trade-to|suscri|comprar|operar|depositar|dep[oó]sito|mantener|invertir|yield|liquidity|collateral|vault|lending|borrowing)\b/i;
 const SECURITY=/seed\s*phrase|private\s*key|recovery\s*phrase|frase\s*semilla|clave\s*privada/i;
 function fallbackScreening(title){
@@ -69,6 +76,12 @@ export function reviewPriority(item,now=new Date()){
  // publicly claimable benefit, even when its headline contains 'airdrop' or 'incentives'.
  if(/re.designating|reallocat|liquidation engine|technical overview|protocol upgrade|fund allocation|ecosystem fund|governance|proposal|request for builders|developer quest/i.test(title))
   return {score:2,group:'informational_not_passive',reason:'Governance, engineering or application news; no direct passive reward evidenced'};
+ if(/^(superteam-|immunefi-|hackenproof-)/.test(String(item?.source||'')))
+  return {score:3,group:'work_or_security_review',reason:'Bounty or grant requires authorized work and issuer acceptance; no reward without approved contribution'};
+ if(/^galxe-/.test(String(item?.source||'')))
+  return {score:2,group:'gas_fee_and_conditions_review',reason:'Quest participation and claim fees must be verified; not automatically free'};
+ if(/^gitcoin-/.test(String(item?.source||'')))
+  return {score:4,group:'project_grant_not_passive',reason:'Grant requires an eligible project or contribution and award decision'};
  if(status==='manual_action_or_conditions')return {score:5,group:'manual_participation',reason:'Requires verification, work or selection'};
  const reward=/\bairdrop\b|token distribution|token allocation|\breward\b|\brecompensa\b/i.test(title);
  return {score:reward?20:8,group:'unverified_no_capital_evidence',
@@ -89,7 +102,12 @@ export function permittedPage(raw){
   (u.hostname==='blog.ethereum.org'&&/^\/(?:20\d{2}\/\d{2}\/\d{2}\/)?[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
   (u.hostname==='www.base.org'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
   (u.hostname==='blog.base.org'&&/^\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
-  (u.hostname==='gitcoin.co'&&/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))
+  (u.hostname==='gitcoin.co'&&(/^\/blog\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname)||/^\/campaigns\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname)))||
+  (u.hostname==='gov.gitcoin.co'&&/^\/t\/[a-z0-9-]+\/\d+(?:\/\d+)?\/?$/i.test(u.pathname))||
+  (u.hostname==='superteam.fun'&&/^\/earn\/(?:listing|opportunity|opportunities|bounties|grants)\/[a-z0-9][a-z0-9-]*\/?$/i.test(u.pathname))||
+  (u.hostname==='immunefi.com'&&/^\/bug-bounty\/[a-z0-9-]+\/information\/?$/i.test(u.pathname))||
+  (u.hostname==='hackenproof.com'&&/^\/programs\/[a-z0-9-]+\/?$/i.test(u.pathname))||
+  (u.hostname==='app.galxe.com'&&/^\/quest\/[a-zA-Z0-9_-]+(?:\/[a-zA-Z0-9_-]+)?\/?$/.test(u.pathname))
  );}catch{return false}
 }
 export function findRelevantLinks(html,source){
