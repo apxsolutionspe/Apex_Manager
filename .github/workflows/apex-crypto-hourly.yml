@@ -14,6 +14,7 @@ on:
       - 'apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs'
       - 'apex-global-intelligence-swarm/scripts/erc20-watch.mjs'
       - 'apex-global-intelligence-swarm/tests/erc20-watch.test.mjs'
+      - 'apex-global-intelligence-swarm/tests/private-wallet-observer.test.mjs'
 
 permissions:
   contents: write
@@ -102,7 +103,7 @@ jobs:
         run: |
           node --check scripts/private-wallet-observer.mjs
           node --check scripts/erc20-watch.mjs
-          node --test tests/erc20-watch.test.mjs
+          node --test tests/erc20-watch.test.mjs tests/private-wallet-observer.test.mjs
       - name: Consultar saldo Ethereum finalizado con configuración obligatoria
         env:
           APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
