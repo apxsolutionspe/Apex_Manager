@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T21:06:54.832Z",
+  "updated_at": "2026-10-15T21:22:04.593Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/177",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/176",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -365,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/175",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -380,7 +380,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/174",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -395,7 +395,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/173",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -410,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/172",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -425,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/171",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -440,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/170",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -455,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/169",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -470,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/168",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -485,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/167",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -500,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/166",
       "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -515,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/190",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -530,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/189",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -545,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/188",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -560,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/187",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -575,7 +575,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/186",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -590,7 +590,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/185",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -605,7 +605,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/184",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -620,7 +620,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/183",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -635,7 +635,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/182",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -650,7 +650,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/181",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -665,7 +665,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/180",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -680,7 +680,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/179",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -695,7 +695,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/useagenthq/useagent/issues/178",
       "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:06:54.832Z"
+      "last_seen_at": "2026-10-15T21:22:04.593Z"
     },
     {
       "source": "github",
@@ -6850,6 +6850,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-15T21:22:04.593Z",
+      "generated_at": "2026-10-15T21:22:04.593Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 328
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 402
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 0,
+      "seen_again": 46,
+      "archive_total": 456,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T21:06:54.832Z",
       "generated_at": "2026-10-15T21:06:54.832Z",
       "status": "ok",
@@ -10186,67 +10247,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:13:59.135Z",
-      "generated_at": "2026-10-14T16:13:59.135Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 515
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 714
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 203,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",
