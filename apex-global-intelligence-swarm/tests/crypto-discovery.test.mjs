@@ -29,3 +29,9 @@ test('Fail-closed on source failures',async()=>{
  const d=await discover({sources:SOURCES.slice(0,1),fetcher:async()=>{throw Error('no network')}});
  assert.equal(d.stats.candidate_announcements,0);assert.equal(d.sources[0].result,'network_or_redirect_error');
 });
+
+test('Kraken category navigation is not a reward candidate',()=>{
+ assert.equal(permittedPage('https://blog.kraken.com/category/product/promotions'),false);
+ const html='<a href="/category/product/promotions">Promotions</a>';
+ assert.equal(findRelevantLinks(html,SOURCES.find(x=>x.id==='kraken-blog')).length,0);
+});
