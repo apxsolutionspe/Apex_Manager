@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T15:53:00.775Z",
+  "updated_at": "2026-10-15T15:54:16.415Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/GoodDollar/GoodWidget/issues/255",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/606",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -365,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -380,7 +380,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Konfirm-xyz/konfirm-contracts/issues/101",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -395,7 +395,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/SkateHive/skatehive3.0/issues/265",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -410,22 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/607",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868408334",
-      "title": "Teach scripts/deploy.ts about the four newer contracts",
-      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/605",
-      "evidence": "**Description** The deployment script's `CONTRACTS` array stops at the original seven crates; `subscription`, `governance`, `reputation_registry`, and `bug_bounty_oracle` build in the same workspace but are never deployed, initialized, or written into `deployments/ .json`. Anyone wanting to exercise them on testnet must hand-run `stellar contract deploy` and reverse-engineer initialization order — exactly what the script exists to prevent. Add them with their `initialize` arguments (admin for subscription/reputation_registry; owners/threshold/t",
-      "source_created_at": "2026-10-15T14:50:27Z",
-      "opp_type": "bounty_codigo",
-      "score": 32,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/605",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -440,7 +425,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/blockvisionhq/sui-go-sdk/issues/102",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -455,7 +440,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/605",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -470,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/604",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -485,7 +470,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/crystallpunk-14/crystall-edge/issues/534",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -500,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/398",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -515,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/408",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -530,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/409",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -545,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/406",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -560,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/405",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -575,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/404",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -590,7 +575,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/403",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -605,7 +590,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/228",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -620,7 +605,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/402",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -635,7 +620,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/401",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -650,7 +635,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/400",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -665,7 +650,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/399",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -680,7 +665,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/397",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z"
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
       "source": "github",
@@ -694,6 +679,36 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/horizonless-labs/horizonless/issues/1",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869416454",
+      "title": "Labor market: per-city labor pool, unemployment, wage pressure and strikes",
+      "url": "https://github.com/ludovit-scholtz/capitalism/issues/603",
+      "evidence": "## Summary Introduce a per-city labor market: a labor pool and unemployment rate that affect salaries, public-sales demand and unit staffing, so the existing per-city salary policy has real trade-offs, the \"Good employer\" bounty becomes meaningful, and optional strikes occur when pay trails the city average. ## Owning team team-a. The simulation, tick phases and formulas are backend work in `projects/Api`; frontend display follows once the API contract lands. ## Business Value Labor is a core Capitalism II mechanic that is currently flat. A dyn",
+      "source_created_at": "2026-10-15T15:53:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ludovit-scholtz/capitalism/issues/603",
+      "first_seen_at": "2026-10-15T15:54:16.415Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868408334",
+      "title": "Teach scripts/deploy.ts about the four newer contracts",
+      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/605",
+      "evidence": "**Description** The deployment script's `CONTRACTS` array stops at the original seven crates; `subscription`, `governance`, `reputation_registry`, and `bug_bounty_oracle` build in the same workspace but are never deployed, initialized, or written into `deployments/ .json`. Anyone wanting to exercise them on testnet must hand-run `stellar contract deploy` and reverse-engineer initialization order — exactly what the script exists to prevent. Add them with their `initialize` arguments (admin for subscription/reputation_registry; owners/threshold/t",
+      "source_created_at": "2026-10-15T14:50:27Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/605",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
       "last_seen_at": "2026-10-15T15:53:00.775Z"
     },
@@ -4809,6 +4824,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T15:54:16.415Z",
+      "generated_at": "2026-10-15T15:54:16.415Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 361
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 587
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 1,
+      "seen_again": 45,
+      "archive_total": 321,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T15:53:00.775Z",
       "generated_at": "2026-10-15T15:53:00.775Z",

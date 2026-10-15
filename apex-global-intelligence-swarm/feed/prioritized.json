@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T15:53:01.766Z",
+  "generated_at": "2026-10-15T15:54:17.177Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 320,
+    "total_evaluated": 321,
     "investigar": 1,
-    "informativa": 297,
+    "informativa": 298,
     "descartar": 22,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -46,7 +46,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/606",
       "source_created_at": "2026-10-15T15:27:52Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -401,7 +401,7 @@
       "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
       "source_created_at": "2026-10-15T14:51:09Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -1053,7 +1053,31 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/605",
       "source_created_at": "2026-10-15T15:14:07Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Labor market: per-city labor pool, unemployment, wage pressure and strikes",
+      "url": "https://github.com/ludovit-scholtz/capitalism/issues/603",
+      "source_created_at": "2026-10-15T15:53:30Z",
+      "first_seen_at": "2026-10-15T15:54:16.415Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [
@@ -1703,7 +1727,7 @@
       "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/607",
       "source_created_at": "2026-10-15T14:50:38Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1728,7 +1752,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/398",
       "source_created_at": "2026-10-15T15:12:04Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1753,7 +1777,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/409",
       "source_created_at": "2026-10-15T15:51:54Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1778,7 +1802,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/406",
       "source_created_at": "2026-10-15T15:27:09Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1803,7 +1827,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/405",
       "source_created_at": "2026-10-15T15:27:07Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1828,7 +1852,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/404",
       "source_created_at": "2026-10-15T15:27:05Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1853,7 +1877,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/403",
       "source_created_at": "2026-10-15T15:27:04Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1878,7 +1902,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/402",
       "source_created_at": "2026-10-15T15:12:31Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1903,7 +1927,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/401",
       "source_created_at": "2026-10-15T15:12:30Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1928,7 +1952,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/400",
       "source_created_at": "2026-10-15T15:12:08Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1953,7 +1977,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/399",
       "source_created_at": "2026-10-15T15:12:06Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -1978,7 +2002,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/397",
       "source_created_at": "2026-10-15T15:11:48Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -2003,7 +2027,7 @@
       "url": "https://github.com/horizonless-labs/horizonless/issues/1",
       "source_created_at": "2026-10-15T14:59:56Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [
@@ -2698,7 +2722,7 @@
       "url": "https://github.com/GoodDollar/GoodWidget/issues/255",
       "source_created_at": "2026-10-15T15:49:46Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2722,7 +2746,7 @@
       "url": "https://github.com/Konfirm-xyz/konfirm-contracts/issues/101",
       "source_created_at": "2026-10-15T15:34:58Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2746,7 +2770,7 @@
       "url": "https://github.com/blockvisionhq/sui-go-sdk/issues/102",
       "source_created_at": "2026-10-15T15:33:15Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2770,7 +2794,7 @@
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/604",
       "source_created_at": "2026-10-15T15:10:50Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -2794,7 +2818,7 @@
       "url": "https://github.com/crystallpunk-14/crystall-edge/issues/534",
       "source_created_at": "2026-10-15T14:54:34Z",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T15:54:16.415Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
@@ -3849,30 +3873,6 @@
       "source_created_at": "2026-10-13T16:56:31Z",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 58,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【intake 输入】dsh-memory：证据包通路丢密级（private 观测经 export→import 在对端落成 internal 明文）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/264",
-      "source_created_at": "2026-10-13T16:26:19Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
       "status": "informativa",
       "priority": 58,
       "reasons": [
