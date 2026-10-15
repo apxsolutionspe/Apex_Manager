@@ -12,6 +12,8 @@ on:
       - 'apex-global-intelligence-swarm/tests/crypto*.test.mjs'
       - 'apex-global-intelligence-swarm/native/**'
       - 'apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs'
+      - 'apex-global-intelligence-swarm/scripts/erc20-watch.mjs'
+      - 'apex-global-intelligence-swarm/tests/erc20-watch.test.mjs'
 
 permissions:
   contents: write
@@ -95,8 +97,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Revisar módulo de solo lectura
-        run: node --check apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
+      - name: Verificar módulos y pruebas de observación de tokens
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check scripts/private-wallet-observer.mjs
+          node --check scripts/erc20-watch.mjs
+          node --test tests/erc20-watch.test.mjs
       - name: Consultar saldo Ethereum finalizado con configuración obligatoria
         env:
           APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
@@ -107,3 +113,7 @@ jobs:
             exit 1
           fi
           node apex-global-intelligence-swarm/scripts/private-wallet-observer.mjs
+      - name: Observar posibles entradas de USDC y USDT en bloques finalizados
+        env:
+          APEX_WALLET_ADDRESS: ${{ secrets.APEX_WALLET_ADDRESS }}
+        run: node apex-global-intelligence-swarm/scripts/erc20-watch.mjs
