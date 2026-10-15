@@ -53,6 +53,23 @@ export function nativeScreening(opportunities,nativePath=process.env.APEX_CRYPTO
  }catch{return opportunities}
 }
 
+/**
+ * Conservative public-source triage. This is NOT a statement about eligibility,
+ * profitable value, expiration confirmed by issuer, or a payable reward.
+ */
+export function reviewPriority(item,now=new Date()){
+ const title=String(item?.title||'');
+ const status=item?.screening;
+ const years=(title.match(/\b20\d{2}\b/g)||[]).map(Number);
+ if(status==='security_warning')return {score:0,group:'security_blocked',reason:'Possible phishing or credential exposure'};
+ if(status==='requires_capital_or_activity_review')return {score:0,group:'capital_or_trading',reason:'Deposit, trading or other capital may be required'};
+ if(years.length&&Math.max(...years)<now.getUTCFullYear())
+  return {score:0,group:'historical_reference',reason:'Title refers to a prior year; actual current eligibility unverified'};
+ if(status==='manual_action_or_conditions')return {score:5,group:'manual_participation',reason:'Requires verification, work or selection'};
+ const reward=/\bairdrop\b|token distribution|token allocation|\breward\b|\brecompensa\b/i.test(title);
+ return {score:reward?20:8,group:'unverified_no_capital_evidence',
+  reason:'No capital requirement detected in title; full official terms, country, fees and eligibility remain unverified'};
+}
 function unescapeHtml(s){return s.replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');}
 export function permittedPage(raw){
  try{const u=new URL(raw);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&(
@@ -114,6 +131,9 @@ export async function discover({sources=SOURCES,fetcher=fetch,now=new Date(),pre
  const uniq=new Map();
  for(const s of results)for(const hit of s.hits)if(!uniq.has(hit.url))uniq.set(hit.url,hit);
  const opportunities=nativeScreening([...uniq.values()].slice(0,80));
+ for(const item of opportunities){const triage=reviewPriority(item,now);item.review_priority=triage.score;
+  item.review_group=triage.group;item.review_reason=triage.reason;}
+ opportunities.sort((a,b)=>b.review_priority-a.review_priority || a.id.localeCompare(b.id));
  const seen=new Map((previous?.observed_announcements||[]).filter(x=>typeof x.id==='string').map(x=>[x.id,x]));
  const at=now.toISOString();
  let fresh=0;
@@ -129,7 +149,7 @@ export async function discover({sources=SOURCES,fetcher=fetch,now=new Date(),pre
  return {schema:'apex-crypto-discovery-v1',generated_at:now.toISOString(),observed_announcements,
   mode:'public_official_read_only',statement:'Announced campaigns are not verified eligibility or money.',
   stats:{official_pages_checked:results.length,pages_read:results.filter(s=>s.result==='read').length,
-   candidate_announcements:opportunities.length,new_candidate_count:fresh,native_classifier_used:opportunities.native_used===true,confirmed_eligible:0,verified_deposits:0},
+   candidate_announcements:opportunities.length,new_candidate_count:fresh,native_classifier_used:opportunities.native_used===true,priority_review_count:opportunities.filter(x=>x.review_priority>0).length,confirmed_eligible:0,verified_deposits:0},
   sources:results.map(({id,result,hits})=>({id,result,candidate_count:hits.length})),opportunities};
 }
 async function main(){
