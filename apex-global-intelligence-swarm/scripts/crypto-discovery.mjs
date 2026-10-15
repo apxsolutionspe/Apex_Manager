@@ -37,12 +37,14 @@ export function nativeScreening(opportunities,nativePath=process.env.APEX_CRYPTO
   const output=execFileSync(nativePath,[],{input:cleanTitles.join('\n')+'\n',encoding:'utf8',timeout:2500,maxBuffer:65536});
   const labels=output.trim().split(/\r?\n/);
   if(labels.length!==opportunities.length||!labels.every(x=>NATIVE_LABELS.has(x)))throw Error('Native classifier protocol mismatch');
-  return opportunities.map((item,i)=>{
+  const processed=opportunities.map((item,i)=>{
    const label=labels[i];
    return {...item,screening:item.screening==='security_warning'||label==='security_warning'?'security_warning':
     item.screening==='requires_capital_or_activity_review'||label==='requires_capital_or_activity_review'?'requires_capital_or_activity_review':
     label==='manual_action_or_conditions'?'manual_action_or_conditions':item.screening};
   });
+  Object.defineProperty(processed,'native_used',{value:true});
+  return processed;
  }catch{return opportunities}
 }
 
@@ -104,7 +106,7 @@ export async function discover({sources=SOURCES,fetcher=fetch,now=new Date()}={}
  return {schema:'apex-crypto-discovery-v1',generated_at:now.toISOString(),
   mode:'public_official_read_only',statement:'Announced campaigns are not verified eligibility or money.',
   stats:{official_pages_checked:results.length,pages_read:results.filter(s=>s.result==='read').length,
-   candidate_announcements:opportunities.length,confirmed_eligible:0,verified_deposits:0},
+   candidate_announcements:opportunities.length,native_classifier_used:opportunities.native_used===true,confirmed_eligible:0,verified_deposits:0},
   sources:results.map(({id,result,hits})=>({id,result,candidate_count:hits.length})),opportunities};
 }
 async function main(){const result=await discover();await mkdir(path.dirname(OUT),{recursive:true});await writeFile(OUT,JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({sources:result.stats.official_pages_checked,candidates:result.stats.candidate_announcements,eligible_verified:0,received:0}));}
