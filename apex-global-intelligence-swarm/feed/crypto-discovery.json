@@ -1,0 +1,52 @@
+{
+  "schema": "apex-crypto-discovery-v1",
+  "generated_at": "2026-10-15T16:42:13.958Z",
+  "mode": "public_official_read_only",
+  "statement": "Announced campaigns are not verified eligibility or money.",
+  "stats": {
+    "official_pages_checked": 5,
+    "pages_read": 3,
+    "candidate_announcements": 1,
+    "confirmed_eligible": 0,
+    "verified_deposits": 0
+  },
+  "sources": [
+    {
+      "id": "binance-en",
+      "result": "read",
+      "candidate_count": 0
+    },
+    {
+      "id": "binance-es",
+      "result": "read",
+      "candidate_count": 0
+    },
+    {
+      "id": "coinbase-blog",
+      "result": "http_403",
+      "candidate_count": 0
+    },
+    {
+      "id": "kraken-blog",
+      "result": "read",
+      "candidate_count": 1
+    },
+    {
+      "id": "okx-help",
+      "result": "network_or_redirect_error",
+      "candidate_count": 0
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "2b5832d918f556a9",
+      "title": "Promotions",
+      "source": "kraken-blog",
+      "url": "https://blog.kraken.com/category/product/promotions",
+      "screening": "eligibility_not_verified",
+      "status": "unverified_announcement",
+      "claimed": false,
+      "reward_received": false
+    }
+  ]
+}
