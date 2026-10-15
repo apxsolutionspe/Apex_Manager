@@ -83,7 +83,7 @@ test('Rejects incompatible prior history instead of losing evidence',async()=>{
 });
 
 test('New official Ethereum, Base and Gitcoin destinations are restricted',()=>{
- assert.equal(SOURCES.length,17);
+ assert.equal(SOURCES.length,24);
  assert.equal(permittedPage('https://blog.ethereum.org/2025/11/03/new-esp-grants'),true);
  assert.equal(permittedPage('https://www.base.org/blog/2026-mission-vision-and-strategy'),true);
  assert.equal(permittedPage('https://gitcoin.co/blog/announcing-gitcoin-grants-24'),true);
@@ -117,4 +117,27 @@ test('Airdrop allocation governance proposals cannot be mistaken for claimable t
  const technical=reviewPriority({title:'Aave V4 New Liquidation Engine incentives',screening:'eligibility_not_verified'},when);
  assert.equal(technical.group,'informational_not_passive');
  assert.equal(technical.score,2);
+});
+
+test('Expanded programs accept only exact official domains and expected paths',()=>{
+ assert.equal(permittedPage('https://gitcoin.co/campaigns/thedao-security-fund'),true);
+ assert.equal(permittedPage('https://gov.gitcoin.co/t/a-new-grants-proposal/123'),true);
+ assert.equal(permittedPage('https://superteam.fun/earn/listing/official-opportunity'),true);
+ assert.equal(permittedPage('https://immunefi.com/bug-bounty/immunefi/information/'),true);
+ assert.equal(permittedPage('https://hackenproof.com/programs/official-program'),true);
+ assert.equal(permittedPage('https://app.galxe.com/quest/officialspace/123'),true);
+ for(const spoofed of [
+  'https://gitcoin.co.attacker.invalid/campaigns/free-money',
+  'https://immunefi.com.attacker.invalid/bug-bounty/fake/information',
+  'http://superteam.fun/earn/listing/test',
+  'https://superteam.fun/earn/../../admin',
+  'https://app.galxe.com/claim/seed-phrase',
+ ])assert.equal(permittedPage(spoofed),false);
+});
+test('Earn and bug bounty sources cannot rank as passive rewards',()=>{
+ for(const source of ['superteam-peru','superteam-earn','immunefi-bounties','hackenproof-bounties']){
+  assert.equal(reviewPriority({title:'Claim reward',source,screening:'eligibility_not_verified'}).group,'work_or_security_review');
+ }
+ assert.equal(reviewPriority({title:'Quest reward',source:'galxe-quests',screening:'eligibility_not_verified'}).group,'gas_fee_and_conditions_review');
+ assert.equal(reviewPriority({title:'Grant funding round',source:'gitcoin-campaigns',screening:'eligibility_not_verified'}).group,'project_grant_not_passive');
 });
