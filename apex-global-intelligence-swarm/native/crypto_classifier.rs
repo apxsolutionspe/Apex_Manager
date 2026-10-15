@@ -12,7 +12,7 @@ pub fn classify(title: &str) -> &'static str {
         || includes_any(&words, &["password", "seed", "phishing", "contraseña"]) {
         return "security_warning";
     }
-    if includes_any(&words, &["trade", "trading", "deposit", "depositar", "compra", "comprar", "purchase",
+    if includes_any(&words, &["trade", "trading", "deposit", "depositar", "depósito", "deposito", "compra", "comprar", "purchase",
         "buy", "stake", "staking", "swap", "swaps", "leverage", "futures", "perps", "margin",
         "liquidity", "lend", "lending", "borrow", "borrowing", "yield", "volume",
         "mining", "mine", "subscribe", "subscription", "inversión", "invertir",
@@ -44,6 +44,6 @@ mod tests {
     #[test] fn detects_manual(){assert_eq!(classify("Airdrop quiz and giveaway contest"),"manual_action_or_conditions");}
     #[test] fn flags_secret_theft(){assert_eq!(classify("Enter your seed phrase to claim"),"security_warning");}
     #[test] fn no_auto_claim(){assert_eq!(classify("Official token distribution"),"eligibility_not_verified");}
-    #[test] fn handles_unicode(){assert_eq!(classify("Depósito de criptos y comisión"),"eligibility_not_verified");}
+    #[test] fn handles_unicode(){assert_eq!(classify("Depósito de criptos y comisión"),"requires_capital_or_activity_review");}
     #[test] fn token_boundaries(){assert_eq!(classify("Stakeholders discuss OP ecosystem"),"eligibility_not_verified");}
 }
