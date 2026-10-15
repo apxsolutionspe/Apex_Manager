@@ -1,6 +1,6 @@
 {
   "schema": "apex-crypto-discovery-v1",
-  "generated_at": "2026-10-15T17:03:04.904Z",
+  "generated_at": "2026-10-15T17:03:39.702Z",
   "mode": "public_official_read_only",
   "statement": "Announced campaigns are not verified eligibility or money.",
   "stats": {
@@ -208,7 +208,7 @@
       "title": "Season 8 Growth Grants - TVL Impact Review",
       "source": "optimism-governance",
       "url": "https://gov.optimism.io/t/season-8-growth-grants-tvl-impact-review/10878",
-      "screening": "eligibility_not_verified",
+      "screening": "manual_action_or_conditions",
       "status": "unverified_announcement",
       "claimed": false,
       "reward_received": false
