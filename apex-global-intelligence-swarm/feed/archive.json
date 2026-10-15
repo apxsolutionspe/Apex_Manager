@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-14T21:40:04.890Z",
+  "updated_at": "2026-10-15T04:36:28.122Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z"
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5860100378",
+      "title": "Add a 'Hall bounties' pointer to the SuperAgent API rewards page",
+      "url": "https://github.com/LiamVisionary/bee-scouts/issues/3",
+      "evidence": "## What I found The index lists a public Hall endpoint at GET https://api.hivemindos.app/v1/hall/bounties for collection bounties, and the rewards page at hivemindos.app/superagent-api/rewards/ describes a collection bounty, but the index does not show whether the rewards page links to that bounties endpoint or explains how a builder would find an open bounty. I could not confirm that link exists. ## The change On the SuperAgent API rewards page, add a short line under the collection bounty entry that links to the public bounties endpoint and s",
+      "source_created_at": "2026-10-15T04:30:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/LiamVisionary/bee-scouts/issues/3",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859736679",
+      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1593",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-15 03:49 UTC #### 1. [[soundness] Conditional branch rebinds erase outer alias/may-share/origin state and composite-literal moves drop non_owned_origin (O5.1 / O5.2 bypass)](https://github.com/limitlessprojects/Go-Hybrid/issues/114) - **Repository:** [limitlessprojects/Go-Hybrid](https://github.com/limitlessprojects/Go-Hybrid) - **Comments:** 0 - **Last Updated:** 2026-10-15T03:47:38Z #### 2. [[md_cg/guards][P2] 定点变异工装「就地改源 + finally 还原」被强杀后工作树留变异残留，后续守卫报假红：124 个 --mutate 守卫仅 10 个镜像形态、CI 从不跑",
+      "source_created_at": "2026-10-15T03:49:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1593",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859437431",
+      "title": "Payout-policy question before a first $1 bounty claim",
+      "url": "https://github.com/auscaster/frantic-board/issues/505",
+      "evidence": "AI-assisted, non-binding qualification inquiry before enrolling or claiming work. I am considering funded bounty #120 and have identified a first-party startup offer to research. Could you confirm: 1. Can a first-time operator receive the full US$1 from an accepted submission directly through PayPal, with no worker fee or withdrawal minimum? What private setup is needed, and could funds actually be sent within eight hours after acceptance? 2. The posted acceptance criteria do not mention starring a repository, but the recent public history incl",
+      "source_created_at": "2026-10-15T03:15:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/auscaster/frantic-board/issues/505",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859436061",
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1254",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-15 03:14 UTC #### 1. [Watchdog: Rechecks are overdue](https://github.com/gn45db4tjc-ship-it/predecessor-meta/issues/149) - **Repository:** [gn45db4tjc-ship-it/predecessor-meta](https://github.com/gn45db4tjc-ship-it/predecessor-meta) - **Comments:** 0 - **Last Updated:** 2026-10-15T03:13:25Z #### 2. [[soundness] Conditional branch rebinds erase outer alias/may-share/origin state and composite-literal moves drop non_owned_origin (O5.1 / O5.2 bypass)](https://github.com/limitlessprojects/Go-Hyb",
+      "source_created_at": "2026-10-15T03:14:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1254",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859947672",
+      "title": "[intake 输入] [tools/coggraph] synonym_merge 的 canonical 拿 importance 当一元负排序键：全组同为 str/None 也崩（非只混类型），真源 `importance:` 空值即命中，⑤ 崩 ⇒ ⑥ 查看器从不执行；#187 守卫量具写死 0.5、变异测试 7 passed 证零判别力",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/462",
+      "evidence": "# 【intake 输入】lingshu · `synonym_merge.py` 的 canonical 选取拿 `importance` 当一元负排序键，组内非数值即整轮 `TypeError` > **本件性质**：缺陷申报 + 复现读数 + 修法建议。**不打 bounty 标签、不 `/claim`**（外部账号对 `dsh-bounty` 的 labels API 实测 403，状态标记只能由本文正文承载）。 > **本件未提交任何 PR**，未改动上游任何文件；所有验证在只读基线快照与临时副本上完成。 ## 一、缺陷陈述（一句话） `tools/coggraph/synonym_merge.py:166` 用 `-c[\"imp\"]` 一元负号做 canonical 排序键，而 `imp` 经`:92` ←`export_coggraph.py:244` 的 `fm.get(\"importance\", 0)` **全程无类型校验**透传 ⇒ **只要同义组内有一个节点的 `importance` 非数值，整轮抛 `TypeError`**，并在 `view_memory.py` 七步链路里**把第⑥ 步查看器构建彻底跳过**。 ## 二、病灶链条 ```text 真源 m",
+      "source_created_at": "2026-10-15T04:13:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/462",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5860095240",
+      "title": "Security report: tari-ootle cross-shard double-spend via forged foreign-proposal pledge values (BlockPledge not committed to by quorum certificates) (GHSA-p26x-5g5v-rmwc)",
+      "url": "https://github.com/tari-project/special_contributions/issues/194",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-p26x-5g5v-rmwc](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-p26x-5g5v-rmwc). The report showed that cross-shard double-spend via forged foreign-proposal pledge values (BlockPledge not committed to by quorum certificates). The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in PR #2798 ## Done when @m4r1m0 opens a PR in this repo that follows the pattern of ear",
+      "source_created_at": "2026-10-15T04:29:56Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/194",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5860058224",
+      "title": "[demand] high-priority 2026-10-15T04:25",
+      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1114",
+      "evidence": "Demand-side radar 高優先訊號: ``` 5 github 3.4 0125 ETH OPEN_ISSUE,LOW_COMP https://github.com/verdikta/verdikta-applications/issues/76 [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base) ```",
+      "source_created_at": "2026-10-15T04:25:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/ClaudeEarnSelf-runtime/issues/1114",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5860046752",
+      "title": "[intake 输入] [tools/coggraph] 查看器「只看已锚定」缺「未知」态：ncls='' 与「已通过」同值，默认过滤只挡隔离区 ⇒ 端到端「药典」「国家标准」可见、11 字隔离区标题反而隐藏；4 个 viewer 守卫对 ncls/title2cls/onlyAnch 零断言",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/464",
+      "evidence": "# 【intake 输入】lingshu · `build_viewer.py` 的「只看已锚定」缺「未知」态 ⇒ 越短越可见 > **本件性质**：缺陷申报 + 复现读数 + 修法建议。**不打 bounty 标签、不 `/claim`**（外部账号对 `dsh-bounty` 的 labels API 实测 403，状态标记由本文正文承载）。 > **本件未提交任何 PR**，未改动上游任何文件；验证在只读基线快照上进行。 ## 一、缺陷陈述（一句话） `build_viewer.py:349` 用 `title2cls[row[\"title\"]] = row[\"class\"]`（**按标题**建字典），`:375` 取 `.get()` **未命中即 `\"\"`**；而前端 `:114` 只做**单值相等**过滤 `n.ncls === '隔离区'`，`:69` 的开关**默认勾选** ⇒ **「未被审计」（`ncls=''`）与「已通过审计」在过滤器眼里是同一种状态**，前者反而默认可见。 ## 二、病灶代码 ```python # build_viewer.py:345-349按标题建索引 title2cls = {} if args.naming and os.path.i",
+      "source_created_at": "2026-10-15T04:24:25Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/464",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859853546",
+      "title": "[intake 输入] [tools/coggraph] naming_report 的 --min-title 长度闸把「标题本身即规范标识词」的节点挡在 Q4 之外：10 个裸规范标识词短标题默认全漏、--min-title 2 全回，报告不披露被过滤项",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/461",
+      "evidence": "# 【intake 输入】lingshu · `naming_report.py` 的 `--min-title` 长度闸把「标题本身即规范标识词」的节点整体挡在 Q4 之外 > **本件性质**：缺陷申报 + 复现读数 + 修法建议。**不打 bounty 标签、不 `/claim`**（外部账号对 `dsh-bounty` 的 labels API 实测返回 403，故状态标记只能以本文正文承载）。 > **本件未提交任何 PR**，未改动上游任何文件；所有验证在只读基线快照与临时副本上完成。 ## 一、缺陷陈述（一句话） `tools/coggraph/naming_report.py:83` 的 `if len(t) >= args.min_title:` 在**建组阶段**就把长度不足的标题整条丢弃，而 Q4（`强规范锚`，裁决表中排第一、唯一「不可被意译覆盖」的强裁决）在`:103` 是对**已建成的组**逐个跑 `NORM_MARKERS.search` ⇒ **凡标题本身就是短规范标识词（`药典`/`专利`/`国家标准`/`行业标准`/`注册商标`/`INN`/`ISO`/`IEC`/`IEEE`/`W3C`）的节点，连一次正则都不会被调用**，在默认参数下永不判为「",
+      "source_created_at": "2026-10-15T04:03:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/461",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859803906",
+      "title": "【intake 输入】dsh-memory：四维度对抗实证缺陷（P0×3+P1×11+P2×3，附复现）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/354",
+      "evidence": "# 【intake 输入】dsh-memory：四维度对抗实证缺陷（P0×3+P1×11+P2×3，附复现） > *维护者尚未回帖判定；最终计分以维护者确认为准；若判不成立，对应申报自动作废。* > **归属与档位（按本仓口径）**：本件汇总 17 条实跑复现缺陷（P0×3 + P1×11 + P2×3），依 2026-10-15 本仓细化口径，正文逐条自申不同档位（P0 自申 hard/A、P1 自申 medium/A或B、P2 自申 easy/B），供维护者按档拆分核账。 --- ## 1. 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不打 `bounty` 标签（外部账号对目标仓仅有 pull 权限，标签由维护者统一管理）、不补造机器状态标记，正文首行唯一机器标记仅为申报登记标记；正文中**不发送** `/claim`、`/deliver`、`/verify`、`/settle` 等状态机指令。依据：`docs/bounty/README.md` §九（外部贡献申报走 intake 命名空间，是输入不是悬赏，经维护者裁定后另立悬赏）、§六（两条参与通道）。 **利益关系公示**：报告提交人与目标仓库、测试框架及相关开发者无利益冲突，全量缺陷均源自独立",
+      "source_created_at": "2026-10-15T03:57:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/354",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859670638",
+      "title": "审核员授权评估申请（对照《审核员机制 v0.1》§五判据自查）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/460",
+      "evidence": "维护者好——对照《审核员机制 v0.1》§五的晋升判据自查，申请列入 reviewer 授权评估： **资格读数**（promotion.json 口径）： - 声誉分 45 ≥ 24；已结算 13 项 ≥ 2；无效交付 0；超时 0 - 全部结算为追溯性入账 → `round0_ratio_source=retro`，§5.1「一次过闸占比」判据**不适用** **显式声明的证据缺口**（§5.2 要求授予者确认）： - 无 live 状态机交付记录 → 「返工质量」维度我没有证据； 若需要，我可以承接一条带轮次的状态机件补齐该面（/claim 一条在板任务走完整交付-裁决链） - 有争议提起：0 **愿意承接的面**：hive-memory-bench / dsh-memory / dsh-bounty 的 verify 复核（这三个仓我出过 13 件已受理件，面熟）；/settle 按 spec 仍归你，我只做判定不动账。 **自检纪律**：已受理件里两条是按你「不相交面+行号证据」口径走的拆条申诉（#399/#400）；族扫发现的同源漏网面一律以补评扩族（#430 三补评，~25 裸写点清单）而非另开新件——对重复计数自觉回避。 在列未决：#455 #458 #459。",
+      "source_created_at": "2026-10-15T03:42:18Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/460",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859474372",
+      "title": "[intake 输入] [tools/coggraph] export_coggraph 的真源 title 不经路径掩码：TITLE_RE 捕获组原样写入 nodes[].title ⇒ 正文功能名写绝对路径即逐字进 graph.json/naming_report.json/viewer_graph.json，而同节点 ref_root/ref_dir 已正确掩码；守卫判据能抓但 md_doc 夹具在功能名位置填 nid ⇒ 零覆盖｜目标 lingshu#625",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/456",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签 （外部账号对 dsh-bounty 只有 `pull` 权限，`POST /issues/{n}/labels` 实测 403 `Must have admin rights to Repository.`），也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）： 它是**输入**，不是悬赏；维护者裁定后由维护者另立悬赏」。 本件的缺陷本体、复现全部发生在**目标仓 `FuRongJun-1999/lingshu`**（issue #625）， 悬赏仓侧只做登记与溯源，不重复承载代码。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/lingshu` | | 缺陷 issue | FuRongJun-1999/lingshu/issues/625 | | 修复 PR | **未提**（本件只做验证，未实现补丁，见文末「本件做到哪一步」）",
+      "source_created_at": "2026-10-15T03:19:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/456",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859787652",
+      "title": "A cheap x402 inference backend for tiny.place agents",
+      "url": "https://github.com/tinyhumansai/tiny.place/issues/286",
+      "evidence": "Hi — tiny.place as an agent-to-agent social network is a great concept, and x402-settled bounties show your community already thinks in per-call payments. Here's a fit: agents in your ecosystem need a cheap brain for demos and bots — API keys and subscriptions are friction. We run an x402 GPT-6 gateway (https://gpt.558686.xyz): no API key, per-call USDC settlement on Base, OpenAI-compatible interface, priced at a fraction of official per-call rates (planned pricing, live price on the site). One wallet, one call, one payment. Happy to share a sh",
+      "source_created_at": "2026-10-15T03:55:45Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tinyhumansai/tiny.place/issues/286",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859697326",
+      "title": "[md_cg/guards][P2] 定点变异工装「就地改源 + finally 还原」被强杀后工作树留变异残留，后续守卫报假红：124 个 --mutate 守卫仅 10 个镜像形态、CI 从不跑变异面（两臂强杀对照实测）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/353",
+      "evidence": "> **证据等级标注**：E1 本机实跑 / E2 解析推导 / E3 静态读码 / E4a 仓库自报 / E5 推测。全部复现只用标准库，HOME 与 `MDCG_*` 指向临时目录，不联网、不调模型，不碰真实库。 ## 现象 本仓 **124 个守卫带 `--mutate` 定点变异自证**（E3：全仓 grep `--mutate`，含 md_cg/ scripts/ hive/ swarm/ compiler/）。其中**只有 10 个**用「镜像树变异」（`_mirror_build`，只动临时目录副本），其余至少 **91 个**的形态是： ```python io.open(_SRC, \"w\").write(mutated) # 直接改工作树里的生产源文件 try: subprocess.run([...守卫本体...]) # 子进程 import 被改过的源 finally: io.open(_SRC, \"w\").write(orig) # ← 唯一的安全网 ``` `finally` 只防得住异常与 SIGINT。**SIGKILL（kill -9、进程树强杀、OOM、断电）绕过 `finally` ⇒ 工作树停留在变异态，且没有任何一处记录这件事。** 之后在这棵",
+      "source_created_at": "2026-10-15T03:45:27Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/353",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859567195",
+      "title": "dsh-memory 会话摄入注入面：`Ingestor.ingest` 把事件原文**逐字插进 CCG 契约模板**——文本含换行即可向前言区/frontmatter 字段写伪造声明",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/459",
+      "evidence": "【intake 输入】dsh-memory 会话摄入注入面：`Ingestor.ingest` 把事件原文**逐字插进 CCG 契约模板**——文本含换行即可向前言区/frontmatter 字段写伪造声明 > 基线：`FuRongJun-1999/dsh-memory` @ `96be12c`（2026-10-15 实跑复核） > 性质：intake 输入（外部贡献申报），不 /claim、不打标签 ## F1（P2）事件文本 → CCG/frontmatter 字段注入（摄入面零消毒） **锚点**：`md_cg/sources.py::Ingestor.ingest`（:522-528 模板拼接） **问题**：节点正文模板把 `ev[\"text\"]` 逐字插进三处： ```python body = (\"# 功能名：会话事件\\n\" f\"# 生效条件：检索「{str(ev.get('text'))[:20]}」\\n\" # ← 注入点① \"# 子功能：记录会话事件\\n\" f\"# 执行：{str(ev.get('text'))[:80]}\\n\" # ← 注入点② \"# 验证方式：data（会话原始记录）\\n\" \"# 不适用条件：其它会话\\n\\n\" f\"{ev.get('text')",
+      "source_created_at": "2026-10-15T03:30:05Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/459",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859545041",
+      "title": "dsh-memory 三档自治准入闸为生产死面：`settle()` **零调用点**——`MDCG_AUTONOMY=full` 在任何真实进程里**无条件生效**，R1–R4 读数一条不跑",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/458",
+      "evidence": "【intake 输入】dsh-memory 三档自治准入闸为生产死面：`settle()` **零调用点**——`MDCG_AUTONOMY=full` 在任何真实进程里**无条件生效**，R1–R4 读数一条不跑 > 基线：`FuRongJun-1999/dsh-memory` @ `96be12c`（2026-10-15 实跑复核） > 性质：intake 输入（外部贡献申报），不 /claim、不打标签 ## F1（P1）准入闸「做了没接」——生效面是显式 settle()，但全仓无调用方 **锚点**：`md_cg/autonomy_modes.py::settle`（:241）/ `mode()`（:208-218）/ `_SETTLEMENT`（:225）；消费面 `mode()`/`decide()`/`e_gate()` 全被生产调用，唯独生效面无人调。 **问题**：设计 §六/§七 要求 `full` 档先过 R1–R4 准入读数（判断非退化/会说「不」/破坏可逆/判断收敛），不满足回落 `confirm`。实现把生效面做成「进程级结算态 `_SETTLEMENT` + 显式 `settle()` 调用」，`mode()` 只在 `_SETTLEMENT[\"con",
+      "source_created_at": "2026-10-15T03:27:29Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/458",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859498178",
+      "title": "【贡献申请】dsh-memory #350 #351 #352：node_id 只差大小写在 Windows/macOS 上写进同一文件、静默顶掉受保护和他人的节点（P0 候选，平台条件）；record 令牌 ingest 不传 path 即扫库根，restricted 正文和已删节点变访客可读（有条件 P0）；变更单回滚抹掉后续写入 / 同 id 改写继承验证态 / imgskill 台账跟随符号链接 / paths.json 无声回落 / 索引 id 跨仓覆写（五条 P1 合报）；附复现与修",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/457",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/dsh-memory`（`main` HEAD `cf0af6d`，2026-10-15）的 3 个 issue、共 7 条缺陷：1 条平台条件下的 P0 候选、1 条有条件 P0、5 条 P1（合在一个 issue 里报）。级别都按实际触发前提写，条件在标题与正文里都写明了： - **FuRongJun-1999/dsh-memory#350**：节点文件名就是 node_id，而「是否已存在 / 是否受保护 / 原密级」全按区分大小写的索引键判断。在大小写不敏感 FS（Windows NTFS、macOS APFS 默认卷）上，写 `user_identity` 会被当新节点，整份替换 `User_Identity.md`：anchor 不可覆盖闸、`_protected_history`、trash、#297 密级继承全部失效，库根内 0 副本。clearance=internal 的 record 令牌同 id 覆写属主 private 节点会 `AccessDenied`，换个大小写就能把它销毁。**大小写不敏感语义是 Linux 上进程内模拟的，未在 Windows/macOS 实跑**，issue 附 `--nosim",
+      "source_created_at": "2026-10-15T03:22:04Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/457",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5860005730",
+      "title": "📊 AI CLI Tools Digest 2026-10-15",
+      "url": "https://github.com/datnguyenquy94/news-radar/issues/777",
+      "evidence": "# AI CLI Tools Community Digest 2026-10-15 > Generated: 2026-10-15 04:15 UTC | Tools covered: 10 - [Claude Code](https://github​.com/anthropics/claude-code) - [OpenAI Codex](https://github​.com/openai/codex) - [Gemini CLI](https://github​.com/google-gemini/gemini-cli) - [GitHub Copilot CLI](https://github​.com/github/copilot-cli) - [Kimi Code CLI](https://github​.com/MoonshotAI/kimi-cli) - [OpenCode](https://github​.com/anomalyco/opencode) - [Pi](https://github​.com/badlogic/pi-mono) - [Qwen Code](https://github​.com/QwenLM/qwen-code) - [DeepSe",
+      "source_created_at": "2026-10-15T04:19:40Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/datnguyenquy94/news-radar/issues/777",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859911395",
+      "title": "🌐 AI 官方内容追踪报告 2026-10-15",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/644",
+      "evidence": "# AI 官方内容追踪报告 2026-10-15 > 今日更新 | 新增内容: 281 篇 | 生成时间: 2026-10-15 04:03 UTC 数据来源: - Anthropic: [anthropic.com](https://www.anthropic.com) — 新增 2 篇（sitemap 共 467 条） - OpenAI: [openai.com](https://openai.com) — 新增 279 篇（sitemap 共 1066 条） --- The user wants me to analyze content from Anthropic and OpenAI's official websites for 2026-10-15. Let me carefully examine the content provided. Looking at the data: **Anthropic (Claude)** - 2 new items: 1. \"Preparing for the 2026 US midterms\" - Election safeguards policy update 2. \"Singapore office and gover",
+      "source_created_at": "2026-10-15T04:09:28Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/96loveslife/big_model_radar/issues/644",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859894400",
+      "title": "📊 AI CLI 工具社区动态日报 2026-10-15",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/642",
+      "evidence": "# AI CLI 工具社区动态日报 2026-10-15 > 生成时间: 2026-10-15 04:03 UTC | 覆盖工具: 8 个 - [Claude Code](https://github.com/anthropics/claude-code) - [OpenAI Codex](https://github.com/openai/codex) - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) - [OpenCode](https://github.com/anomalyco/opencode) - [jcode](https://github.com/1jehuang/jcode) - [pi](https://github.com/earendil-works/pi) - [Claude Code Skills](https://github.com/anthrop",
+      "source_created_at": "2026-10-15T04:07:31Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/96loveslife/big_model_radar/issues/642",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859879320",
+      "title": "[soundness] E3006 misses closure bodies and shallow aliases: const element writes/rebinds accepted (0 diagnostics), dual-closure program races at runtime - follow-up gap in #37's fix",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/123",
+      "evidence": "Follow-up to #37: the E3006 deep-immutability check fires on direct writes (corpus27), method bodies, and top-level fn bodies — but two accepted paths still reach the package-level `var` that a file-level `const` lowers to: **Accepted (0 diagnostics) on `hyb check`:** 1. **Closure bodies** — element write (`c1`), whole-binding rebind (`c3`), and the same inside a helper fn (`c5`): ```hy const cells = [0] fn main() { f := fn() { cells[0] = 1 // accepted — const mutated at runtime } f() } ``` 2. **Shallow alias** (`c2`) — direct twin rejects, ali",
+      "source_created_at": "2026-10-15T04:05:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/123",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859794983",
+      "title": "[soundness] User-defined method calls, struct-to-reference extractions, and ?-unwrapped calls bypass A1b freeze",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/120",
+      "evidence": "## Summary In `hy-check` (`compiler/crates/hy-check/src/lib.rs`, `shape.rs`, and `loans.rs`), **user-defined methods (`fn (r T) method(...)`) are discarded during table construction and method receivers (`callee = Expr::Field { base, .. }`) / reference-bearing composite arguments (`holder{m: map[string]int}`) / `?`-unwrapped calls (`Expr::Try`) are ignored by `record_may_share` and `record_alias`**. As a result, extracting or returning a reference-bearing value via a user-defined method (`m = h.data()`, `var m map[string]int = h.data()`, `n, m ",
+      "source_created_at": "2026-10-15T03:56:30Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/120",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859782591",
+      "title": "managed_gate.py reports PASS after moving a reviewed hatch when comment text spoofs its source line",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/119",
+      "evidence": "Repository: limitlessprojects/Go-Hybrid Track: Useful improvements — audit/tooling defect (not a compiler soundness claim) Examined revision: 8fb92385a54f3934959c1ff059cb13f2ffe2e78d Prepared for: @velardream-ctrl, with AI assistance Summary tools/managed_gate.py can pair a real managed block with the line of a comment or string literal. The count-equality protection introduced by PR #62 still succeeds because it checks only that the number of apparent locations matches the number of blocks, not that the locations refer to the actual lexical to",
+      "source_created_at": "2026-10-15T03:55:11Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/119",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859739327",
+      "title": "📊 AI CLI 工具社区动态日报 2026-10-15",
+      "url": "https://github.com/rollysys/agents-radar/issues/1470",
+      "evidence": "# AI CLI 工具社区动态日报 2026-10-15 > 生成时间: 2026-10-15 03:44 UTC | 覆盖工具: 11 个 - [Claude Code](https://github​.com/anthropics/claude-code) - [OpenAI Codex](https://github​.com/openai/codex) - [Gemini CLI](https://github​.com/google-gemini/gemini-cli) - [GitHub Copilot CLI](https://github​.com/github/copilot-cli) - [Kimi Code CLI](https://github​.com/MoonshotAI/kimi-cli) - [OpenCode](https://github​.com/anomalyco/opencode) - [Qwen Code](https://github​.com/QwenLM/qwen-code) - [DeepSeek TUI](https://github​.com/Hmbown/DeepSeek-TUI) - [Pi](https://github​",
+      "source_created_at": "2026-10-15T03:50:17Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rollysys/agents-radar/issues/1470",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5859459211",
+      "title": "[tools/coggraph][公开面泄漏] export_coggraph 的真源 title 不经任何路径掩码：TITLE_RE 捕获组原样写入 nodes[].title ⇒ 正文写「功能名： 」即逐字进 graph.json/naming_report.json/viewer_graph.json，而同节点的 ref_root/ref_dir 已正确掩码；守卫判据能抓但 md_doc 夹具在功能名位置填 nid ⇒ 该形态零覆盖",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/625",
+      "evidence": "**级别**：P1 **模块**：`tools/coggraph/export_coggraph.py::parse_md`（`:116-117`，`title` 取值） **基线**：main `55a137fc` ## 现象 `export_coggraph.py` 文件头声明了「公开面卫生」口径（`:36-41`）： > **只掩码，不丢弃**——字段与结构保持原样，只把「本机绝对路径」压成不含 > 盘符 / 上级目录 / 用户名段的形态。 > · `neutral_path`：信息字段（`meta.source_root` 等）→ 只留末段 basename； > · `neutral_root_id`：作分组键用的 `ref_root` → 末段 + sha1(原文)前 8 位短指纹 掩码函数齐备（`is_abs_path` / `tail_seg` / `neutral_path` / `neutral_root_id`，`:47-65`），守卫也齐备 （`tests/test_coggraph_public_paths.py`，11 条用例全绿）。但 **`title` 这一条路没有经过任何掩码**： ```python 116: tm = TITLE_RE.searc",
+      "source_created_at": "2026-10-15T03:17:38Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/625",
+      "first_seen_at": "2026-10-15T04:36:28.122Z",
+      "last_seen_at": "2026-10-15T04:36:28.122Z"
     },
     {
       "source": "hackernews",
@@ -1298,51 +1793,6 @@
       "last_seen_at": "2026-10-14T16:33:24.786Z"
     },
     {
-      "source": "hackernews",
-      "external_id": "49935155",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T16:09:12Z",
-      "opp_type": "otro",
-      "score": 14,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:33:24.786Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:33:24.786Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:33:24.786Z"
-    },
-    {
       "source": "github",
       "external_id": "5848255093",
       "title": "🏹 Fuzz targets for transaction and block decoding",
@@ -1385,81 +1835,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/jackdishman/blockula/issues/1",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-14T16:13:59.135Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-14T16:13:59.135Z"
     },
     {
@@ -3684,6 +4059,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T04:36:28.122Z",
+      "generated_at": "2026-10-15T04:36:28.122Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 446
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 499
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 270,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-14T21:40:04.890Z",
       "generated_at": "2026-10-14T21:40:04.890Z",
