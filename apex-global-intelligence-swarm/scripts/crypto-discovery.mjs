@@ -70,6 +70,12 @@ export function reviewPriority(item,now=new Date()){
  const years=(title.match(/\b20\d{2}\b/g)||[]).map(Number);
  if(status==='security_warning')return {score:0,group:'security_blocked',reason:'Possible phishing or credential exposure'};
  if(status==='requires_capital_or_activity_review')return {score:0,group:'capital_or_trading',reason:'Deposit, trading or other capital may be required'};
+ if(/\bapy\b|\bapr\b|\bdefi earn\b|\byield\b|\bkraken\+\b|\b\d+(?:[.]\d+)?%\s+(?:apy|apr)\b/i.test(title))
+  return {score:0,group:'capital_or_trading',reason:'Yield or APY advertised; cannot be obtained without reviewing investment or deposit requirements'};
+ if(/^gitcoin-campaigns$/.test(String(item?.source||''))&&/^Gitcoin Grants (?:20|21|22|23|24)$/.test(title))
+  return {score:0,group:'historical_reference',reason:'Previous Gitcoin grants rounds; not open eligibility or money available'};
+ if(/\bbug bounty\b|\bbounty mediation\b|\bsecurity bug\b/i.test(title))
+  return {score:3,group:'work_or_security_review',reason:'A bounty is paid only for valid accepted work within authorized program scope'};
  if(years.length&&Math.max(...years)<now.getUTCFullYear())
   return {score:0,group:'historical_reference',reason:'Title refers to a prior year; actual current eligibility unverified'};
  // Announcing a governance reallocation, technical engine or proposal is not a
