@@ -22,9 +22,27 @@ test('Regional access and identity cannot be inferred or bypassed',()=>{
 });
 test('Public dashboard cannot turn conditional offer into wallet income',()=>{
  const r=createReport({asOf:new Date('2026-10-15T20:00:00Z')});
- assert.equal(r.data.length,1);
+ assert.equal(r.data.length,0);
+ assert.equal(r.summary.excluded_new_account_only,1);
+ assert.equal(r.summary.actionable_research_candidates,0);
  assert.equal(r.summary.verified_income_usd,0);
  assert.equal(r.summary.received_tokens,0);
  assert.equal(r.summary.automatically_claimable,0);
  assert(r.data.every(x=>x.may_claim===false));
+});
+
+test('Historical new-account offers may be inspected but not added to the default shortlist',()=>{
+ const date=new Date('2026-10-15T20:00:00Z');
+ const shown=createReport({asOf:date,includeNewUserOnly:true});
+ assert.equal(shown.data.length,1);
+ assert.equal(shown.data[0].may_claim,false);
+ assert.equal(shown.summary.excluded_new_account_only,0);
+ assert.equal(createReport({asOf:date}).data.length,0);
+});
+test('Generated public feed does not contain private Binance registration details',()=>{
+ const report=createReport({asOf:new Date('2026-10-15T20:00:00Z')});
+ const serialized=JSON.stringify(report);
+ assert.equal(serialized.includes('registration_ineligible'),false);
+ assert.equal(serialized.includes('kyc:'),false);
+ assert.equal(report.summary.verified_income_usd,0);
 });
