@@ -108,3 +108,13 @@ test('Research priority never asserts eligibility or received crypto',async()=>{
  assert.equal(data.stats.confirmed_eligible,0);
  assert.equal(data.stats.verified_deposits,0);
 });
+
+test('Airdrop allocation governance proposals cannot be mistaken for claimable tokens',()=>{
+ const when=new Date('2026-10-15T00:00:00Z');
+ const governance=reviewPriority({title:'Re-designating the User Airdrop Allocation as the Strategic Ecosystem Fund',screening:'eligibility_not_verified'},when);
+ assert.equal(governance.group,'informational_not_passive');
+ assert.equal(governance.score,2);
+ const technical=reviewPriority({title:'Aave V4 New Liquidation Engine incentives',screening:'eligibility_not_verified'},when);
+ assert.equal(technical.group,'informational_not_passive');
+ assert.equal(technical.score,2);
+});
