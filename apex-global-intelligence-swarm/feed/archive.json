@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T20:34:15.114Z",
+  "updated_at": "2026-10-15T20:43:17.253Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/5",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -225,12 +225,12 @@
       "evidence": "**Context** `checkStellarRecipientReady` in `src/chains/stellar.ts:144-177` wraps `server.getAccount(recipient)` in a bare `catch` that returns `{ exists: false, hasTrustline: false, ready: false }`. Any failure — DNS error, RPC 503, rate limit on the public mainnet endpoint (which `src/constants.ts:49-52` explicitly warns is rate-limited) — is indistinguishable from an account that genuinely was never funded. `assertStellarRecipientReady` in `src/transfer.ts:207-223` then throws \"recipient does not exist yet. It must be funded with at least th",
       "source_created_at": "2026-10-15T20:02:04Z",
       "opp_type": "bounty_codigo",
-      "score": 42,
+      "score": 43,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/4",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -245,22 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/3",
       "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873051890",
-      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
-      "url": "https://github.com/Parabola-org/parabola/issues/2",
-      "evidence": "**Context** `fetchFastTransferFeeBps` in `src/iris/poll.ts:10-23` does `body.find((entry) => entry.finalityThreshold <= 1000)` and falls back to `return fastEntry?.minimumFee ?? 0`. If Iris changes its response shape, returns an empty array, or ships a tier with a different threshold, every fast transfer is silently quoted a zero fee — in `transfer()` this flows into `feeRaw = 0` and a `TransferResult.fee` of `\"0\"`, and in `estimateFee` it produces a free-looking quote. The same function also throws a bare `Error` on HTTP failure (line 18) even",
-      "source_created_at": "2026-10-15T20:01:56Z",
-      "opp_type": "bounty_codigo",
-      "score": 44,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/2",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -275,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/16",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -290,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/20",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -305,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/19",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -320,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/18",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -335,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/17",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -350,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/15",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -365,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/14",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -380,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/13",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -390,12 +375,12 @@
       "evidence": "**Context** Two recovery loops in `src/chains/stellar.ts` have hard-coded timing with no caller control: `waitForAllowance` (lines 210-227) does 6 attempts × 1500ms, and `retryOnTransientRpcLag` (lines 278-294) does 3 attempts × 2000ms. A backend on a slow RPC provider may need longer; a latency-sensitive path may want faster failure. The knobs are currently compile-time constants, while every other timing concern in the SDK (`pollInterval`, `pollTimeout`) is already a documented option. **Proposed Change** Add optional fields to `TransferOptio",
       "source_created_at": "2026-10-15T20:02:49Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 45,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/12",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -405,12 +390,12 @@
       "evidence": "**Context** CI (`.github/workflows/ci.yml`) runs typecheck, tests, build, commitlint, and PR-title lint — but no static analysis of the code itself. `package.json` has no lint script and ESLint is not a devDependency. Rules that would have caught real classes of issues in this codebase — floating promises in the polling loops, unsafe `any` casts around signer types (`src/transfer.ts:254-269`), unused catches (`src/chains/stellar.ts:153-155`) — are unenforced, and contributors have no local lint feedback loop. **Proposed Change** Add `eslint` + ",
       "source_created_at": "2026-10-15T20:02:45Z",
       "opp_type": "bounty_codigo",
-      "score": 40,
+      "score": 45,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/11",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -425,7 +410,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/10",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -435,12 +420,12 @@
       "evidence": "**Context** `decodeCctpMessage` in `src/utils/message.ts:88-121` validates only minimum length, then reads every header and body field at hard-coded V2 offsets (lines 14-36, cross-checked against Circle's reference contracts). It never checks the `version` header field or `burnBodyVersion`. If Circle ships a V3 message format with different field layout, or a non-burn body ever reaches this decoder, the function returns a confidently wrong decode — wrong amount, wrong recipient — and `completeMint` / `resolveBurn` would act on it. For a functio",
       "source_created_at": "2026-10-15T20:02:33Z",
       "opp_type": "bounty_codigo",
-      "score": 42,
+      "score": 45,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/9",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -450,12 +435,12 @@
       "evidence": "**Context** `burn()` in `src/transfer.ts:153-179` calls `approveUsdcOnArc` unconditionally before every Arc-sourced burn, submitting an exact-amount ERC-20 approve even when TokenMessengerV2 already has an allowance ≥ `amountRaw` from a prior transfer. That's an extra transaction, extra Arc gas, and an extra confirmation wait on every transfer from the same hot wallet — a real cost for any service running frequent transfers. The exact-amount approval policy (comment at lines 160-163) is good for minimizing standing allowance, but reading the cu",
       "source_created_at": "2026-10-15T20:02:25Z",
       "opp_type": "bounty_codigo",
-      "score": 42,
+      "score": 45,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/8",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -470,7 +455,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/7",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -480,12 +465,12 @@
       "evidence": "**Context** `transfer()` in `src/transfer.ts:43-139` runs up to four distinct stages — recipient readiness check, approve, burn (+ confirmation), attestation polling, mint — with no way for a caller to observe progress except by parsing thrown errors after the fact. The README positions transfer observability as where this project is headed. Today a long standard transfer is a silent gap of up to `pollTimeout` (default 300s, `src/constants.ts:80`). Services and the demo app cannot show stage-level status, and operators cannot metric per-stage d",
       "source_created_at": "2026-10-15T20:02:13Z",
       "opp_type": "bounty_codigo",
-      "score": 44,
+      "score": 45,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/6",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -500,7 +485,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/624",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -515,7 +500,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/auscaster/frantic-board/issues/514",
       "first_seen_at": "2026-10-15T20:11:43.807Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -530,7 +515,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -545,7 +530,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -560,7 +545,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -575,7 +560,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -590,7 +575,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -605,7 +590,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -620,7 +605,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "hackernews",
@@ -635,7 +620,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -650,7 +635,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60822",
       "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -665,7 +650,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60821",
       "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -680,7 +665,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60820",
       "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:34:15.114Z"
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
     },
     {
       "source": "github",
@@ -695,6 +680,36 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/250",
       "first_seen_at": "2026-10-15T20:34:15.114Z",
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873544966",
+      "title": "Delivery is not a proof-carrying bundle: claim finish requires nothing; public-work checks are caller-reported (verification: 'hash_only')",
+      "url": "https://github.com/Uuriko/project-room/issues/3547",
+      "evidence": "## Gap: delivery is not a proof-carrying bundle — room-claim finish requires nothing, and public-work checks are caller-reported (`verification: 'hash_only'`) Research mapping (2026-10-15 orchestration-concepts §3.2, steal-now #6): a submission should be a bundle — artifact + reproduction/tests run + evidence + stated acceptance criteria — such that a checker can re-run rather than re-read; executable checks decide, self-reports only triage. ## Code evidence (main @ fa9f33aee, 2026-10-15) - Room work claims: `updateWork` (server/work-claims.mjs",
+      "source_created_at": "2026-10-15T20:38:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Uuriko/project-room/issues/3547",
+      "first_seen_at": "2026-10-15T20:43:17.253Z",
+      "last_seen_at": "2026-10-15T20:43:17.253Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873051890",
+      "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
+      "url": "https://github.com/Parabola-org/parabola/issues/2",
+      "evidence": "**Context** `fetchFastTransferFeeBps` in `src/iris/poll.ts:10-23` does `body.find((entry) => entry.finalityThreshold <= 1000)` and falls back to `return fastEntry?.minimumFee ?? 0`. If Iris changes its response shape, returns an empty array, or ships a tier with a different threshold, every fast transfer is silently quoted a zero fee — in `transfer()` this flows into `feeRaw = 0` and a `TransferResult.fee` of `\"0\"`, and in `estimateFee` it produces a free-looking quote. The same function also throws a bare `Error` on HTTP failure (line 18) even",
+      "source_created_at": "2026-10-15T20:01:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 44,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/2",
+      "first_seen_at": "2026-10-15T20:02:16.798Z",
       "last_seen_at": "2026-10-15T20:34:15.114Z"
     },
     {
@@ -6055,6 +6070,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-15T20:43:17.253Z",
+      "generated_at": "2026-10-15T20:43:17.253Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 247
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 55
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 1,
+      "seen_again": 45,
+      "archive_total": 404,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T20:34:15.114Z",
       "generated_at": "2026-10-15T20:34:15.114Z",
       "status": "ok",
@@ -9371,67 +9447,6 @@
       "new_items": 26,
       "seen_again": 21,
       "archive_total": 176,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T04:51:39.956Z",
-      "generated_at": "2026-10-14T04:51:39.956Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 323
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 556
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 25,
-      "seen_again": 22,
-      "archive_total": 150,
       "steps": [
         {
           "agent": "Recolector",
