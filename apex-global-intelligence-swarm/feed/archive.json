@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T20:52:47.191Z",
+  "updated_at": "2026-10-15T21:03:27.047Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873068588",
+      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
+      "url": "https://github.com/Parabola-org/parabola/issues/20",
+      "evidence": "**Context** `convertPrecision` in `src/utils/encoding.ts:137-147` implements the Arc(6)↔Stellar(7) decimal conversion that sits at the heart of every cross-chain amount in this SDK, but it is not exported from `src/index.ts` — integrators building fee displays or amount inputs against both chains have to reimplement bigint scaling themselves. Meanwhile `parseUsdcAmount`/`formatUsdcAmount` (same file, lines 92-115) and `decimalsForChain` have test files, but there is no dedicated coverage of conversion round trips (up-scale then down-scale, trun",
+      "source_created_at": "2026-10-15T20:03:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/20",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873068069",
+      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
+      "url": "https://github.com/Parabola-org/parabola/issues/19",
+      "evidence": "**Context** `bytes32ToStellarAddress` in `src/utils/encoding.ts:28-32` does `Buffer.from(hex, \"hex\")` with no validation and passes the result straight to `StrKey.encodeEd25519PublicKey`. `Buffer.from` silently truncates at the first non-hex character and accepts odd-length strings by dropping the leading nibble, so garbage input produces a garbage-but-plausible `G...` address instead of an error. Its sibling `stellarAddressToBytes32` (lines 12-25) validates both directions of the strkey round trip; this inverse got missed. It's exported from t",
+      "source_created_at": "2026-10-15T20:03:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Parabola-org/parabola/issues/19",
+      "first_seen_at": "2026-10-15T20:03:26.347Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873158473",
+      "title": "support: agent-26e42c — uncertain result of bounty #120 claim request",
+      "url": "https://github.com/auscaster/frantic-board/issues/514",
+      "evidence": "### Public Frantic agent id agent-26e42c ### GitHub handle associated with the agent NelsonAlmarales ### What is blocked? Another account access problem ### Public details I am requesting help with an uncertain claim result, not claiming or delivering a bounty through this issue. This report was prepared with AI assistance on behalf of the operator. On 2026-10-15 at approximately 19:49:45 UTC (the local attempt timestamp), our Windows client attempted POST /v1/claims for bounty #120 and agent-26e42c. Before the request it wrote its local pendin",
+      "source_created_at": "2026-10-15T20:09:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/auscaster/frantic-board/issues/514",
+      "first_seen_at": "2026-10-15T20:11:43.807Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873413564",
+      "title": "ttnn.addcdiv_bw overflows (-grad * value) * tensor1 before dividing by tensor2, and hardcodes unconditional +inf/-inf at tensor2 == 0 with wrong signs and missing 0/0 -> NaN",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/60822",
+      "evidence": "## Summary For $\\text{out} = \\text{input} + \\text{value} \\cdot \\frac{\\text{tensor1}}{\\text{tensor2}}$, the exact gradients w.r.t. `tensor1` (`grad_a`) and `tensor2` (`grad_b`) are: $$\\text{grad\\_a} = \\frac{\\text{grad} \\cdot \\text{value}}{\\text{tensor2}}, \\qquad \\text{grad\\_b} = -\\frac{\\text{grad} \\cdot \\text{value} \\cdot \\text{tensor1}}{\\text{tensor2}^2} = -\\text{grad\\_a} \\cdot \\frac{\\text{tensor1}}{\\text{tensor2}}$$ `ttnn::addcdiv_bw` (`ttnn/cpp/ttnn/operations/eltwise/ternary_backward/ternary_backward.cpp:38-82`) has two numerical defects: 1.",
+      "source_created_at": "2026-10-15T20:28:34Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60822",
+      "first_seen_at": "2026-10-15T20:34:15.114Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873413132",
+      "title": "ttnn.acosh_bw checks square(input) < 1.0f instead of input < 1.0f, returning finite positive gradients for input < -1 and ±inf at input == -1 where PyTorch returns NaN",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/60821",
+      "evidence": "## Summary The real domain of $\\operatorname{acosh}(x) = \\ln(x + \\sqrt{x - 1}\\sqrt{x + 1})$ is $[1, +\\infty)$. For all $x 1.0f`, so `lt(in_sq, 1.0f)` is `false` and the `-1.0f = 0` (including `grad == 0.0`!) and `-inf` for `grad \\sqrt{\\text{FLT\\_MAX}} \\approx 1.8446744 \\times 10^{19}$**: Squaring `input` before `rsqrt` overflows `FLOAT32` to `+inf` for $x > 1.84 \\times 10^{19}$, forcing `rsqrt(+inf) = 0.0` and zeroing out finite gradients (e.g. `input = 2e19, grad = 2e19` returns `0.0` instead of `1.0`). ## Observed vs PyTorch Golden | `input (",
+      "source_created_at": "2026-10-15T20:28:32Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60821",
+      "first_seen_at": "2026-10-15T20:34:15.114Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873412724",
+      "title": "ttnn.var_hw, ttnn.std_hw, ttnn.normalize_hw, and ttnn.normalize_global use padded_shape instead of logical_shape (up to 1024x variance error on non-32-aligned tiles)",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/60820",
+      "evidence": "## Summary For any `TILE`-layout tensor whose height `H` or width `W` is not a multiple of 32, `ttnn.var_hw`, `ttnn.std_hw`, `ttnn.normalize_hw`, and `ttnn.normalize_global` produce silently corrupted outputs (and `ttnn.normalize_global` also corrupts the output tensor's `logical_shape` to its `padded_shape`). Specifically, `ttnn::mean` and `ttnn::sum` both mask implicit tile padding to `0.0f` via `fill_implicit_tile_padding`, so the numerator of `_variance_impl` sums **only** the `H_logical * W_logical` logical elements: $$S = \\sum_{h=0}^{H_{\\",
+      "source_created_at": "2026-10-15T20:28:30Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60820",
+      "first_seen_at": "2026-10-15T20:34:15.114Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873371062",
+      "title": "[soundness] Named return bindings ((out T)) and bare eturn are invisible to hy-check, bypassing O4/O5/O8/O2/N1 (HYB-E3001/E3003/E3004/E3102/E3104/E4001/E3011)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/250",
+      "evidence": "### Track **Track 1 — Soundness (`hy-check` false negatives / Tier-0 invariants O2, O4, O5.1, O5.2, O5.4, O8/A3, N1, and channel typing)** ### Summary `hy-syntax` (`parser.rs::parse_results`) and `hy-emit` (`lib.rs::emit_fn` / `expr.rs` for `FnLit`) support Go-style named return bindings (`FnResult { name: Some(name), ty }`, e.g. `fn run() (out map[string]int)`) and bare `return` statements (`Stmt::Return { values: [] }`), which lower directly to Go named return parameters (`func run() (out map[string]int) { ... return }`). However, `hy-check` ",
+      "source_created_at": "2026-10-15T20:25:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/250",
+      "first_seen_at": "2026-10-15T20:34:15.114Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873544966",
+      "title": "Delivery is not a proof-carrying bundle: claim finish requires nothing; public-work checks are caller-reported (verification: 'hash_only')",
+      "url": "https://github.com/Uuriko/project-room/issues/3547",
+      "evidence": "## Gap: delivery is not a proof-carrying bundle — room-claim finish requires nothing, and public-work checks are caller-reported (`verification: 'hash_only'`) Research mapping (2026-10-15 orchestration-concepts §3.2, steal-now #6): a submission should be a bundle — artifact + reproduction/tests run + evidence + stated acceptance criteria — such that a checker can re-run rather than re-read; executable checks decide, self-reports only triage. ## Code evidence (main @ fa9f33aee, 2026-10-15) - Room work claims: `updateWork` (server/work-claims.mjs",
+      "source_created_at": "2026-10-15T20:38:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Uuriko/project-room/issues/3547",
+      "first_seen_at": "2026-10-15T20:43:17.253Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873890069",
+      "title": "Threads: send a few quick messages while a task runs and check they're answered together",
+      "url": "https://github.com/useagenthq/useagent/issues/156",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that several short messages you send while the agent is busy get answered together in one turn. ## Try this 1. Start a task that takes a few minutes: `Build a one-page website for a made-up bakery and open it in the browser.` 2. While it works, queue three short messages one after another: `Use a blue color scheme.`, `A",
+      "source_created_at": "2026-10-15T21:03:18Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/156",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873889247",
+      "title": "Bots: run a morning brief routine that reads Gmail and Calendar on its own",
+      "url": "https://github.com/useagenthq/useagent/issues/155",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot routine that only reads your apps finishes without stopping on an approval card, and that it still stops when it needs to change something. Use test Google accounts. ## Try this 1. Connect Gmail and Google Calendar (account menu, then Apps). 2. Create a bot called \"Morning brief\". 3. Add a routine, Weekdays 9",
+      "source_created_at": "2026-10-15T21:03:14Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/155",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873888398",
+      "title": "Connectors: read Linear without a click, and check that creating an issue asks first",
+      "url": "https://github.com/useagenthq/useagent/issues/154",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can list and search Linear issues without an approval click, and that changes still ask first. Use a Linear workspace you own. A new one with a test team is fine. ## Try this 1. Create a team with six or so issues in different states, with a few labels and priorities. 2. Open your account menu, then Apps,",
+      "source_created_at": "2026-10-15T21:03:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/154",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873887554",
+      "title": "Connectors: read Notion without a click, and check that edits ask first",
+      "url": "https://github.com/useagenthq/useagent/issues/153",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can search and read Notion without an approval click, and that changes still ask first. Use a Notion workspace you made for this. ## Try this 1. Make a page of notes and a database with five rows, for example a reading list with a Read or Unread column. 2. Open your account menu, then Apps, and connect No",
+      "source_created_at": "2026-10-15T21:03:06Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/153",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873886601",
+      "title": "Connectors: read Google Drive without a click, and see which actions still ask first",
+      "url": "https://github.com/useagenthq/useagent/issues/152",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what the agent can read in Google Drive without an approval click, and what asks first. Use a Drive with nothing private in it. ## Try this 1. Put a Google Doc, a Google Sheet and a PDF in your Drive, and add a comment to the Doc. 2. Open your account menu, then Apps, and connect Google Drive. 3. Ask: `List the files in",
+      "source_created_at": "2026-10-15T21:03:02Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/152",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873885653",
+      "title": "Connectors: read Google Calendar without a click, and check that booking asks first",
+      "url": "https://github.com/useagenthq/useagent/issues/151",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can read your calendar and find free time without an approval click, and that creating or changing events still asks first. Use a calendar with nothing private on it, or a new Google account. ## Try this 1. Put three or four made-up events on your calendar this week, including one all-day event and one re",
+      "source_created_at": "2026-10-15T21:02:57Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/151",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873884778",
+      "title": "Connectors: read Gmail without a click, and check that changes still ask first",
+      "url": "https://github.com/useagenthq/useagent/issues/150",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can read and search Gmail without an approval click, and that anything that changes your mailbox still asks first. Use a Gmail account with nothing private in it, or a new one you make for this. ## Try this 1. Open your account menu, then Apps, and connect Gmail. 2. Start a thread: `Find the last five ema",
+      "source_created_at": "2026-10-15T21:02:53Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/150",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873883921",
+      "title": "Bots: leave a bot's approval waiting for a day and check how it ends",
+      "url": "https://github.com/useagenthq/useagent/issues/149",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what happens when a bot asks for approval and nobody answers for more than 24 hours. You need an app the bot can write to, such as Gmail or Google Calendar (account menu, then Apps). Use a test account. ## Try this 1. Create a bot and ask it to do something that changes data: `Create a calendar event called \"Approval te",
+      "source_created_at": "2026-10-15T21:02:49Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/149",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873882992",
+      "title": "Bots: ask a bot what it did earlier, from its work log",
+      "url": "https://github.com/useagenthq/useagent/issues/148",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the bot's dated Work log, and whether the bot can answer \"what did you do last week\" from it. Spread this over a few days so there's something to look back on. ## Try this 1. Create a bot and give it a few different small jobs over two or more days: summarize a web page, list some ideas, write a small file. 2. After eac",
+      "source_created_at": "2026-10-15T21:02:45Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/148",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873882159",
+      "title": "Bots: add, edit and remove a bot's key facts",
+      "url": "https://github.com/useagenthq/useagent/issues/147",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the Key facts list on a bot's page: facts you add by hand, facts the bot saves itself, and whether the bot uses them. ## Try this 1. Create a bot and open Bot details. Find \"Key facts and work log\". 2. Add three key facts, for example \"My timezone is Europe/Berlin\", \"Reports go out on Mondays\", \"Use metric units\". 3. In",
+      "source_created_at": "2026-10-15T21:02:41Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/147",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873881346",
+      "title": "Bots: answer a bot's message with its choice buttons",
+      "url": "https://github.com/useagenthq/useagent/issues/146",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the choices a bot can attach to a message it sends you, in the thread, in Slack and in email. ## Try this 1. Create a bot. Add a routine (Bot details, Routines, Add routine) with an instruction like: `Suggest three lunch ideas for today and send them to me as a message with one choice per idea. Ask which one I want.` 2.",
+      "source_created_at": "2026-10-15T21:02:37Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/146",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873880509",
+      "title": "Bots: check that a routine stays quiet unless it has news for you",
+      "url": "https://github.com/useagenthq/useagent/issues/145",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's scheduled routine says nothing when there's nothing new, and reaches you when there is. ## Try this 1. Create a bot. In Bot details, under Routines, choose Add routine. 2. Name it \"Quiet check\" with an instruction whose answer is usually \"nothing new\": `Check https://example.com. Tell me only if the page te",
+      "source_created_at": "2026-10-15T21:02:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/145",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873879662",
+      "title": "Bots: get an email when your bot is waiting on you",
+      "url": "https://github.com/useagenthq/useagent/issues/144",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's owner gets an email when the bot needs them and Slack isn't connected. Use an account that has no Slack connected. ## Try this 1. Create a bot (Bots, then New bot) and give it a job that has to wait on you: `Ask me which of three dinner recipes I want before you write the shopping list, and wait for my answ",
+      "source_created_at": "2026-10-15T21:02:30Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/144",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873878747",
+      "title": "Bots: get a Slack message when your bot is waiting on you",
+      "url": "https://github.com/useagenthq/useagent/issues/143",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's owner gets a Slack direct message when the bot needs them: a question or an approval left waiting for a few minutes, or a run that failed. You need a Slack workspace with the UseAgent app connected from your own Slack account (account menu, then Apps). ## Try this 1. Create a bot and give it a job that has ",
+      "source_created_at": "2026-10-15T21:02:25Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/143",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873877907",
+      "title": "Bots: check that only a bot's owner can use a personal bot from Slack",
+      "url": "https://github.com/useagenthq/useagent/issues/142",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what happens when someone other than a bot's owner tries to use it, from Slack and from the web. You need a Slack workspace with the UseAgent app connected, and a second person (a friend or teammate) who is in that Slack workspace and in your UseAgent workspace. Invite them from Settings, then Team. ## Try this 1. Creat",
+      "source_created_at": "2026-10-15T21:02:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/142",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873877069",
+      "title": "Bots: wake a bot from Slack by starting a message with its name",
+      "url": "https://github.com/useagenthq/useagent/issues/141",
+      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot answers in Slack when a message to the UseAgent app starts with the bot's name, and that the answer comes back to the same Slack thread. You need a Slack workspace where you can add apps (a new one is fine). ## Try this 1. Open your account menu, then Apps, and connect Slack. 2. On the Bots page, create a bot",
+      "source_created_at": "2026-10-15T21:02:17Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/useagenthq/useagent/issues/141",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5873828922",
+      "title": "Landing hero: collaboration front door (room, real receipt, live counters, two doors)",
+      "url": "https://github.com/Uuriko/project-room/issues/3548",
+      "evidence": "Front 3 build under the owner-approved collaboration framing (2026-10-15). The product is the collaboration room for humans and agents; bounties are one bounded tool inside it — not the hero, not the metaphor. Scope: - Hero sentence: 'Put agents to work where humans can direct, review, and prove the results.' - One real receipt card (live settled work, not a mock). - Live counters computed from data, never hand-typed: results verified · receipts issued · work available now. - Two doors: 'Create a room for your team' / 'Send your agent to work'.",
+      "source_created_at": "2026-10-15T20:58:35Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Uuriko/project-room/issues/3548",
+      "first_seen_at": "2026-10-15T21:03:27.047Z",
+      "last_seen_at": "2026-10-15T21:03:27.047Z"
     },
     {
       "source": "github",
@@ -259,36 +754,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Parabola-org/parabola/issues/16",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873068588",
-      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
-      "url": "https://github.com/Parabola-org/parabola/issues/20",
-      "evidence": "**Context** `convertPrecision` in `src/utils/encoding.ts:137-147` implements the Arc(6)↔Stellar(7) decimal conversion that sits at the heart of every cross-chain amount in this SDK, but it is not exported from `src/index.ts` — integrators building fee displays or amount inputs against both chains have to reimplement bigint scaling themselves. Meanwhile `parseUsdcAmount`/`formatUsdcAmount` (same file, lines 92-115) and `decimalsForChain` have test files, but there is no dedicated coverage of conversion round trips (up-scale then down-scale, trun",
-      "source_created_at": "2026-10-15T20:03:08Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/20",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873068069",
-      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
-      "url": "https://github.com/Parabola-org/parabola/issues/19",
-      "evidence": "**Context** `bytes32ToStellarAddress` in `src/utils/encoding.ts:28-32` does `Buffer.from(hex, \"hex\")` with no validation and passes the result straight to `StrKey.encodeEd25519PublicKey`. `Buffer.from` silently truncates at the first non-hex character and accepts odd-length strings by dropping the leading nibble, so garbage input produces a garbage-but-plausible `G...` address instead of an error. Its sibling `stellarAddressToBytes32` (lines 12-25) validates both directions of the strkey round trip; this inverse got missed. It's exported from t",
-      "source_created_at": "2026-10-15T20:03:06Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/19",
       "first_seen_at": "2026-10-15T20:03:26.347Z",
       "last_seen_at": "2026-10-15T20:52:47.191Z"
     },
@@ -488,141 +953,6 @@
       "last_seen_at": "2026-10-15T20:52:47.191Z"
     },
     {
-      "source": "github",
-      "external_id": "5873158473",
-      "title": "support: agent-26e42c — uncertain result of bounty #120 claim request",
-      "url": "https://github.com/auscaster/frantic-board/issues/514",
-      "evidence": "### Public Frantic agent id agent-26e42c ### GitHub handle associated with the agent NelsonAlmarales ### What is blocked? Another account access problem ### Public details I am requesting help with an uncertain claim result, not claiming or delivering a bounty through this issue. This report was prepared with AI assistance on behalf of the operator. On 2026-10-15 at approximately 19:49:45 UTC (the local attempt timestamp), our Windows client attempted POST /v1/claims for bounty #120 and agent-26e42c. Before the request it wrote its local pendin",
-      "source_created_at": "2026-10-15T20:09:42Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/auscaster/frantic-board/issues/514",
-      "first_seen_at": "2026-10-15T20:11:43.807Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49935155",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T16:09:12Z",
-      "opp_type": "otro",
-      "score": 14,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873413564",
-      "title": "ttnn.addcdiv_bw overflows (-grad * value) * tensor1 before dividing by tensor2, and hardcodes unconditional +inf/-inf at tensor2 == 0 with wrong signs and missing 0/0 -> NaN",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/60822",
-      "evidence": "## Summary For $\\text{out} = \\text{input} + \\text{value} \\cdot \\frac{\\text{tensor1}}{\\text{tensor2}}$, the exact gradients w.r.t. `tensor1` (`grad_a`) and `tensor2` (`grad_b`) are: $$\\text{grad\\_a} = \\frac{\\text{grad} \\cdot \\text{value}}{\\text{tensor2}}, \\qquad \\text{grad\\_b} = -\\frac{\\text{grad} \\cdot \\text{value} \\cdot \\text{tensor1}}{\\text{tensor2}^2} = -\\text{grad\\_a} \\cdot \\frac{\\text{tensor1}}{\\text{tensor2}}$$ `ttnn::addcdiv_bw` (`ttnn/cpp/ttnn/operations/eltwise/ternary_backward/ternary_backward.cpp:38-82`) has two numerical defects: 1.",
-      "source_created_at": "2026-10-15T20:28:34Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60822",
-      "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873413132",
-      "title": "ttnn.acosh_bw checks square(input) < 1.0f instead of input < 1.0f, returning finite positive gradients for input < -1 and ±inf at input == -1 where PyTorch returns NaN",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/60821",
-      "evidence": "## Summary The real domain of $\\operatorname{acosh}(x) = \\ln(x + \\sqrt{x - 1}\\sqrt{x + 1})$ is $[1, +\\infty)$. For all $x 1.0f`, so `lt(in_sq, 1.0f)` is `false` and the `-1.0f = 0` (including `grad == 0.0`!) and `-inf` for `grad \\sqrt{\\text{FLT\\_MAX}} \\approx 1.8446744 \\times 10^{19}$**: Squaring `input` before `rsqrt` overflows `FLOAT32` to `+inf` for $x > 1.84 \\times 10^{19}$, forcing `rsqrt(+inf) = 0.0` and zeroing out finite gradients (e.g. `input = 2e19, grad = 2e19` returns `0.0` instead of `1.0`). ## Observed vs PyTorch Golden | `input (",
-      "source_created_at": "2026-10-15T20:28:32Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60821",
-      "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873412724",
-      "title": "ttnn.var_hw, ttnn.std_hw, ttnn.normalize_hw, and ttnn.normalize_global use padded_shape instead of logical_shape (up to 1024x variance error on non-32-aligned tiles)",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/60820",
-      "evidence": "## Summary For any `TILE`-layout tensor whose height `H` or width `W` is not a multiple of 32, `ttnn.var_hw`, `ttnn.std_hw`, `ttnn.normalize_hw`, and `ttnn.normalize_global` produce silently corrupted outputs (and `ttnn.normalize_global` also corrupts the output tensor's `logical_shape` to its `padded_shape`). Specifically, `ttnn::mean` and `ttnn::sum` both mask implicit tile padding to `0.0f` via `fill_implicit_tile_padding`, so the numerator of `_variance_impl` sums **only** the `H_logical * W_logical` logical elements: $$S = \\sum_{h=0}^{H_{\\",
-      "source_created_at": "2026-10-15T20:28:30Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/60820",
-      "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873371062",
-      "title": "[soundness] Named return bindings ((out T)) and bare eturn are invisible to hy-check, bypassing O4/O5/O8/O2/N1 (HYB-E3001/E3003/E3004/E3102/E3104/E4001/E3011)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/250",
-      "evidence": "### Track **Track 1 — Soundness (`hy-check` false negatives / Tier-0 invariants O2, O4, O5.1, O5.2, O5.4, O8/A3, N1, and channel typing)** ### Summary `hy-syntax` (`parser.rs::parse_results`) and `hy-emit` (`lib.rs::emit_fn` / `expr.rs` for `FnLit`) support Go-style named return bindings (`FnResult { name: Some(name), ty }`, e.g. `fn run() (out map[string]int)`) and bare `return` statements (`Stmt::Return { values: [] }`), which lower directly to Go named return parameters (`func run() (out map[string]int) { ... return }`). However, `hy-check` ",
-      "source_created_at": "2026-10-15T20:25:22Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/250",
-      "first_seen_at": "2026-10-15T20:34:15.114Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873544966",
-      "title": "Delivery is not a proof-carrying bundle: claim finish requires nothing; public-work checks are caller-reported (verification: 'hash_only')",
-      "url": "https://github.com/Uuriko/project-room/issues/3547",
-      "evidence": "## Gap: delivery is not a proof-carrying bundle — room-claim finish requires nothing, and public-work checks are caller-reported (`verification: 'hash_only'`) Research mapping (2026-10-15 orchestration-concepts §3.2, steal-now #6): a submission should be a bundle — artifact + reproduction/tests run + evidence + stated acceptance criteria — such that a checker can re-run rather than re-read; executable checks decide, self-reports only triage. ## Code evidence (main @ fa9f33aee, 2026-10-15) - Room work claims: `updateWork` (server/work-claims.mjs",
-      "source_created_at": "2026-10-15T20:38:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Uuriko/project-room/issues/3547",
-      "first_seen_at": "2026-10-15T20:43:17.253Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
       "source": "hackernews",
       "external_id": "49785135",
       "title": "Intel Ends Its $100k Bug Bounty Program",
@@ -711,81 +1041,6 @@
       "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:46:15.733Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:46:15.733Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:46:15.733Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:46:15.733Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T20:46:15.733Z"
     },
     {
       "source": "github",
@@ -6070,6 +6325,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-15T21:03:27.047Z",
+      "generated_at": "2026-10-15T21:03:27.047Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 244
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 224
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 17,
+      "seen_again": 29,
+      "archive_total": 421,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T20:52:47.191Z",
       "generated_at": "2026-10-15T20:52:47.191Z",
       "status": "ok",
@@ -9379,67 +9695,6 @@
           "ok": true,
           "count": 25,
           "ms": 1326
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 202,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:09:59.196Z",
-      "generated_at": "2026-10-14T16:09:59.196Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 327
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 205
         }
       ],
       "processed": 50,
