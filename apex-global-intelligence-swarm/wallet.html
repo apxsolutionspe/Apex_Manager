@@ -6,6 +6,15 @@
 </head><body><main><div class="brand"><b>AX</b> · APEX PRIME X / CRYPTO WATCH</div>
 <h1>Vigila tu MetaMask sin entregar el control de tus fondos.</h1><p>Conecta voluntariamente tu cuenta y observa el saldo de la criptomoneda nativa de la red seleccionada. Solo se usan consultas de lectura a MetaMask; la página no solicita firmas, autorizaciones de gasto ni transacciones.</p>
 <section class="panel"><button class="btn" type="button" id="connect">Conectar MetaMask · solo lectura</button><p id="status" class="status" role="status" aria-live="polite">Aún no conectada. Se requiere MetaMask en tu navegador.</p>
+<details id="brave-help" class="notice" style="margin:12px 0 18px">
+<summary style="cursor:pointer;font-weight:750">¿MetaMask dice que ya hay una solicitud pendiente? Solución para Brave</summary>
+<ol style="padding-left:20px">
+<li>No vuelvas a pulsar Conectar. Abre MetaMask, revisa las notificaciones pendientes y acepta únicamente mostrar tu dirección, nunca firmar ni transferir.</li>
+<li>Si no hay notificación, abre otra pestaña en Brave, pega <code>brave://settings/wallet</code> en la barra de direcciones y busca la configuración de billetera predeterminada para Ethereum.</li>
+<li>Selecciona <b>Extensiones (sin respaldo)</b> / <b>Extensions (no fallback)</b>, NO Brave Wallet. Cierra todas las ventanas de Brave, vuelve a abrirlo y regresa a APEX.</li>
+<li>Abre MetaMask primero, después pulsa Conectar en APEX <b>una sola vez</b>. Si continúa el error, revisa permisos de sitios conectados en MetaMask sin borrar datos.</li>
+</ol><small>No podemos cambiar los ajustes internos de Brave desde esta página. No reinstales ni compartas tus claves.</small>
+</details>
 <div class="grid"><div class="data"><small>Cuenta conectada</small><strong class="address" id="address">—</strong></div><div class="data"><small>Cadena EVM de MetaMask</small><strong id="chain">—</strong></div><div class="data"><small>Saldo nativo (hasta 6 decimales)</small><strong id="balance">—</strong></div><div class="data"><small>Variación desde la lectura anterior</small><strong id="change">—</strong></div></div>
 <p class="foot">Actualización aproximadamente cada 30 segundos mientras esta pestaña esté abierta. Las lecturas dependen de la disponibilidad y la red configurada en MetaMask. Un aumento de saldo no confirma que provenga de una recompensa ni acredita su origen.</p></section>
 <div class="notice">Seguridad: conectar MetaMask aquí solo autoriza mostrar la dirección y consultar el saldo nativo. No se guarda tu dirección en GitHub ni se envía a los servidores de APEX. MetaMask puede usar sus propios proveedores RPC para las consultas. Nunca compartas frases semilla o claves privadas.</div>
