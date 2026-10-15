@@ -101,3 +101,45 @@ for(const url of [
   document.getElementById('discovery').textContent='La exploración DeFi no está disponible ahora. Ningún resultado fue asumido.';
  }
 }
+
+
+async function loadConditionalLeads(){
+ const container=document.getElementById('conditional-leads');
+ if(!container)return;
+ for(const uri of [
+  'https://raw.githubusercontent.com/apxsolutionspe/Apex_Manager/main/apex-global-intelligence-swarm/feed/crypto-direct-leads.json',
+  './feed/crypto-direct-leads.json'
+ ]){
+  try{
+   const response=await fetch(uri,{cache:'no-store'});
+   if(!response.ok)throw Error('status');
+   const report=await response.json();
+   if(report.schema!=='apex-direct-crypto-leads-v1'||report.summary?.verified_income_usd!==0||
+    report.summary?.received_tokens!==0||!Array.isArray(report.data))throw Error('incompatible report');
+   container.replaceChildren();
+   for(const entry of report.data.slice(0,8)){
+    const panel=document.createElement('article');panel.className='item';
+    const header=document.createElement('h2');header.textContent=String(entry.title);
+    const pill=document.createElement('span');pill.className='pill';
+    pill.textContent='Elegibilidad personal y cupo sin verificar';
+    panel.append(pill,header);
+    panel.append(info('Anuncio',String(entry.announced_reward)),
+     info('Condiciones',Array.isArray(entry.conditions)?entry.conditions.join(' · '):'Por confirmar'),
+     info('Acreditación',String(entry.reward_location)),
+     info('Situación','No cobrada; no permite reclamar automáticamente'));
+    try{
+     const official=new URL(entry.official_url);
+     if(official.hostname==='www.binance.com'&&official.protocol==='https:'){
+      const link=document.createElement('a');link.href=official.href;link.rel='noopener noreferrer';
+      link.target='_blank';link.textContent='Consultar bases en Binance ↗';panel.append(link);
+     }
+    }catch{}
+    container.append(panel);
+   }
+   if(!report.data.length){container.textContent='No se dispone de anuncios oficiales con condiciones documentadas.';}
+   return;
+  }catch{}
+ }
+ container.textContent='El seguimiento de condiciones oficiales no está disponible actualmente.';
+}
+await loadConditionalLeads();
