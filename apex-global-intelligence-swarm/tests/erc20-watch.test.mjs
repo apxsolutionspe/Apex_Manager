@@ -46,3 +46,17 @@ test('RPC errors cannot be converted into fake receipts',async()=>{
 test('Do not accept more than 1000 events in bounded analysis',()=>{
  assert.throws(()=>classifyTransferLogs(Array(1001).fill(evt()),account),/Invalid log data/);
 });
+
+test('Watchlist covers five verified Ethereum ERC-20 contracts only',()=>{
+ assert.deepEqual(Object.keys(TOKEN_CONTRACTS).sort(),['DAI','LINK','UNI','USDC','USDT']);
+ assert.equal(new Set(Object.values(TOKEN_CONTRACTS)).size,5);
+ for(const contract of Object.values(TOKEN_CONTRACTS))assert.equal(validAddress(contract),true);
+});
+test('DAI, LINK and UNI incoming events are recognized without valuing or claiming tokens',()=>{
+ for(const key of ['DAI','LINK','UNI']){
+  const observation=classifyTransferLogs([evt({address:TOKEN_CONTRACTS[key]})],account);
+  assert.equal(observation.qualifyingIncomingEvents,1);
+  assert.match(observation.note,/does not prove a reward/);
+ }
+ assert.equal(classifyTransferLogs([evt({address:'0x'+'0'.repeat(40)})],account).qualifyingIncomingEvents,0);
+});
