@@ -65,6 +65,10 @@ export function reviewPriority(item,now=new Date()){
  if(status==='requires_capital_or_activity_review')return {score:0,group:'capital_or_trading',reason:'Deposit, trading or other capital may be required'};
  if(years.length&&Math.max(...years)<now.getUTCFullYear())
   return {score:0,group:'historical_reference',reason:'Title refers to a prior year; actual current eligibility unverified'};
+ // Announcing a governance reallocation, technical engine or proposal is not a
+ // publicly claimable benefit, even when its headline contains 'airdrop' or 'incentives'.
+ if(/re.designating|reallocat|liquidation engine|technical overview|protocol upgrade|fund allocation|ecosystem fund|governance|proposal|request for builders|developer quest/i.test(title))
+  return {score:2,group:'informational_not_passive',reason:'Governance, engineering or application news; no direct passive reward evidenced'};
  if(status==='manual_action_or_conditions')return {score:5,group:'manual_participation',reason:'Requires verification, work or selection'};
  const reward=/\bairdrop\b|token distribution|token allocation|\breward\b|\brecompensa\b/i.test(title);
  return {score:reward?20:8,group:'unverified_no_capital_evidence',
