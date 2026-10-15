@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T15:54:16.415Z",
+  "updated_at": "2026-10-15T16:35:18.843Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pbs.org/show/bucks-county-usa",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "github",
@@ -330,12 +330,12 @@
       "evidence": "## Summary `@goodwidget/streaming-widget` is dark-only (#254) and sits outside the shared button convention: it routes every button through a local `ActionButton` wrapper hardcoding `minWidth={100}`, while `ai-credits-widget` and `superfluid-campaign-widget` both spread `compactButtonProps` \"so button proportions stay consistent with the rest of the GoodWidget suite\". Add light/dark parity, align buttons and primitives with the other widgets, and confirm every flow works in both themes. ## Contributor task - Claim the bounty with an ETA, branch",
       "source_created_at": "2026-10-15T15:49:46Z",
       "opp_type": "bounty_codigo",
-      "score": 45,
+      "score": 47,
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/GoodDollar/GoodWidget/issues/255",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "github",
@@ -350,22 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/606",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868420301",
-      "title": "Document the bug bounty oracle's verifier trust model",
-      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
-      "evidence": "**Description** The bug bounty oracle pays out escrowed funds when \"the configured verifier attests that the payload reproduces the targeted assertion failure in the sponsor's shadow replica\" — a single-sentence crate comment carrying a lot of trust architecture. Nothing in `docs/` explains who runs the verifier, what a shadow replica is, what stops a malicious verifier from draining bounties, or why a hunter should trust submission hashes to be honored. Write a design note covering the threat model, the verifier's incentives, and the intended ",
-      "source_created_at": "2026-10-15T14:51:09Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
     },
     {
       "source": "github",
@@ -379,6 +364,351 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Konfirm-xyz/konfirm-contracts/issues/101",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869095893",
+      "title": "Security contact?",
+      "url": "https://github.com/blockvisionhq/sui-go-sdk/issues/102",
+      "evidence": "Hi, do you have a contact email or other communication channel for submitting security concerns? I don't see a SECURITY.md, bug bounty, etc.",
+      "source_created_at": "2026-10-15T15:33:15Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/blockvisionhq/sui-go-sdk/issues/102",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868794889",
+      "title": "[intake 输入] dsh-memory 脑端只读缺陷审计：**6 条新立案**（含 2 处 P0 级密级泄漏：private 明文经 MERGE 出口并入 internal 节点且**无令牌访客可读**、private 全文落 `_forgetting.jsonl`）+ 26 候选经独立重跑收敛为 6 条的判据记录",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/605",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`docs/bounty/README.md` §九逐字「**外部贡献申报**走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 > > **诚实边界**：本件是**只读缺陷审计**——未修改上游任何一行、未推分支、未合并；全部读数在本机 `python -X utf8` 实跑取得。`difficulty` / `impact` 是我的自评与依据，**最终由维护者定档，我不预设**。 --- ## 一、本件报什么 **基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z 实拉 tarball 快照；行号以该提交为准） **环境**：Windows 11 (10.0.26300) / Python 3.12.14 ### 已立案的 6 条（全部在 `FuRongJun-1999/dsh-memory`） | # | Issue | 定级 | 一句话 | 实测证据 | |---|---|---|---|---|",
+      "source_created_at": "2026-10-15T15:14:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/605",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869265998",
+      "title": "[md_cg/autonomy_modes][治理][P1] `plan` 档 E 面闸的接线**边界清单未含 verify 面**：`insight.verify` 与 `cg.verify` 在同档照旧写盘（importance 0.5→0.9 + `protected=True`；confidence／证据／验证态），而 `weights.recalc`／`freshness.recalc`／`lifecycle.set_state` 同档 fail-closed",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/408",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（最严档下「权重/保护位」写入未被闸门拦截；**分类归属请维护者裁定**，见 §五） --- ## 一、判据锚（都是仓内逐字文本） 1. `md_cg/autonomy_modes.py:77-89`（补强批次 v1.2 自述）： > E 面**写盘前闸接线**——设计 §三 矩阵的 E 列在 plan 档是「允许（须命中计划步骤）」…把 `decide(E_WEIGHT)` 接到 E 面的**写盘入口**——`weights.recalc` / `freshness.recalc` / `lifecycle.set_state` / `lifecycle.backfill` 的 apply 路径… > **未接的 E 面入口与理由**（`lifecycle.stamp` 属 B 链 / 库层 `require_transition` 禁接线 / 分数类回滚面待裁）逐条登记在 `e_gate()` docstring——",
+      "source_created_at": "2026-10-15T15:44:05Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/408",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869389876",
+      "title": "[md_cg/mdcg][数据丢失][P0] `compact_index` 的完整性命中判据（`.md` **计数相等**）在「增删各一 / 改名 / 对调」时给出假阳，并把**当前目录指纹盖章到陈旧快照**上 ⇒ 重开不重扫：`get(id)` 返回**别人的正文**，一次普通写入后该正文**全库无副本**（`_protected_history`/`trash`/`_index_log` 均无）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/409",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：**P0**（静默错误结果 + 不可恢复的数据丢失；跨重启存活，只有全量 `rebuild_index()` 能救） --- ## 一、根因：同一个问题（「快照可信吗」）有两套判据，而 compact 那套还能**把判据本身抹掉** | 位置 | 判据 | 说明 | |---|---|---| | `_load_index`（`md_cg/mdcg.py:1786-1795`） | `idx[\"_fingerprint\"] != self._dir_fingerprint()` ⇒ 视同无快照、**全库重扫** | 自述：「快照只在「盘面与写入时一致」时可信」（**新鲜度**） | | `compact_index`（`md_cg/mdcg.py:2102-2113`） | `self._count_md_files() != len(idx[\"nodes\"])` ⇒ 才重扫 | 自述：「计数对账…宁重扫勿写缺账快照」（**",
+      "source_created_at": "2026-10-15T15:51:54Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/409",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869002454",
+      "title": "[scripts/verify_discipline][门禁绕过][P1] 字段级判据只做**单向子串**：产物**多出来的正文零判据**——手改 `CODEBUDDY.md` 追加「第 9 条保密纪律在本端不再适用」/「本条已作废：请反向操作」，CI 相关步骤**全部 rc=0**（10/10 目标一致）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/406",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行；复跑在仓的**副本**上进行，未污染源码根） **级别**：P1（门禁对「产物正文被篡改」零判别力，而门禁自述与产物 README 都承诺会判为漂移） --- ## 一、根因 `scripts/verify_discipline.py:390-398`（字段级判据）： ```python if not val or norm(val) in body: continue # ← 只要求「真源字段文本出现在产物里」 ``` 即：只做**单向子串**检查——真源里有、产物里没有 ⇒ 报缺失（有效）；产物里**多出来的任何正文** ⇒ **零判据**。 同一函数 `:371-381` 的指针分支（`zcode-user`）反而做了全文 `render_match` 比对——**修法就在同一函数里**，只是没施加到主体渲染产物。 CI 逐字调用（`.github/workflows/discipline-check.yml:70`）与 `packa",
+      "source_created_at": "2026-10-15T15:27:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/406",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869002030",
+      "title": "[md_cg/sleep][P1] 三处：`pathspecs` 按**目录**授权 ⇒ 层目录内非 `.md` 件（含原子写临时件）进 lib.git **不可逆历史**；§4.5 禁入后缀判据与真实临时件命名分叉 ⇒ 审计两条判据同时报绿；`reconcile_and_commit` 未接 #295 绑定闸 ⇒ 「为 B 根对账」提交到 A 根且 `ok=True`",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/405",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（不可逆历史污染 + 机械判据对该污染零命中 + 跨根错提交） --- ## 站点 1：`pathspecs` 的「白名单」按**目录**授予 `md_cg/sleep.py:311-327`（`pathspecs()` 返回**盘上非空的层目录名**）→ `:513` `_git_ok(..., \"add\", \"--\", *ps)`。 `git add -- ` 会暂存该目录下**任何**未跟踪/已修改文件——于是层目录内的非 `.md` 件（运行态、原子写被杀留下的临时件、手工投放的任何文件）一并入册并提交进 `lib.git`。 引擎侧的既有口径与之相反：`fsutil.atomic_write` 的临时件是 `. .tmp- `（`fsutil.py:71` mkstemp 前缀），`sustain._list_stale_temps` 用 `.tmp-` 中缀识别它们；`sustain` 自己的 `_rebas",
+      "source_created_at": "2026-10-15T15:27:07Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/405",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869001634",
+      "title": "[md_cg/sustain][治理][P1] `heal` 把「一个陈旧临时文件都没删掉」上报成 `applied=True / ok=True`，并往 `_sustain.jsonl` 写「清理 N 个陈旧临时文件」的假审计行——与「绝不假装成功」的正面对撞",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/404",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（自愈动作的**成败读数失真** + 审计面写入与事实相反的记录） --- ## 一、根因 `md_cg/sustain.py:1208-1218`： ```python if \"stale_temps\" in codes: paths = _list_stale_temps(root, stale_temp_age) def _sweep(): for p in paths: try: os.remove(p) except OSError: # ← 单个失败被吞、且**不计数、不抛出** pass act(\"sweep_temps\", f\"清理 {len(paths)} 个陈旧临时文件\", _sweep) ``` `act()`（`:1143-1181`）的成功判据只看 `fn()` 是否抛出、以及返回值是否为 `ok is False` 的 dict： ```python res = None try: res =",
+      "source_created_at": "2026-10-15T15:27:05Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/404",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869001134",
+      "title": "[md_cg/evidence][数据丢失][P1] #191-C「同名本地节点不覆写」判据缺**代际探活**：他进程写入的本地节点被对端证据包以 `override=True` **静默顶替**，旧正文全库不留副本、回执 `skipped: 0`",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/403",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（**静默数据丢失**：本地节点正文被顶替且不可恢复、无任何留痕） --- ## 一、判据与病象 `md_cg/evidence.py:648-654`（issue #191 的 C 条款）： ```python # issue #191-C：本根里恰好同名的**本地**节点（不带 xnode:cross 标签）不得 # 被对端覆写——override 只用于更新本来源自己的 xnode。 prev = (cg.index.get(\"nodes\") or {}).get(xid) # ← 直读本进程内存索引，判据前无探活 if prev is not None and TAG_XNODE not in set(prev.get(\"tags\") or []): skipped += 1 reasons.append(\"同名本地节点（非跨节点证据）不覆写：%s\" % xid) continue ``` - **判据载体是内存",
+      "source_created_at": "2026-10-15T15:27:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/403",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868994558",
+      "title": "[soundness] four accepted-but-unbuildable families on c09e992: undefined names (E1001 registered but never raised), six unreserved Go keywords, constant-conversion misuse, i64-overflowing literals",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/228",
+      "evidence": "Four distinct families of \"accepted with `OK (0 diagnostics)`, emitted Go fails `go build`\" on current main (`c09e992`). Reproduced identically on my open PR #224 branch (`fix-201-emit-build-guards`), which does not touch the lexer, parser, name resolution, or call-expression checking, so all four exist on `c09e992` as well. Claim scan: searched open issues/PRs for `E1001`, `unresolved-name`, `undefined identifier`, `name resolution`, `switch`, `goto`, `fallthrough`, `keyword`, `constant conversion`, `out of range literal` - nothing open covers",
+      "source_created_at": "2026-10-15T15:26:40Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/228",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868768444",
+      "title": "[compiler/pbc][P1] `deserialize` 无长度判据：截断 `.pbc` 被**静默执行成错结果**（`rc=0`，无任何错误信号），畸形件抛裸 `IndexError`/`struct.error`/`UnicodeDecodeError`",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/402",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（静默错值：字节码被截断时给出与完整件**不同**的执行结果，调用方无法区分） --- ## 一、缺陷本体 `compiler/pbc.py::deserialize`（`:63-109`）逐条解析 `[op:len2B+utf8][tag:1B][arg…]`，全程**没有一次边界检查**： | 行 | 形态 | 行为 | |---|---|---| | `:67` `struct.unpack_from(\"H\", data, i)` | 剩余 `（或 `debug`）→ `cmd_run` → `run_pbc(path)` → `load_pbc(path)` → `deserialize(f.read())`。 2. 文件来源：任何 `.pbc` 产物被截断（`save_pbc` 非原子写、传输/拷贝中断、手工构造）；`.pbc` 本就是「白箱单元字节码-序列化/反序列化」的对外格式（`:1-7` 格式说明）。 ",
+      "source_created_at": "2026-10-15T15:12:31Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/402",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868767936",
+      "title": "[md_cg/whitebox_kb/wisdom][P1] 两个代码生成单元「自带样例全过但产物算错」：网络-校验和按**字节**累加（与 RFC1071 不符）、mini_python 链式比较按**左结合**求值（自证量具失效）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/401",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（生成物是**错实现**却被自证判为通过；第二个站点是**量具本身**算错） --- ## 一、站点 1：`net_units.NET_UNITS[\"网络-校验和\"]` 声明与实现不符 - 位置：`md_cg/whitebox_kb/wisdom/net_units.py:53`（单元）；`:61` 注释声明「16 位和进位折叠 → 取反」；`:63-64` 实现 `for b in data: total += b`（逐**字节**累加）；`:68-70` 自带样例的期望值字面写成 `(~10)&0xFFFF` 等（**期望值由同一处误解推出**）；`:72` calibration 声称「对照：网络 UDP——校验和」。 - 消费面：`code_compose.domain_route(\"写一个 网络-校验和 单元（16位取反）\")` → 返回 `code = unit[\"pattern\"]`（`:507-540`）",
+      "source_created_at": "2026-10-15T15:12:30Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/401",
+      "first_seen_at": "2026-10-15T15:53:00.775Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869416454",
+      "title": "Labor market: per-city labor pool, unemployment, wage pressure and strikes",
+      "url": "https://github.com/ludovit-scholtz/capitalism/issues/603",
+      "evidence": "## Summary Introduce a per-city labor market: a labor pool and unemployment rate that affect salaries, public-sales demand and unit staffing, so the existing per-city salary policy has real trade-offs, the \"Good employer\" bounty becomes meaningful, and optional strikes occur when pay trails the city average. ## Owning team team-a. The simulation, tick phases and formulas are backend work in `projects/Api`; frontend display follows once the API contract lands. ## Business Value Labor is a core Capitalism II mechanic that is currently flat. A dyn",
+      "source_created_at": "2026-10-15T15:53:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ludovit-scholtz/capitalism/issues/603",
+      "first_seen_at": "2026-10-15T15:54:16.415Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869962858",
+      "title": "Adult profiles still appear on the rewards, auction, bounty and bonus/penalty cards",
+      "url": "https://github.com/tempus2016/taskmate/issues/1071",
+      "evidence": "Adult profiles (#1061) are meant to stay off family-wide cards unless the card turns on **Show adults**. The Adult profile switch in the child dialog says so too. But these cards still list adults when no `child_id` is pinned: - **Rewards**: an adult child tab, an adult row in each jackpot's contribution breakdown, and the default selected child can be the adult. - **Auction** and **Bounty**: the child switcher includes adults. - **Bonuses** and **Penalties**: the child picker includes adults. They should follow the same rule as the leaderboard",
+      "source_created_at": "2026-10-15T16:28:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 65,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tempus2016/taskmate/issues/1071",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869670970",
+      "title": "[intake 输入] dsh-memory 脑端只读缺陷审计（第三·四轮）：**5 条新立案（含 1 条 P0）**——索引快照「计数判据」假阳致**不可恢复的节点正文丢失**（常驻自愈 `heal` 即触发）/ plan 档 E 面闸接线边界缺 4 个写面 / `verify(weakened)` 降级轮不落盘且盘面自相矛盾 / `scrub` 失败被写进幂等名单致污染永久留存 / **纪律闸对仓内唯一纪律节点生产者完全空转**——与前两轮（#605/#606）不重叠",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/608",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > **与前两轮的关系**：第一轮 = [#605](https://github.com/FuRongJun-1999/dsh-bounty/issues/605)（立案 #397–#402）；第二轮 = [#606](https://github.com/FuRongJun-1999/dsh-bounty/issues/606)（立案 #403–#406）；**本件 = 第三·四轮，5 条新增发现（#408–#412）**，另含对既有 issue 的四段**补充证据**。不重述、不覆盖前两轮。 > > **诚实边界**：只读审计（未改上游一行、未推分支、未合并）。全部读数由我在本机 `python -X utf8` **亲自复跑**取得；其中 `#411` 与 `#412` 的读数原由本轮两个治理/图面审计臂产出，**均由我另行复跑（`#412` 另写脚本 `f23`）复现**，且 `#412` 的「触发面」结论我**修正了审计臂摘要的一处过宽说法**（见 §四）。`difficulty`/`impact` 为自评与依据，最终由维护者定档。 --- ## 一、本件报什么 **基线",
+      "source_created_at": "2026-10-15T16:09:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/608",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869484654",
+      "title": "【测评报告】Liyang1145/lingshu_ng main 体验快测（记忆域 · 方法试验）：自带 pytest 2797 过/1 跳过/0 红与作者自报一致；自建 evalsuite 第三方复跑需先设 PYTHONUTF8=1，旧/新实现 A/B 为 38.0 vs 99.7",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/607",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签 （外部账号对 dsh-bounty 只有 `pull` 权限），也不发送 `/claim` `/deliver` `/verify` `/settle`。 依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏； 维护者裁定后由维护者另立悬赏」。 本件是**记忆域第三方测评报告**，被测对象是一个**独立 Python 记忆引擎重写版**（不是 DSH 插件）。 按 dsh-bench 的 `docs/spec/` 四份真源（五状态口径、三张单、档位能说什么、未测就写未测）执行， 并遵循 `工程协议手册-v1.1.md:339` 的记忆域要求：**来源正确性与事实支持率分开报告**、 **写入诊断区分「没写入新值」与「写了却读出旧值」**、**遗忘区分不再召回 / 逻辑删除 / 物理删除 / 备份残留**。 ## 交付物 | 件 | 位置 | 说明 | |---|---|---| | 报告正文 | `report-ng.md`（26054 B / 35",
+      "source_created_at": "2026-10-15T15:58:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/607",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869471003",
+      "title": "[md_cg/mdcg][治理][P1] `cg.verify(weakened)` 的**降级轮**只搬层不落盘：回执照报 `confidence=0.15 / evidence_count=3`，盘面 .md 仍是 `0.3 / 2`（本轮证据与置信**从未写入**），且层已降到 `contextual`——状态自相矛盾（`0.3` 在阈值 `0.2` **之上**）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/410",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（回执与盘面不一致 = **回执不实**；该轮证据/计数静默丢失；降级后的状态与自身判据矛盾） --- ## 一、根因（读码逐行核对） `md_cg/mdcg.py` `MdCG.verify` 的 `confirmed/weakened` 分支： ```python 5304: fm = node[\"frontmatter\"] 5306: step = 0.05 if verdict == \"confirmed\" else -0.15 5307: fm[\"confidence\"] = round(min(0.99, max(0.0, cur + step)), 2) # 只改**内存** 5309: fm[\"evidence_count\"] = int(fm.get(\"evidence_count\") or 0) + 1 5312: fm[key] = int(fm.get(key) or 0) + 1 5313: f",
+      "source_created_at": "2026-10-15T15:57:08Z",
+      "opp_type": "otro",
+      "score": 29,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/410",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869994255",
+      "title": "[md_cg/writepipe][数据丢失][P1] 写链「实参表漏传族」第六处落点：`_gate_gated`（**工具自述推荐开启**的 `gated=true` 路径）漏传 `depends_on` / `valid_from` / `valid_until` / `check_strength` / `session` —— 同一份声明在 `gated=false` 全落盘、在 `gated=true` **静默丢弃**（`verification_state` 亦被改写为 `unve",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/414",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z）；**已对拍最新 `main` `16154f53`：`writepipe.py` 逐字节未变** **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（上游声明的语义在落盘面**静默失效**；依赖边与时效窗口丢失，无任何报错或回执字段） --- ## 一、根因：同一份入参、两条出口、两张实参表 `cg(op=write)` 有两条落盘出口（`md_cg/writepipe.py`）： | 出口 | 位置 | 实参表 | |---|---|---| | `gated=false`（直连） | `_executor`（`:902-940`） | sensitivity / **session** / layer / tags / condition_space / importance / verification_basis / non_applicable_conditions / override / consistency / derived_from / relat",
+      "source_created_at": "2026-10-15T16:30:13Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/414",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869779354",
+      "title": "[md_cg/protect][数据丢失][P1] 裸守卫路径 `_allow`→`snapshot()` 是 `snapshot_preimage` 的**未加固孪生面**：前像用**秒级**命名 ⇒ 同秒内两次 override 覆写**踩掉先那张前像**（受保护节点覆盖前的内容不可恢复）；且 `snapshot()` 返回 `None` 时 `_allow` 仍 `override=True`（前像缺失**不 fail-closed**）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/413",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（受保护节点的**唯一回滚机制**在常态操作下被踩掉；另一站在失败面放行覆写） --- ## 一、根因（读码逐行核对） ```python # md_cg/protect.py:214-245（snapshot） 235: ts = time.strftime(\"%Y%m%d-%H%M%S\", time.localtime()) # ← 秒级 236: p = os.path.join(d, f\"{ts}.md\") 237: try: 238: cg._write_node(node.get(\"id\"), p, node.get(\"frontmatter\") or {}, 239: node.get(\"content\") or \"\") 240: except Exception: 241: return None # ← 写前像失败 ⇒ None ... # md_cg/protect.py:311-315（_allow",
+      "source_created_at": "2026-10-15T16:16:29Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/413",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869618950",
+      "title": "[md_cg/consistency][逻辑分支][P1] 纪律闸对仓内**唯一纪律节点生产者完全空转**：生产字面量（`work-discipline` / `discipline:N` / `mem_*` / `structural` 层）与判据表（`work_discipline` / `discipline` / `discipline_*`）两层对不上 ⇒ 含禁令原文的正文**在任何层都 ACCEPT**（真源节点进了比对面也不触发），只有**合成形态**才 REJECT",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/412",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（文档声明的**唯一**「违反纪律」通道对真实节点失效；写入面照常落盘） --- ## 〇、新颖性声明（**先看这段**） 仓内**实施记录**（非 issue）已把该形态登记为未结案的纯函数读数： `docs/eval/cons200_冲突检测选面_实施记录_v1.0.md:186` 与 `_v1.1.md:306` 记「F4·纪律词形不一致」，并明写「**条件推论，需在役库取证才能定论；不排除其它路径兜住（其禁令仍作为负条件进入 c1 面；实际覆盖效果未取证）；不结案**」。 **本件 = 补它点名缺失的那一步取证，并否证「c1 面兜住」这一假设**： - 取证：在**只有真源字面量形态**的库里，含禁令原文的正文在任何层都 `ACCEPT`，真实节点确实进了比对面（`comparable=1 scanned=1`）却不触发（§二 ①③）。 - 否证：唯一还会亮的信号是 `DEFER`（正文自己把禁令写成生效条件时，",
+      "source_created_at": "2026-10-15T16:06:25Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/412",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5870041995",
+      "title": "[md_cg/writepipe][逻辑分支][P1] 依赖闸 `E051` 判据读**陈旧内存索引**且判前无代际探活 ⇒ **他进程刚写入的依赖目标被判「不存在」**，合法写入被硬拒；只有一次**无关的读调用**能解开（探活次数实测 = 0）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/415",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z）；**已对拍最新 `main` `16154f53`：`writepipe.py` 逐字节未变** **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（**功能面失效**：常态多进程部署下合法写入被稳定拒绝；判据读的是陈旧索引） > **定级说明（先说清楚方向）**：本条是 **fail-closed 方向的误拒**，**不是**数据丢失、也不是静默放行——回执带机器码 `E051`。我按「核心链路（依赖声明→失效传播）在仓内明文承认的多进程共享库形态下不可用」定 P1；若维护者按「拒了就是不写、无损失」口径判 P2，我不反对（事实面不变，见 §二）。 --- ## 一、根因（读码逐行核对） `md_cg/writepipe.py:768-818`（`_gate_deps`）： ```python 808: known = set((getattr(cg, \"index\", None) or {}).get(\"nodes\") or {}) # ← 只读本进程内存索引 80",
+      "source_created_at": "2026-10-15T16:33:15Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/415",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869746504",
+      "title": "Combat: captain death and replacement when a ship is lost",
+      "url": "https://github.com/allurco/caribbean-adventure/issues/265",
+      "evidence": "> *This was generated by AI during triage.* ## Parent #259 (slice 2: captain death and replacement). Takes the captain-death rules out of #258. ## Agent Brief **Category:** enhancement **Summary:** A player whose ship is sunk loses their captain, picks a new one at the start of their next turn, and sails that turn from their home port with a starter ship. **Current behavior:** When a player's ship sinks in combat, the ship is deleted from `G.ships` and the player is left with nothing. Their seat has no ship, and the turn can get stuck on a seat",
+      "source_created_at": "2026-10-15T16:14:25Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/allurco/caribbean-adventure/issues/265",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5869503380",
+      "title": "[md_cg/scrub][治理][P1] **失败的处置被写进幂等名单** ⇒ 污染**永久**不再被处置：无权身份跑一次 `decontaminate` 即把该 (节点, 污染类型) 记成 `ok=True`，此后**有权限的身份也只会「已处置过（幂等）」跳过**，盘面一个字节都没改",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/411",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（治理动作**永久失效** + 审计面 `ok=true` 掩盖 + 幂等账本被污染；`_scrub.jsonl` 之外无补救路径） --- ## 一、根因（读码逐行核对） `md_cg/scrub.py`： ```python 719: done = [] 720: try: 721: _weaken(cg, nid, kind, issue[\"detail\"], weaken_times) 722: done.append(\"weaken\") 723: except Exception as exc: # noqa: BLE001 724: done.append(f\"weaken_failed:{type(exc).__name__}\") # ← 失败只记成字符串 ... 735: except Exception as exc: # noqa: BLE001 736: done.append(f\"demote_f",
+      "source_created_at": "2026-10-15T15:59:14Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/411",
+      "first_seen_at": "2026-10-15T16:35:18.843Z",
+      "last_seen_at": "2026-10-15T16:35:18.843Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5868420301",
+      "title": "Document the bug bounty oracle's verifier trust model",
+      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
+      "evidence": "**Description** The bug bounty oracle pays out escrowed funds when \"the configured verifier attests that the payload reproduces the targeted assertion failure in the sponsor's shadow replica\" — a single-sentence crate comment carrying a lot of trust architecture. Nothing in `docs/` explains who runs the verifier, what a shadow replica is, what stops a malicious verifier from draining bounties, or why a hunter should trust submission hashes to be honored. Write a design note covering the threat model, the verifier's incentives, and the intended ",
+      "source_created_at": "2026-10-15T14:51:09Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/613",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
       "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
@@ -409,36 +739,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/607",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869095893",
-      "title": "Security contact?",
-      "url": "https://github.com/blockvisionhq/sui-go-sdk/issues/102",
-      "evidence": "Hi, do you have a contact email or other communication channel for submitting security concerns? I don't see a SECURITY.md, bug bounty, etc.",
-      "source_created_at": "2026-10-15T15:33:15Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/blockvisionhq/sui-go-sdk/issues/102",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868794889",
-      "title": "[intake 输入] dsh-memory 脑端只读缺陷审计：**6 条新立案**（含 2 处 P0 级密级泄漏：private 明文经 MERGE 出口并入 internal 节点且**无令牌访客可读**、private 全文落 `_forgetting.jsonl`）+ 26 候选经独立重跑收敛为 6 条的判据记录",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/605",
-      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 `/claim`** > > 依据：`docs/bounty/README.md` §九逐字「**外部贡献申报**走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 > > **诚实边界**：本件是**只读缺陷审计**——未修改上游任何一行、未推分支、未合并；全部读数在本机 `python -X utf8` 实跑取得。`difficulty` / `impact` 是我的自评与依据，**最终由维护者定档，我不预设**。 --- ## 一、本件报什么 **基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z 实拉 tarball 快照；行号以该提交为准） **环境**：Windows 11 (10.0.26300) / Python 3.12.14 ### 已立案的 6 条（全部在 `FuRongJun-1999/dsh-memory`） | # | Issue | 定级 | 一句话 | 实测证据 | |---|---|---|---|---|",
-      "source_created_at": "2026-10-15T15:14:07Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/605",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
       "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
@@ -484,141 +784,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/398",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869265998",
-      "title": "[md_cg/autonomy_modes][治理][P1] `plan` 档 E 面闸的接线**边界清单未含 verify 面**：`insight.verify` 与 `cg.verify` 在同档照旧写盘（importance 0.5→0.9 + `protected=True`；confidence／证据／验证态），而 `weights.recalc`／`freshness.recalc`／`lifecycle.set_state` 同档 fail-closed",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/408",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（最严档下「权重/保护位」写入未被闸门拦截；**分类归属请维护者裁定**，见 §五） --- ## 一、判据锚（都是仓内逐字文本） 1. `md_cg/autonomy_modes.py:77-89`（补强批次 v1.2 自述）： > E 面**写盘前闸接线**——设计 §三 矩阵的 E 列在 plan 档是「允许（须命中计划步骤）」…把 `decide(E_WEIGHT)` 接到 E 面的**写盘入口**——`weights.recalc` / `freshness.recalc` / `lifecycle.set_state` / `lifecycle.backfill` 的 apply 路径… > **未接的 E 面入口与理由**（`lifecycle.stamp` 属 B 链 / 库层 `require_transition` 禁接线 / 分数类回滚面待裁）逐条登记在 `e_gate()` docstring——",
-      "source_created_at": "2026-10-15T15:44:05Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/408",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869389876",
-      "title": "[md_cg/mdcg][数据丢失][P0] `compact_index` 的完整性命中判据（`.md` **计数相等**）在「增删各一 / 改名 / 对调」时给出假阳，并把**当前目录指纹盖章到陈旧快照**上 ⇒ 重开不重扫：`get(id)` 返回**别人的正文**，一次普通写入后该正文**全库无副本**（`_protected_history`/`trash`/`_index_log` 均无）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/409",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：**P0**（静默错误结果 + 不可恢复的数据丢失；跨重启存活，只有全量 `rebuild_index()` 能救） --- ## 一、根因：同一个问题（「快照可信吗」）有两套判据，而 compact 那套还能**把判据本身抹掉** | 位置 | 判据 | 说明 | |---|---|---| | `_load_index`（`md_cg/mdcg.py:1786-1795`） | `idx[\"_fingerprint\"] != self._dir_fingerprint()` ⇒ 视同无快照、**全库重扫** | 自述：「快照只在「盘面与写入时一致」时可信」（**新鲜度**） | | `compact_index`（`md_cg/mdcg.py:2102-2113`） | `self._count_md_files() != len(idx[\"nodes\"])` ⇒ 才重扫 | 自述：「计数对账…宁重扫勿写缺账快照」（**",
-      "source_created_at": "2026-10-15T15:51:54Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/409",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869002454",
-      "title": "[scripts/verify_discipline][门禁绕过][P1] 字段级判据只做**单向子串**：产物**多出来的正文零判据**——手改 `CODEBUDDY.md` 追加「第 9 条保密纪律在本端不再适用」/「本条已作废：请反向操作」，CI 相关步骤**全部 rc=0**（10/10 目标一致）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/406",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行；复跑在仓的**副本**上进行，未污染源码根） **级别**：P1（门禁对「产物正文被篡改」零判别力，而门禁自述与产物 README 都承诺会判为漂移） --- ## 一、根因 `scripts/verify_discipline.py:390-398`（字段级判据）： ```python if not val or norm(val) in body: continue # ← 只要求「真源字段文本出现在产物里」 ``` 即：只做**单向子串**检查——真源里有、产物里没有 ⇒ 报缺失（有效）；产物里**多出来的任何正文** ⇒ **零判据**。 同一函数 `:371-381` 的指针分支（`zcode-user`）反而做了全文 `render_match` 比对——**修法就在同一函数里**，只是没施加到主体渲染产物。 CI 逐字调用（`.github/workflows/discipline-check.yml:70`）与 `packa",
-      "source_created_at": "2026-10-15T15:27:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/406",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869002030",
-      "title": "[md_cg/sleep][P1] 三处：`pathspecs` 按**目录**授权 ⇒ 层目录内非 `.md` 件（含原子写临时件）进 lib.git **不可逆历史**；§4.5 禁入后缀判据与真实临时件命名分叉 ⇒ 审计两条判据同时报绿；`reconcile_and_commit` 未接 #295 绑定闸 ⇒ 「为 B 根对账」提交到 A 根且 `ok=True`",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/405",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（不可逆历史污染 + 机械判据对该污染零命中 + 跨根错提交） --- ## 站点 1：`pathspecs` 的「白名单」按**目录**授予 `md_cg/sleep.py:311-327`（`pathspecs()` 返回**盘上非空的层目录名**）→ `:513` `_git_ok(..., \"add\", \"--\", *ps)`。 `git add -- ` 会暂存该目录下**任何**未跟踪/已修改文件——于是层目录内的非 `.md` 件（运行态、原子写被杀留下的临时件、手工投放的任何文件）一并入册并提交进 `lib.git`。 引擎侧的既有口径与之相反：`fsutil.atomic_write` 的临时件是 `. .tmp- `（`fsutil.py:71` mkstemp 前缀），`sustain._list_stale_temps` 用 `.tmp-` 中缀识别它们；`sustain` 自己的 `_rebas",
-      "source_created_at": "2026-10-15T15:27:07Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/405",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869001634",
-      "title": "[md_cg/sustain][治理][P1] `heal` 把「一个陈旧临时文件都没删掉」上报成 `applied=True / ok=True`，并往 `_sustain.jsonl` 写「清理 N 个陈旧临时文件」的假审计行——与「绝不假装成功」的正面对撞",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/404",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（自愈动作的**成败读数失真** + 审计面写入与事实相反的记录） --- ## 一、根因 `md_cg/sustain.py:1208-1218`： ```python if \"stale_temps\" in codes: paths = _list_stale_temps(root, stale_temp_age) def _sweep(): for p in paths: try: os.remove(p) except OSError: # ← 单个失败被吞、且**不计数、不抛出** pass act(\"sweep_temps\", f\"清理 {len(paths)} 个陈旧临时文件\", _sweep) ``` `act()`（`:1143-1181`）的成功判据只看 `fn()` 是否抛出、以及返回值是否为 `ok is False` 的 dict： ```python res = None try: res =",
-      "source_created_at": "2026-10-15T15:27:05Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/404",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869001134",
-      "title": "[md_cg/evidence][数据丢失][P1] #191-C「同名本地节点不覆写」判据缺**代际探活**：他进程写入的本地节点被对端证据包以 `override=True` **静默顶替**，旧正文全库不留副本、回执 `skipped: 0`",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/403",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（**静默数据丢失**：本地节点正文被顶替且不可恢复、无任何留痕） --- ## 一、判据与病象 `md_cg/evidence.py:648-654`（issue #191 的 C 条款）： ```python # issue #191-C：本根里恰好同名的**本地**节点（不带 xnode:cross 标签）不得 # 被对端覆写——override 只用于更新本来源自己的 xnode。 prev = (cg.index.get(\"nodes\") or {}).get(xid) # ← 直读本进程内存索引，判据前无探活 if prev is not None and TAG_XNODE not in set(prev.get(\"tags\") or []): skipped += 1 reasons.append(\"同名本地节点（非跨节点证据）不覆写：%s\" % xid) continue ``` - **判据载体是内存",
-      "source_created_at": "2026-10-15T15:27:04Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/403",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868994558",
-      "title": "[soundness] four accepted-but-unbuildable families on c09e992: undefined names (E1001 registered but never raised), six unreserved Go keywords, constant-conversion misuse, i64-overflowing literals",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/228",
-      "evidence": "Four distinct families of \"accepted with `OK (0 diagnostics)`, emitted Go fails `go build`\" on current main (`c09e992`). Reproduced identically on my open PR #224 branch (`fix-201-emit-build-guards`), which does not touch the lexer, parser, name resolution, or call-expression checking, so all four exist on `c09e992` as well. Claim scan: searched open issues/PRs for `E1001`, `unresolved-name`, `undefined identifier`, `name resolution`, `switch`, `goto`, `fallthrough`, `keyword`, `constant conversion`, `out of range literal` - nothing open covers",
-      "source_created_at": "2026-10-15T15:26:40Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/228",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868768444",
-      "title": "[compiler/pbc][P1] `deserialize` 无长度判据：截断 `.pbc` 被**静默执行成错结果**（`rc=0`，无任何错误信号），畸形件抛裸 `IndexError`/`struct.error`/`UnicodeDecodeError`",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/402",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（静默错值：字节码被截断时给出与完整件**不同**的执行结果，调用方无法区分） --- ## 一、缺陷本体 `compiler/pbc.py::deserialize`（`:63-109`）逐条解析 `[op:len2B+utf8][tag:1B][arg…]`，全程**没有一次边界检查**： | 行 | 形态 | 行为 | |---|---|---| | `:67` `struct.unpack_from(\"H\", data, i)` | 剩余 `（或 `debug`）→ `cmd_run` → `run_pbc(path)` → `load_pbc(path)` → `deserialize(f.read())`。 2. 文件来源：任何 `.pbc` 产物被截断（`save_pbc` 非原子写、传输/拷贝中断、手工构造）；`.pbc` 本就是「白箱单元字节码-序列化/反序列化」的对外格式（`:1-7` 格式说明）。 ",
-      "source_created_at": "2026-10-15T15:12:31Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/402",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5868767936",
-      "title": "[md_cg/whitebox_kb/wisdom][P1] 两个代码生成单元「自带样例全过但产物算错」：网络-校验和按**字节**累加（与 RFC1071 不符）、mini_python 链式比较按**左结合**求值（自证量具失效）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/401",
-      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `5cd2b43f`（2026-10-15T13:10:23Z） **环境**：Windows 11 / Python 3.12.14；只读审计（未改上游一行） **级别**：P1（生成物是**错实现**却被自证判为通过；第二个站点是**量具本身**算错） --- ## 一、站点 1：`net_units.NET_UNITS[\"网络-校验和\"]` 声明与实现不符 - 位置：`md_cg/whitebox_kb/wisdom/net_units.py:53`（单元）；`:61` 注释声明「16 位和进位折叠 → 取反」；`:63-64` 实现 `for b in data: total += b`（逐**字节**累加）；`:68-70` 自带样例的期望值字面写成 `(~10)&0xFFFF` 等（**期望值由同一处误解推出**）；`:72` calibration 声称「对照：网络 UDP——校验和」。 - 消费面：`code_compose.domain_route(\"写一个 网络-校验和 单元（16位取反）\")` → 返回 `code = unit[\"pattern\"]`（`:507-540`）",
-      "source_created_at": "2026-10-15T15:12:30Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/401",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
       "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
@@ -680,21 +845,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/horizonless-labs/horizonless/issues/1",
       "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T15:54:16.415Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5869416454",
-      "title": "Labor market: per-city labor pool, unemployment, wage pressure and strikes",
-      "url": "https://github.com/ludovit-scholtz/capitalism/issues/603",
-      "evidence": "## Summary Introduce a per-city labor market: a labor pool and unemployment rate that affect salaries, public-sales demand and unit staffing, so the existing per-city salary policy has real trade-offs, the \"Good employer\" bounty becomes meaningful, and optional strikes occur when pay trails the city average. ## Owning team team-a. The simulation, tick phases and formulas are backend work in `projects/Api`; frontend display follows once the API contract lands. ## Business Value Labor is a core Capitalism II mechanic that is currently flat. A dyn",
-      "source_created_at": "2026-10-15T15:53:30Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ludovit-scholtz/capitalism/issues/603",
-      "first_seen_at": "2026-10-15T15:54:16.415Z",
       "last_seen_at": "2026-10-15T15:54:16.415Z"
     },
     {
@@ -4824,6 +4974,67 @@
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-15T16:35:18.843Z",
+      "generated_at": "2026-10-15T16:35:18.843Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 329
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 725
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 10,
+      "seen_again": 36,
+      "archive_total": 331,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-15T15:54:16.415Z",
       "generated_at": "2026-10-15T15:54:16.415Z",
