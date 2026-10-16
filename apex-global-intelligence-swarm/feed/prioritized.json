@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-15T21:26:06.280Z",
+  "generated_at": "2026-10-16T04:30:23.034Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 456,
+    "total_evaluated": 481,
     "investigar": 1,
-    "informativa": 428,
+    "informativa": 453,
     "descartar": 27,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -1411,6 +1411,78 @@
     },
     {
       "source": "github",
+      "title": "[BOUNTY] Incomplete wallet wipe leaks unencrypted swap private keys, approved dApp origins, and exported secrets across wallet resets (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/940",
+      "source_created_at": "2026-10-16T04:03:42Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] scanForNotes permanent note-discovery DoS via out-of-field (>= BN254 modulus) decrypted plaintext scalars or malformed ciphertexts (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/939",
+      "source_created_at": "2026-10-16T04:03:40Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: prove_transact 64-bit leaf_index truncation mismatch and silent invalid proof emission on unsatisfied witness invariants (paraloom-prover-wasm)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/938",
+      "source_created_at": "2026-10-16T04:03:37Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Account-deletion purge (#2737) breaks the bounty journal hash chain — orphaned counterparty legs",
       "url": "https://github.com/Uuriko/project-room/issues/3550",
       "source_created_at": "2026-10-15T21:03:58Z",
@@ -2302,6 +2374,54 @@
     },
     {
       "source": "github",
+      "title": "[intake:memory][dsh-memory#439] #297 同族漏修：add_goal/add_rejected/add_unresolved 改写既有密级节点未声明时静默降 internal",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/732",
+      "source_created_at": "2026-10-16T04:12:26Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】lingshu #665/#688/#683/#671/#672/#678/#679 修后回归核验：7 件全部修复成立（target=lingshu）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/727",
+      "source_created_at": "2026-10-16T04:05:51Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[intake 输入] dsh-memory 脑端只读缺陷审计（第三·四轮）：**5 条新立案（含 1 条 P0）**——索引快照「计数判据」假阳致**不可恢复的节点正文丢失**（常驻自愈 `heal` 即触发）/ plan 档 E 面闸接线边界缺 4 个写面 / `verify(weakened)` 降级轮不落盘且盘面自相矛盾 / `scrub` 失败被写进幂等名单致污染永久留存 / **纪律闸对仓内唯一纪律节点生产者完全空转**——与前两轮（#605/#606）不重叠",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/608",
       "source_created_at": "2026-10-15T16:09:41Z",
@@ -3048,6 +3168,31 @@
     },
     {
       "source": "github",
+      "title": "[md_cg/mdcos][P1] #297 密级继承单点未接 3 个兄弟写入口：add_goal/add_rejected/add_unresolved 改写既有 restricted 节点未声明时静默降 internal",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/439",
+      "source_created_at": "2026-10-16T04:12:06Z",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Models: switch engine or model partway through a thread and see what carries over",
       "url": "https://github.com/useagenthq/useagent/issues/177",
       "source_created_at": "2026-10-15T21:04:46Z",
@@ -3679,156 +3824,6 @@
       "source_created_at": "2026-10-15T21:02:17Z",
       "first_seen_at": "2026-10-15T21:03:27.047Z",
       "last_seen_at": "2026-10-15T21:03:27.047Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/writepipe][数据丢失][P1] 写链「实参表漏传族」第六处落点：`_gate_gated`（**工具自述推荐开启**的 `gated=true` 路径）漏传 `depends_on` / `valid_from` / `valid_until` / `check_strength` / `session` —— 同一份声明在 `gated=false` 全落盘、在 `gated=true` **静默丢弃**（`verification_state` 亦被改写为 `unve",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/414",
-      "source_created_at": "2026-10-15T16:30:13Z",
-      "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/consistency][逻辑分支][P1] 纪律闸对仓内**唯一纪律节点生产者完全空转**：生产字面量（`work-discipline` / `discipline:N` / `mem_*` / `structural` 层）与判据表（`work_discipline` / `discipline` / `discipline_*`）两层对不上 ⇒ 含禁令原文的正文**在任何层都 ACCEPT**（真源节点进了比对面也不触发），只有**合成形态**才 REJECT",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/412",
-      "source_created_at": "2026-10-15T16:06:25Z",
-      "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/protect][数据丢失][P1] `insight.verify` 的索引同步是**手写 3 键**、漏 `protected`/`protection_reason` ⇒ 非受保护层上 `protect._fm` 采信索引里的 `None` ⇒ **盘面写着 `protected: true` 的节点被 `cg.forget` 无 override 直接删掉**（零前像、零保护审计行），跨重启存活；只有全量 `rebuild_index()` 自愈",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/416",
-      "source_created_at": "2026-10-15T16:37:11Z",
-      "first_seen_at": "2026-10-15T16:41:47.411Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/twophase][数据丢失][P1] 两段式对账把**已合并落盘**的 gated MERGE 判成 `interrupted/node_missing`：意图键在**源 id** 上，而内容写进了**目标节点** ⇒ 崩溃后账本与启动面报「中断=1」（同一事件两条记账路径结论相反），会诱导重做**不可逆**的 MERGE",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/417",
-      "source_created_at": "2026-10-15T16:38:58Z",
-      "first_seen_at": "2026-10-15T16:41:47.411Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/mcp_server][逻辑分支][P1] 工具面接受非法 `role` 类型并回执 `committed=true`，节点落盘后被**自家装载器隔离**（`get` `not_found`、`search` 扫不到、索引为空），而**四个运维读面都不报隔离**——用户视角＝「说存住了，其实读不到」",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/418",
-      "source_created_at": "2026-10-15T16:44:24Z",
-      "first_seen_at": "2026-10-15T16:51:58.000Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[md_cg/scrub][治理][P1] **失败的处置被写进幂等名单** ⇒ 污染**永久**不再被处置：无权身份跑一次 `decontaminate` 即把该 (节点, 污染类型) 记成 `ok=True`，此后**有权限的身份也只会「已处置过（幂等）」跳过**，盘面一个字节都没改",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/411",
-      "source_created_at": "2026-10-15T15:59:14Z",
-      "first_seen_at": "2026-10-15T16:35:18.843Z",
-      "last_seen_at": "2026-10-15T17:25:44.152Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [

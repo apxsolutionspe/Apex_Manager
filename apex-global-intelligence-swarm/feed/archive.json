@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-15T21:26:05.915Z",
+  "updated_at": "2026-10-16T04:30:19.164Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -15,12 +15,12 @@
       "evidence": "",
       "source_created_at": "2026-10-09T00:11:59Z",
       "opp_type": "bug_bounty",
-      "score": 37,
+      "score": 30,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,517 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762468",
+      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
+      "url": "https://words.filippo.io/seeds-bounty/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T01:34:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-bounty",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49760509",
+      "title": "Intel Appears to End Its Bug Bounty Program",
+      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "evidence": "",
+      "source_created_at": "2026-09-18T21:29:33Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "evidence": "",
+      "source_created_at": "2026-09-16T16:32:41Z",
+      "opp_type": "otro",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49721998",
+      "title": "Bug Bounty Operating Principles",
+      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "evidence": "",
+      "source_created_at": "2026-09-16T04:12:21Z",
+      "opp_type": "bug_bounty",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49657229",
+      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "url": "https://hackerone.com/mozilla/updates?type=team",
+      "evidence": "",
+      "source_created_at": "2026-09-11T12:23:19Z",
+      "opp_type": "bug_bounty",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49677392",
+      "title": "Pacing Is a Setting on a Dial",
+      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
+      "evidence": "",
+      "source_created_at": "2026-09-12T21:28:15Z",
+      "opp_type": "otro",
+      "score": 4,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878114724",
+      "title": "[BOUNTY] Incomplete wallet wipe leaks unencrypted swap private keys, approved dApp origins, and exported secrets across wallet resets (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/940",
+      "evidence": "## Summary When a user removes their wallet in Settings (`Settings -> Remove Wallet -> type \"DELETE\" -> handleRemoveWallet()`), `clearWallet()` (`lib/storage/secure.ts:100–102`) only deletes `\"paraloom_wallet\"` from `chrome.storage.local`. It leaves behind unencrypted 64-byte Ed25519 swap private keys (`\"paraloom_swap_outputs\"`), approved dApp origins (`\"paraloom_connections\"`), shielded note secrets (`\"paraloom_notes\"`), and active session/background state (`\"pendingConn\"`, `\"swapJob\"`, `connectedOrigin`, `pendingConnection`, `pendingSwap`). A",
+      "source_created_at": "2026-10-16T04:03:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/940",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878114500",
+      "title": "[BOUNTY] scanForNotes permanent note-discovery DoS via out-of-field (>= BN254 modulus) decrypted plaintext scalars or malformed ciphertexts (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/939",
+      "evidence": "## Summary In `lib/paraloom/scan.ts` (`scanForNotes`, lines 111–131) and `lib/paraloom/noteCrypto.ts` (`tryDecryptNote`, lines 35–42, 80–104), a single ciphertext sealed to a victim wallet's public X25519 `boxPublicKey` carrying a 32-byte `blinding` or `assetId` scalar `>= BN254_FR_MODULUS` (`0x30644e72e131a029b85045b68181585d2833e84879b9709143e1f593f0000001`), or a malformed `ciphertext` entry from `/transact/scan`, throws an uncaught exception inside `scanForNotes` **before** `known.add(d.output_commitment)` is reached. Because `/transact/sca",
+      "source_created_at": "2026-10-16T04:03:40Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/939",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878113994",
+      "title": "[BOUNTY] Medium: prove_transact 64-bit leaf_index truncation mismatch and silent invalid proof emission on unsatisfied witness invariants (paraloom-prover-wasm)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/938",
+      "evidence": "## Summary In `paraloom-prover-wasm` (Stage 1 client-side Groth16 prover scope), `prove_transact` (`src/lib.rs:486–632`) has three correctness bugs that cause it to silently emit invalid Groth16 proofs (`Ok(\"{ nullifiers, output_commitments, proof }\")`) instead of returning `Err`, plus a broken smoke test suite (`tests/v3_native_smoke.rs`) that no longer compiles after `#779`: 1. **64-bit host `leaf_index` vs 32-bit in-circuit `UInt32` truncation mismatch (`src/lib.rs:458, 542–550` vs `paraloom-core/src/privacy/circuits.rs:696–698`):** - `Trans",
+      "source_created_at": "2026-10-16T04:03:37Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/938",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878194783",
+      "title": "[intake:memory][dsh-memory#439] #297 同族漏修：add_goal/add_rejected/add_unresolved 改写既有密级节点未声明时静默降 internal",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/732",
+      "evidence": "> ### 本件为 `intake` 输入（外部贡献申报），**非悬赏，不 /claim** > > 依据：`docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（不打 bounty）」。 > > **诚实边界**：只读测试，未修改上游任何一行；读数本机 `python -X utf8` 实跑（临时 root，不落上游），三遍重跑稳定。`difficulty`/`impact` 为自评（静默降密级 + 越权读放大，故 impact 自评 `A`；根因单点、修法清晰但 `add_rejected` 幂等面需特判，difficulty 自评 `medium`），**最终由维护者定档**。 > > **对应 dsh-memory 缺陷件**：[#439](https://github.com/FuRongJun-1999/dsh-memory/issues/439)（本 intake 为其 intake 面，双仓同投）。 --- **基线**：`FuRongJun-1999/dsh-memory` `main` @ `4cc069b3c608ca68fd9efb249343f1c7c46d185d`（2026-10-16 实拉 tarball，git-",
+      "source_created_at": "2026-10-16T04:12:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/732",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878133614",
+      "title": "【intake 输入】lingshu #665/#688/#683/#671/#672/#678/#679 修后回归核验：7 件全部修复成立（target=lingshu）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/727",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报 · 修后回归核验）**，不是悬赏：不 `/claim`、不 自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）」。 本件是**第三方修后回归核验**（独立复跑）：对 `FuRongJun-1999/lingshu` **7 件已由 维护者修复并关单**的 issue（#665 / #688 / #683 / #671 / #672 / #678 / #679）做逐件 **修后回归**——确认修复行为在当前 main 真成立 ＋ 判别力在线（旧错形态会红）。 缺陷本体与修复在目标仓；悬赏仓侧只做登记与溯源。 **诚实边界**：只读复现——未修改上游任何一行、未推分支；全部读数在本机 `python -X utf8` 实跑取得（投递前整批重跑确认 0 FAIL）；本件**不主张新缺陷**， 只核验既有修复未回退；`difficulty`/`impact` 为自评，最终由维护者定档。 ## 一、本件报什么 | # | lingshu",
+      "source_created_at": "2026-10-16T04:05:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/727",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878048605",
+      "title": "[intake][贡献交付][算法/架构] fix(time): 显式时区按绝对时刻解析并拒收非有限端点（PR #388）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/724",
+      "evidence": "2026-10-16 交付一项独立的 dsh-memory 改进：[PR #388](https://github.com/FuRongJun-1999/dsh-memory/pull/388)。本 Issue 仅对应此 PR；建议按 **expert** 评审，最终难度、影响、验收与结算由维护者裁定。 **交付形态**：PR（修码类）；项目 `memory`；依[当前 bounty 规则](https://github.com/FuRongJun-1999/dsh-bounty/blob/main/docs/bounty/README.md)走外部 `intake`，不自行设立官方悬赏、不自行执行验收命令。当前 head：`4972402559edd3d1dfe8e3c540fdc3a72d6b507f`。 **意图声明**：带 Z 的日期被当作本地时区，UTC+8 主机偏移 28800 秒；显式 offset 被当成不可解析，观察轴漏召回、效力轴失效期限变成 unknown。 **预期结果与可机械验收标准**：同一输入达到下表改后结果；新增守卫和具名变异入口退出 0。注入实现缺陷必须使指定断言失败；导入错误、崩溃和 SKIP 均不算有效反证。 | 观察项 | 未修改主线 | 本项",
+      "source_created_at": "2026-10-16T03:56:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/724",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878000808",
+      "title": "[intake][贡献交付][算法/架构] fix(chain): 因果检索全路径限制在本次候选子图内（PR #391）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/723",
+      "evidence": "2026-10-16 交付一项独立的 dsh-memory 改进：[PR #391](https://github.com/FuRongJun-1999/dsh-memory/pull/391)。本 Issue 仅对应此 PR；建议按 **expert** 评审，最终难度、影响、验收与结算由维护者裁定。 **交付形态**：PR（修码类）；项目 `memory`；依[当前 bounty 规则](https://github.com/FuRongJun-1999/dsh-bounty/blob/main/docs/bounty/README.md)走外部 `intake`，不自行设立官方悬赏、不自行执行验收命令。当前 head：`8caef59cfbbd33306fb5035a71b81f2c83537ec7`。 **意图声明**：RRF chain 只在最终输出过滤候选，路径中间节点仍来自全图；隐藏分支、工作角色、过期记忆、其他层/会话能充当桥梁，把本不该经它们推导的终点带回主支。 **预期结果与可机械验收标准**：同一输入达到下表改后结果；新增守卫和具名变异入口退出 0。注入实现缺陷必须使指定断言失败；导入错误、崩溃和 SKIP 均不算有效反证。 | 观察项 | 未修改主线 | 本项",
+      "source_created_at": "2026-10-16T03:50:39Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/723",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877992092",
+      "title": "[intake][贡献交付][算法/架构] fix(cache): 时效检索随当前时钟重新筛选并补足 Top-K（PR #389）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/722",
+      "evidence": "2026-10-16 交付一项独立的 dsh-memory 改进：[PR #389](https://github.com/FuRongJun-1999/dsh-memory/pull/389)。本 Issue 仅对应此 PR；建议按 **expert** 评审，最终难度、影响、验收与结算由维护者裁定。 **交付形态**：PR（修码类）；项目 `memory`；依[当前 bounty 规则](https://github.com/FuRongJun-1999/dsh-bounty/blob/main/docs/bounty/README.md)走外部 `intake`，不自行设立官方悬赏、不自行执行验收命令。当前 head：`7a8bbc56ce1a361d8858040eb362cc7972f004e6`。 **意图声明**：validity=True 的结果仍写入 300 秒热缓存。截止点越过后基础层继续返回已过期 Top-1；安全包装层虽剔除过期项，却返回空列表，不能补入排在后面的有效记忆。 **预期结果与可机械验收标准**：同一输入达到下表改后结果；新增守卫和具名变异入口退出 0。注入实现缺陷必须使指定断言失败；导入错误、崩溃和 SKIP 均不算有效反证。 | 观察项 | 未",
+      "source_created_at": "2026-10-16T03:49:38Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/722",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877901292",
+      "title": "【intake 输入】dsh-memory #436：[P2] 词法器未闭合字符串吞掉换行且不推进行号 ⇒ 该行之后**所有** token 行号系统性偏小，错误定位指向错误行（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/721",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#436**](FuRongJun-1999/dsh-memory/issues/436)：[P2] 词法器未闭合字符串吞掉换行且不推进行号 ⇒ 该行之后**所有** token 行号系统性偏小，错误定位指向错误行。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`compiler/lexer.py:534-543`（`_read_string` 的 `\\n` 分支 `break`，随后无条件 `pos += 1` 把换行当结束引号吃",
+      "source_created_at": "2026-10-16T03:39:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/721",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877901117",
+      "title": "【intake 输入】dsh-memory #435：[P0] `德`/`知足` 的 `float()` 接受 `inf`/`nan` → 编译期「必须是数值」闸被穿透，信任寄存器被永久毒化（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/720",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#435**](FuRongJun-1999/dsh-memory/issues/435)：[P0] `德`/`知足` 的 `float()` 接受 `inf`/`nan` → 编译期「必须是数值」闸被穿透，信任寄存器被永久毒化。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`compiler/compiler.py:181`（德）、`:193`（知足）；配套观测面 `condition_vm.py:399`（`DE` 直接 `+=",
+      "source_created_at": "2026-10-16T03:39:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/720",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900930",
+      "title": "【intake 输入】dsh-memory #434：[P0] 编译器「知足」阈值位 `float(val)` 无防护 → 裸 `ValueError` 穿透编译主入口（仓内自带文档与测试用例即触发）（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/719",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#434**](FuRongJun-1999/dsh-memory/issues/434)：[P0] 编译器「知足」阈值位 `float(val)` 无防护 → 裸 `ValueError` 穿透编译主入口（仓内自带文档与测试用例即触发）。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`compiler/compiler.py:193`；同族对照 `:179-185`（`德` 分支有 try/except，`知足` 分支无） ## ",
+      "source_created_at": "2026-10-16T03:39:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/719",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900789",
+      "title": "【intake 输入】dsh-memory #433：[P2] `insight.outlook` 用**私有的 0.9 阈值**判「高重要度未保护」，与全仓保护阈值 0.70 不一致 ⇒ `[0.70, 0.90)` 受保护节点既不计入 `protected`、也不进补保护建议（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/718",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#433**](FuRongJun-1999/dsh-memory/issues/433)：[P2] `insight.outlook` 用**私有的 0.9 阈值**判「高重要度未保护」，与全仓保护阈值 0.70 不一致 ⇒ `[0.70, 0.90)` 受保护节点既不计入 `protected`、也不进补保护建议。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`md_cg/insight.py:47`（`IMPORTANCE_F",
+      "source_created_at": "2026-10-16T03:39:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/718",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900621",
+      "title": "【intake 输入】dsh-memory #432：[P1] `consolidate.induce_memories` 候选池 `and not (e or {}).get(\"protected\")` 漏两条真源 ⇒ 受保护层节点入池，被 `_link_concept` 全量重写 frontmatter（零快照零审计）（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/717",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#432**](FuRongJun-1999/dsh-memory/issues/432)：[P1] `consolidate.induce_memories` 候选池 `and not (e or {}).get(\"protected\")` 漏两条真源 ⇒ 受保护层节点入池，被 `_link_concept` 全量重写 frontmatter（零快照零审计）。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`md_cg/consol",
+      "source_created_at": "2026-10-16T03:39:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/717",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900471",
+      "title": "【intake 输入】dsh-memory #431：[P1] `weights.node_importance` 的保护下限只认 `protected` 位 ⇒ 受保护层（self/anchor）节点被 `recalc(apply=True)` 把 importance 压到 0.35，违反本文件自述「已保护/高危节点不被降破」（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/716",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#431**](FuRongJun-1999/dsh-memory/issues/431)：[P1] `weights.node_importance` 的保护下限只认 `protected` 位 ⇒ 受保护层（self/anchor）节点被 `recalc(apply=True)` 把 importance 压到 0.35，违反本文件自述「已保护/高危节点不被降破」。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`md_cg/we",
+      "source_created_at": "2026-10-16T03:39:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/716",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900288",
+      "title": "【intake 输入】dsh-memory #430：[P0] `lifecycle.stamp` / `trust.stamp` 的「受保护豁免降级」判据只认 `protected` 位 + `immutable`，漏掉「层保护 self/anchor」与「按分保护 ≥0.7」两条真源 ⇒ 不可遗忘层节点被无 override 降级 / 归档，并从默认检索面消失（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/715",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/dsh-memory](FuRongJun-1999/dsh-memory)** 新缺陷 issue [**#430**](FuRongJun-1999/dsh-memory/issues/430)：[P0] `lifecycle.stamp` / `trust.stamp` 的「受保护豁免降级」判据只认 `protected` 位 + `immutable`，漏掉「层保护 self/anchor」与「按分保护 ≥0.7」两条真源 ⇒ 不可遗忘层节点被无 override 降级 / 归档，并从默认检索面消失。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文）",
+      "source_created_at": "2026-10-16T03:39:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/715",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877900131",
+      "title": "【intake 输入】lingshu #736：[P2·低置信] `hexgen_c1_real.parse_prompt` 方位前缀词表对 64 字符截断覆盖不全 ⇒ 静默 `cells=None`（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/714",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/lingshu](FuRongJun-1999/lingshu)** 新缺陷 issue [**#736**](FuRongJun-1999/lingshu/issues/736)：[P2·低置信] `hexgen_c1_real.parse_prompt` 方位前缀词表对 64 字符截断覆盖不全 ⇒ 静默 `cells=None`。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`lingshu/gen/hexgen_c1_real.py:63-75`（`ZONE_CELLS` 前缀表）、`:116-119`（最长前缀匹配）｜快照：`_p",
+      "source_created_at": "2026-10-16T03:39:03Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/714",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877899983",
+      "title": "【intake 输入】lingshu #735：[P2] `hexgen_multi_seed.summarize` ① 号「读出稳定性」指标对 `reads` 行序敏感（同语料最多差 0.75）（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/713",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/lingshu](FuRongJun-1999/lingshu)** 新缺陷 issue [**#735**](FuRongJun-1999/lingshu/issues/735)：[P2] `hexgen_multi_seed.summarize` ① 号「读出稳定性」指标对 `reads` 行序敏感（同语料最多差 0.75）。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`lingshu/gen/hexgen_multi_seed.py:174-183`（`stab` 用相邻对比较）、`:276-277`｜快照：`_pr2`(git ",
+      "source_created_at": "2026-10-16T03:39:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/713",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5877899828",
+      "title": "【intake 输入】lingshu #734：[P2] `nn/hex_unit.py` 注解使用 `Optional` 但从未导入 —— `get_type_hints` 必抛 NameError（已实跑复现，未实现补丁）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/712",
+      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签，也不发送 `/claim` `/deliver` `/verify` `/settle`。依据 `docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间（**不打** bounty）：它是**输入**，不是悬赏；维护者裁定后由维护者**另立**悬赏」。 本件登记目标仓 **[FuRongJun-1999/lingshu](FuRongJun-1999/lingshu)** 新缺陷 issue [**#734**](FuRongJun-1999/lingshu/issues/734)：[P2] `nn/hex_unit.py` 注解使用 `Optional` 但从未导入 —— `get_type_hints` 必抛 NameError。缺陷本体与复现全在目标仓，dsh-bounty 侧只做登记与溯源。 ## 缺陷（引用目标仓 issue 全文） **文件**：`lingshu/nn/hex_unit.py:16`（`from typing import Dict, List, Tuple`，缺 `Optional`）、",
+      "source_created_at": "2026-10-16T03:39:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/712",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878191855",
+      "title": "[md_cg/mdcos][P1] #297 密级继承单点未接 3 个兄弟写入口：add_goal/add_rejected/add_unresolved 改写既有 restricted 节点未声明时静默降 internal",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/439",
+      "evidence": "**基线**：`FuRongJun-1999/dsh-memory` `main` @ `4cc069b3c608ca68fd9efb249343f1c7c46d185d`（2026-10-16 实拉 tarball，git-blob 逐位校验） **环境**：Windows 11 / Python 3.13.14 / 只读测试（未修改上游任何一行；探针用临时 root 落盘，不碰上游） **性质**：**#297 密级继承单点的同族漏修** —— `_write_sensitivity` 的「未声明 ⇒ 继承既有节点密级」只接在 `add` / `propose` 两个入口；三个兄弟写入口 `add_goal` / `add_rejected` / `add_unresolved` 仍用 `sensitivity or DEFAULT_SENSITIVITY` 把「未声明」折叠成 `internal`，改写既有 `restricted`/`private` 节点（不重传密级）时**静默降级**，与 #297 修复要防的场景**同形**。 --- ## 一、病灶（静态） `md_cg/mdcos.py` 兄弟入口（行号以 4cc069b3 为准）： ```python def add",
+      "source_created_at": "2026-10-16T04:12:06Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/439",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878151093",
+      "title": "【贡献申报】hive-memory-bench #45（基线 53b1939）：#33 修复后的五处残留——证据保真等长极性替换记 C2（32/32、13/13、4/4）、verify_keys 五类判分字段不核、o042 复述题干加套话规则层 pass、律二严格口径也有反例且守卫可绕过、压缩代价不带 qid 走检索并集与依据轴未剔题面引文（P1×5）；已由 PR #50 修复关闭",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/730",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 4/4**（工具链与文档），5 项合在 **FuRongJun-1999/hive-memory-bench#45**。它们都是 #33（P1-19..28，本仓 #301 已申报）在 9de5b9b／d62baa6／d4650c7 修复之后的**残留**；issue 里每项先附对照组证明已修部分生效，再写剩下的部分： - **第一项（#33-一残留）**：`证据保真细分.py` `_is_meaning_shift` 只在增删字合计 ≤3 时查极性——「可以／能够→无法」C2 32/32、「已经→尚未」13/13、「一定→未必」4/4 照样记「改动不改义」（对照：插「不」「无」、删否定字、改数字均 C2′ 150/150） - **第二项（#33-五残留）**：`chain/tools/verify_keys.py` 不核判分器会读的 `reconstructible`／`interference`／`type`／`sample_at_seq` 与题面一致性／`question`——五种篡改后 exit 0、硬不符 0",
+      "source_created_at": "2026-10-16T04:07:41Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/730",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878147351",
+      "title": "【贡献申报】hive-memory-bench #44（基线 53b1939）：同名异体真同名后 28 道题按语料不可答且被记主体混淆、keys_fp 不含语料与适配器（旧数据答卷与读键适配器均判同源）、c3 放行 U 形与不退化臂（24.2%）、#30 逐题闭卷剔除未实现、持久化破坏臂与干净臂共用一个库（P1×5）；已由 PR #49 修复关闭",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/729",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 3/4**（状态链轨与参考 harness 第二组），5 项合在 **FuRongJun-1999/hive-memory-bench#44**，各有自含脚本与读数： - **第一项（9f31b1f／#31 修复引入）**：同名异体影子链与主链 (doc, subject, slot) 逐字相同且无区分线索——135 道同名链题中 28 道按语料逐句读与答案键相反（现值 13／状态归属 14／历史 1，占非可推现值题 13/59）；忠实读者 present 0.7797、subject_confusion 0.0926；旧树同一读法 0 道 - **第二项**：`keys_fp` 只哈希答案五字段——f4509d7 与 53b1939 指纹同为 `bda3d94b7f29526a`（语料 93/270 段已改）；旧数据上作答的三臂全判「同源且完整」进 readings、c4=True；照 README §9 自备的适配器在进程内读 `keys.json`，present／history／four_state 全 1.0，",
+      "source_created_at": "2026-10-16T04:07:18Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/729",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878141195",
+      "title": "【贡献申报】hive-memory-bench #43（基线 53b1939）：状态链门② 破坏臂管线三处失效（calibrate 不判破坏臂、乙 bad_write 被完整语料重建抹掉、丁的下降来自判分器被剥 cid）、门② 判据零破坏也过、时点指标早晚同一列表、变更链枚举 6048 行不罚、JSON 失败仍记 _json_ok（P1×5）；已由 PR #48 修复关闭",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/728",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 2/4**（状态链轨 `chain/` 第一组），5 项合在 **FuRongJun-1999/hive-memory-bench#43**，彼此独立、各有自含脚本与读数： - **第一项**：门② 破坏臂管线三处失效——`do_calibrate` 跑了破坏臂却不判（`c_damage=None`、`damage_by_arm={}`）；进程内 bm25 在 ask 时用完整语料重建，乙 `bad_write` 642/642 题检索与干净 bm25 逐字相同；丁 `bad_present` 剥的是判分器也读的材料件 cid，同一份答卷 verbatim 0.6993 → 0.0 - **第二项**：门② 判据——对照取 `SUT_ORDER` 首臂、不认 `manifest.base_arm`；不查非映射指标不降；「两两可分」在全部 18 个读数上取 L∞ ⇒ 三条零破坏的 bm25 副本 `c_damage=True`，三条全空答卷只靠 12 道 absent 题也 `c_damage=True` - **第三项*",
+      "source_created_at": "2026-10-16T04:06:41Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/728",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878130999",
+      "title": "【贡献申报】hive-memory-bench #42（基线 53b1939）：判分器修复后的误报、漏判与入口残留——正当否定被判编造（78/78）、score_points 否认要点反得高分、hedge 降级只进不出、CLI 仍信自报 condition（13/38 张卡「不知道。」PASS）、判官一致率并集记 scope（P1×5）；已由 PR #47 修复关闭",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/726",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 1/4**，5 项合在一个 issue 里（**FuRongJun-1999/hive-memory-bench#42**），彼此独立，各有自含复现脚本与读数： - **第一项（PR #34 回归）**：`judge.py` 禁编造轴把正当否定判成编造——「不应认为／没有理由认为／不能简单地认为／不该接受＋触发词」78/78 判编造（旧树 0/81）；「文中并没有交代…」7/7 张卡判编造（旧树 0/7）；q029 标准结论加一句「不应认为这是基因复制。」pass→fail - **第二项（#10 未闭合＋回归）**：`score_points` 的 paraphrase 命中不查否定、any_of 只看首个命中模式——q006 否认两点 0.85 pass ＞ 不提 0.5 review；117 条标准答案 11 条降分、4 条降档 - **第三项（回归）**：对冲降级（hedge）只进不出——两路判官都被调用、判词都不采信，正确答案带「也许」永远 review - **第四项（#15／#8 未闭合，CLI 入口）**",
+      "source_created_at": "2026-10-16T04:05:33Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/726",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878126731",
+      "title": "【贡献申报】hive-memory-bench #37–#41（基线 53b1939）：PR #34 修复引入的 3 处回归与 2 处未闭合——插一个逗号即绕过禁编造轴（134/134）、卡片白名单短引文被长度门判 fail（13/13）、五类句式翻转否定豁免（各 78/78）、L2 判词指纹不含引文、harness 与判分器读写不同目录（P0×5）；已由 PR #46 修复关闭",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/725",
+      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`，2026-10-14 22:58 +0800）第十一轮审计的 **5 条 P0（A 档：量具失效）**申报。5 项分开发成 5 个 issue，彼此独立，各有自含复现脚本与读数： - **FuRongJun-1999/hive-memory-bench#37**：`judge.py` `any_affirmed()`——命中在 `norm()` 上找、定位在 `_norm_keep_breaks()` 上做，找不到就 `return False` 当作「未被肯定」⇒ 字面触发词中间插一个「，」即绕过禁编造轴，134/134 放行（旧树 0/134）；端到端 131 例 fail→pass - **FuRongJun-1999/hive-memory-bench#38**：`judge.py` `MIN_QUOTE_CHARS = 8` 不认卡片白名单——13 条 primary 短引文（9 张卡）被判「引文过短」，作者标准结论＋作者白名单引文从 pass 变结构 fail（旧树 13/13 pass，新树 13/13 fail） - **FuRongJ",
+      "source_created_at": "2026-10-16T04:05:03Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/725",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5878007004",
+      "title": "🎨 生成式 UI 生态日报 2026-10-16",
+      "url": "https://github.com/linqinghao/agents-radar/issues/191",
+      "evidence": "# 生成式 UI 生态日报 2026-10-16 > Issues: 36 | PRs: 85 | 覆盖项目: 4 个 | 生成时间: 2026-10-16 03:44 UTC - [a2ui](https://github.com/a2ui-project/a2ui) - [OpenUI](https://github.com/thesysdev/openui) - [json-render](https://github.com/vercel-labs/json-render) - [CopilotKit](https://github.com/CopilotKit/CopilotKit) --- ## 横向生态对比 # 生成式 UI 生态横向对比分析报告 **报告日期：2026-10-16 | 数据窗口：过去 24 小时 | 覆盖项目：a2ui / OpenUI / json-render / CopilotKit** --- ## 1. 生态全景 生成式 UI 赛道已从单点工具竞争进入**“分层竞合”阶段**：a2ui 以协议 + 多语言 SDK 的形态占据规范层，OpenUI 与 CopilotKit 在框架/平台层各自纵深，且层间已出现事实上的依赖与谈判——**Copil",
+      "source_created_at": "2026-10-16T03:51:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/linqinghao/agents-radar/issues/191",
+      "first_seen_at": "2026-10-16T04:30:19.164Z",
+      "last_seen_at": "2026-10-16T04:30:19.164Z"
     },
     {
       "source": "hackernews",
@@ -1478,96 +1988,6 @@
       "last_seen_at": "2026-10-15T20:52:47.191Z"
     },
     {
-      "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762468",
-      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
-      "url": "https://words.filippo.io/seeds-bounty/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T01:34:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-bounty",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49760509",
-      "title": "Intel Appears to End Its Bug Bounty Program",
-      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "evidence": "",
-      "source_created_at": "2026-09-18T21:29:33Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49729492",
-      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
-      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
-      "evidence": "",
-      "source_created_at": "2026-09-16T16:32:41Z",
-      "opp_type": "otro",
-      "score": 17,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
       "source": "github",
       "external_id": "5873051890",
       "title": "[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier",
@@ -1640,51 +2060,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/neatlogs/neatroots/issues/137",
       "first_seen_at": "2026-10-15T20:11:43.807Z",
-      "last_seen_at": "2026-10-15T20:20:12.842Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49721998",
-      "title": "Bug Bounty Operating Principles",
-      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "evidence": "",
-      "source_created_at": "2026-09-16T04:12:21Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:20:12.842Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49657229",
-      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "url": "https://hackerone.com/mozilla/updates?type=team",
-      "evidence": "",
-      "source_created_at": "2026-09-11T12:23:19Z",
-      "opp_type": "bug_bounty",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hackerone.com/mozilla/updates?type=team",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-15T20:20:12.842Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49677392",
-      "title": "Pacing Is a Setting on a Dial",
-      "url": "https://extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial/",
-      "evidence": "",
-      "source_created_at": "2026-09-12T21:28:15Z",
-      "opp_type": "otro",
-      "score": 4,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-15T20:20:12.842Z"
     },
     {
@@ -6850,6 +7225,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-16T04:30:19.164Z",
+      "generated_at": "2026-10-16T04:30:19.164Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 3788
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 403
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 25,
+      "seen_again": 22,
+      "archive_total": 481,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15T21:26:05.915Z",
       "generated_at": "2026-10-15T21:26:05.915Z",
       "status": "ok",
@@ -10166,67 +10602,6 @@
       "new_items": 5,
       "seen_again": 42,
       "archive_total": 211,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:33:24.786Z",
-      "generated_at": "2026-10-14T16:33:24.786Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 478
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 672
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 1,
-      "seen_again": 46,
-      "archive_total": 206,
       "steps": [
         {
           "agent": "Recolector",
