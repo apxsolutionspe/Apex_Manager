@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-16T04:30:19.164Z",
+  "updated_at": "2026-10-16T11:21:49.982Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hackerone.com/mozilla/updates?type=team",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883045909",
+      "title": "King's Bounty: The Legend (STEAM) does not work",
+      "url": "https://github.com/GameNative/gamenative-compat/issues/218",
+      "evidence": "**King's Bounty: The Legend** (STEAM) does not run in GameNative on app release 1.3.0. | Metric | Value | |---|---| | Store | STEAM | | Store app id | n/a | | Verdict | BROKEN | | Ratings | 32 | | Devices that rated | 12 | | One-star ratings | 31 (97% (90d)) | | One-star devices | 100% | | Top reason | Does not open (100% of tagged one-star ratings) | | Ratings on release 1.3.0 | 0 (0 one-star) | | Telemetry users (Adreno + Turnip, 21 days) | n/a | | Users who ever rendered a frame | n/a | | Sessions per user | n/a | | Typical failed windows | ",
+      "source_created_at": "2026-10-16T11:04:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/GameNative/gamenative-compat/issues/218",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883037813",
+      "title": "[BOUNTY] Medium: prove_withdrawal_v2 and prove_transfer_v2 shift-overflow panic in leaf_index_from, silent invalid proof emission on unsatisfied v2 witnesses, and non-canonical BN254 field aliasing (paraloom-prover-wasm)",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/9",
+      "evidence": "## Severity **Medium ($150 USDC — Stage 1 Client-Side Prover Bug Bounty)** ## Affected Files (In-Scope `paraloom-prover-wasm`) - `src/lib.rs` (`leaf_index_from`, `merkle_path_from`, `prove_withdrawal_v2`, `prove_transfer_v2`, `note_commitment`, `note_commitment_v2`) --- ## Summary of Vulnerabilities ### 1. Unbounded `1u64 u64 { let mut idx = 0u64; for (level, is_left) in indices.iter().enumerate() { if !is_left { idx += 1u64 = 64`)**: If `indices.len() >= 64` and any `indices[level] == false` at `level >= 64`: - In debug builds, `1u64 ::prove` ",
+      "source_created_at": "2026-10-16T11:03:26Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-prover-wasm/issues/9",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883037533",
+      "title": "[BOUNTY] Medium: prove_withdrawal_v2 and prove_transfer_v2 shift-overflow panic in leaf_index_from, silent invalid proof emission on unsatisfied v2 witnesses, and non-canonical BN254 field aliasing (paraloom-prover-wasm)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/952",
+      "evidence": "## Severity **Medium ($150 USDC — Stage 1 Client-Side Prover Bug Bounty)** ## Affected Files (In-Scope `paraloom-prover-wasm`) - `src/lib.rs` (`leaf_index_from`, `merkle_path_from`, `prove_withdrawal_v2`, `prove_transfer_v2`, `note_commitment`, `note_commitment_v2`) --- ## Summary of Vulnerabilities ### 1. Unbounded `1u64 u64 { let mut idx = 0u64; for (level, is_left) in indices.iter().enumerate() { if !is_left { idx += 1u64 = 64`)**: If `indices.len() >= 64` and any `indices[level] == false` at `level >= 64`: - In debug builds, `1u64 ::prove` ",
+      "source_created_at": "2026-10-16T11:03:25Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/952",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882757762",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1261",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-16 10:43 UTC #### 1. [Composer Upgrade 7.1.x to 7.2.1: CSS Problems with libraries.css](https://github.com/mautic/mautic/issues/17860) - **Repository:** [mautic/mautic](https://github.com/mautic/mautic) - **Comments:** 0 - **Last Updated:** 2026-10-16T10:42:04Z #### 2. [[BOUNTY] Medium: CircomReduction ignores C-matrix satisfaction in release builds and Groth16 circuits/wire-encoders mishandle unsatisfied witnesses, u64 leaf_index overflow, and identity points](https://github.com/paraloom-la",
+      "source_created_at": "2026-10-16T10:43:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1261",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883262427",
+      "title": "[Bounty Proposal] fix(backend): enforce locks, cancel reminders, and filter soft-deleted action items ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21841",
+      "evidence": "## Summary When action items are retired during conversation write-mode updates (`retire_action_items_for_conversation`) or deleted via `DELETE /v1/conversations/{conversation_id}/action-items`, several backend surfaces fail to enforce plan locks, cancel reminders, or exclude soft-deleted (`deleted: True`) rows: 1. **Missing lock checks and reminder cancellation in `DELETE /v1/conversations/{conversation_id}/action-items`**: - Unlike `DELETE /v1/action-items/{action_item_id}` and `POST /v1/action-items/batch-delete` (which check `is_locked` and",
+      "source_created_at": "2026-10-16T11:20:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21841",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883188678",
+      "title": "[BOUNTY] Medium: BatchVerifier zip-truncation soundness bypass, dropped intermediate Merkle roots in knows_root, ShieldedPool deposit race/overflow, and trailing-byte acceptance in proof_codec",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/953",
+      "evidence": "### Summary Four soundness, state-consistency, and canonical-encoding vulnerabilities exist in the off-chain privacy layer (src/privacy/batch.rs, src/privacy/merkle.rs, src/privacy/pool.rs, and src/privacy/proof_codec.rs): 1. **Verifier Soundness Bypass on Mismatched public_inputs / proofs Lengths (src/privacy/batch.rs:60-205)**: - AdaptiveBatchVerifier::verify dispatches small batches (1..=2 proofs) directly to BatchVerifier::verify_individually(vk, public_inputs, proofs) without checking proofs.len() == public_inputs.len(). - BatchVerifier::v",
+      "source_created_at": "2026-10-16T11:14:22Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/953",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883040595",
+      "title": "[Bounty Proposal] fix(backend): guard soft-deleted tombstones and sync search index in conversation sync mutations ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21838",
+      "evidence": "## Summary `apply_conversation_sync_mutation` (`POST /v1/conversations/{conversation_id}/mutations` in `backend/database/conversation_mutations.py`) applies durable optimistic `set_title` and `set_starred` mutations for offline-capable clients, but currently has three consistency and lifecycle gaps compared to `backend/database/conversations.py`: 1. **Soft-deleted conversation tombstones (`deleted=True`) are mutated instead of returning 404 (`ConversationMutationNotFoundError`)**: - In `apply_conversation_sync_mutation`, the transaction checks ",
+      "source_created_at": "2026-10-16T11:03:37Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21838",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882888480",
+      "title": "[BOUNTY] Medium: sync_onchain_stakes strands withheld pending rounds and cleanup_timeouts evicts in-flight/settled rounds",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/951",
+      "evidence": "## Summary **Tier**: Medium (`$150 USDC` — Stage 1 `src/consensus/` and `src/node/` settlement/co-sign/ingress path) In `src/consensus/transact.rs`, `src/node/mod.rs`, and `src/node/transact_ingress.rs`, four interacting bugs in the BFT consensus coordinator and settlement/co-sign lifecycle strand 100%-approved in-flight rounds, prematuringly evict in-flight/settled rounds' voter sets and replay guards during timeout sweeps, miss conflicting second-nullifier spends on chain, and allow sibling self-eviction in the co-sign rate-limiter map as wel",
+      "source_created_at": "2026-10-16T10:52:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/951",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882871802",
+      "title": "[Bounty Proposal] fix(folders): decode folder conversations for read, filter visibility, and exclude hidden rows from counts ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21833",
+      "evidence": "### Problem `GET /v1/folders/{folder_id}/conversations` (`routers/folders.py:get_folder_conversations`) and folder conversation counts (`database/folders.py:update_folder_conversation_count`) have three production read/count bugs: 1. **Un-decoded / un-decrypted conversations in `get_conversations_in_folder` cause `GET /v1/folders/{folder_id}/conversations` to skip every real conversation with transcript segments**: - Every conversation written via `conversations_db._prepare_conversation_for_write` persists `transcript_segments` as zlib-compress",
+      "source_created_at": "2026-10-16T10:51:22Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21833",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882734469",
+      "title": "Feature proposal: offline regression suites for custom checks — bounty requested",
+      "url": "https://github.com/neatlogs/neatroots/issues/236",
+      "evidence": "Would you be interested in a small, local-only regression-suite runner for deterministic checks? Today, `neatroots check` exits 1 whenever a rule fires. That is useful for gating clean runs, but testing a check itself needs both directions: a known-bad trace must trigger the expected check, and a clean control must not. Otherwise, a change that stops a check firing can make CI look healthier while weakening the check. The repository already tests this pattern in `test/check-files.test.ts`. I propose exposing it to users through a suite manifest",
+      "source_created_at": "2026-10-16T10:41:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/236",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883048019",
+      "title": "Region missions: sell in a nation's ports, smuggle, visit every region",
+      "url": "https://github.com/allurco/caribbean-adventure/issues/327",
+      "evidence": "## Parent #319 (slice B, secret orders) ## What to build **Region missions** in the mission deck, built on the regions and flags of #239: - \"Sell N of a good in one nation's ports\" (e.g. 6 sugar in Spanish ports). - \"Smuggle into a port of a nation that wants you\" (a nation hostile to you: bounty or pirate status, from the reputation rules). - \"Visit every region\". Each card tracks its progress in G, private to its seat, and shows it on the card (\"Sugar sold in Spanish ports: 4/6\"). Completion and quiet discard follow the hand rules of #326. A ",
+      "source_created_at": "2026-10-16T11:04:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/allurco/caribbean-adventure/issues/327",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883021355",
+      "title": "Ideas backlog (not scheduled)",
+      "url": "https://github.com/colintdf/orbit-issues/issues/16",
+      "evidence": "- Bounty-hunter NPCs that chase you while you're wanted. - Post-campaign missions or a second campaign. - Nebulae that hide ships from the scanner, and black-hole systems. - In-flight music beyond battle and landing (see #3). - An ending sequence with its own art, and a manual or quick-reference card. - 32x32 4-bit hull art (parked; the user asked to keep the ships as they are for now). --- _Generated by [Claude Code](https://claude.ai/code)_",
+      "source_created_at": "2026-10-16T11:02:16Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/colintdf/orbit-issues/issues/16",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882767322",
+      "title": "Drop the teams section and detail-page promises from copy, stats, and docs",
+      "url": "https://github.com/boundlessfi/builders/issues/404",
+      "evidence": "**Merge this last.** Depends on #402 and #403; it edits copy in files both of them touch. ## Context This app showcases builders. Profiles, projects, and organizations open in the main Boundless app, and the projects directory lives there too. The copy, the stats, and the docs still promise a teams section and detail pages that will never be built here. The builders directory is also changing on the backend. It will list only people who qualify: a username, an avatar, at least one skill, not a staff account, and at least one piece of real work ",
+      "source_created_at": "2026-10-16T10:43:43Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/boundlessfi/builders/issues/404",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882763452",
+      "title": "Point the header and footer at the main app and fix the dead buttons",
+      "url": "https://github.com/boundlessfi/builders/issues/403",
+      "evidence": "**Depends on #401** for the main app URL helper. ## Context The header and footer were copied from the main Boundless app with relative links. On `builders.boundlessfi.xyz` those paths do not exist, so almost every nav link 404s. Two buttons on the landing page do nothing. The header has no link to the builders directory, which is the main thing this app exists for. ## Scope Update `config/marketing-nav.ts` so every main app link is absolute through the helper, and remove links with no destination anywhere: | Label | Today | Should go to | | --",
+      "source_created_at": "2026-10-16T10:43:26Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/boundlessfi/builders/issues/403",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882633629",
+      "title": "[P1] Replace deployed Open Graph description with approved product copy",
+      "url": "https://github.com/Loofy147/Contribution-bounties-centre-/issues/21",
+      "evidence": "## Finding from the public ContribQuest inspection — 2026-10-16 The live page's Open Graph and Twitter description currently reads: > Add a private Project 0 contribution ledger to ContribQuest for recording founder/operator contributions and linking them to GitHub or other work evidence. Only low-risk, non-sensitive work can receive self-verification XP, recorded idempotently and separately from community accepted-work gating. Keep the existing bounty, review, revision, GitHub integration and identity controls intact. This reads like an intern",
+      "source_created_at": "2026-10-16T10:33:59Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Loofy147/Contribution-bounties-centre-/issues/21",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883173612",
+      "title": "Tougher hulls (4x ballistic hits) with system damage on hull hits",
+      "url": "https://github.com/colintdf/orbit-issues/issues/19",
+      "evidence": "**Requested by:** colintdf, after the #4/#5 review. ## Goal Fights shouldn't end the moment shields drop. A ship should take **four times as many hull hits from ballistic weapons** before it's destroyed. In exchange, hull hits wear the ship down: they can knock out the shield generator, damage the engines or cause other effects that weaken it. ## 1. Tougher hulls against ballistic fire - Ballistic hull damage (cannon, Gatling and NPC bolts) is divided by 4, with a minimum of 1. Hull stays a 0–100 byte, so this goes in `damage_energy` next to th",
+      "source_created_at": "2026-10-16T11:13:18Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/colintdf/orbit-issues/issues/19",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883087135",
+      "title": "Mission targets are always close to where the player jumps in",
+      "url": "https://github.com/colintdf/orbit-issues/issues/17",
+      "evidence": "There needs to be some level of searching. Maybe direction to nearby co-ordinates that then triggers the pointer to the salvage/target ship/pirate",
+      "source_created_at": "2026-10-16T11:06:52Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/colintdf/orbit-issues/issues/17",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882735018",
+      "title": "Composer Upgrade 7.1.x to 7.2.1: CSS Problems with libraries.css",
+      "url": "https://github.com/mautic/mautic/issues/17860",
+      "evidence": "### Mautic Series 7.2.x series ### Mautic installed version 7.2.1 ### Way of installing I installed with composer using https://github.com/mautic/recommended-project ### PHP version 8.5 ### What browsers are you seeing the problem on? Not relevant ### What happened? Following an upgrade from Mautic 5.1.x to 5.2.1 via Composer, significant display issues occur in the user interface. Buttons and other core UI elements lose their correct CSS formatting and render improperly. Actual Behavior: The Composer upgrade process (composer update) fails to ",
+      "source_created_at": "2026-10-16T10:41:22Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17860",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882732500",
+      "title": "[Bug]: agents.test.ts fails on a Mac where Codex is installed with Homebrew",
+      "url": "https://github.com/neatlogs/neatroots/issues/235",
+      "evidence": "### What happened, and what you expected On a clean checkout, `pnpm test` fails 2 of 300 tests, both in `packages/neatroots/test/agents.test.ts`. The tests set `PATH=/usr/bin:/bin` to keep the machine out of the result, but `agentBin()` also searches fixed folders (`candidateDirs()`, `agents/chat.ts:57`), and `/opt/homebrew/bin` comes before the nvm folders and the ChatGPT.app copy. So the machine's real `/opt/homebrew/bin/codex` wins: - *looks past the PATH…*: expected the fake nvm `codex`, got `/opt/homebrew/bin/codex` - *finds the Codex that",
+      "source_created_at": "2026-10-16T10:41:11Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/235",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882732039",
+      "title": "[Bug]: Laya installed with \"neatroots laya install\" isn't picked up by a running server until it restarts",
+      "url": "https://github.com/neatlogs/neatroots/issues/234",
+      "evidence": "### What happened, and what you expected I installed Laya with `neatroots laya install` while `neatroots start` was already running — which is what the server's own startup message suggests: > Laya, the local decision model (about 1.4 GB), isn't downloaded. Choose in the app (Settings → Decision model) or run neatroots laya install; or use Jev cloud: … The install finished with `✓ Laya running`. But Home → \"Choose how checks get answered\" still showed **Download Laya**, and checks kept using the LLM (`decision model now: llm (pythia-160m:latest",
+      "source_created_at": "2026-10-16T10:41:09Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/234",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883231267",
+      "title": "[Bug]: llm.model \"auto\" skips an installed llama3.2 and picks the first Ollama model (pythia-160m), so checks are coin flips and Laya never takes over",
+      "url": "https://github.com/neatlogs/neatroots/issues/238",
+      "evidence": "### What happened, and what you expected With `llm.model: auto` and three Ollama models installed (`pythia-160m:latest`, `tinyllama:latest`, `llama3.2:latest`), neatroots picked **pythia-160m**, a 160M model that can't answer the checks. The cause is in `src/models/llm.ts:194`. On a medium-tier machine (24 GB here) the preferences are `[..., \"gemma3:4b\", \"qwen3:4b\", \"llama3.2:3b\"]`. Ollama's default tag for llama3.2 (the 3B model) is `llama3.2:latest`, and `\"llama3.2:latest\".startsWith(\"llama3.2:3b\")` is false. No preference matches, so it fall",
+      "source_created_at": "2026-10-16T11:17:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/238",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883224756",
+      "title": "Raise ship and upgrade prices (ships x2.5, upgrades x3)",
+      "url": "https://github.com/colintdf/orbit-issues/issues/22",
+      "evidence": "**Requested by:** colintdf: \"ships and upgrades are too cheap\". ## Current prices (0.38.1) - **Starting credits:** 2,500 - **Ships:** 800 (Scarab) to 24,500 (Titan). Trade-in is 75%. - **Upgrades:** - Jump drive: 2,000 / 5,000 / 9,000 / 14,000 - Cannon: 1,200 / 3,000 / 6,000 / 10,000 - Fuel tank: 1,500 / 4,000 / 8,000 - Scanner 750, improved scoop 500, Shield +20 900, Hull +20 750, Hold +8 600, cabin 400 - Fuel scoop 1,500, escape pod 800 - Missile 120, hull repair 5 cr per point ## Hard limit: credits are a 16-bit number (max 65,535) - A flat ",
+      "source_created_at": "2026-10-16T11:17:03Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/colintdf/orbit-issues/issues/22",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5883079941",
+      "title": "Apply secret redaction to decision requests sent to Jev cloud",
+      "url": "https://github.com/neatlogs/neatroots/issues/237",
+      "evidence": "### What happens today When Jev cloud is on (`neatroots jev login && neatroots jev on`), neatroots sends its decision requests (check questions, run triage, `judge`) to api.typesafe.ai. Each request carries the span content the question needs: tool inputs and outputs, LLM messages, the final answer. The request is built in `JevBackend.decide` (`packages/neatroots/src/models/decision.ts`), and nothing on that path redacts it. Calls to a hosted LLM are handled differently. `LlmClient.redactFor` (`models/llm.ts`) removes private keys, API keys and",
+      "source_created_at": "2026-10-16T11:06:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/237",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882880719",
+      "title": "fix(ci): fail the lint job on warnings",
+      "url": "https://github.com/slippay-labs/slippay/issues/166",
+      "evidence": "> 💬 **Questions about this issue, or need a hand?** Ask in the [SlipPay Labs community on Telegram](https://t.me/slippay_labs). ## Problem `react-refresh/only-export-components` is set to `\"warn\"` (`eslint.config.js` lines 28–31) and `jsx-a11y/no-redundant-roles` to `\"warn\"` (line 53). ESLint exits non-zero on warnings only with `--max-warnings 0`. The `Lint` step runs `pnpm -r lint` (`.github/workflows/test.yml` line 31), which in turn runs whatever each package's `lint` script declares, so severity is whatever the package scripts say. As a r",
+      "source_created_at": "2026-10-16T10:52:01Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/slippay-labs/slippay/issues/166",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5882665208",
+      "title": "LLM-call replay drops the call’s tools, so it can’t reproduce or test a tool-choice decision",
+      "url": "https://github.com/neatlogs/neatroots/issues/232",
+      "evidence": "### What replay does today Replaying a single LLM call re-sends that call's recorded messages, with any edits, through neatroots' configured LLM and stores the answer as a new run (`replayLlm` in `packages/neatroots/src/replay/replay.ts`). The request carries no tools. Earlier tool calls in the conversation become text like `[called lookup_order({...})]`, tool results become user turns (`toChat`), and the answer is stored as text. `docs/replay.md` describes this: \"The call goes without tool definitions, so the model answers in text.\" ### Why th",
+      "source_created_at": "2026-10-16T10:36:19Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/232",
+      "first_seen_at": "2026-10-16T11:21:49.982Z",
+      "last_seen_at": "2026-10-16T11:21:49.982Z"
     },
     {
       "source": "github",
@@ -7225,6 +7600,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-16T11:21:49.982Z",
+      "generated_at": "2026-10-16T11:21:49.982Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 1112
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 517
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 25,
+      "seen_again": 22,
+      "archive_total": 506,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-16T04:30:19.164Z",
       "generated_at": "2026-10-16T04:30:19.164Z",
       "status": "ok",
@@ -10540,67 +10976,6 @@
       "unique_in_cycle": 47,
       "new_items": 0,
       "seen_again": 47,
-      "archive_total": 211,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:45:43.864Z",
-      "generated_at": "2026-10-14T16:45:43.864Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 295
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 123
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 5,
-      "seen_again": 42,
       "archive_total": 211,
       "steps": [
         {
