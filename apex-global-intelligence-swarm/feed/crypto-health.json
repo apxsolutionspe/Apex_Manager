@@ -1,17 +1,17 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-10-16T17:30:59.034Z",
-  "observed_at": "2026-10-16T17:30:55.165Z",
+  "generated_at": "2026-10-16T21:19:35.583Z",
+  "observed_at": "2026-10-16T21:19:32.254Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
-    "sources_read": 17,
-    "sources_unavailable": 7,
+    "sources_read": 16,
+    "sources_unavailable": 8,
     "failure_types": {
       "access_denied": 2,
       "upstream_error": 1,
       "network_failure": 3,
-      "size_limit": 1,
+      "size_limit": 2,
       "unexpected_type": 0,
       "other": 0
     },
@@ -19,6 +19,10 @@
       {
         "source": "coinbase-blog",
         "reason": "access_denied"
+      },
+      {
+        "source": "kraken-product",
+        "reason": "size_limit"
       },
       {
         "source": "okx-help",
