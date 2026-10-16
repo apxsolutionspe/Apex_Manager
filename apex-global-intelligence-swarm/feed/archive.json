@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-16T16:37:52.234Z",
+  "updated_at": "2026-10-16T21:06:13.451Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hackerone.com/mozilla/updates?type=team",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,397 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z"
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889814613",
+      "title": "Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack",
+      "url": "https://github.com/Zenith-options/frontend/issues/263",
+      "evidence": "**Description:** Stand up a public bug bounty and coordinated vulnerability disclosure process scoped to the vault contracts, backend, and frontend, with published scope, severity tiers, reward bands, triage SLAs, and a safe-harbour statement. **Problem Statement & Context:** An audit is a point-in-time review; custody-bearing contracts need continuous adversarial attention. A bounty also depends on prerequisites the repo already treats as first-class — `SECURITY.md` exists and the vault workstreams include an immutable audit log and incident t",
+      "source_created_at": "2026-10-16T19:13:48Z",
+      "opp_type": "bug_bounty",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Zenith-options/frontend/issues/263",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889508059",
+      "title": "Guard stale damage-history PRI entries before reward processing",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1089",
+      "evidence": "## Problem Four scoring/reward loops dereference `DamageHistory[i].DamagerPRI` before checking it for `none`: - base kill scoring: `KFGameInfo.uc:2668-2669` - weekly attacker collection: `KFGameInfo_WeeklySurvival.uc:460-461` - weekly assister collection: `KFGameInfo_WeeklySurvival.uc:529-530` - bounty assister collection: `KFGameInfo_WeeklySurvival.uc:580-581` The condition calls `DamagerPRI.GetTeamNum()` and only then evaluates `DamagerPRI != none`. A damage-history entry can retain a controller while its PRI is unavailable after disconnect/l",
+      "source_created_at": "2026-10-16T18:49:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zeroking1998/KF2-Optimizer-Next/issues/1089",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5891177146",
+      "title": "Question: reward requests for merged PRs under the new 5-completed-bounties rule",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/421",
+      "evidence": "Since #417, `GET /api/bounties/mine/quota` returns `postEligibility: { allowed: false, completed: 0, required: 5 }` for a hunter with no completed bounties, so a new hunter can no longer create a bounty or a suggestion. `CONTRIBUTING.md` (\"Getting paid\") still tells contributors to open the bounty themselves and link the PR, open or merged. `docs/faq.md` (\"How do I get my first bounty?\") also suggests **New Bounty** as a route to a first bounty. With the new rule, neither works until someone has completed 5 bounties. Two questions, so I can fol",
+      "source_created_at": "2026-10-16T21:04:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ZecHub/zec-bounties/issues/421",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890889727",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1602",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-16 20:40 UTC #### 1. [[BOUNTY] Medium: Unverified cached leafIndex commitment mismatch in ensureLeafIndex, unvalidated PRIVATE_SWAP consent/amount precision, non-normalized seed phrase derivation & legacy 2-note transfer block](https://github.com/paraloom-labs/paraloom-core/issues/964) - **Repository:** [paraloom-labs/paraloom-core](https://github.com/paraloom-labs/paraloom-core) - **Comments:** 2 - **Last Updated:** 2026-10-16T20:40:40Z #### 2. [[BOUNTY] Medium: Unverified cached leafIndex ",
+      "source_created_at": "2026-10-16T20:40:55Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1602",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890262352",
+      "title": "refactor(web): write the bounty editor once with a hub or kiosk submit",
+      "url": "https://github.com/RyRy79261/baumy-olympics/issues/217",
+      "evidence": "From the architecture review of 2026-10-16 (candidate 6). `components/chores/bounty-bulk-editor.tsx` guesses the surface (`kiosk = pinLabel !== undefined`) and renders two form trees, an `AttestedForm` and a plain form. `kiosk-points-form.tsx` repeats the field-error mapping. Fixes land on one side only (4e038abd, ae152a45 vs a8ca4159, 731a695c). Deepen: the editor body is written once and takes a submit adapter: hub session, or kiosk with PIN through `AttestedForm`. Issue-to-field mapping lives in one place. No behaviour change. Depends on the",
+      "source_created_at": "2026-10-16T19:50:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/RyRy79261/baumy-olympics/issues/217",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889868586",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1263",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-16 19:18 UTC #### 1. [Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack](https://github.com/Zenith-options/frontend/issues/263) - **Repository:** [Zenith-options/frontend](https://github.com/Zenith-options/frontend) - **Comments:** 0 - **Last Updated:** 2026-10-16T19:13:48Z #### 2. [[Bug]: on Windows, connect writes the VS Code and Claude Desktop MCP config to the macOS/Linux path, and the in-app chat cannot find agent CLIs](https://github.com/neatlogs/neat",
+      "source_created_at": "2026-10-16T19:18:15Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1263",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890617991",
+      "title": "[Bug bounty] Snowbridge client cache drops public clients without closing their WebSocket transports (leaked auto-reconnecting sockets)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2165",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug `packages/evm-snowbridge/src/viemClientCache.ts` creates the shared Snowbridge public-client cache **without an eviction callback**: ```ts const cache = createClientCache ( MAX_CLIENTS, async client => { await client.getBlockNumber() }, undefined, // ← onEviction: nothing closes the dropped client EXTENSION_MS ) ``` All three SDK WS pools (`PapiApi.ts`, `DedotApi.ts`, `PolkadotJsApi.ts`) pass a teardown callback that disconnects the client on eviction — this one doesn't, so evicted clients are never destro",
+      "source_created_at": "2026-10-16T20:18:48Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2165",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50122920",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "evidence": "",
+      "source_created_at": "2026-10-16T19:03:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-solved",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889181662",
+      "title": "Feature proposal: findings have no list page, so the documented goes-quiet-after-3-dismissals control can only be driven one run at a time (bounty requested)",
+      "url": "https://github.com/neatlogs/neatroots/issues/290",
+      "evidence": "## The gap A check goes **quiet** in a project once you dismiss it three times there, and that is the product's own noise control: quiet findings are still recorded on the run page, but stop counting, stop sending notes and stay off Home (`docs/checks.md`, `docs/tester-guide.md`). Verified on main: - `packages/neatroots/src/engine/findings.ts`: `export const QUIET_AFTER = 3;` and `store.dismissalsIn(checkId, project) >= QUIET_AFTER ? \"quiet\" : \"raised\"`. - `packages/neatroots/src/store/db.ts` counts a check's `dismissed` findings joined to runs",
+      "source_created_at": "2026-10-16T18:24:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/290",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889178149",
+      "title": "Feature proposal: a compare view for two runs, since compare_runs is MCP-only today (bounty requested)",
+      "url": "https://github.com/neatlogs/neatroots/issues/289",
+      "evidence": "## What happens The loop the README describes ends in compare: \"run the agent, see what went wrong, let a coding agent fix it, replay, compare\", and the sequence diagram has the coding agent doing `compare_runs: before and after`. The comparison itself exists and works, but only over MCP, and only as text in a coding agent's chat. - `compare_runs` returns two runs side by side (`packages/neatroots/src/mcp/explore-tools.ts`): each side's summary, the time-ordered tool list with failures marked, the output, the problems, plus `fixed` and `new_pro",
+      "source_created_at": "2026-10-16T18:23:50Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/289",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889176050",
+      "title": "Feature proposal: show what a run, a project and a period cost, from a bundled price table and the tokens already stored (bounty requested)",
+      "url": "https://github.com/neatlogs/neatroots/issues/288",
+      "evidence": "## What happens neatroots records everything needed to price a run, and then never prices anything. `runs` stores `prompt_tokens`, `completion_tokens` and `total_tokens` (`packages/neatroots/src/store/db.ts`). Each `spans` row stores the `model`, the `provider` and its own token counts. So the per-model, per-token detail is already on disk, losslessly. Nothing turns that into money: - `Totals` has `tokens`, `llm_calls` and `tool_calls` and no cost (`src/store/insights.ts`). `ModelAgg` has `tokens` and no cost. `ProjectAgg` has no token field at",
+      "source_created_at": "2026-10-16T18:23:40Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/288",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889166381",
+      "title": "Feature proposal: retention is value-blind, so a run with findings is evicted before a clean run (bounty requested)",
+      "url": "https://github.com/neatlogs/neatroots/issues/287",
+      "evidence": "## What happens today Retention has no notion of value. Both passes take the oldest unpinned runs, whatever they contain: - Age pass, `packages/neatroots/src/store/db.ts`: `SELECT trace_id FROM runs WHERE pinned = 0 AND COALESCE(ended_ms, received_ms) < ?`, a time cutoff and nothing else. - Size pass: `oldestRunsCovering(...)` ordered by `COALESCE(r.ended_ms, r.received_ms) ASC`, skipping only `if (rows[i].pinned) continue;`. So once the store passes its size cap, a run that produced a finding is deleted before a newer run that produced nothing",
+      "source_created_at": "2026-10-16T18:22:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/287",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890033997",
+      "title": "External audit of @usewhisk/cctp and the core executors",
+      "url": "https://github.com/usewhisk/whisk/issues/85",
+      "evidence": "Required before mainnet general availability, with a public bug bounty. No open high or critical findings at launch. Source: umbrella ADR, Decision 12.2 (https://github.com/usewhisk/whisk/blob/main/docs/adr/ADR-2026-10-16-whisk-platform.md). Code starts only after the phase ADR pair is approved by the maintainer.",
+      "source_created_at": "2026-10-16T19:31:45Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/usewhisk/whisk/issues/85",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889809236",
+      "title": "[Bug]: on Windows, connect writes the VS Code and Claude Desktop MCP config to the macOS/Linux path, and the in-app chat cannot find agent CLIs",
+      "url": "https://github.com/neatlogs/neatroots/issues/314",
+      "evidence": "### What happened A source checkout runs on Windows (verified: `node packages/neatroots/dist/cli.js start` serves `/api/status` on Windows 11 with Node 22). Two features still assume a POSIX machine, and both fail silently rather than saying so. **1. `neatroots connect` writes VS Code and Claude Desktop config to the macOS/Linux path on Windows.** `packages/neatroots/src/mcp/clients.ts:59-60`: ```ts const appSupport = (...p: string[]) => process.platform === \"darwin\" ? path.join(home(), \"Library\", \"Application Support\", ...p) : path.join(home()",
+      "source_created_at": "2026-10-16T19:13:22Z",
+      "opp_type": "otro",
+      "score": 29,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/314",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889164307",
+      "title": "[Bug]: hooks_connected reads 0 for every TypeScript user, and neatroots doctor says nothing about steering",
+      "url": "https://github.com/neatlogs/neatroots/issues/286",
+      "evidence": "## What went wrong Nothing in the product can tell you whether a steering hook is actually live, and the one number that pretends to answers a different question. `steering.hooks_connected` is `roots.steering.listeners`, the number of subscribers to the SSE stream at `/api/steer/stream`: - `packages/neatroots/src/steering/hub.ts`: `get listeners(): number { return this.subscribers.size; }` - The only caller of `steering.subscribe` in the repo is the `/api/steer/stream` route in `packages/neatroots/src/server/api.ts`. Only the Python client open",
+      "source_created_at": "2026-10-16T18:22:46Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/286",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889162192",
+      "title": "[Bug]: preview_check counts a run as checked when its question was never judged, and nothing says why a check did not fire",
+      "url": "https://github.com/neatlogs/neatroots/issues/285",
+      "evidence": "## What happened, and what you expected A check that does not fire on a run you are sure is bad gives you one number and no way to find out why. `previewCheck` returns only an aggregate rate (`packages/neatroots/src/engine/engine.ts`): ```ts return { checked, hits, total: runs.length, truncated: checked Promise )[] = []; afterEach(async () => { for (const c of cleanup.splice(0)) await c(); }); it(\"a question with nothing to read still counts as checked\", async () => { const llm = await mockLlm({}); const tb = await makeRoots({ llmUrl: llm.url }",
+      "source_created_at": "2026-10-16T18:22:37Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/285",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889151749",
+      "title": "[Bug]: a copy of the store without its blob tree reads back as empty prompts and outputs (no store verify, and meta.schema_version is never read)",
+      "url": "https://github.com/neatlogs/neatroots/issues/283",
+      "evidence": "## What happens The local store is not one file, and nothing tells you that. `~/.neatroots/data` holds `neatroots.db` (plus `-wal`/`-shm` while the server runs) and a `blobs/` tree: - `packages/neatroots/src/core.ts` builds `new Store(path.join(this.home, \"data\"))`. - `packages/neatroots/src/store/db.ts` opens the database, sets `journal_mode = WAL`, and creates `this.blobs = new BlobStore(path.join(dir, \"blobs\"))`. - `packages/neatroots/src/store/blobs.ts` has `BLOB_THRESHOLD = 32 * 1024`: every string attribute value above it (prompts, model ",
+      "source_created_at": "2026-10-16T18:21:47Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/283",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889766742",
+      "title": "Cloud import auth returns 500 for non-string fields",
+      "url": "https://github.com/neatlogs/neatroots/issues/309",
+      "evidence": "### What happened `POST /api/cloud/import-auth` calls `.trim()` on `token` and `project_id` without checking their runtime JSON types. Values such as `{\"project_id\":5}` throw and return 500. When a valid token is included before an invalid project ID, the token can be stored before the request fails. ### Expected Validate both fields before changing Keychain or config. `token` must be a string; `project_id` must be a string or null. Invalid requests return 400 and have no side effects. ### Version Current `main` at `9d1c11e`.",
+      "source_created_at": "2026-10-16T19:09:56Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/309",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889739182",
+      "title": "Editing a question preserves Laya trust earned for its previous definition",
+      "url": "https://github.com/neatlogs/neatroots/issues/305",
+      "evidence": "### What happened, and what you expected ### Problem In `auto` mode, editing a check’s question while keeping its ID preserves Laya’s agreement statistics from the previous question. The changed question can immediately bypass an available reference LLM despite having no shadow comparisons for its new definition. Loading the persisted state in a fresh instance retains this behavior. The [documented behavior](https://github.com/neatlogs/neatroots/blob/591357e8a650b8a9fcaff7bdb41e1aabe03fe8a5/docs/getting-started.md#laya-or-jev-cloud) is that Lay",
+      "source_created_at": "2026-10-16T19:07:45Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/305",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889612488",
+      "title": "Add SECURITY.md with a disclosure channel",
+      "url": "https://github.com/asgarimehdi/h-dashboard/issues/1070",
+      "evidence": "**منبع:** اجرای `improve deep` روی کامیت `096cb5a8` (برنچ `beta`). ## یافته - **شواهد:** `SECURITY.md` وجود ندارد (نه در ریشه و نه در `.github/`) — بررسی شد. رپو عمومی است (`asgarimehdi/h-dashboard`، طبق `README.md:5` و `docs/agents/testing.md:3`)، داده‌های بیمارستانی/پرسنلی و کد ملی را مدیریت می‌کند، و همین ریپو گاردِ نشت env را دارد (`scripts/check-app-key-leak.php`، ایشو #953). - **تأثیر:** پژوهشگر امنیتی که یک مسئلهٔ واقعی پیدا کند، کانال افشای مستند ندارد و گزارش به‌صورت پیش‌فرض در issue عمومی می‌افتد — بدترین مسیر برای یک سیستم بیمارستانی",
+      "source_created_at": "2026-10-16T18:57:40Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/asgarimehdi/h-dashboard/issues/1070",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890566786",
+      "title": "Match Cmdr's competitors in enterprise readiness",
+      "url": "https://github.com/vdavid/cmdr/issues/462",
+      "evidence": "On IT and trust docs, Cmdr is already ahead of every competitor in the macOS file-manager space. None of them documents MDM deployment, managed preferences, a Full Disk Access (PPPC) profile, a VPAT, or an SBOM, and only one product out of 86 has a DPA. Where competitors still beat Cmdr is the **buying** side: - Licenses an org can buy without emailing anyone. - A license that IT can push through MDM. - A place in the catalogs Mac admins deploy from. - Named customers. This issue closes those gaps. It follows #118 (enterprise readiness) and bui",
+      "source_created_at": "2026-10-16T20:14:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vdavid/cmdr/issues/462",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890064078",
+      "title": "[Bug]: oversized bodies on /v1/logs and /v1/trace answer 400 instead of 413",
+      "url": "https://github.com/neatlogs/neatroots/issues/324",
+      "evidence": "### What happened `readBody` (`packages/neatroots/src/server/collector.ts:18-28`) throws an error carrying `status: 413` when the raw body is over 64 MB, and the zlib output caps throw when decompression passes 256 MB. `/v1/traces` maps that through, but the other two collector routes swallow it: ```ts } catch (err) { return c.json({ code: 3, message: `invalid OTLP logs payload: ${(err as Error).message}` }, 400); } ``` So an exporter that overshot the body limit is told its payload is malformed on `/v1/logs` (`collector.ts:88-90`) and `/v1/tra",
+      "source_created_at": "2026-10-16T19:34:11Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/324",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890063723",
+      "title": "[Bug]: the SPA fallback marks missing /assets/* paths as immutable, so browsers cache index.html as an asset",
+      "url": "https://github.com/neatlogs/neatroots/issues/323",
+      "evidence": "### What happened In the static handler (`packages/neatroots/src/server/app.ts:115-123`), when the requested file does not exist the handler serves `index.html`, but the cache header is decided from the requested path, not from what was served: ```ts let file = path.join(uiDir, rel); if (!file.startsWith(uiDir + path.sep) || !rel || !fs.existsSync(file) || fs.statSync(file).isDirectory()) file = path.join(uiDir, \"index.html\"); ... if (rel.startsWith(\"assets/\")) headers[\"cache-control\"] = \"public, max-age=31536000, immutable\"; ``` So `GET /asset",
+      "source_created_at": "2026-10-16T19:34:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/323",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5890062544",
+      "title": "[Bug]: a URL with a malformed percent-escape (/%zz) returns 500 instead of the app",
+      "url": "https://github.com/neatlogs/neatroots/issues/322",
+      "evidence": "### What happened `packages/neatroots/src/server/app.ts:115` decodes the request path directly: ```ts const rel = decodeURIComponent(c.req.path).replace(/^\\/+/, \"\"); ``` A path that is not valid percent-encoding makes `decodeURIComponent` throw a `URIError`. `app.onError` then answers `500 {\"error\":\"internal error\"}`, so any request that happens to contain a bad escape (a truncated multi-byte sequence like `/%e0%a4`, a bare `/%zz`, a trailing `/%`, `/assets/%`) becomes a server error instead of the app shell. Unknown paths normally fall back to",
+      "source_created_at": "2026-10-16T19:34:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/322",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889204587",
+      "title": "Prevent duplicate marketing email sends when campaigns run concurrently",
+      "url": "https://github.com/mautic/mautic/issues/17863",
+      "evidence": "### Summary Two campaigns can send the same marketing email to the same contact when their trigger processes run concurrently. Mautic checks `email_stats` for the `contact_id + email_id` pair, but the check is not coordinated atomically across different campaign processes. Both processes can read the state before either one writes the new statistic. ### Reproduction Environment: - Mautic 7.2.1 - clean Composer installation - one published marketing email - two published campaigns - two different segments with overlapping contacts Run the campai",
+      "source_created_at": "2026-10-16T18:25:46Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17863",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5889153526",
+      "title": "[Bug]: scope: session is accepted by the schema and listed in the docs, but the engine silently runs it as scope: trace",
+      "url": "https://github.com/neatlogs/neatroots/issues/284",
+      "evidence": "## What happened, and what you expected `QuestionBase` accepts three scopes (`packages/neatroots/src/checks/types.ts`): ```ts scope: z.enum([\"span\", \"trace\", \"session\"]).default(\"trace\"), ``` and `docs/checks.md` prints `session` as an allowed value: ```yaml scope: trace # span | trace | session ``` Only `span` is implemented. Every consumer of the field branches on `scope === \"span\"` and treats everything else as a trace question: - `packages/neatroots/src/engine/engine.ts`, live scheduling and the run-end pass: `if (check.scope === \"span\") { ",
+      "source_created_at": "2026-10-16T18:21:56Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/284",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-16T21:06:13.451Z"
     },
     {
       "source": "github",
@@ -7975,6 +8365,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-16T21:06:13.451Z",
+      "generated_at": "2026-10-16T21:06:13.451Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 400
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 474
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 48,
+      "new_items": 26,
+      "seen_again": 22,
+      "archive_total": 557,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "2 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "48 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-16T16:37:52.234Z",
       "generated_at": "2026-10-16T16:37:52.234Z",
       "status": "ok",
@@ -11291,67 +11742,6 @@
       "new_items": 9,
       "seen_again": 38,
       "archive_total": 220,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:47:56.671Z",
-      "generated_at": "2026-10-14T16:47:56.671Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 277
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 111
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 211,
       "steps": [
         {
           "agent": "Recolector",
