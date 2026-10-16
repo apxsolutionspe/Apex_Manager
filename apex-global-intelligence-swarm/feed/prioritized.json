@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-16T11:21:51.431Z",
+  "generated_at": "2026-10-16T16:37:53.031Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 506,
+    "total_evaluated": 531,
     "investigar": 1,
-    "informativa": 478,
-    "descartar": 27,
+    "informativa": 502,
+    "descartar": 28,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -37,6 +37,52 @@
         "issue_open_now": true
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Proposal] fix(staged_tasks): filter completed entities in creation dedup and default relevance_score for index sorting ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21875",
+      "source_created_at": "2026-10-16T15:44:21Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Proposal] Fix apps, persona, and speech-profile temp-file leaks, pricing/cache lifecycle, and locked-memory guards ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21867",
+      "source_created_at": "2026-10-16T14:42:20Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -648,6 +694,53 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Uncaught transient RPC errors aborting waitForFunding/waitForSwapConfirmation settlement polls, inpage PRIVATE_SWAP stale GET_SWAP_STATUS resolution, fetchV3Leaves intra-slot/payload bounds, and base58Decode/v0 recoverReshieldedNote ",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/89",
+      "source_created_at": "2026-10-16T14:32:12Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1262",
+      "source_created_at": "2026-10-16T15:11:57Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 400,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1544,6 +1637,126 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Stop sending unchanged Bounty Hunt status as a reliable RPC every frame",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1017",
+      "source_created_at": "2026-10-16T15:35:16Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Move Bounty Hunt maintenance off the per-frame server path",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1016",
+      "source_created_at": "2026-10-16T15:34:11Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Reset Bounty Hunt flee candidates for each special Zed",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1015",
+      "source_created_at": "2026-10-16T15:33:52Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: On-chain deactivate_validator orphans dual-stake token collateral (slashing bypass + permanent fund lock) & verify_transact pre-reduces non-canonical public inputs",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/970",
+      "source_created_at": "2026-10-16T15:22:05Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(database): sanitize plan_key attribution and guard hourly usage increments ( proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21878",
+      "source_created_at": "2026-10-16T15:54:12Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2609,6 +2822,29 @@
     },
     {
       "source": "github",
+      "title": "[New Service] Money Reactor",
+      "url": "https://github.com/haoruilee/awesome-agent-native-services/issues/227",
+      "source_created_at": "2026-10-16T15:34:13Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[intake:memory][dsh-memory#439] #297 同族漏修：add_goal/add_rejected/add_unresolved 改写既有密级节点未声明时静默降 internal",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/732",
       "source_created_at": "2026-10-16T04:12:26Z",
@@ -3403,6 +3639,81 @@
     },
     {
       "source": "github",
+      "title": "F-110: Add a paginated activity feed to the portfolio page",
+      "url": "https://github.com/Netwalls/BOXMEOUT_STELLA/issues/1448",
+      "source_created_at": "2026-10-16T16:27:21Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Feature request: let apps register real Civitai reactions (entity reaction read + toggle for blocks)",
+      "url": "https://github.com/civitai/civitai-app-starters/issues/669",
+      "source_created_at": "2026-10-16T15:40:02Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "docs(dx): add a reproducible local bootstrap",
+      "url": "https://github.com/slippay-labs/slippay/issues/352",
+      "source_created_at": "2026-10-16T16:16:01Z",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z",
+      "status": "informativa",
+      "priority": 63,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No hay indicación de incentivo remunerado",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Drop the teams section and detail-page promises from copy, stats, and docs",
       "url": "https://github.com/boundlessfi/builders/issues/404",
       "source_created_at": "2026-10-16T10:43:43Z",
@@ -3483,331 +3794,6 @@
       "source_created_at": "2026-10-16T04:12:06Z",
       "first_seen_at": "2026-10-16T04:30:19.164Z",
       "last_seen_at": "2026-10-16T04:30:19.164Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Models: switch engine or model partway through a thread and see what carries over",
-      "url": "https://github.com/useagenthq/useagent/issues/177",
-      "source_created_at": "2026-10-15T21:04:46Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Automations: run a real recurring job for a week and check it stays useful",
-      "url": "https://github.com/useagenthq/useagent/issues/175",
-      "source_created_at": "2026-10-15T21:04:38Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "First run: follow the home page tour on a new account",
-      "url": "https://github.com/useagenthq/useagent/issues/186",
-      "source_created_at": "2026-10-15T21:05:24Z",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "First run: check the share card after your first finished task",
-      "url": "https://github.com/useagenthq/useagent/issues/185",
-      "source_created_at": "2026-10-15T21:05:20Z",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Artifacts: download all files from a thread and check they open",
-      "url": "https://github.com/useagenthq/useagent/issues/184",
-      "source_created_at": "2026-10-15T21:05:16Z",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Models: run Codex on your own ChatGPT plan",
-      "url": "https://github.com/useagenthq/useagent/issues/178",
-      "source_created_at": "2026-10-15T21:04:50Z",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Threads: send a few quick messages while a task runs and check they're answered together",
-      "url": "https://github.com/useagenthq/useagent/issues/156",
-      "source_created_at": "2026-10-15T21:03:18Z",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bots: run a morning brief routine that reads Gmail and Calendar on its own",
-      "url": "https://github.com/useagenthq/useagent/issues/155",
-      "source_created_at": "2026-10-15T21:03:14Z",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Connectors: read Linear without a click, and check that creating an issue asks first",
-      "url": "https://github.com/useagenthq/useagent/issues/154",
-      "source_created_at": "2026-10-15T21:03:10Z",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bots: hand work to a bot with an @mention in another thread",
-      "url": "https://github.com/useagenthq/useagent/issues/163",
-      "source_created_at": "2026-10-15T21:03:48Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bots: add a starter bot from the Marketplace and give it a first job",
-      "url": "https://github.com/useagenthq/useagent/issues/161",
-      "source_created_at": "2026-10-15T21:03:40Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Models: pick Codex without a ChatGPT account and check the message",
-      "url": "https://github.com/useagenthq/useagent/issues/160",
-      "source_created_at": "2026-10-15T21:03:35Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
-      "status": "informativa",
-      "priority": 63,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No hay indicación de incentivo remunerado",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Models: check what the app tells you when a credit or capacity limit is reached",
-      "url": "https://github.com/useagenthq/useagent/issues/159",
-      "source_created_at": "2026-10-15T21:03:31Z",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:04:57.107Z",
       "status": "informativa",
       "priority": 63,
       "reasons": [

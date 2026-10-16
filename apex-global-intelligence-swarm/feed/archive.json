@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-16T11:21:49.982Z",
+  "updated_at": "2026-10-16T16:37:52.234Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -285,12 +285,12 @@
       "evidence": "",
       "source_created_at": "2026-09-16T16:32:41Z",
       "opp_type": "otro",
-      "score": 17,
+      "score": 9,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hackerone.com/mozilla/updates?type=team",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z"
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5885933517",
+      "title": "[BOUNTY] Medium: Uncaught transient RPC errors aborting waitForFunding/waitForSwapConfirmation settlement polls, inpage PRIVATE_SWAP stale GET_SWAP_STATUS resolution, fetchV3Leaves intra-slot/payload bounds, and base58Decode/v0 recoverReshieldedNote ",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/89",
+      "evidence": "## Summary **Target Repository:** `paraloom-labs/paraloom-wallet` **Severity:** Medium ($150 USDC — Stage 1 Public Beta Bug Bounty) **Component:** `lib/paraloom/privateSwap.ts`, `lib/paraloom/transactFlow.ts`, `src/popup/Home.tsx`, `src/contents/inpage.ts`, `src/background/index.ts`, `lib/paraloom/transact.ts`, `lib/paraloom/bridge.ts` We identified four distinct state-desynchronization, settlement-abort, and recovery bugs in `paraloom-wallet`: --- ### 1. Uncaught Transient RPC Errors Abort `waitForFunding`, `waitForSwapConfirmation`, and `hand",
+      "source_created_at": "2026-10-16T14:32:12Z",
+      "opp_type": "bug_bounty",
+      "score": 67,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/89",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886874811",
+      "title": "Stop sending unchanged Bounty Hunt status as a reliable RPC every frame",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1017",
+      "evidence": "## Problem Every `UpdateBountyHunt()` call iterates all weekly player controllers and invokes: ```uc KFPC_WS.DisplayBountyHuntStatus(...); ``` `DisplayBountyHuntStatus` is a **reliable client RPC**. It recomputes `BountyHuntCurrentExtraZeds` and sends the same three displayed values into Scaleform even when alive/dead bounty counts and both dosh totals have not changed. Because `UpdateBountyHunt()` currently runs from server `Tick()`, a stable match can enqueue identical reliable RPC and HUD work at server frame rate for every player. This publ",
+      "source_created_at": "2026-10-16T15:35:16Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zeroking1998/KF2-Optimizer-Next/issues/1017",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886859477",
+      "title": "Move Bounty Hunt maintenance off the per-frame server path",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1016",
+      "evidence": "## Problem Bounty Hunt calls the entire `UpdateBountyHunt()` routine from `KFGameInfo_WeeklySurvival.Tick()` on every server frame. For every active bounty Zed, each call can perform: - dead-entry cleanup; - a Zed-type progression-table search and threshold-table search; - repeated `FindCommandOfClass()` walks; - one or more global player-controller scans; - square-root distance calculations; - movement-distance accumulation; - flee/attack/blocking-volume decisions. The same routine already treats its meaningful decisions as coarse gameplay int",
+      "source_created_at": "2026-10-16T15:34:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zeroking1998/KF2-Optimizer-Next/issues/1016",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886855119",
+      "title": "Reset Bounty Hunt flee candidates for each special Zed",
+      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1015",
+      "evidence": "## Problem `KFGameInfo_WeeklySurvival.UpdateBountyHunt()` declares `KFPC_ToFleeFrom` once for the function, then reuses it while iterating all entries in `BountyHunt.SpecialZedsData`. When one bounty Zed finds a nearby player, the variable remains set. The next bounty Zed enters its own controller scan without resetting the candidate. If that second Zed finds no player satisfying its distance/visibility rules, the stale controller still passes: ```uc if (KFPC_ToFleeFrom != none && ...) { ... BountyHunt.SpecialZedsData[i].FleeingFrom = KFPC_ToFl",
+      "source_created_at": "2026-10-16T15:33:52Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zeroking1998/KF2-Optimizer-Next/issues/1015",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886531591",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1262",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-16 15:11 UTC #### 1. [[#70] No `SECURITY.md` file documents the vulnerability disclosure process](https://github.com/SorobanKit/sorobanKit/issues/237) - **Repository:** [SorobanKit/sorobanKit](https://github.com/SorobanKit/sorobanKit) - **Comments:** 0 - **Last Updated:** 2026-10-16T15:09:43Z #### 2. [[$400] Test every Temporal workflow on a real time-skipping test server and gate replay determinism in CI](https://github.com/oll4com/spaceapp/issues/60) - **Repository:** [oll4com/spaceapp](ht",
+      "source_created_at": "2026-10-16T15:11:57Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1262",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886686199",
+      "title": "[BOUNTY] Medium: On-chain deactivate_validator orphans dual-stake token collateral (slashing bypass + permanent fund lock) & verify_transact pre-reduces non-canonical public inputs",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/970",
+      "evidence": "## Summary Two vulnerabilities exist in the Stage 1 on-chain program (`programs/paraloom/`): 1. **`deactivate_validator` (`programs/paraloom/src/lib.rs:1634-1656`) Orphans Dual-Stake Token Collateral (`token_stake_amount` Not Moved to `token_unbonding_amount`)**: - When a validator leaves the active set via `unregister_validator` (`programs/paraloom/src/lib.rs:954-958`) or a deactivating `slash_validator` (`programs/paraloom/src/lib.rs:1117-1121`), both the SOL stake (`stake_amount` -> `unbonding_amount`) and the PARALOOM token stake (`token_st",
+      "source_created_at": "2026-10-16T15:22:05Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/970",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887139887",
+      "title": "[Bounty proposal] fix(database): sanitize plan_key attribution and guard hourly usage increments ( proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21878",
+      "evidence": "### Summary Hardens ackend/database/hourly_usage_updates.py::prepare_hourly_usage_updates against map hierarchy corruption, timezone partition skew, and non-positive/non-finite usage rollups. ### Problem Analysis 1. **Dotted plan_key Breaks Nested Field Structure**: est_usage_fields expands dotted field paths into nested dictionaries for set(merge=True). Its documentation explicitly specifies that plan keys must be sanitized of . before interpolation. Because prepare_hourly_usage_updates interpolates raw plan_key directly into \\'plan_usage.{pla",
+      "source_created_at": "2026-10-16T15:54:12Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21878",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887002109",
+      "title": "[Bounty Proposal] fix(staged_tasks): filter completed entities in creation dedup and default relevance_score for index sorting ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21875",
+      "evidence": "## Summary `backend/database/staged_tasks.py` contains two subtle lifecycle and query defects that prevent users from creating new staged tasks when a historic task shared the same normalized description, and silently drop newly created staged tasks from `get_staged_tasks` queries in Firestore: 1. **Stale Completed Staged Task Dedup Deadlock (`create_staged_task`)**: - `create_staged_task` loops over `col.stream()` and deduplicates by normalized description without checking `doc.get('completed')`. - When a user previously completed, promoted, o",
+      "source_created_at": "2026-10-16T15:44:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21875",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886089881",
+      "title": "[Bounty Proposal] Fix apps, persona, and speech-profile temp-file leaks, pricing/cache lifecycle, and locked-memory guards ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21867",
+      "evidence": "## Summary Several endpoints across `backend/routers/apps.py`, `backend/utils/apps.py`, and `backend/routers/speech_profile.py` leak temporary uploaded files on disk, orphan or prematurely delete GCS logos on validation failures, drop paid-app pricing fields on partial PATCH updates, leave stale caches on deletion/approval, or include locked (`is_locked=True`) memories when generating public persona descriptions: 1. **Unbounded `_temp/apps` file leaks, unsanitized `file.filename`, and orphaned/prematurely deleted GCS logos (`backend/routers/app",
+      "source_created_at": "2026-10-16T14:42:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/21867",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887703528",
+      "title": "Replace remaining module placeholders with lessons and assessments",
+      "url": "https://github.com/raymondsmith-ai/BugBountyTrainer/issues/55",
+      "evidence": "## Goal Address Kari Asphodel's feedback that several learning modules are still placeholders. **Target:** Milestone 3, current iteration. **Scope:** Networking Fundamentals, Web Fundamentals, Reconnaissance, Web Vulnerability Fundamentals, and Bug Bounty Methodology. Each module receives a lesson, a fictional scenario to analyze, and five assessment questions. All five answers must be correct to complete the module. Failed attempts award no XP; successful completion awards the existing module reward once. Existing prerequisites, level requirem",
+      "source_created_at": "2026-10-16T16:33:25Z",
+      "opp_type": "bug_bounty",
+      "score": 35,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/raymondsmith-ai/BugBountyTrainer/issues/55",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886806849",
+      "title": "fix(invite): stop silently degrading invite codes to math.random",
+      "url": "https://github.com/Rotula-Labs/rotula-app/issues/153",
+      "evidence": "> 💬 **Questions about this issue, or need a hand?** Ask in the [Rotula Labs community on Telegram](https://t.me/rotula_community). ## Problem When `crypto.getRandomValues` is unavailable, `generateInviteCode` falls through to `Math.random()` at `src/utils/invite.ts` lines 34–38 and returns a code with no indication that the quality of the randomness changed. The caller in `groupsService.createInvite` (lines 90–94) treats both paths identically and stores the result. A code generated from `Math.random` is predictable given enough observations, ",
+      "source_created_at": "2026-10-16T15:30:23Z",
+      "opp_type": "otro",
+      "score": 31,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Rotula-Labs/rotula-app/issues/153",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887661269",
+      "title": "DBFTPlugin: Byzantine primary can halt consensus on all backups via PrepareResponse with its own ValidatorIndex",
+      "url": "https://github.com/neo-project/neo-node/issues/1116",
+      "evidence": "Hi, I reported this through the bounty email on Oct 10 and was asked to also file it here. ## Summary A consensus node that is primary for the current view can send a `PrepareResponse` carrying its own `ValidatorIndex`. Nothing in `OnPrepareResponseReceived` (ConsensusService.OnMessage.cs:181-201) rejects that, so the payload gets stored into `PreparationPayloads[PrimaryIndex]` at line 197. That slot is the only thing `RequestSentOrReceived` checks (ConsensusContext.cs:92), so the flag flips to true while `Transactions` and `TransactionHashes` ",
+      "source_created_at": "2026-10-16T16:30:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neo-project/neo-node/issues/1116",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886860017",
+      "title": "[New Service] Money Reactor",
+      "url": "https://github.com/haoruilee/awesome-agent-native-services/issues/227",
+      "evidence": "## Service submission (per 01-new-service.yml template) **Service name:** Money Reactor **Official website:** https://makar52nn2016-jpg.github.io/money-reactor/ **Official repository:** https://github.com/makar52nn2016-jpg/money-reactor **Official tagline (from live landing page):** \"Money Reactor — agent-native paid micro APIs. Bounty feed + honeypot trust scoring, payable per call in USDC on Base via x402. No accounts, no API keys.\" **Proposed category:** Commerce & Payment Services **Admission track:** Standard five-criteria track ### Criter",
+      "source_created_at": "2026-10-16T15:34:13Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/haoruilee/awesome-agent-native-services/issues/227",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886614443",
+      "title": "【intake 输入】dsh-memory：R1 TOKEN_SK 缺左边界（普通标识被判 FAIL 的误报 · 可复现、附守卫与定点变异自证 · **PR #520**）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/790",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/dsh-memory#520** | | 目标 project | **`memory`** | | 难度自申请 | **medium**（改动本体 1 行；按本仓体例配了配对守卫＋镜像树定点变异自证） | | 影响等级建议 | **B** | 本件为 `intake` 输入（非悬赏，**不 `/claim`、不自行加 bounty 标签**）。 ## 锚定提交 - 目标仓基线：`FuRongJun-1999/dsh-memory @ a49fde2`（main），分支 `fix/r1-sk-boundary` - 本笔提交：`d8f63aa`（`scripts/check_publish_artifact.py` 修 ＋ 新增 `scripts/test_check_publish_artifact_boundary.py`） ## 结论速览 | 条 | 缺陷 | 修法要点 | |---|---|---| | 1 | R1 内容面 `TOKEN_SK` **无左边界** ⇒ 任何**以 `sk-` 结尾**的标识后跟 ≥20 位字母数字被判 **FAIL** | 补 `(? FAIL FAIL=",
+      "source_created_at": "2026-10-16T15:17:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/790",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886559648",
+      "title": "【intake 输入】dsh-memory：B6「用户实名目录」8.3 短名整类漏抓（可复现、附守卫与定点变异自证 · **PR #519**）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/789",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/dsh-memory#519** | | 目标 project | **`memory`** | | 难度自申请 | **medium**（改动本体 1 行；但按本仓体例配了配对守卫＋镜像树定点变异自证） | | 影响等级建议 | **B** | 本件为 `intake` 输入（非悬赏，**不 `/claim`、不自行加 bounty 标签**）。 ## 锚定提交 - 目标仓基线：`FuRongJun-1999/dsh-memory @ a49fde2`（main），分支 `fix/b6-shortname-8.3` - 本笔提交：`23b1cb7`（`scripts/check_local_paths.py` 修 ＋ 新增 `scripts/test_check_local_paths.py`） ## 结论速览 | 条 | 缺陷 | 修法要点 | |---|---|---| | 1 | **B6-⑥ 生效正则多一个空格** ⇒ 8.3 短名写法整类漏抓 | `\"FU\" + \" RONG~1\"` → `\"FU\" + \"RONG~1\"`（对齐同仓 R3-b） | | 2 | **判据与自证同时漏**",
+      "source_created_at": "2026-10-16T15:13:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/789",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887617529",
+      "title": "F-110: Add a paginated activity feed to the portfolio page",
+      "url": "https://github.com/Netwalls/BOXMEOUT_STELLA/issues/1448",
+      "evidence": "**Description:** The portfolio shows positions but not a chronological history of bets, claims and refunds. The backend supports cursor pagination on `/api/users/:address/bets` (B-66). **Where:** `frontend/app/portfolio/page.tsx`, `frontend/hooks/usePortfolio.ts`, `frontend/lib/api.ts` **Acceptance Criteria:** - [ ] New `useUserBets` hook with cursor pagination and \"load more\" - [ ] Rows link to the market and to the explorer for the transaction hash - [ ] Empty and error states - [ ] Hook and component tests",
+      "source_created_at": "2026-10-16T16:27:21Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Netwalls/BOXMEOUT_STELLA/issues/1448",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887600124",
+      "title": "F-100: Make Frontend CI pass: regenerate package-lock.json (still out of sync after #1333)",
+      "url": "https://github.com/Netwalls/BOXMEOUT_STELLA/issues/1438",
+      "evidence": "**Description:** Frontend CI on main still fails at `npm ci`. The lock file records `@stellar/freighter-api@2.0.0` while package.json requires `^6.0.1`, and lacks `@next/bundle-analyzer`, `@playwright/test`, `@storybook/addon-themes`, `@storybook/test-runner`, `concurrently`, `wait-on` and more. #1333 was closed without fixing it. **Where:** `frontend/package-lock.json` **Acceptance Criteria:** - [ ] Lock regenerated with the CI Node/npm version; `npm ci` passes on a clean clone - [ ] All Frontend CI jobs (lint, type-check, test, e2e, storybook",
+      "source_created_at": "2026-10-16T16:26:11Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Netwalls/BOXMEOUT_STELLA/issues/1438",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886499179",
+      "title": "[RFC] Genesis Developer Mint & Dynamic Rank Allocation (Cap: 20%, α = 0.5)",
+      "url": "https://github.com/rchain-community/rchain-rust/issues/372",
+      "evidence": "# [RFC] Genesis Developer Mint & Dynamic Rank Allocation (Cap: 20%, α = 0.5) ## 1. Top-Level Distribution Architecture - **Historical Restored Accounts (1:1 Snapshot):** 80%–85% of total minted supply. - **Maximum Developer & Reserve Mint:** **20.00%** of total minted supply. --- ## 2. Dynamic Weighting Formula (Geometric Decay α = 0.5) Each contributor's allocation is determined strictly by their rank $r \\in \\{1, 2, \\dots, N\\}$ derived via RhoGov consensus voting: $$\\text{Allocation}(r) = 20\\% \\times (0.5)^r = 10\\% \\times (0.5)^{r-1}$$ ### Ill",
+      "source_created_at": "2026-10-16T15:09:46Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rchain-community/rchain-rust/issues/372",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886941248",
+      "title": "Feature request: let apps register real Civitai reactions (entity reaction read + toggle for blocks)",
+      "url": "https://github.com/civitai/civitai-app-starters/issues/669",
+      "evidence": "## Summary A viewer using a Civitai App currently cannot react to anything. If an app shows a reaction button at all, the tap can only be recorded in the app's own storage — invisible on civitai.com, disconnected from the post's real counts, and meaningless the moment the viewer leaves the app. I'm requesting an app-platform surface for the reaction system Civitai already operates: a way for a block to **read** an entity's reaction counts + the viewer's own reaction, and **toggle** a reaction as the viewer, registered on the entity itself — the",
+      "source_created_at": "2026-10-16T15:40:02Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/civitai/civitai-app-starters/issues/669",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886498421",
+      "title": "[#70] No `SECURITY.md` file documents the vulnerability disclosure process",
+      "url": "https://github.com/SorobanKit/sorobanKit/issues/237",
+      "evidence": "**Labels:** `docs` `security` ### Summary The repository has no `SECURITY.md` file, which GitHub displays prominently in the security tab. Security researchers who discover a vulnerability in Stellar Tags have no documented way to report it responsibly, and may resort to public disclosure if they cannot find a contact. A `SECURITY.md` file with a responsible disclosure policy, contact email, PGP key (optional), and expected response time is required for any public-facing payment platform. ### Scope of Work - Create `SECURITY.md` at the reposito",
+      "source_created_at": "2026-10-16T15:09:43Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SorobanKit/sorobanKit/issues/237",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886058589",
+      "title": "Assert the event topic set is stable",
+      "url": "https://github.com/Betta-Pay/BettaPay-Contract/issues/990",
+      "evidence": "#990 Assert the event topic set is stable What Add a test that enumerates every emitted event topic and fails if an unexpected topic appears. Why Event topics changing without notice break indexers, and there is no single guard against an accidental rename or inline literal. A golden topic-set test turns any unregistered topic into a CI failure. Scope In scope: - Enumerate topic names from the bettapay_common::events constants. - Assert every emitted topic is a member of the registry. - Fail the test on any inline or unknown topic. - Cross-chec",
+      "source_created_at": "2026-10-16T14:40:18Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Betta-Pay/BettaPay-Contract/issues/990",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886043053",
+      "title": "Add a payment reference max-length constant",
+      "url": "https://github.com/Betta-Pay/BettaPay-Contract/issues/979",
+      "evidence": "#979 Add a payment reference max-length constant What Expose a named constant documenting and enforcing the 32 byte payment reference limit rather than leaving it implicit in BytesN . Why References are fixed at BytesN but the limit is implicit, so callers guess and docs cannot point at a single value. A named constant gives callers and validation a canonical, exported bound. Scope In scope: - Add MAX_PAYMENT_REFERENCE_LEN equal to 32 in settlement_contract/src/lib.rs or bettapay_common constants. - Reference the constant from the store_payment",
+      "source_created_at": "2026-10-16T14:39:17Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Betta-Pay/BettaPay-Contract/issues/979",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887511635",
+      "title": "Trim and bound the escrow reference field in the new-submission form",
+      "url": "https://github.com/DevQwinB/Verity/issues/51",
+      "evidence": "## Summary The \"Escrow reference\" field in the new-submission form only checks that the string is not empty. A value of spaces is accepted and sent as is, leading and trailing whitespace is kept (and changes the on-chain hash of the reference), there is no maximum length, and the input never tells assistive technology that it is invalid. Trim the value, reject a blank one with a clear message, cap the length, and mark the field invalid when it is. ## Background When an agent submits work, `escrow_ref` is the marketplace's own identifier for the",
+      "source_created_at": "2026-10-16T16:20:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/DevQwinB/Verity/issues/51",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5887452803",
+      "title": "docs(dx): add a reproducible local bootstrap",
+      "url": "https://github.com/slippay-labs/slippay/issues/352",
+      "evidence": "> 💬 **Questions about this issue, or need a hand?** Ask in the [SlipPay Labs community on Telegram](https://t.me/slippay_labs). ## Problem Bringing the project up locally requires assembling knowledge from several places: the root `package.json` scripts (`supabase:start`, `supabase:reset`, `api:test`, `policy-checkout:spike`), the `docker-compose.yml`, `ecosystem.config.cjs`, `.env.example`, `.env.docker.example`, `.env.local.ci` and four app-level env files, plus `app/NATIVE_SETUP.md` and the per-app READMEs. The `pnpm` workspace spans `packa",
+      "source_created_at": "2026-10-16T16:16:01Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/slippay-labs/slippay/issues/352",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5886926181",
+      "title": "Updated span payloads leak files and make retention delete unrelated runs",
+      "url": "https://github.com/neatlogs/neatroots/issues/259",
+      "evidence": "Updating a span with a different large output leaves old payload files on disk. Run deletion frees only the latest file. After 12 updates, retention deleted both test runs, including a healthy recent run, but stayed above its storage cap. The one-version control kept both. Expected: delete payload files when no span uses them. Keep files that other spans still use. I reproduced each failure and control 3/3 times in fresh temporary homes. I did not change the application code. The screenshots show captured test output. Related: #56 fixes size ac",
+      "source_created_at": "2026-10-16T15:38:56Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/neatlogs/neatroots/issues/259",
+      "first_seen_at": "2026-10-16T16:37:52.234Z",
+      "last_seen_at": "2026-10-16T16:37:52.234Z"
     },
     {
       "source": "github",
@@ -7600,6 +7975,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-16T16:37:52.234Z",
+      "generated_at": "2026-10-16T16:37:52.234Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 354
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 663
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 25,
+      "seen_again": 22,
+      "archive_total": 531,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-16T11:21:49.982Z",
       "generated_at": "2026-10-16T11:21:49.982Z",
       "status": "ok",
@@ -10909,67 +11345,6 @@
           "ok": true,
           "count": 25,
           "ms": 111
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 211,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T16:47:20.486Z",
-      "generated_at": "2026-10-14T16:47:20.486Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 329
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 623
         }
       ],
       "processed": 50,
