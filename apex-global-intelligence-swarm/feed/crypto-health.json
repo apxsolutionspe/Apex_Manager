@@ -1,7 +1,7 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-10-15T22:25:58.511Z",
-  "observed_at": "2026-10-15T22:25:56.107Z",
+  "generated_at": "2026-10-16T01:28:19.499Z",
+  "observed_at": "2026-10-16T01:28:16.842Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
