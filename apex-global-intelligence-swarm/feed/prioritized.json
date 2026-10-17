@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-16T21:06:14.111Z",
+  "generated_at": "2026-10-17T04:23:41.389Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 557,
+    "total_evaluated": 582,
     "investigar": 1,
-    "informativa": 527,
-    "descartar": 29,
+    "informativa": 551,
+    "descartar": 30,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -37,6 +37,29 @@
         "issue_open_now": true
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/21953",
+      "source_created_at": "2026-10-17T00:41:28Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -767,6 +790,29 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: ShieldedPool::credit_commitment deduplicates by Commitment hash instead of on-chain leaf index, and decode_compiled_deposit credits gross amount instead of realized vault received delta for deposit_note_spl",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/976",
+      "source_created_at": "2026-10-17T03:48:21Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1710,6 +1756,176 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Untracked pending_rewards in BridgeState erodes deposit_cap & breaks vault backing, reset_validator_registry desyncs singleton stake_token_vault mint, and cosign_settlement accepts self-authority fee-payer & uninvited quorum payloads",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/974",
+      "source_created_at": "2026-10-17T02:34:14Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "As someone who lost their item, I want to be able to set a bounty (a reward) so that other people have more of an incentive to help me",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/38",
+      "source_created_at": "2026-10-17T01:42:34Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty Core Issues",
+      "url": "https://github.com/iwolfking/Wolds-Vaults/issues/584",
+      "source_created_at": "2026-10-17T02:11:27Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1604",
+      "source_created_at": "2026-10-17T03:35:45Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1265",
+      "source_created_at": "2026-10-17T01:03:13Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: verify_validator_quorum orphan-PDA minority settlement bypass, IncrementalMerkleTree::append non-atomic subtree mutation, and u64 withdrawal fee overflow",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/977",
+      "source_created_at": "2026-10-17T04:01:36Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Swap router omits destination origin fee when swap originates on exchange",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2171",
+      "source_created_at": "2026-10-17T00:47:47Z",
+      "first_seen_at": "2026-10-17T04:23:40.294Z",
+      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3585,220 +3801,6 @@
         "payment": false
       },
       "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] build_state 遇非数字 rounds 崩溃，bot 流程卡死",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/275",
-      "source_created_at": "2026-10-13T17:52:39Z",
-      "first_seen_at": "2026-10-13T18:24:37.789Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] 晋升判据把真模式的 `round=1`（真实返工一次）当成「追溯性中性占位」：每条都先被退回一次的人判达标，偶尔一次过闸的人反被「一次过闸占比」挡下",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/267",
-      "source_created_at": "2026-10-13T17:01:52Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[red-team] stadtwien-my-sharepoint: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/116",
-      "source_created_at": "2026-10-13T16:34:33Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[red-team] teach-classdojo: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/117",
-      "source_created_at": "2026-10-13T16:34:33Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[red-team] api-classdojo: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/115",
-      "source_created_at": "2026-10-13T16:34:32Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[red-team] binance: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/113",
-      "source_created_at": "2026-10-13T16:34:31Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[red-team] new-food-bolt: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/114",
-      "source_created_at": "2026-10-13T16:34:31Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[demand] high-priority 2026-10-15T04:25",
-      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1114",
-      "source_created_at": "2026-10-15T04:25:41Z",
-      "first_seen_at": "2026-10-15T04:36:28.122Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z",
-      "status": "informativa",
-      "priority": 67,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 30,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "📋 2 open bounties right now",
-      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
-      "source_created_at": "2026-10-13T21:40:05Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 67,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     }
