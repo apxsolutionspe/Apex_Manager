@@ -1,16 +1,16 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-10-17T17:17:09.712Z",
-  "observed_at": "2026-10-17T17:17:06.061Z",
+  "generated_at": "2026-10-17T19:28:05.904Z",
+  "observed_at": "2026-10-17T19:28:02.395Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
-    "sources_read": 17,
-    "sources_unavailable": 7,
+    "sources_read": 16,
+    "sources_unavailable": 8,
     "failure_types": {
       "access_denied": 2,
       "upstream_error": 1,
-      "network_failure": 2,
+      "network_failure": 3,
       "size_limit": 2,
       "unexpected_type": 0,
       "other": 0
@@ -23,6 +23,10 @@
       {
         "source": "kraken-product",
         "reason": "size_limit"
+      },
+      {
+        "source": "okx-help",
+        "reason": "network_failure"
       },
       {
         "source": "ethereum-grants",
@@ -49,10 +53,10 @@
     "native_classifier_confirmed": true
   },
   "triage": {
-    "announcements_seen": 54,
+    "announcements_seen": 51,
     "classified": {
       "security_blocked": 0,
-      "capital_or_trading": 15,
+      "capital_or_trading": 12,
       "historical_reference": 9,
       "work_or_security_review": 13,
       "project_grant_not_passive": 4,
