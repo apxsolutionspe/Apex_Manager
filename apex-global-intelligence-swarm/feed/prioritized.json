@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-17T10:42:02.575Z",
+  "generated_at": "2026-10-17T15:32:51.469Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 607,
+    "total_evaluated": 632,
     "investigar": 1,
-    "informativa": 576,
-    "descartar": 30,
+    "informativa": 599,
+    "descartar": 32,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -428,6 +428,31 @@
         "payment": false
       },
       "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1268",
+      "source_created_at": "2026-10-17T14:57:58Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1756,6 +1781,54 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Atlas Wave 4 — D19: Bounty posters, capture and four robbery categories",
+      "url": "https://github.com/L33TW0RLD/rdr2-hub/issues/39",
+      "source_created_at": "2026-10-17T15:04:49Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "feat: add custom HTTP headers support (-H / --header) for bug bounty identification",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/12",
+      "source_created_at": "2026-10-17T13:57:28Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3326,6 +3399,78 @@
     },
     {
       "source": "github",
+      "title": "A preview system image installed makes the newest runtime its codename, not the highest API level",
+      "url": "https://github.com/callstackincubator/simlock/issues/678",
+      "source_created_at": "2026-10-17T14:57:56Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "feat: export scan results to CSV format (--csv)",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/15",
+      "source_created_at": "2026-10-17T13:57:33Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "feat: add --silent / --quiet flag for clean UNIX pipeline piping",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/14",
+      "source_created_at": "2026-10-17T13:57:30Z",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[intake 输入] dsh-mnemon 0.5.31 大型插件测评：本地组件、状态重建与备份边界；50 条有效受控判据及未验范围",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/823",
       "source_created_at": "2026-10-17T10:17:51Z",
@@ -3642,150 +3787,6 @@
       "source_created_at": "2026-10-15T04:13:10Z",
       "first_seen_at": "2026-10-15T04:36:28.122Z",
       "last_seen_at": "2026-10-15T04:36:28.122Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[intake 输入] [tools/coggraph] 查看器「只看已锚定」缺「未知」态：ncls='' 与「已通过」同值，默认过滤只挡隔离区 ⇒ 端到端「药典」「国家标准」可见、11 字隔离区标题反而隐藏；4 个 viewer 守卫对 ncls/title2cls/onlyAnch 零断言",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/464",
-      "source_created_at": "2026-10-15T04:24:25Z",
-      "first_seen_at": "2026-10-15T04:36:28.122Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[intake 输入] [tools/coggraph] naming_report 的 --min-title 长度闸把「标题本身即规范标识词」的节点挡在 Q4 之外：10 个裸规范标识词短标题默认全漏、--min-title 2 全回，报告不披露被过滤项",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/461",
-      "source_created_at": "2026-10-15T04:03:02Z",
-      "first_seen_at": "2026-10-15T04:36:28.122Z",
-      "last_seen_at": "2026-10-15T04:36:28.122Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【intake 输入】lingshu #604：抽取器对 HTML 块结束条件与 CommonMark 三处分歧 —— 对有围栏的正文误报「没有围栏代码块」（量具失效）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/440",
-      "source_created_at": "2026-10-14T20:29:29Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【intake 输入】lingshu #612：嵌套容器内的 ⑥ 型 HTML 块起点被漏判 —— 页面不可见的围栏被抽出并真执行（repro-bot 安全面）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/439",
-      "source_created_at": "2026-10-14T20:29:26Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug][P1] check_plan「`to` 优先」（0105788 / #169）把被拒命令与落选分事件也当成态迁移：任何人发一条会被拒的命令，就能把 issue 面的态「洗」进账本，真实的「态冲突 / 缺账本事件」从对账报告里消失（`--strict` 由 1 变 0）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/405",
-      "source_created_at": "2026-10-14T17:00:23Z",
-      "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🏹 Fuzz targets for transaction and block decoding",
-      "url": "https://github.com/jackdishman/blockula/issues/2",
-      "source_created_at": "2026-10-14T13:00:27Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:31:54.259Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [

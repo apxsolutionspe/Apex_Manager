@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-17T10:42:01.825Z",
+  "updated_at": "2026-10-17T15:32:50.897Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -140,22 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49788625",
-      "title": "Using TypeSafe AI in Bug Bounty",
-      "url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
-      "evidence": "",
-      "source_created_at": "2026-09-21T15:34:32Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
     },
     {
       "source": "hackernews",
@@ -199,6 +184,531 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50122920",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "evidence": "",
+      "source_created_at": "2026-10-16T19:03:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-solved",
+      "first_seen_at": "2026-10-16T21:06:13.451Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899709539",
+      "title": "Atlas Wave 4 — D19: Bounty posters, capture and four robbery categories",
+      "url": "https://github.com/L33TW0RLD/rdr2-hub/issues/39",
+      "evidence": "**Task ID:** `atlas-bounties-030` · **Dossier:** D19 · **Wave:** 4 of 4 (final eight-dossier Atlas research wave). **Repository:** `L33TW0RLD/rdr2-hub` **Assigned branch:** `agent/atlas-bounties-030` **Registration baseline:** `0021c319d0232c3a303aeadbe899055260120d54` **Only writable files:** - `systems_atlas/dossiers/d19_bounties_robbery_classes_v0_1.md` - `agents/checkpoints/atlas_bounties_030.md` - `agents/handoffs/2026-10-17_atlas_bounties_030.md` ## Scope **Provisional leaves:** S19.M01–M04, S20.M01–M05. Story Mode bounty poster and bount",
+      "source_created_at": "2026-10-17T15:04:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/L33TW0RLD/rdr2-hub/issues/39",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899645268",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1268",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-17 14:57 UTC #### 1. [Frontend: accessibility pass on `recommendations.ts`](https://github.com/ritik4ever/stellar-bounty-board/issues/1291) - **Repository:** [ritik4ever/stellar-bounty-board](https://github.com/ritik4ever/stellar-bounty-board) - **Comments:** 3 - **Last Updated:** 2026-10-17T14:57:17Z #### 2. [Mis Activos](https://github.com/cli/cli/issues/14726) - **Repository:** [cli/cli](https://github.com/cli/cli) - **Comments:** 0 - **Last Updated:** 2026-10-17T14:55:33Z #### 3. [🎯 Bou",
+      "source_created_at": "2026-10-17T14:57:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1268",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899072291",
+      "title": "feat: add custom HTTP headers support (-H / --header) for bug bounty identification",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/12",
+      "evidence": "### 💡 Context Many bug bounty programs (HackerOne, Bugcrowd, Intigriti) require researchers to include specific custom HTTP request headers (for example: `X-Bug-Bounty: hackerone- ` or custom User-Agent tokens) when sending HTTP traffic to target assets so security operations centers (SOC) and WAFs don't block them. Currently, `reconflow` runs `httpx` with default headers. ### 🎯 Acceptance Criteria - [ ] Add `-H` / `--header` argument in `reconflow_v2.py` (supporting multiple occurrences, e.g. `-H \"X-Bug-Bounty: user\" -H \"X-Security-Research:",
+      "source_created_at": "2026-10-17T13:57:28Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ErenYeager1836/reconflow/issues/12",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899171179",
+      "title": "[BOUNTY] Medium: Transact and TransactSpl enforce has_one = authority on BridgeState, permanently blocking non-admin validator settlement and causing consensus liveness freeze",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/985",
+      "evidence": "## Summary This report covers a critical consensus settlement and authority binding invariant in the on-chain `paraloom` Anchor program (`programs/paraloom/src/lib.rs:1886` and `programs/paraloom/src/lib.rs:1965`): 1. **`programs/paraloom/src/lib.rs:1886` & `1965` — `Transact` and `TransactSpl` enforce `has_one = authority` on `BridgeState`, permanently preventing elected non-admin validators from settling transactions and freezing consensus liveness:** - In Anchor, `#[account(mut, seeds = [b\"bridge_state\"], bump, has_one = authority)]` generat",
+      "source_created_at": "2026-10-17T14:07:59Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/985",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899915951",
+      "title": "【测评报告】工作流插件上下文税 · 第 16 批（自动评测流水线）：3 件实测",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/880",
+      "evidence": "# 【intake 输入】工作流插件上下文成本实测 · 第 16 批（自动流水线） ## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 `/claim`、不自行加 `bounty` 标签、不自行派发结算。 本件是**评测报告**；不排名、不给总分、不用星级（理由见「不做项」）。 ## 结论速览（每句都指到读数位置） | # | 结论 | 读数位置 | |---|---|---| | 1 | 本批 4 件中 **3 件取得有效读数**、0 件装上但未产出、1 件未装成 | §3 主表 | | 2 | 本批最高为 `@mrweicodes/dsh-loop-guard` **+12 tok**，通道：⑤仅注册空壳（四层近零） | §3、§4 | | 3 | 3 件四层全近零：`dsh-omni-router`、`dsh-cost-meter`、`@mrweicodes/dsh-loop-guard` | §4 表 | | 4 | 数字全部由脚本从 raw 派生，非手抄；报告↔raw 可复跑对账 | §5 证据块 | ## 1 环境与锚定 | 项 | 值 | |---|---| | 宿主 | `@deepseek-ai/dsh` **0.2.0-rc.2**（",
+      "source_created_at": "2026-10-17T15:25:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/880",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899746485",
+      "title": "[tooling] Keep differential corpus reporting after checker/build/run timeout",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/463",
+      "evidence": "## Problem At main `e2a5f7d5eb90becb210df274765adfa50c99b21b`, `tools/differential_loop.py` gives the checker, builder and produced program subprocesses bounded deadlines, but leaves `subprocess.TimeoutExpired` uncaught in all three paths. One expired deadline aborts the corpus loop with a traceback before later fixtures and the aggregate pass/disagreement report. This is a tooling reliability improvement under [BOUNTY.md](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md), not a report that Hybrid itself hangs or accepts an un",
+      "source_created_at": "2026-10-17T15:08:54Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/463",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899644933",
+      "title": "A preview system image installed makes the newest runtime its codename, not the highest API level",
+      "url": "https://github.com/callstackincubator/simlock/issues/678",
+      "evidence": "## What is wrong A preview system image installed makes the newest runtime its codename, not the highest API level ## Where this came from Confirmed in the bug bounty sweep tracked on #648 (finding 4). The reproduction was reproduced independently by the orchestrating session, the proposed fix confirmed green against the surrounding suite, and the finding re-confirmed against current `main`. ## Spec **Area:** `src/drivers/android/index.ts` (runtime ranking: lease default, `defaultRuntime`) **Severity:** wrong device booted, silently, on a real ",
+      "source_created_at": "2026-10-17T14:57:56Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/callstackincubator/simlock/issues/678",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899644672",
+      "title": "`worker.rejected` carries `count: 1` on an isolated refusal, which the catalogs say it must never do",
+      "url": "https://github.com/callstackincubator/simlock/issues/677",
+      "evidence": "## What is wrong `worker.rejected` carries `count: 1` on an isolated refusal, which the catalogs say it must never do ## Where this came from Confirmed in the bug bounty sweep tracked on #648 (finding 3). The reproduction was reproduced independently by the orchestrating session, the proposed fix confirmed green against the surrounding suite, and the finding re-confirmed against current `main`. ## Spec **Area:** `src/gateway/service.ts` (uplink rejection coalescing) **Severity:** low, audit trail only. No state damage and no protocol change nee",
+      "source_created_at": "2026-10-17T14:57:55Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/callstackincubator/simlock/issues/677",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899644387",
+      "title": "A recovered interrupted reclaim attributes `device.shutdown` to a module that does not exist",
+      "url": "https://github.com/callstackincubator/simlock/issues/676",
+      "evidence": "## What is wrong A recovered interrupted reclaim attributes `device.shutdown` to a module that does not exist ## Where this came from Confirmed in the bug bounty sweep tracked on #648 (finding 2). The reproduction was reproduced independently by the orchestrating session, the proposed fix confirmed green against the surrounding suite, and the finding re-confirmed against current `main`. ## Spec **Area:** `src/core/reclaim-coordinator.ts` (reclaim recovery at daemon startup) **Severity:** audit-trail misattribution, no state damage. The payload ",
+      "source_created_at": "2026-10-17T14:57:53Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/callstackincubator/simlock/issues/676",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899644092",
+      "title": "Console Overview \"Activity\" shows the events with the highest `seq`, not the latest events",
+      "url": "https://github.com/callstackincubator/simlock/issues/675",
+      "evidence": "## What is wrong Console Overview \"Activity\" shows the events with the highest `seq`, not the latest events ## Where this came from Confirmed in the bug bounty sweep tracked on #648 (finding 1). The reproduction was reproduced independently by the orchestrating session, the proposed fix confirmed green against the surrounding suite, and the finding re-confirmed against current `main`. ## Spec **Area:** `ui/src/model/overview.ts` (web console Overview, Activity panel) **Severity:** misleading operator surface, cheap to hit. No data loss and no w",
+      "source_created_at": "2026-10-17T14:57:51Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/callstackincubator/simlock/issues/675",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899072996",
+      "title": "feat: export scan results to CSV format (--csv)",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/15",
+      "evidence": "### 💡 Context Spreadsheets (Google Sheets, Microsoft Excel) and data analytics notebooks are popular among bug bounty hunters for tracking subdomains, categorizing targets, and prioritizing testing queues. ### 🎯 Acceptance Criteria - [ ] Add `--csv` flag in `reconflow_v2.py`. - [ ] Export `report.csv` in the output directory containing key columns: - `subdomain`, `ip`, `status_code`, `title`, `technologies`, `cname`, `takeover_risk` - [ ] Handle comma escaping and quotation properly using Python's built-in `csv` module (standard library only,",
+      "source_created_at": "2026-10-17T13:57:33Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ErenYeager1836/reconflow/issues/15",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899072512",
+      "title": "feat: add --silent / --quiet flag for clean UNIX pipeline piping",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/14",
+      "evidence": "### 💡 Context In automated bug bounty workflows, tools are frequently chained together via UNIX pipes: ```bash python reconflow_v2.py -d target.com --silent | anew all_subdomains.txt ``` Currently, `reconflow` prints ASCII banners, stage headers, and log messages to stdout, which interferes with piped stdout consumption. ### 🎯 Acceptance Criteria - [ ] Add `--silent` / `-q` / `--quiet` CLI flag in `reconflow_v2.py`. - [ ] When `--silent` is enabled: - Suppress banner and decorative print statements. - Send informational status logs to `stderr",
+      "source_created_at": "2026-10-17T13:57:30Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ErenYeager1836/reconflow/issues/14",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899072396",
+      "title": "feat: add Slack webhook notification support in reconflow.notify",
+      "url": "https://github.com/ErenYeager1836/reconflow/issues/13",
+      "evidence": "### 💡 Context `reconflow` currently supports Discord webhook alerts via `--notify `. Many security teams, bug bounty squads, and enterprise environments use Slack incoming webhooks instead. ### 🎯 Acceptance Criteria - [ ] Update `reconflow/notify.py` to support Slack incoming webhooks (`https://hooks.slack.com/services/...`). - [ ] Auto-detect if the webhook URL belongs to Slack vs Discord (e.g. `discord.com` vs `slack.com` or `hooks.slack.com`), and format the payload according to destination. - [ ] Send structured Slack message summarizing ",
+      "source_created_at": "2026-10-17T13:57:29Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ErenYeager1836/reconflow/issues/13",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899678884",
+      "title": "[wildcard] Isolated WASM task cells: replace cross-task alias proofs with a wire boundary",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/462",
+      "evidence": "### The idea, in a paragraph Add an opt-in **isolated-cell backend** for coarse Hybrid tasks: compile each task entry point and its reachable Go code into a separate WebAssembly instance, with its own Go runtime/heap and non-shared linear memory. Replace cross-cell Go values with bounded, schema-checked serialized messages. A native coordinator schedules persistent cells; it never exposes guest-memory pointers or a shared-memory import. The bet is not “WASM makes Go race-free.” It is narrower: **for this subset, prevent mutable heap aliasing be",
+      "source_created_at": "2026-10-17T15:01:39Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/462",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899170444",
+      "title": "[ttnn] Enforce strict rank-4 validation in batch_norm, support preallocated output on 0V tensors, and remove duplicate log argument",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61181",
+      "evidence": "## Summary In `ttnn/cpp/ttnn/operations/normalization/batch_norm/batch_norm.cpp`: ### 1. Guard permits rank > 4 but internal implementation only reduces rank-4 dimensions (lines 18–26, 44–48) Line 45 checks: ```cpp TT_FATAL( input.logical_shape().rank() >= 4, \"batch_norm not supported for tensors with rank dims = {2, 3}; Tensor mean_hw = ttnn::mean(input_tensor, dims, true, output_mem_config, compute_kernel_config); return ttnn::mean(mean_hw, 0, true, output_mem_config, compute_kernel_config); ``` Furthermore, Bessel correction (line 135) calcu",
+      "source_created_at": "2026-10-17T14:07:54Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61181",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899153199",
+      "title": "[ttnn] Pass target dtype to clone on rank-0 / zero-volume tensors in accumulation_invoke and fix rank log",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61179",
+      "evidence": "## Summary In `ttnn/cpp/ttnn/operations/eltwise/unary/accumulation/accumulation_common.cpp`: ### 1. Target `dtype` dropped on rank-0 and zero-volume tensors (lines 100–105) `accumulation_invoke` accepts an optional target `dtype` parameter: ```cpp Tensor accumulation_invoke( const Tensor& input_tensor, int64_t dim, std::optional dtype, std::optional optional_out, const bool& reverse_order, const std::optional & memory_config, ttnn::prim::AccumulationOp op, bool disable_compensation) ``` However, in the early exit branch for rank-0 or zero-volum",
+      "source_created_at": "2026-10-17T14:06:05Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61179",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899139729",
+      "title": "[ttnn] Apply residual_input_tensor on 0D scalar rank-0 tensors in ttnn::rms_norm",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61177",
+      "evidence": "## Summary In `ttnn/cpp/ttnn/operations/normalization/rmsnorm/rmsnorm.cpp`: Lines 22–30 define `ttnn::rms_norm`: ```cpp Tensor rms_norm( const Tensor& input_tensor, float epsilon, const std::optional & weight, const std::optional & bias, const std::optional & residual_input_tensor, const std::optional & memory_config, const std::optional & program_config, const std::optional compute_kernel_config) ``` For standard ranks, `residual_input_tensor` is passed to `ttnn::prim::layer_norm` (line 75), which adds the residual input before performing norm",
+      "source_created_at": "2026-10-17T14:04:44Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61177",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899106889",
+      "title": "[ttnn] Fix dimension ordering in fold_with_transpose_sharded_ padded_shape2 and standardize output_shape slice dimensions in fold_with_transpose_",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61175",
+      "evidence": "## Summary In `ttnn/cpp/ttnn/operations/data_movement/fold/fold.cpp`: ### 1. Swapped dimensions in `padded_shape2` for `fold_with_transpose_sharded_` (lines 197–212) Prior to line 198, the sharded tensor has layout: `{n, padded_c, padded_h32, w}` At line 198, `ttnn::transpose(tt_output_tensor, 2, 3)` transposes dimensions 2 and 3, yielding tensor dimensions: `{n, padded_c, w, padded_h32}` Where dimension 2 is the width `w` and dimension 3 is the padded height `padded_h32`. At line 203, `padded_shape2` is defined as: ```cpp ttnn::Array4D padded_",
+      "source_created_at": "2026-10-17T14:01:13Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61175",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899067423",
+      "title": "[ttnn] Fix div_bw other_grad factor pairing overflow/underflow, share reciprocal dispatch, and fix rsub_bw preallocated operand check",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61173",
+      "evidence": "## Summary In `ttnn/cpp/ttnn/operations/eltwise/binary_backward/binary_backward.cpp`: 1. **`div_bw` factor pairing overflow/underflow and duplicate reciprocal dispatch (lines 808–829)**: - For $\\text{out} = \\frac{\\text{input}}{\\text{other}}$, the second gradient is $\\text{other\\_grad} = -\\text{grad} \\cdot \\frac{\\text{input}}{\\text{other}^2}$. - Line 818 evaluates: ```cpp ttnn::multiply( ttnn::neg(grad_tensor, output_mem_config), (ttnn::multiply( ttnn::multiply(input_a, recip_other, std::nullopt, output_mem_config), recip_other, std::nullopt, ou",
+      "source_created_at": "2026-10-17T13:56:58Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61173",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899047100",
+      "title": "[ttnn] Fix softmax_in_place TT_FATAL on rank < 4 tensors and prim::softmax dim_adjusted check against pre-unsqueeze rank",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61171",
+      "evidence": "## Summary `ttnn::softmax_in_place` and `ttnn::prim::softmax` have two related dimension-index adjustment defects for tensors with `rank (dim_calculated), program_config, compute_kernel_config, numeric_stable); ``` - Inside `prim::softmax_in_place` (`ttnn/cpp/ttnn/operations/normalization/softmax/device/softmax_device_operation.cpp:631-634`), the check validates against the **4D** tensor's last axis (`input_tensor.logical_shape().size() - 1 == 3`): ```cpp TT_FATAL( dim == input_tensor.logical_shape().size() - 1, \"Invalid dimension: {}. Currentl",
+      "source_created_at": "2026-10-17T13:54:45Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61171",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5898944541",
+      "title": "[Security] High/Medium — DexaransNonfungiblePositionManager.collect(recipient: address(0)) permanently locks ERC-20 and ERC-223 fees/principal",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/24",
+      "evidence": "## Summary In `DexaransNonfungiblePositionManager.collect(CollectParams calldata params)`, passing `params.recipient == address(0)` (or `address(nfpm)`) rewrites the recipient to `address(this)` (`NonfungiblePositionManager.sol:432`), following upstream Uniswap V3 where LPs batch `collect(..., recipient: address(0))` with `unwrapWETH9` and `sweepToken` inside `multicall`. However, in `Dex223-contracts`: 1. **ERC-223 payouts (`tokensOut == 1, 2, or 3`) are misattributed to `address(pool)` and permanently frozen:** When `Dex223Pool.collect` deliv",
+      "source_created_at": "2026-10-17T13:43:03Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/24",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899536410",
+      "title": "[wildcard] Flip GUARANTEES row 10: Affine Linear Object Pools (pool[T]) eradicate use-after-put races and GC churn",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/458",
+      "evidence": "### The idea, in a paragraph Introduce typed linear object pools (`pool[T]`, where `T` satisfies a `Resetter` contract) integrated directly into Tier-0 ownership and sendability. In high-throughput Go systems, object pooling via `sync.Pool` is the primary tool to reduce GC pressure, but it is notoriously unsound: Goroutine A returns a buffer via `pool.Put(b)` while retaining a reference, and Goroutine B concurrently retrieves the same buffer via `pool.Get()`, triggering silent use-after-put data races and memory corruption across request bounda",
+      "source_created_at": "2026-10-17T14:47:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/458",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5899208813",
+      "title": "Grammar Gap: spell › effect clause › Distribute three +N/+N counters among one, two, or three target creatures",
+      "url": "https://github.com/fil-donadoni/tolaria/issues/5829",
+      "evidence": "Rank 44 of 76 in kind `grammar` — lexicographic on the priority Targets, corpus as tie-break (issue #3869). A **Grammar Gap** the compiler cannot consume: `spell › effect clause › Distribute three +N/+N counters among one, two, or three target creatures` — 1 corpus cards carry it (floor 3), and it holds cards of an `enforced` Target, which `check:targets` reds until this gap has an issue. Fragment refused: `Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a ",
+      "source_created_at": "2026-10-17T14:11:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/fil-donadoni/tolaria/issues/5829",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5898945020",
+      "title": "[Security] Medium — ERC223SwapRouter deposit-based swaps revert on partial fills, 2-arg ERC-223 transfers (\"23F\"), and exactOutput deposits",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/26",
+      "evidence": "## Summary `ERC223SwapRouter`, `Dex223Pool`, and the ERC-223 token contracts (`ERC223WrapperToken`, `ERC223HybridToken`, `D223Token`) contain three interconnected defects in the ERC-223 deposit and swap lifecycle: 1. **Partial-fill auto-refunds during `ERC223SwapRouter.executeSwapWithDeposit` always revert with `'LOK'` / `'23F'` (and misattribute refunds to `address(pool)` instead of the user):** - `executeSwapWithDeposit` debits the full `amountIn` from `_erc223Deposits[call_sender][msg.sender]` and transfers `amountIn` of the ERC-223 token to",
+      "source_created_at": "2026-10-17T13:43:06Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/26",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5898944823",
+      "title": "[Security] Medium — Dex223CoreAutoListing.listSingle allows permissionless overwrite and irreversible erasure of listed tokens",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/25",
+      "evidence": "## Summary In `Dex223CoreAutoListing` (`contracts/dex-core/Autolisting.sol`), the permissionless `listSingle(address token20, address token223, address paymentToken)` function only validates: ```solidity require(converter.predictWrapperAddress(token20, true) == token223, \"Provided token standards are incorrect.\"); ``` Because `TokenStandardConverter.predictWrapperAddress(token20, true)` (`TokenConverter.sol:429-453`) is a pure `CREATE2` address derivation that does **not** check whether `token20` is an ERC-20 token, whether `token20` is already",
+      "source_created_at": "2026-10-17T13:43:05Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/25",
+      "first_seen_at": "2026-10-17T15:32:50.897Z",
+      "last_seen_at": "2026-10-17T15:32:50.897Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49788625",
+      "title": "Using TypeSafe AI in Bug Bounty",
+      "url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
+      "evidence": "",
+      "source_created_at": "2026-09-21T15:34:32Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-17T10:42:01.825Z"
     },
@@ -335,21 +845,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "extinction-bounties.com/writing/pacing-is-a-setting-on-a-dial",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50122920",
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "url": "https://words.filippo.io/seeds-solved/",
-      "evidence": "",
-      "source_created_at": "2026-10-16T19:03:32Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-solved",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
       "last_seen_at": "2026-10-17T10:42:01.825Z"
     },
     {
@@ -2601,126 +3096,6 @@
       "dedupe_key": "github.com/linqinghao/agents-radar/issues/191",
       "first_seen_at": "2026-10-16T04:30:19.164Z",
       "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
     },
     {
       "source": "github",
@@ -9115,6 +9490,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-17T15:32:50.897Z",
+      "generated_at": "2026-10-17T15:32:50.897Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 355
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 427
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 632,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-17T10:42:01.825Z",
       "generated_at": "2026-10-17T10:42:01.825Z",
       "status": "ok",
@@ -12424,67 +12860,6 @@
           "ok": true,
           "count": 25,
           "ms": 629
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 220,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14T17:10:19.346Z",
-      "generated_at": "2026-10-14T17:10:19.346Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 310
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 162
         }
       ],
       "processed": 50,
