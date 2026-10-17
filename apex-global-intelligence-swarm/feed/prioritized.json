@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-17T04:23:41.389Z",
+  "generated_at": "2026-10-17T10:42:02.575Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 582,
+    "total_evaluated": 607,
     "investigar": 1,
-    "informativa": 551,
+    "informativa": 576,
     "descartar": 30,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -1761,6 +1761,53 @@
     },
     {
       "source": "github",
+      "title": "Bounty program: Argentina eligibility, USDC payout network and cycle dates",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/404",
+      "source_created_at": "2026-10-17T09:31:58Z",
+      "first_seen_at": "2026-10-17T10:42:01.825Z",
+      "last_seen_at": "2026-10-17T10:42:01.825Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-10-17T10:32",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1300",
+      "source_created_at": "2026-10-17T10:32:49Z",
+      "first_seen_at": "2026-10-17T10:42:01.825Z",
+      "last_seen_at": "2026-10-17T10:42:01.825Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] Medium: Untracked pending_rewards in BridgeState erodes deposit_cap & breaks vault backing, reset_validator_registry desyncs singleton stake_token_vault mint, and cosign_settlement accepts self-authority fee-payer & uninvited quorum payloads",
       "url": "https://github.com/paraloom-labs/paraloom-core/issues/974",
       "source_created_at": "2026-10-17T02:34:14Z",
@@ -3279,6 +3326,78 @@
     },
     {
       "source": "github",
+      "title": "[intake 输入] dsh-mnemon 0.5.31 大型插件测评：本地组件、状态重建与备份边界；50 条有效受控判据及未验范围",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/823",
+      "source_created_at": "2026-10-17T10:17:51Z",
+      "first_seen_at": "2026-10-17T10:42:01.825Z",
+      "last_seen_at": "2026-10-17T10:42:01.825Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【测评报告】dsh-memory 0.8.1 · D-4：入参类型不做校验：错型不是被拒，而是抛出裸 Python 异常或静默降级",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/815",
+      "source_created_at": "2026-10-17T09:31:54Z",
+      "first_seen_at": "2026-10-17T10:42:01.825Z",
+      "last_seen_at": "2026-10-17T10:42:01.825Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "【intake 输入】dsh-memory：审核裁决记录密级取 principal.clearance——外部复核面对非裁决者 node_not_found（可复现、附守卫与定点变异自证 · **PR #534**）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/821",
+      "source_created_at": "2026-10-17T10:03:44Z",
+      "first_seen_at": "2026-10-17T10:42:01.825Z",
+      "last_seen_at": "2026-10-17T10:42:01.825Z",
+      "status": "informativa",
+      "priority": 70,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[New Service] Money Reactor",
       "url": "https://github.com/haoruilee/awesome-agent-native-services/issues/227",
       "source_created_at": "2026-10-16T15:34:13Z",
@@ -3667,126 +3786,6 @@
       "source_created_at": "2026-10-14T13:00:27Z",
       "first_seen_at": "2026-10-14T15:46:10.743Z",
       "last_seen_at": "2026-10-14T16:31:54.259Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【intake 输入】lingshu：7 条缺陷报告在 214717b 上的复跑（#485/#491/#492/#493/#494/#495 仍复现 · #496 已由第三方修复）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/294",
-      "source_created_at": "2026-10-14T04:24:14Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【贡献申报】lingshu_ng 工程版（LingShu-prime Liyang/，rel-v1.26 5f32856c）：零外部依赖核心＋4 独立插件 · 确定性测试矩阵 · 上游 API 兼容 260/260 签名、215/260 实测实现 · 附复跑命令与未胜项",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/293",
-      "source_created_at": "2026-10-14T04:17:20Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bug: upload endpoint accepts empty file submissions as successful uploads (reissue via #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13311",
-      "source_created_at": "2026-10-14T02:25:09Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bug: Missing Input Validation on Search Query (reissue via #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13309",
-      "source_created_at": "2026-10-14T02:13:37Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[frontend] Cache contract reads between pages",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/168",
-      "source_created_at": "2026-10-13T21:22:16Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
       "status": "informativa",
       "priority": 70,
       "reasons": [
