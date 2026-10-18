@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-17T20:35:34.238Z",
+  "generated_at": "2026-10-18T04:30:30.660Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 657,
+    "total_evaluated": 682,
     "investigar": 1,
-    "informativa": 624,
+    "informativa": 649,
     "descartar": 32,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -815,6 +815,29 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Non-atomic cross-CF deposit persistence & unvalidated leaf index gaps in PrivacyStorage, and unseeded vault rent-floor aborts in slash_validator & deposit_note",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1002",
+      "source_created_at": "2026-10-18T04:21:23Z",
+      "first_seen_at": "2026-10-18T04:30:25.292Z",
+      "last_seen_at": "2026-10-18T04:30:25.292Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1804,6 +1827,77 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty quest kind and max_level",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/97",
+      "source_created_at": "2026-10-18T04:19:27Z",
+      "first_seen_at": "2026-10-18T04:30:25.292Z",
+      "last_seen_at": "2026-10-18T04:30:25.292Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty Abandom Mechanic",
+      "url": "https://github.com/GranSkreaReforged/GSOOffline/issues/86",
+      "source_created_at": "2026-10-18T03:20:26Z",
+      "first_seen_at": "2026-10-18T04:30:25.292Z",
+      "last_seen_at": "2026-10-18T04:30:25.292Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "B-028 Bounty and progressive bounty, satellites, guarantee with overlay, multi-flight",
+      "url": "https://github.com/adwate-ui/rivr-platform/issues/117",
+      "source_created_at": "2026-10-18T04:22:40Z",
+      "first_seen_at": "2026-10-18T04:30:25.292Z",
+      "last_seen_at": "2026-10-18T04:30:25.292Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3698,102 +3792,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "A preview system image installed makes the newest runtime its codename, not the highest API level",
-      "url": "https://github.com/callstackincubator/simlock/issues/678",
-      "source_created_at": "2026-10-17T14:57:56Z",
-      "first_seen_at": "2026-10-17T15:32:50.897Z",
-      "last_seen_at": "2026-10-17T15:32:50.897Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "feat: export scan results to CSV format (--csv)",
-      "url": "https://github.com/ErenYeager1836/reconflow/issues/15",
-      "source_created_at": "2026-10-17T13:57:33Z",
-      "first_seen_at": "2026-10-17T15:32:50.897Z",
-      "last_seen_at": "2026-10-17T15:32:50.897Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "feat: add --silent / --quiet flag for clean UNIX pipeline piping",
-      "url": "https://github.com/ErenYeager1836/reconflow/issues/14",
-      "source_created_at": "2026-10-17T13:57:30Z",
-      "first_seen_at": "2026-10-17T15:32:50.897Z",
-      "last_seen_at": "2026-10-17T15:32:50.897Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[intake 输入] dsh-mnemon 0.5.31 大型插件测评：本地组件、状态重建与备份边界；50 条有效受控判据及未验范围",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/823",
-      "source_created_at": "2026-10-17T10:17:51Z",
-      "first_seen_at": "2026-10-17T10:42:01.825Z",
-      "last_seen_at": "2026-10-17T10:42:01.825Z",
-      "status": "informativa",
-      "priority": 70,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
