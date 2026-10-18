@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-18T11:02:29.052Z",
+  "updated_at": "2026-10-18T15:51:08.988Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -30,12 +30,12 @@
       "evidence": "",
       "source_created_at": "2026-10-11T13:09:25Z",
       "opp_type": "bounty_codigo",
-      "score": 32,
+      "score": 25,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z"
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49834800",
+      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "evidence": "",
+      "source_created_at": "2026-09-24T18:23:23Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910969883",
+      "title": "⚡ [ANNOUNCEMENT] Open-Source Bounties & Algorithm Precision Squad · 24/7 Rapid Response · Funding Our AI Compute",
+      "url": "https://github.com/cubaloop/notrack-ecosystem/issues/3",
+      "evidence": "# ⚡ Open-Source Bounties & Rapid Algorithm Precision Squad ### Solving Bounties 24/7 to Fund Our Next-Gen AI GPU Clusters > **Have an open-source bounty, critical bug, or missing SDK feature?** > We operate round-the-clock scanning GitHub issues, implementing complete pull-request-ready fixes, and providing live browser test suites before handover. ## 🧪 Track Record of Solved Bounties: 1. **calc.py Fix & Test Suite (@LORDSINE)**: Fixed arithmetic mean and boundary clamping with interactive testbench. - 🌐 Live App: https://cubaloop.github.io/n",
+      "source_created_at": "2026-10-18T15:12:27Z",
+      "opp_type": "subvencion",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/cubaloop/notrack-ecosystem/issues/3",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911106951",
+      "title": "Bug Bounty & Web Penetration Testing Practice",
+      "url": "https://github.com/istiyak2124/istiyak2124/issues/11",
+      "evidence": "",
+      "source_created_at": "2026-10-18T15:27:51Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/istiyak2124/istiyak2124/issues/11",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910707551",
+      "title": "[Bounty proposal] fix(action-items): sort and score aggregation crashes with TypeError / AttributeError on ISO string or naive timestamps ( proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22181",
+      "evidence": "**Product impact** - Primary loop layer: action items listing and scoring (GET /v1/action-items, GET /v1/dev/user/action-items, GET /v2/integrations/{app_id}/user/tasks, MCP get_action_items, get_scores, and get_pending_apple_reminders_sync). - When an action item document in Firestore contains an ISO string due_at or created_at (from client integrations, webhook syncs, or batch migrations) or an offset-naive datetime, calling _action_item_list_sort_key in ackend/database/action_items.py raises an unhandled exception: - TypeError: ' tuple: retu",
+      "source_created_at": "2026-10-18T14:45:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/22181",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911046723",
+      "title": "[intake 输入] 【测评报告】dsh-lan-proxy 0.2.9 安全快测：默认 0.0.0.0 + injectToken 开启，局域网任意设备免 token 获得宿主控制（P0）＋ Windows 下私钥/证书目录 0600/0700 未生效（P1）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/993",
+      "evidence": "**三行结论**：插件默认在 0.0.0.0 监听，且 injectToken 默认开启；README 自己写「任何能网络到达本端口的客户端都免 token 获得完整 dsh 控制权（bash 直通宿主机）」。也就是局域网内任意设备（含被入侵的 IoT/访客设备）不需要 token 就能获得宿主 RCE；「信任整个局域网」被当作默认。 同一份 README 声明自签/CA 私钥与 certs/ 目录为 0600/0700，但 Windows 上 fs.chmod 不生效：自带测试 4 条模式断言全部失败（期望 384/448，实际 438/0644 级），实测私钥/CA 材料是 0666 级可读。 另有 1 条 resolvePluginDir 迁移路径失败（期望 lan-proxy，实际 @wingsky-1/dsh-lan-proxy），记 P2。按 A3 档「局域网/公网暴露面的登录闸」记 P0＋P1。 ## 性质声明 本件是 intake 输入（外部贡献申报），不是悬赏：不 /claim、不自加 bounty 标签。全部读数只覆盖锚定提交；未对目标仓写操作；测试在隔离 clone 内运行，未连真实局域网或公网。 ## 锚定提交 - 仓库：wingsky-1/dsh-plugi",
+      "source_created_at": "2026-10-18T15:21:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/993",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911306668",
+      "title": "Research: win conditions and match structure in competitive arena games",
+      "url": "https://github.com/ALLiDoizCode/big_back/issues/3",
+      "evidence": "## Question How do competitive team arena games structure a match, and what does each structure do to fairness, pacing and comebacks? Compare Brawl Stars (Gem Grab, Heist, Bounty, Knockout), Splitgate, Rocket League, Overwatch 2, Splatoon 3 (Turf War, Ranked modes), Valorant/CS rounds, Pikmin 4 Dandori Battle, and Team Buddies' own modes (`docs/research/team-buddies-core-loops.md`, don't redo it). For each game, cover: mode types and win conditions (elimination, objective, score race, base destruction, rounds); match length and session pacing; ",
+      "source_created_at": "2026-10-18T15:50:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ALLiDoizCode/big_back/issues/3",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911046381",
+      "title": "[intake 输入] 【测评报告】dsh-myskin 0.4.1 体验快测（DSH 桌面皮肤 / 主题 · 方法试验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/992",
+      "evidence": "[intake 输入] 【测评报告】dsh-myskin 0.4.1 体验快测（DSH 桌面皮肤 / 主题 · 方法试验） ## 性质声明 本件是 **intake 输入**（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**，计分由维护者裁定。 - 本件同时是**主创测评站 review.lingshulab.com 的投稿稿**：按站点体例「结论 + 锚定与证据链 + 结果速览 + 逐项读数 + 未验」组织，**不打总分、不用星级**。站点侧该插件目前 `reviewed=false`（`raw/50` §2）， 本件是它的首份第三方测评。 - 测评方**没有把插件安装进任何 live profile**：本机 live profile 的 dependencies 里没有 `dsh-myskin` （`raw/00` §3）。所有读数来自**源码快照 + 沙箱副本里的构建/安装/测试 + 宿主 asar 只读扫描**。 - 源码目录**只读**：build/install/test 全在 `sandbox/repo` 副本里跑；跑前跑后源码树指纹一致 `cdde503ecb5021…`（`raw/10`；快照 96 文件 / 6,239,752 B",
+      "source_created_at": "2026-10-18T15:20:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/992",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911044359",
+      "title": "[intake 输入] 【测评报告】dsh-trae2api 0.5.0 体验快测（Trae LLM provider 桥 · 方法试验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/991",
+      "evidence": "[intake 输入] 【测评报告】dsh-trae2api 0.5.0 体验快测（Trae LLM provider 桥 · 方法试验） ## 性质声明 本件是**给主创测评站 的投稿测评**（intake 输入，外部贡献申报），不是悬赏： **不 /claim、不自行加 bounty 标签**；计分、档位与是否归并均由维护者裁定。 - 被测对象：站点「dsh-trae2api」详情页（清单版本 **0.5.0**，上游状态「可访问」，本站评测 **0**）； 源码取上游默认分支 commit `35cafb11…` 的 GitHub tarball 解包快照。 - **未把插件装进任何正在使用的 DSH profile**：桌面 live profile 只读核对为「未安装 dsh-trae2api」， 本件也不安装（`raw/22-live-profile.txt`）。读数来自：源码快照 + 仓库自带测试 + 直接 `import lib/index.js` / `lib/testing.mjs` 的独立探针；**没有真实 Trae 凭据，也没有发起任何真实模型调用**。 - **仅 Windows**（10.0.26200 x64）：WSL / Linux / macOS 未",
+      "source_created_at": "2026-10-18T15:20:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/991",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911042104",
+      "title": "[intake 输入] 【测评报告】chuanban-dsh-writingset 0.3.0 体验快测（写作套装 / 工作流 · 方法试验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/990",
+      "evidence": "[intake 输入] 【测评报告】chuanban-dsh-writingset 0.3.0 体验快测（写作套装 / 工作流 · 方法试验） ## 性质声明 本件是 **intake 输入**（外部贡献申报），不是悬赏：**不执行 claim、不自行加 bounty 标签**。本件为 **review.lingshulab.com 主创测评站投稿**——站点当前对 `chuanban-dsh-writingset` 显示「暂无评测」 （清单版本 **0.3.0**，本站评测数 0，2026-10-18 读数，见 `raw/10-probe06-version.txt`）。计分与档位由维护者裁定。 - **四态边界**：下文每条面向声明均落在「已验 / 未验 / 不确定 / 不做」四态之一；未跑的项目如实写「未验」，不把未验写成已验。 - **只跑 Windows**：本机 Windows 11 Home China（`10.0.26200`）x64 单平台；**WSL / Linux / macOS 未跑**，不对这些平台下结论（README 与测试里出现 macOS 专属命令，见 P2-1）。 - **不排名、不给总分、不用星级**：只给逐项读数与 P 级发现；P 级按「不做会怎",
+      "source_created_at": "2026-10-18T15:20:28Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/990",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911039532",
+      "title": "[intake 输入] 【测评报告】@hyzyn/dsh-prompt 0.2.9 体验快测（Prompt 管理 / A/B 分流 · 方法试验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/989",
+      "evidence": "[intake 输入] 【测评报告】@hyzyn/dsh-prompt 0.2.9 体验快测（Prompt 管理 / A/B 分流 · 方法试验） ## 性质声明 本件是给 **review.lingshulab.com 插件测评子站**的 intake 输入（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**，计分与归并均由维护者裁定。 **范围声明（monorepo 子包）**：被测对象是 `hyzyn/dsh-plugin-kit` monorepo 的 **`packages/prompt`（`@hyzyn/dsh-prompt@0.2.9`）**；根包 `@hyzyn/dsh-plugin-kit@0.1.57` 只是全家桶 bundle，**同仓另外 12 个包不在本件范围**。本件结论只覆盖 `packages/prompt` 的源码/产物/行为，不评价同仓其它包，也不评价整仓发布质量。 本件**未把插件装进任何正在使用的 DSH profile**：全部读数来自本地只读快照 + 一个由既有 `node_modules` 支撑的临时构建/探针环境；未重装依赖、未联网安装、未改被测源码（跑完根树恢复为 711 文件，见 `raw/14-pos",
+      "source_created_at": "2026-10-18T15:20:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/989",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911036672",
+      "title": "[intake 输入] 【测评报告】dsh-review 0.3.0 体验快测（代码评审 / PR · 方法试验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/988",
+      "evidence": "[intake 输入] 【测评报告】dsh-review 0.3.0 体验快测（代码评审 / PR · 方法试验） ## 性质声明 - 本件是 **intake 输入**（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**，计分与归并由维护者裁定。 - 本件是**投给 review.lingshulab.com（灵枢插件测评子站）的测评**，marker 沿用 dsh-bounty 的 `intake:v1` 体例； 站点记录字段比 marker 多，本件只交付可复跑证据，不代替站点记录。 - **不排名、不给总分、不用星级**：只给逐条读数与四态边界（已验 / 未验 / 不确定 / 不做）。 - **仅 Windows 单平台**：本机 Windows 10.0.26200 x64；Linux / WSL / macOS **未跑**。 - 测评**未把插件装进任何正在使用的 DSH profile**；全部读数来自**本地源码快照**＋**仓库副本内的构建与测试**＋**三个独立探针**。 - **关键环境边界（全篇成立的前提）**：本机**没有 Git**（`git` 不在 PATH，且全盘常见路径检索 0 命中，见 `raw/00`）。 该插件自",
+      "source_created_at": "2026-10-18T15:19:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/988",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910865155",
+      "title": "[intake 输入] lingshu #750/#777/#786–#790 维护审核：CWD 导入残余、projectile 修复复核、physics 真值三项、检索/NaN/BOM/verify_edge 补丁评估",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/817",
+      "evidence": "[intake 输入] lingshu #750/#777/#786–#790 维护审核：CWD 导入残余、projectile 修复复核、physics 真值三项、检索/NaN/BOM/verify_edge 补丁评估 ## 性质声明 本件是 **intake 输入**（外部贡献申报），不是悬赏：**不 `/claim`、不 `/deliver`、不 `/verify`、 不 `/settle`，也不自行加 `bounty` / `intake` 标签**；计分与归并由维护者裁定。 本件是**批量维护审核**：对 `#750`（SEC P0 残余面）、`#777`（已由维护者修复，复核修复与残余边界）、 `#786`（physics 真值族独立审计）做复核；对 `#787–#790` 四条 issue 复现并评估对应 PR （#791/#792/#793/#794）。不是重复提交；重点结论： - **#750 残余 P0 仍成立**：本端独立复跑 A（逃生口开 + cwd==脚本目录）与 **D（逃生口关 + 脚本目录 ≠ cwd）** 两臂，毒 `body.py` 均在引擎进程内执行；维护者 #782 的修复只关闭 「受控面有同名实现」那一半（见 issue 线程 MERGE-7",
+      "source_created_at": "2026-10-18T15:01:24Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/817",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910817540",
+      "title": "[intake 输入] 【测评报告】dsh-edit-approval 0.5.0 安全快测：默认只拦 write/edit，bash 门默认关闭、run_code/pwsh/str_replace_editor 不在名单，审批可绕（P1）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/987",
+      "evidence": "**三行结论**：插件用 tools/pre-execute 对 write/edit 返回 ask（默认开），对 bash 返回 ask（默认关）。README 首句写「every bash command asks before it runs」，但同一张表里 Bash approval 是 **Off**；默认配置下 bash 命令不会被拦。 默认名单也很窄：DEFAULT_TOOLS = ['write','edit']（str_replace_editor 需手动加），DEFAULT_BASH_TOOLS = ['bash']（run_code/pwsh/sh/cmd/terminal 都不在）；这些工具都能写文件或执行命令，却不经过本插件的审批门。 影响：装好即用的 edit 审批只覆盖 write/edit；agent 用 bash（默认免审批）、run_code 或 str_replace_editor 就能改文件/执行命令而不弹面板。按 B 档「给工具加审批，审批可绕」记 P1（README 已写 bash 默认关，故不作为 P0）。 ## 性质声明 本件是 intake 输入（外部贡献申报），不是悬赏：不 /claim、不自加 bounty 标签。全部读数只覆盖锚",
+      "source_created_at": "2026-10-18T14:56:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/987",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911034662",
+      "title": "Proposal for @wasim-builds: simplify MyZubster Marketplace with Daniel",
+      "url": "https://github.com/MyZubster-Ecosystem/myzubster/issues/1626",
+      "evidence": "@wasim-builds Ciao Wasim! Vorrei proporti di lavorare direttamente con me alla semplificazione di MyZubster. Ho deciso di concentrarci su un Marketplace di servizi semplice, riutilizzando il codice esistente e riducendo i costi. **Obiettivo MVP**: registrazione/profilo seller, pubblicazione annunci con foto, ricerca servizi, contatto e pagamento verificato. **Zorgax resta** come assistente per Marketplace, onboarding GitHub e guida al flusso escrow (senza custodire o sbloccare fondi autonomamente). **Il Metaverso resta** come accesso alternativ",
+      "source_created_at": "2026-10-18T15:19:37Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/MyZubster-Ecosystem/myzubster/issues/1626",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911088923",
+      "title": "[Security]: freeze-logic trigger",
+      "url": "https://github.com/Neziahtech/streampay/issues/255",
+      "evidence": "### Severity (self-assessed) High ### Affected component contract (Rust) ### Impact class Invariant break ### Summary The emergency freeze is enforced via require_not_frozen on all five direct-lane entrypoints (create_stream, create_streams, withdraw, top_up, update_rates) — each reverts ContractFrozen while frozen. The scheduled-intents lane has zero references to `frozen`: while the admin has the contract frozen, any permissionless caller can schedule_stream (new funds enter escrow during the freeze), execute_scheduled (state transitions cont",
+      "source_created_at": "2026-10-18T15:25:45Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Neziahtech/streampay/issues/255",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911066973",
+      "title": "[Security]: availability loss without fund loss; griefing with measurable cost",
+      "url": "https://github.com/Neziahtech/streampay/issues/252",
+      "evidence": "### Severity (self-assessed) Medium ### Affected component frontend (Next.js) ### Impact class Griefing / spam ### Summary frontend/app/api/webhooks/route.ts is a pure forwarder to ${INDEXER_URL} with zero authentication on both GET and POST. Anyone on the internet — no credentials, cookies, or API keys — can `create` an arbitrary webhook URL, `rotate` someone else's endpoint secret, `test`-trigger a delivery to an attacker URL, `replay_dlq` to re-send historical payloads (stream_id, amount, recipient), `delete` anyone's endpoint, and GET ?type",
+      "source_created_at": "2026-10-18T15:23:15Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Neziahtech/streampay/issues/252",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911005942",
+      "title": "[Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execute_scheduled skip check_asset_allowed and validate_stream_args",
+      "url": "https://github.com/Neziahtech/streampay/issues/249",
+      "evidence": "### Severity (self-assessed) Critical ### Affected component contract (Rust) ### Impact class Funds drainable ### Summary The policy module is the on-chain allowlist: create_stream enforces check_asset_allowed and reverts PolicyAssetNotAllowed (#31) for blocked assets. The scheduled lane never calls it — schedule.rs contains zero references to \"policy\", and neither schedule_stream nor execute_scheduled invokes check_asset_allowed or validate_stream_args. A permissionless sender can therefore open streams (with escrow) for assets the admin expli",
+      "source_created_at": "2026-10-18T15:16:24Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Neziahtech/streampay/issues/249",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5911296957",
+      "title": "[soundness] Address-of on sub-slice/call-returned elements (`&xs[0:][0]`, `&id(xs)[0]`) and multi-return borrow unpacks (`p, k := borrow_pair(&st)`) bypass O4/O5/O2/T22 and cause a `go run -race` data race",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/679",
+      "evidence": "## Summary On `main` (`0ca08c2`), four closely coupled address-of and borrow-provenance gaps in `hy-syntax` and `hy-check` allow mutable element pointers and call-forwarded borrows to cross task/channel/return/const boundaries with **0 diagnostics** and trigger real data races under `go run -race`: 1. **Sub-slice element address-of (`&xs[lo:hi][i]`) drops its backing root (`HYB-E3001` / `HYB-E3002` / `HYB-E3003` / `HYB-E3004` / `HYB-E3006` bypass)**: - `Expr::root_ident()` (`compiler/crates/hy-syntax/src/ast.rs:757`) and `walk::expr_path()` (`c",
+      "source_created_at": "2026-10-18T15:49:41Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/679",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910881837",
+      "title": "tooling: keep GitHub authorization out of redirected artifact downloads",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/666",
+      "evidence": "AI assistance disclosure: Codex prepared and reviewed this patch and executed the tests for @cequario. No separate human technical review or live credential test is claimed. Base: 0ca08c2ea39eabf8f46fffde110cae099fed0e27 (main, 18 October 2026). Problem Both gh_api() and actions_fetch() in tools/job.py attach the GitHub token with Request.add_header(). urllib copies these ordinary headers into redirected requests, including requests to another host. GitHub's artifact-download endpoint intentionally returns a 302 to a signed download URL. The to",
+      "source_created_at": "2026-10-18T15:03:15Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/666",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910760206",
+      "title": "[intake 输入] 【测评报告】dsh-full-remote 0.3.12 安全快测：控制面只校验 loopback 源与 Origin，同机反代 + 缺省 Origin 即可调 /invite 换取登录链接（P0）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/986",
+      "evidence": "**三行结论**：插件的控制面 /dsh-reverse-proxy/* 号称 loopback-only，但 handle 只检查 req.socket.remoteAddress 是回环 + Origin 是回环 hostname；Origin 缺失时 isLoopbackOrigin(undefined) 直接返回 true。于是同机反向代理（nginx 等，source 127.0.0.1）只要带上静态头 x-dsh-reverse-proxy-control: 1、不带 Origin，就能调用全部控制路由。 真实 src/control-routes.ts 的 createControlRoutes + 模拟 deps：GET /status、GET /sessions、POST /rotate-token、POST /start、POST /invite 全部 200；其中 /invite 返回一次性登录链接 http://127.0.0.1:3081/login?invite=CODE，远程攻击者拿它就能换取合法远程会话；/rotate-token 会清空所有设备会话，/start /stop /listen 可改监听。 阳性对照：源地址 203.0.113.9 直接请",
+      "source_created_at": "2026-10-18T14:50:38Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/986",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910741667",
+      "title": "hy-syntax: the LX6 float literal `2.` is lexed as `2` + `.`, which folds the next line into a member access; accepted program emits `2.fmt.println(...)` and fails `go build`",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/659",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"fmt\" fn main() { var scale f64 = 2. fmt.println(scale) fmt.println(scale * 3.0) } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `hyb` built from that commit (`cargo build -p hyb`, rust 1.99.0; usage banner: `build pins: go1.26.9 / rust 1.99.0`). Go 1.26.9, linux/amd64. ```text $ hyb check float_trailing_dot.hy float_trailing_dot.hy: OK (0 diagnostics) $ hyb build float_trailing_dot.hy -o float_trailing_dot go build failed: # command-line-arguments fl",
+      "source_created_at": "2026-10-18T14:48:43Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/659",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910740950",
+      "title": "[soundness] Foreign Go names are never resolved (M4/M5): `io.eof`, `http.status_ok`, `math.sqrt`, `fmt.no_such_function` and imports outside the curated allowlist all pass `hyb check`, then fail `go build`",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/658",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"fmt\" import \"io\" import \"math\" import \"net/http\" fn main() { fmt.println(io.eof) fmt.println(http.status_ok) fmt.println(math.sqrt(2.0)) fmt.println(fmt.no_such_function(1)) } ``` and, separately: ```hy package main import \"fmt\" import \"github.com/acme/widgets\" fn main() { fmt.println(widgets.count()) } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `hyb` built from that commit (`cargo build -p hyb`, rust 1.99.0; usage banner: `build pins: go1.26.9 / ",
+      "source_created_at": "2026-10-18T14:48:38Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/658",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910740284",
+      "title": "[soundness] `errors.wrap(err, \"ctx\")`, the spec's documented wrapping API (E2), passes `hyb check` and emits `errors.Wrap`, which does not exist in Go",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/657",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"errors\" import \"fmt\" fn main() { not_found := errors.new(\"not found\") err := errors.wrap(not_found, \"opening config\") fmt.println(err) fmt.println(errors.is(err, not_found)) } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `hyb` built from that commit (`cargo build -p hyb`, rust 1.99.0; usage banner: `build pins: go1.26.9 / rust 1.99.0`). Go 1.26.9, linux/amd64. ```text $ hyb check errors_wrap_unbuildable.hy errors_wrap_unbuildable.hy: OK (0 diagnosti",
+      "source_created_at": "2026-10-18T14:48:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/657",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910739662",
+      "title": "[soundness] `*T`-receiver method call on a non-addressable receiver (map element, call result, struct literal) passes `hyb check`, emitted Go fails `go build`",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/656",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"fmt\" struct counter { n int } fn (c *counter) bump() { c.n += 1 } fn fresh() counter { return counter{n: 0} } fn main() { by_name := map[string]counter{\"a\": counter{n: 0}} by_name[\"a\"].bump() fresh().bump() counter{n: 5}.bump() fmt.println(by_name[\"a\"].n) } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `hyb` built from that commit (`cargo build -p hyb`, rust 1.99.0; usage banner: `build pins: go1.26.9 / rust 1.99.0`). Go 1.26.9, linux/amd64. ```text ",
+      "source_created_at": "2026-10-18T14:48:30Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/656",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910739014",
+      "title": "[soundness] T22 `let` immutability is never enforced: reassigning a `let` binding (`=`, `+=`, `++`, closure store, tuple assign) passes `hyb check` with 0 diagnostics",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/655",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"fmt\" fn two() (int, int) { return 7, 8 } fn main() { let limit = 10 limit = 20 limit += 1 limit++ bump := fn() { limit = 99 } bump() var other int limit, other = two() fmt.println(limit, other) let names = []string{\"a\"} names = []string{\"x\", \"y\"} fmt.println(names) } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `hyb` built from that commit (`cargo build -p hyb`, rust 1.99.0; usage banner: `build pins: go1.26.9 / rust 1.99.0`). Go 1.26.9, linux/amd64",
+      "source_created_at": "2026-10-18T14:48:26Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/655",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5910738396",
+      "title": "[soundness] `break loop` / `continue loop` bind to the innermost `for` instead of the nearest `loop` (LX14): accepted program builds and runs the wrong control flow",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/654",
+      "evidence": "### The smallest .hy program that demonstrates it ```hy package main import \"fmt\" fn main() { rounds := 0 loop { rounds += 1 if rounds == 4 { fmt.println(\"loop guard hit\") break loop } for i in 0..3 { if i == 1 { break loop } } fmt.println(\"after for\") } fmt.println(\"rounds={rounds}\") visits := 0 passes := 0 loop { passes += 1 if passes == 3 { break loop } for v in []int{1, 2, 3} { visits += v continue loop } fmt.println(\"after for (continue)\") } fmt.println(\"visits={visits}\") } ``` Commit: `main` @ `0ca08c2ea39eabf8f46fffde110cae099fed0e27`. `",
+      "source_created_at": "2026-10-18T14:48:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/654",
+      "first_seen_at": "2026-10-18T15:51:08.988Z",
+      "last_seen_at": "2026-10-18T15:51:08.988Z"
     },
     {
       "source": "hackernews",
@@ -1101,126 +1596,6 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/921",
       "first_seen_at": "2026-10-18T04:30:25.292Z",
       "last_seen_at": "2026-10-18T04:30:25.292Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49834800",
-      "title": "Rising beef costs push a Top Texas BBQ spot to pull brisket from menu",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "evidence": "",
-      "source_created_at": "2026-09-24T18:23:23Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/sinton/rising-beef-costs-push-a-top-50-texas-bbq-spot-to-pull-brisket-from-its-everyday-menu",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z"
     },
     {
       "source": "github",
@@ -10615,6 +10990,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-18T15:51:08.988Z",
+      "generated_at": "2026-10-18T15:51:08.988Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 328
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 403
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 732,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-18T11:02:29.052Z",
       "generated_at": "2026-10-18T11:02:29.052Z",
       "status": "ok",
@@ -13931,67 +14367,6 @@
       "new_items": 25,
       "seen_again": 21,
       "archive_total": 320,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T11:27:06.536Z",
-      "generated_at": "2026-10-15T11:27:06.536Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 582
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 570
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 25,
-      "seen_again": 21,
-      "archive_total": 295,
       "steps": [
         {
           "agent": "Recolector",
