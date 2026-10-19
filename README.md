@@ -1,5 +1,18 @@
 # APEX_PRIME_X · Plataforma comercial
 
+## Productos digitales públicos · APEX PRIME X
+
+APEX ofrece **dos herramientas gratuitas y funcionales** desarrolladas en HTML/JavaScript, además de servicios profesionales personalizados bajo presupuesto. **No requieren inversión, registro ni pago para probarlas.**
+
+- [**CotizaPro** — preparar cotizaciones, materiales, horas e importes en soles](https://apxsolutionspe.github.io/Apex_Manager/productos/cotizapro/)
+- [**CatálogoExpress** — crear y descargar un catálogo con carrito y pedidos iniciados por WhatsApp](https://apxsolutionspe.github.io/Apex_Manager/productos/catalogoexpress/)
+- [**Solicitar soluciones tecnológicas y personalización a APEX PRIME X**](https://apxsolutionspe.github.io/Apex_Manager/servicios.html)
+- [**Escribir por WhatsApp al contacto comercial publicado de APEX**](https://wa.me/51931797758?text=Hola%20APEX%20PRIME%20X%2C%20quisiera%20cotizar%20un%20proyecto%20digital.)
+
+Estas son herramientas web estáticas, distintas de la API y del panel administrativo local descritos a continuación. **No existe una pasarela de cobro integrada ni clientes/pagos garantizados**. Los importes de ejemplo de las demos no son tarifas comerciales de APEX.
+
+---
+
 **Versión:** `0.2.0` · **Estado:** prototipo funcional local / **NO DESPLEGADO PARA CLIENTES** · **Idioma:** español · **Moneda:** soles (PEN).
 
 Plataforma de catálogo + cotizaciones + administración de servicios, optimizada para móvil y creada con componentes de software libre. No integra pasarelas de pago ni envía mensajes automáticamente.
