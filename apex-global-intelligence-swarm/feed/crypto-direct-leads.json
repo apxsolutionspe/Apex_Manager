@@ -1,6 +1,6 @@
 {
   "schema": "apex-direct-crypto-leads-v1",
-  "generated_at": "2026-10-18T23:20:36.069Z",
+  "generated_at": "2026-10-19T01:23:23.434Z",
   "note": "Only informational research. No personal eligibility, account metadata, earned assets or transactions are stored.",
   "data": [
     {
@@ -29,7 +29,7 @@
       "wallet_transfer_supported": false,
       "automatic_claim_supported": false,
       "source_checked_by_research_on": "2026-10-15",
-      "status": "personal_eligibility_pending",
+      "status": "expired",
       "may_claim": false
     },
     {
@@ -58,7 +58,7 @@
       "wallet_transfer_supported": false,
       "automatic_claim_supported": false,
       "source_checked_by_research_on": "2026-10-15",
-      "status": "personal_eligibility_pending",
+      "status": "expired",
       "may_claim": false
     }
   ],
