@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="CotizaPro de APEX PRIME X: crea presupuestos en soles, calcula materiales y mano de obra, imprime y comparte. Solicita una versión personalizada para tu negocio.">
+  <meta name="theme-color" content="#0b1e35">
+  <title>CotizaPro | Cotizaciones fáciles para tu negocio — APEX PRIME X</title>
+  <style>
+    :root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#12263d;background:#f4f7fb}
+    *{box-sizing:border-box}body{margin:0;line-height:1.45}a{color:inherit}button,input,textarea,select{font:inherit}button{cursor:pointer}
+    .wrap{max-width:1180px;margin:auto;padding:0 22px}header{background:white;border-bottom:1px solid #dbe6ef;position:sticky;top:0;z-index:3}
+    .nav{display:flex;justify-content:space-between;gap:16px;align-items:center;min-height:70px}
+    .brand{font-weight:900;letter-spacing:.045em;text-decoration:none;color:#0b1e35;font-size:1.04rem}.brand span{color:#007c9f}
+    nav{display:flex;gap:22px;align-items:center}nav a{text-decoration:none;font-weight:650;font-size:.9rem}nav a:hover{color:#007c9f}
+    .hero{background:linear-gradient(135deg,#071629,#123452 67%,#105c72);color:white;padding:74px 0 64px}
+    .hero-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:50px;align-items:center}
+    .eyebrow{text-transform:uppercase;letter-spacing:.2em;color:#80e7df;font-weight:800;font-size:.78rem}
+    h1{font-size:clamp(2.2rem,4.5vw,4.2rem);line-height:1.09;letter-spacing:-.045em;margin:14px 0}h2{font-size:1.75rem;letter-spacing:-.025em;margin:0 0 8px}
+    .hero p{font-size:1.1rem;color:#c8d9e6;max-width:640px}.hero-card{padding:27px;background:#ffffff14;border:1px solid #ffffff45;border-radius:20px;box-shadow:0 18px 40px #07162940}
+    .hero-card strong{font-size:1.2rem;display:block;margin-bottom:12px}.hero-card p{margin:9px 0;font-size:.96rem}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:#027e97;border:1px solid #027e97;color:#fff;text-decoration:none;padding:12px 18px;border-radius:10px;font-weight:780;min-height:44px}
+    .btn:hover{filter:brightness(1.08)}.btn-outline{background:transparent;color:#0b344d;border:1px solid #bed0dc}.btn-light{background:#fff;color:#063648;border-color:white}
+    .btn-danger{color:#8d2940;border-color:#e7c1cb;background:transparent}.btn-sm{padding:7px 11px;min-height:36px;font-size:.86rem}
+    section{padding:56px 0}.muted{color:#596c7d}.section-head{margin-bottom:24px}.features{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .feature,.panel{border-radius:17px;background:white;box-shadow:0 8px 34px #0d2c4210;border:1px solid #dde6ed}
+    .feature{padding:22px}.feature h3{margin:0 0 8px}.feature p{margin:0;color:#607487}
+    .workbench{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(280px,.8fr);gap:20px;align-items:start}
+    .panel{padding:24px}.panel h3{margin:0 0 18px}.sticky{position:sticky;top:88px}
+    .field{display:flex;flex-direction:column;gap:6px;margin:0 0 13px;min-width:0}
+    label{font-weight:730;font-size:.88rem}input,textarea,select{border:1px solid #b9c9d4;background:#fff;color:#12263d;border-radius:9px;padding:10px 11px;min-height:43px;width:100%}
+    textarea{resize:vertical;min-height:75px}input:focus,textarea:focus,select:focus{outline:3px solid #9bdddf;outline-offset:1px;border-color:#007c9f}
+    .form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:0 14px}
+    .rowgrid{display:grid;grid-template-columns:minmax(150px,1.5fr) minmax(72px,.55fr) minmax(92px,.8fr) auto;gap:8px;align-items:end;margin-bottom:10px}
+    .rowgrid .field{margin:0}.tiny{font-size:.77rem;font-weight:750;letter-spacing:.05em;text-transform:uppercase;color:#6f8192}
+    .actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:15px}
+    .line{height:1px;background:#e0e9ef;margin:22px 0}
+    .summary-list{display:grid;gap:10px}.sumrow{display:flex;justify-content:space-between;gap:16px}.sumrow span{color:#647689}.sumrow strong{font-variant-numeric:tabular-nums}
+    .total{padding:16px;margin:20px -4px 0;border-radius:12px;background:#e4f4f6;display:flex;justify-content:space-between;align-items:baseline;font-weight:850}
+    .total strong{font-size:1.55rem;color:#08596b}.sidenote{font-size:.78rem;color:#62768a}
+    .pill{display:inline-block;border-radius:100px;padding:5px 11px;background:#e8f5f7;color:#075a69;font-size:.8rem;font-weight:750}
+    #savedList{display:grid;gap:9px;max-height:220px;overflow:auto}#savedList .saved{display:flex;align-items:center;gap:8px;justify-content:space-between;padding:8px;border-radius:8px;background:#f2f6f9}
+    #savedList button{flex-shrink:0}.notice{border-left:4px solid #1491a1;background:#e7f6f6;padding:14px 18px;border-radius:9px}
+    .cta{background:#0b1e35;color:#fff;border-radius:20px;padding:34px;display:flex;justify-content:space-between;align-items:center;gap:25px}
+    .cta h2{margin-bottom:12px}.cta p{margin:0;color:#bed2df}
+    footer{background:#e8eef3;padding:24px 0;color:#4b6475;font-size:.84rem}
+    .print{display:none}.error{color:#a12639;font-weight:700;min-height:25px;margin:8px 0}
+    @media(max-width:850px){.hero-grid,.workbench{grid-template-columns:1fr}.features{grid-template-columns:1fr}.sticky{position:static}}
+    @media(max-width:620px){.hero{padding:43px 0}.nav{flex-direction:column;padding:12px 0}.rowgrid{grid-template-columns:minmax(120px,1fr) 80px 95px auto;gap:5px}
+      .rowgrid input{padding:8px 6px;font-size:.86rem}.rowgrid label{font-size:.71rem}
+      .form-grid{grid-template-columns:1fr}.panel{padding:18px}.cta{flex-direction:column;align-items:start}nav{gap:12px}}
+    @media print{header,.hero,.features-section,.section-head,.editor-panel,.action-hide,.sell-section,footer,.sticky{display:none!important}
+      body{background:white;color:#000}.wrap,section{padding:0!important;max-width:none}
+      .workbench{display:block}.print{display:block!important;padding:22px 0}.print table{border-collapse:collapse;width:100%;margin-top:26px}
+      .print td,.print th{border-bottom:1px solid #ddd;padding:9px;text-align:left}.print .align-right{text-align:right}
+      .print h1{font-size:30px}.print .print-sum{font-size:20px;font-weight:bold;text-align:right;margin:24px 0} }
+  </style>
+</head>
+<body>
+  <header><div class="wrap nav">
+    <a class="brand" href="#inicio">APEX<span> PRIME X</span> <small style="font-weight:500;color:#617789">/ CotizaPro</small></a>
+    <nav aria-label="Navegación principal"><a href="#ventajas">Ventajas</a><a href="#cotizador">Cotizador</a><a href="#personalizacion">Personalización</a></nav>
+  </div></header>
+  <main>
+    <div class="hero" id="inicio"><div class="wrap hero-grid">
+      <div><div class="eyebrow">Herramienta digital para negocios</div>
+        <h1>Cotizaciones claras. Clientes mejor atendidos.</h1>
+        <p>Prepara presupuestos para instalaciones, soporte técnico y otros servicios en soles. Calcula materiales, mano de obra y márgenes en un solo lugar.</p>
+        <div class="actions"><a class="btn btn-light" href="#cotizador">Probar CotizaPro gratis ↗</a><a class="btn" href="#personalizacion">Solicitar mi versión</a></div>
+        <p style="font-size:.81rem;color:#b8d1dc">Sin registro • Sin suscripción para esta demo • Datos almacenados solo en tu navegador</p>
+      </div>
+      <div class="hero-card"><span class="pill">Ejemplo de uso</span><strong>Instalación de cámaras y redes</strong>
+        <p>✓ Calcula equipos, cableado y materiales</p><p>✓ Agrega horas de mano de obra</p>
+        <p>✓ Aplica margen de utilidad e impuesto opcional</p><p>✓ Imprime o comparte tu cotización</p>
+        <p><strong>Personalizable para tu actividad</strong></p>
+      </div>
+    </div></div>
+    <section class="features-section" id="ventajas"><div class="wrap">
+      <div class="section-head"><span class="eyebrow" style="color:#007c9f">Lo esencial</span><h2>De la consulta al presupuesto</h2><p class="muted">Una demo que sí puedes utilizar, sin contratar servicios externos.</p></div>
+      <div class="features">
+        <div class="feature"><h3>01 / Calcula sin complicaciones</h3><p>Materiales, cantidades, horas, gastos, recargo e impuesto configurable por separado.</p></div>
+        <div class="feature"><h3>02 / Organiza tus cotizaciones</h3><p>Guarda en este navegador y respalda con JSON. Exporta un CSV para tu control.</p></div>
+        <div class="feature"><h3>03 / Presenta con profesionalismo</h3><p>Imprime o guarda en PDF desde el navegador y comparte el resumen por WhatsApp.</p></div>
+      </div>
+    </div></section>
+    <section id="cotizador"><div class="wrap"><div class="section-head"><span class="pill">Demo funcional gratuita</span><h2>Tu espacio de cotización</h2><p class="muted">Los valores iniciales son ejemplos editables; no son precios de APEX PRIME X ni ofertas comerciales.</p></div>
+      <div class="workbench">
+        <div class="panel editor-panel"><h3>1. Datos del proyecto</h3>
+          <div class="form-grid">
+            <div class="field"><label for="title">Título del trabajo</label><input id="title" maxlength="120" value="Instalación y soporte" autocomplete="off"></div>
+            <div class="field"><label for="client">Cliente o referencia (opcional)</label><input id="client" maxlength="120" placeholder="Nombre del cliente" autocomplete="off"></div>
+          </div>
+          <div class="field"><label for="template">Ejemplo de partida</label><select id="template">
+            <option value="cctv">Instalación de cámaras (valores de ejemplo)</option>
+            <option value="wifi">Redes WiFi (valores de ejemplo)</option>
+            <option value="support">Soporte informático (valores de ejemplo)</option>
+            <option value="web">Página web (valores de ejemplo)</option>
+            <option value="empty">Empezar desde cero</option>
+          </select></div>
+          <div class="line"></div><h3>2. Materiales y conceptos</h3>
+          <div id="lines" aria-live="polite"></div>
+          <button type="button" class="btn btn-outline btn-sm" id="addRow">+ Añadir concepto</button>
+          <div class="line"></div><h3>3. Costos y margen</h3>
+          <div class="form-grid">
+            <div class="field"><label for="hours">Horas de trabajo</label><input id="hours" type="number" min="0" step="0.5" value="0"></div>
+            <div class="field"><label for="hourRate">Tarifa por hora (S/)</label><input id="hourRate" type="number" min="0" step="0.01" value="0"></div>
+            <div class="field"><label for="extras">Otros gastos (S/)</label><input id="extras" type="number" min="0" step="0.01" value="0"></div>
+            <div class="field"><label for="markupPercent">Recargo sobre costos (%)</label><input id="markupPercent" type="number" min="0" max="100" step="0.1" value="15"></div>
+            <div class="field"><label for="taxPercent">Impuesto opcional (%)</label><input id="taxPercent" type="number" min="0" max="100" step="0.1" value="0">
+              <small class="muted">Configura la tasa solo cuando corresponda legalmente; esta demo no determina tus obligaciones tributarias.</small></div>
+          </div>
+          <div class="field"><label for="notes">Notas y condiciones (opcional)</label><textarea id="notes" maxlength="500" placeholder="Alcance, plazo, vigencia, garantías acordadas..."></textarea></div>
+          <div class="actions action-hide">
+            <button class="btn" type="button" id="save">Guardar cotización</button>
+            <button class="btn btn-outline" type="button" id="print">Imprimir / PDF</button>
+            <button class="btn btn-outline" type="button" id="whatsapp">Compartir por WhatsApp</button>
+            <button class="btn btn-outline" type="button" id="copy">Copiar resumen</button>
+          </div><div id="message" role="status" aria-live="polite" class="error"></div>
+          <div class="line"></div>
+          <h3>4. Mis cotizaciones guardadas</h3><div id="savedList"></div>
+          <div class="actions action-hide">
+            <button id="backup" type="button" class="btn btn-outline btn-sm">Descargar respaldo JSON</button>
+            <button id="downloadCsv" type="button" class="btn btn-outline btn-sm">Exportar CSV actual</button>
+            <label class="btn btn-outline btn-sm" for="importFile">Importar respaldo JSON<input id="importFile" type="file" accept="application/json,.json" style="position:absolute;width:1px;height:1px;opacity:0"></label>
+          </div>
+          <p class="sidenote">Privacidad: el navegador guarda cotizaciones y posibles nombres de clientes en este dispositivo. No existe sincronización, cuenta ni respaldo en la nube. Evita ingresar información sensible.</p>
+        </div>
+        <aside class="panel sticky"><span class="pill">Vista de presupuesto</span><h3 style="margin-top:14px">Resumen estimado</h3>
+          <div class="summary-list">
+            <div class="sumrow"><span>Materiales/conceptos</span><strong id="materials">S/ 0,00</strong></div>
+            <div class="sumrow"><span>Mano de obra</span><strong id="labor">S/ 0,00</strong></div>
+            <div class="sumrow"><span>Otros gastos</span><strong id="extrasView">S/ 0,00</strong></div>
+            <div class="sumrow"><span>Recargo</span><strong id="markup">S/ 0,00</strong></div>
+            <div class="sumrow"><span>Impuesto opcional</span><strong id="tax">S/ 0,00</strong></div>
+          </div><div class="total"><span>Total estimado</span><strong id="total">S/ 0,00</strong></div>
+          <p class="sidenote">Los precios y márgenes son responsabilidad de quien prepara la cotización. No es una factura, boleta ni comprobante SUNAT.</p>
+          <div class="notice"><strong>¿Quieres instalarlo en tu negocio?</strong><p style="margin:7px 0 0">APEX PRIME X puede adaptar tu plantilla, identidad de marca, servicios y flujo comercial.</p></div>
+          <a style="margin-top:17px;width:100%" class="btn" href="mailto:apx.solutions.pe@gmail.com?subject=Solicito%20CotizaPro%20personalizado%20-%20APEX%20PRIME%20X&body=Hola%2C%20quiero%20un%20presupuesto%20para%20CotizaPro%20adaptado%20a%20mi%20negocio.">Solicitar personalización ↗</a>
+        </aside>
+      </div>
+      <div id="printView" class="print" aria-label="Cotización para imprimir"><h1>COTIZACIÓN</h1><p id="printedTitle"></p><p id="printedClient"></p><p id="printedDate"></p><table><thead><tr><th>Concepto</th><th>Cant.</th><th class="align-right">Precio S/</th></tr></thead><tbody id="printedRows"></tbody></table><p class="print-sum" id="printedTotal"></p><p id="printedNotes"></p><small>Documento referencial. No es comprobante tributario.</small></div>
+    </div></section>
+    <section id="personalizacion" class="sell-section"><div class="wrap"><div class="cta">
+      <div><span class="eyebrow">APEX PRIME X / Soluciones a medida</span><h2>Un CotizaPro propio para tu empresa</h2><p>Personalizamos flujos de cotización, branding, catálogos de servicios y herramientas de atención. Presupuesto según alcance, sin pagos automáticos ni contratos ocultos.</p></div>
+      <a class="btn btn-light" href="mailto:apx.solutions.pe@gmail.com?subject=Quiero%20CotizaPro%20para%20mi%20negocio">Pedir propuesta comercial</a>
+    </div></div></section>
+  </main>
+  <footer><div class="wrap">APEX PRIME X · Herramienta de demostración gratuita · 2026 · <a href="mailto:apx.solutions.pe@gmail.com">Contacto</a>. Los datos quedan en tu navegador. No se recopilan datos mediante esta aplicación.</div></footer>
+  <script type="module" src="./app.mjs"></script>
+</body>
+</html>
