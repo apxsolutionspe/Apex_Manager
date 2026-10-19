@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
-import {buildPage,validate,phone,cents,esc,MAX_PRODUCTS} from '../productos/catalogoexpress/core.mjs';
+import {buildPage,validate,phone,cents,esc,MAX_PRODUCTS,createBackup,restoreBackup,requireRecipientForExport,DEMO_PHONE,BACKUP_SCHEMA} from '../productos/catalogoexpress/core.mjs';
 
 const example={name:'Mi negocio',tagline:'Pedidos por WhatsApp',phone:'931797758',items:[
  {title:'Servicio A',description:'Instalación (ejemplo)',price:'35.50'},
@@ -49,4 +49,37 @@ test('catálogo entregable informa que no realiza pagos ni guarda datos',()=>{
  assert.match(html,/no cobra dinero/i);
  assert.match(html,/no registra datos/i);
  assert.match(html,/Total referencial/);
+});
+
+test('roundtrip JSON preserves original phone, items and prices in soles',()=>{
+ const original={...example,phone:'912345678',items:[{title:'Web portátil',description:'Compatible móvil',price:'2.25'}]};
+ const saved=createBackup(original);
+ assert.equal(saved.schema,BACKUP_SCHEMA);
+ assert.equal(saved.catalog.phone,'51912345678');
+ assert.equal(saved.catalog.items[0].price,'2.25');
+ const after=restoreBackup(JSON.parse(JSON.stringify(saved)));
+ assert.equal(after.phone,'51912345678');
+ assert.equal(after.items[0].price,'2.25');
+ assert.equal(buildPage(after).includes('Web portátil'),true);
+});
+test('legacy v1 backup with wa and amounts is recovered without incorrect scaling',()=>{
+ const old={schema:BACKUP_SCHEMA,catalog:{
+  name:'Catálogo recuperado',tagline:'Demo',wa:'51912345678',
+  items:[{title:'Reserva',description:'Ejemplo',amount:3599}]
+ }};
+ const after=restoreBackup(old);
+ assert.equal(after.items[0].price,'35.99');
+ assert.equal(after.phone,'51912345678');
+});
+test('invalid, oversized, negative or malicious backups fail closed',()=>{
+ assert.throws(()=>restoreBackup({schema:'another-version',catalog:example}));
+ assert.throws(()=>restoreBackup({schema:BACKUP_SCHEMA,catalog:{...example,items:Array(41).fill(example.items[0])}}));
+ assert.throws(()=>restoreBackup({schema:BACKUP_SCHEMA,catalog:{...example,items:[{title:'Bad',amount:-20}]}}));
+ assert.throws(()=>restoreBackup({schema:BACKUP_SCHEMA,catalog:{...example,items:[null]}}));
+});
+test('third-party catalog downloads cannot accidentally route orders to the demo WhatsApp',()=>{
+ assert.throws(()=>requireRecipientForExport({...example,phone:DEMO_PHONE}),
+ /reemplaza el WhatsApp de demostración/i);
+ assert.doesNotThrow(()=>requireRecipientForExport({...example,phone:'51912345678'}));
+ assert.doesNotThrow(()=>requireRecipientForExport({...example,name:'APEX PRIME X',phone:DEMO_PHONE}));
 });
