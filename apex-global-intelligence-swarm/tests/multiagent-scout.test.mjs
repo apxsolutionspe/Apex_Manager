@@ -30,6 +30,16 @@ test('rejects paid access, wallet credentials and misleading security tasks', ()
   assert.equal(outcome.priority_score, 0);
 });
 
+test('rejects mirrors, crowded competitions and incidental payment mentions', () => {
+  const incidental = {...safe, title:'Fix slow API bug', labels:[], body:'The subscription plan is paid $50 per month.'};
+  assert.equal(vetIssue(incidental, SCOUTS[1], NOW), null);
+  assert.equal(vetIssue({...safe, comments:1000}, SCOUTS[0], NOW), null);
+  assert.equal(vetIssue({...safe, title:'[radar] Bounty $50 discovered'}, SCOUTS[0], NOW), null);
+  assert.equal(vetIssue({...safe, repository_url:'https://api.github.com/repos/archiver/bounty-plaza'}, SCOUTS[0], NOW), null);
+  assert.equal(vetIssue({...safe, title:'Fix API', body:'We offer no bounties', labels:[]}, SCOUTS[0], NOW), null);
+  assert.equal(vetIssue({...safe, title:'Bounty: improve API', body:'Reward amount to be announced'}, SCOUTS[0], NOW), null);
+});
+
 test('scout only performs a bounded read-only GitHub search', async () => {
   let calls = 0;
   const result = await scout(SCOUTS[0], { now: NOW, fetcher: async (url, init) => {
