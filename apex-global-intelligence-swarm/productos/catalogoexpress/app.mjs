@@ -1,4 +1,4 @@
-import {buildPage, validate, MAX_PRODUCTS} from './core.mjs';
+import {buildPage, validate, MAX_PRODUCTS, createBackup, restoreBackup, requireRecipientForExport} from './core.mjs';
 const $=id=>document.getElementById(id);
 const KEY='apx-catalogoexpress-builder-v1';
 let current={
@@ -73,6 +73,7 @@ $('add').addEventListener('click',()=>{
 $('download').addEventListener('click',()=>{
  try{
   pull();
+  requireRecipientForExport(current);
   const html=buildPage(current);
   download(html,'catalogoexpress-mi-negocio.html','text/html;charset=utf-8');
   notify('Archivo independiente descargado. Puedes publicarlo en tu propio hosting.');
@@ -80,8 +81,8 @@ $('download').addEventListener('click',()=>{
 });
 $('backup').addEventListener('click',()=>{
  try{
-  pull();const clean=validate(current);
-  download(JSON.stringify({schema:'catalogoexpress-backup-v1',catalog:clean},null,2),
+  pull();const backup=createBackup(current);
+  download(JSON.stringify(backup,null,2),
     'catalogoexpress-respaldo.json','application/json');
   notify('Configuración descargada.');
  }catch(e){notify(e.message,true);}
@@ -91,10 +92,7 @@ $('upload').addEventListener('change',async evt=>{
  try{
   if(file.size>1000000)throw Error('El archivo excede 1 MB');
   const imported=JSON.parse(await file.text());
-  if(imported.schema!=='catalogoexpress-backup-v1')throw Error('Formato de respaldo no compatible');
-  const validated=validate(imported.catalog);
-  current={name:validated.name,tagline:validated.tagline,phone:validated.wa,
-    items:validated.items.map(p=>({title:p.title,description:p.description,price:String(p.amount/100)}))};
+  current=restoreBackup(imported);
   $('businessName').value=current.name;$('tagline').value=current.tagline;$('phone').value=current.phone;
   redraw();preview();notify('Respaldo restaurado correctamente.');
  }catch(e){notify('No se pudo restaurar: '+e.message,true);}
