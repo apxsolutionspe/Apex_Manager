@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-19T14:28:24.968Z",
+  "updated_at": "2026-10-19T14:48:04.912Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -200,37 +200,22 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
-      "external_id": "49935155",
+      "external_id": "49960353",
       "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
       "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
       "evidence": "",
-      "source_created_at": "2026-10-02T16:09:12Z",
+      "source_created_at": "2026-10-05T03:24:38Z",
       "opp_type": "otro",
-      "score": 14,
+      "score": 15,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
     },
     {
       "source": "hackernews",
@@ -320,6 +305,441 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925526553",
+      "title": "Add a one-line demo note",
+      "url": "https://github.com/nhattung99/mergebounty-genlayer/issues/1",
+      "evidence": "## Required change 1. CI passes on the pull request. 2. The change includes tests for the modified behavior. 3. docs/bounty-demo.md contains exactly: MergeBounty demo note: this file was added for the studionet bounty.",
+      "source_created_at": "2026-10-19T14:14:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/nhattung99/mergebounty-genlayer/issues/1",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925460574",
+      "title": "[intake 输入]【测评报告】@furongjun1999/dsh-memory 0.9.6（标准测评：能力五状态=真有用 + 配对 A/B 读数 + 最新基线复验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1123",
+      "evidence": "【intake 输入】测评报告 —— 本件是**投稿测评**（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**；计分与档位由维护者裁定（marker 的 difficulty / impact 仅为 intake 格式字段）。**需维护者代打标签**：我方对目标站的权限实测为 `{\"admin\":false,\"maintain\":false,\"pull\":true,\"push\":false,\"triage\":false}`，无写权限。 ## 性质声明 - 被测对象：`@furongjun1999/dsh-memory` 0.9.6（灵枢 DSH 长期记忆插件），对应测评站条目 https://review.lingshulab.com/plugins/01a15224-9f41-7f78-af9a-052c8385f6dc 。 - 本件是**标准测评**（配对对照 + 统计判定 → 能力五状态），按测评站 https://review.lingshulab.com/spec 的口径收；**只给一个五状态判定，不给总分、不用星级、不排名**。 - 本件是 intake 输入（外部贡献申报），非悬赏：不 /claim、不加 bounty 标签；不含补丁 P",
+      "source_created_at": "2026-10-19T14:10:44Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1123",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925369601",
+      "title": "`check_plan.marker_of` 对**畸形标记静默跳过** ⇒ 与「没有标记」同形，`states_of` 静默降级到标签推导且 `declared` 可能由 True 变 False（输入坏被读成没声明）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1122",
+      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_plan.py` 的标记解析器对**坏 JSON 静默跳过**，而这个函数是「态」的判据来源： ```python 177| def marker_of(comments): 178| best = None 179| for body in comments or (): 180| for m in bb.MARKER_RE.finditer(body or \"\"): 181| try: 182| rec = json.loads(m.group(1)) 183| except ValueError: 184| continue # ← 坏 JSON 静默跳过 185| if isinstance(rec, dict) and rec.get(\"state\"): 186| if best is None or bb._seq(rec) >= bb._seq(best): 187| best = rec 188| return best or {} ... 194| de",
+      "source_created_at": "2026-10-19T14:05:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1122",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925369072",
+      "title": "`check_reviews_roleplay.checks(root)` 与 `check_reviews.py:430` **同形复制**：两处入口都收 `root` 而不用（同族复制）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1121",
+      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_reviews_roleplay.py` 与 `check_reviews.py` **完全同构**的入口形参： ```python 199| def checks(root): # 与 check_reviews.py:430 同一形态：root 不读，真正的根走返回的闭包 run(r) ``` ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP\"], \"audit-repos\", \"bs3\", \"scripts\", \"check_reviews_roleplay.py\") src = open(p, encoding=\"utf-8\").read() for fn in ast.walk(ast.parse(src)): if isinstance(fn, ast.FunctionDef) and fn.name == \"checks\": args = [a.arg for a",
+      "source_created_at": "2026-10-19T14:05:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1121",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925368742",
+      "title": "`check_reviews.checks(root)` 收下根却**不用**：真正的根由闭包 `run(r)` 接收，`--root` 被传了两次（修法：删掉入口形参）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1120",
+      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_reviews.py` 的判据入口收下 `root` 却不用： ```python 430| def checks(root): 431| ids = [\"R1\", \"R2\", ..., \"R14\"] 432| 433| def run(r): # ← 真正的根由**闭包** run(r) 接收 434| reviews = os.path.join(r, \"docs\", \"reviews\") ... 580| ids, run = checks(args.root) # ← 调用方把 args.root 传给 checks 585| red = run(args.root) # ← 又传一次给 run ``` **⇒ `checks(root)` 的 `root` 在函数体内**一次未读**；真正的根走 `run(r)`。** ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP",
+      "source_created_at": "2026-10-19T14:05:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1120",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925368036",
+      "title": "`review_build.render_method(recs)` 收下评审记录却**一次不读** ⇒ 「方法论」页成为与数据无关的静态页，而调用方仍在传 `recs`",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1119",
+      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 同一个文件里，`render_method(recs)` 收下 `recs`（评审记录）却不用： ```python 1151| def render_method(recs) -> ...: # 函数体内 recs 一次未出现 ``` **⇒ 它是「方法论」页的渲染器：签名说它按评审记录渲染，实现里没读那份记录。** ## 实测（AST 判定） 见上一条的 AST 输出：`render_method L1151 未读=['recs']`。 ## 为什么值得记一条 **与 `leaderboard(rubric)` 同族，但后果更具体：** **「方法论」页若**应当**随评审记录变化（例如列出「本批用了哪几条判据」）， 现在的实现让它成为一个**与数据无关的静态页**，而调用方仍在传 `recs`。** **⇒ 两条合起来看：`review_build.py` 的两个渲染入口都收下一个不用的数据形参 —— 说明这里的「数据驱动」在签名上是**承诺**、在实现上是**没有**。** #",
+      "source_created_at": "2026-10-19T14:05:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1119",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925366794",
+      "title": "`review_build.leaderboard(rubric)` 收下评分量表却**一次不读**：排行榜的排序口径与 `rubric` 无关（签名承诺了没有的判据输入）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1118",
+      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `review_build.py` 的排行榜生成器收下 `rubric` 却不用： ```python 782| def leaderboard(rubric) -> ...: # 函数体内 rubric 一次未出现 ``` ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP\"], \"audit-repos\", \"bs3\", \"scripts\", \"review_build.py\") src = open(p, encoding=\"utf-8\").read() for fn in ast.walk(ast.parse(src)): if isinstance(fn, ast.FunctionDef) and fn.name in (\"leaderboard\", \"render_method\"): args = [a.arg for a in fn.args.args] d = ast.dump",
+      "source_created_at": "2026-10-19T14:05:22Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1118",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925329352",
+      "title": "Community technical review: token, governance, reserves and LP ownership (no audit claim)",
+      "url": "https://github.com/Dracul-Cybersec/dracul-coin/issues/6",
+      "evidence": "## Purpose Invite transparent **independent community feedback** about Dracul Coin (DRAC), an experimental ERC-20 token on Base Mainnet. This is an open request for technical review, **not evidence that an independent third-party audit has occurred**, and **no bounty or payment is promised**. ## Verifiable references - [Transparency snapshot and reproducible RPC checks](https://github.com/Dracul-Cybersec/dracul-coin/blob/main/docs/TRANSPARENCY.md) — Base block 52,814,301 - [Verified DRAC token source](https://basescan.org/address/0xb193cFE2E4A8",
+      "source_created_at": "2026-10-19T14:03:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Dracul-Cybersec/dracul-coin/issues/6",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925290261",
+      "title": "Formal Escalation: Nine Days of Silence on Safe Passkey Security Report — Response Required",
+      "url": "https://github.com/safe-fndn/safe-smart-account/issues/1125",
+      "evidence": "Dear Safe Security Team, This message serves as a formal escalation regarding a security report I submitted on October 10, 2026. Nine days have passed since the report was submitted. Despite multiple follow-ups, I have received no acknowledgment of receipt, no status update, and no indication that anyone has even reviewed the report. This level of communication is unacceptable. The issue falls within the scope of your Bug Bounty Program. My report includes a detailed technical analysis, steps to reproduce the vulnerability locally, test results",
+      "source_created_at": "2026-10-19T14:00:43Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/safe-fndn/safe-smart-account/issues/1125",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925248671",
+      "title": "Railway 赏金：有 2 条值得抢",
+      "url": "https://github.com/HCTDIP/corps-jobs/issues/110",
+      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-19 13:58Z total=29 hot=2 new=0 [+4] Railpack: how to use a per-service config file path (nixpacksConfigPath ignored) 竞争低, 提问·配置型 [+4] HTTP 403 verifying a project-scoped API token 竞争低, 提问·配置型 ``` 详情: `reports/railway_bounty_latest.json`",
+      "source_created_at": "2026-10-19T13:58:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/110",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925095485",
+      "title": "A tone pass over commission I: names, jokes and the goose",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/323",
+      "evidence": "Artur, 19 Oct: the first commission's names, small jokes and vibe \"don't do it for me\". The goose \"is needlessly trying to be cute\", and the goose joke \"was extremely lame\", but the game \"needs something\". The art is a bright storybook (a jolly King, a ginger Baron in plum), so the words stay storybook too. Disney's Robin Hood, or a pantomime villain you boo, and nothing grim. The agreed draft is attached in the comment below. Mrs Pike, Sergeant Pike and the hedge witch work as they are. **Grimsby keeps his name.** ## What A pass over every wor",
+      "source_created_at": "2026-10-19T13:48:50Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/arturcrmbot/crown-and-bounty/issues/323",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925218579",
+      "title": "灵枢大脑区组件测评报告 · dsh-memory 0.9.6（5 组件功能验证）",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/564",
+      "evidence": "# 灵枢大脑区组件测评报告 · dsh-memory 0.9.6（5 组件功能验证） > 依据：工程协议手册 v1.1 §2/§3/§6/§13；`测试/协议/判定与证据链规范-v1.md`。 > 本件不是能力五状态：被测对象是库/运行时组件（md_cg / compiler / swarm / rust / hive），无「模型+工具 vs 裸模型」配对，按功能验证口径出结论。 ## 一、结论 | 组件 | 结果 | |---|---| | **swarm**（蜂群运行时） | **24/24 全过**（`swarm/tests/test_*.py` 逐一跑） | | **compiler**（中文编译器） | **31/31 全过**（`compiler/tests/test_*.py`） | | **hive**（蜂巢并发引擎） | `test_exec_cmd.py` **ALL_PASS（16 例）**；runner 中 hive 组其余红项均为环境（HIVE_EXE 未构建 / 短名可执行） | | **md_cg**（大脑本体） | runner 中 **628 PASS / 46 FAIL**（含全仓 scripts/hive/swarm 组），绝大多数失败为环境类；",
+      "source_created_at": "2026-10-19T13:56:18Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/564",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925214798",
+      "title": "epic(dark-factory): AgentArena — paid competition + bred hunt profiles",
+      "url": "https://github.com/Replikanti/agentis-colonies/issues/2317",
+      "evidence": "# Epic: dark-factory on AgentArena: paid competition + bred hunt profiles ## Why **AgentArena** (Nethermind) is a platform where independent audit agents compete on real smart-contract reviews and are paid on-chain for valid findings. Its mechanics, per the public docs: - **Task delivery.** A task arrives on the agent's registered webhook as `{task_id, task_repository_url, task_details_url, post_findings_url}`. - **Fetching the task.** The agent downloads the repo zip and the task details (`TaskResponse`: `selectedFiles`, `selectedDocs`, `addit",
+      "source_created_at": "2026-10-19T13:56:05Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Replikanti/agentis-colonies/issues/2317",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925728601",
+      "title": "Vendored skills: upstream updates available",
+      "url": "https://github.com/26zl/cybersec-toolkit/issues/125",
+      "evidence": "Weekly check found vendored skill sources that advanced past their pin (past the 3-day cooldown) or upstream skills not yet vendored. Re-vendoring is manual and reviewed (see AGENTS.md \"Skills (portable via sync)\"). After re-vendoring, bump the pin in SKILLS.md, THIRD_PARTY_NOTICES.md, scripts/update-skills.sh, and the re-vendored skills' upstream_commit frontmatter, then run `scripts/update-skills.sh --check-pins`. Full report ``` == pin consistency (offline) == OK: all 6 pins consistent across SKILLS.md + THIRD_PARTY_NOTICES.md + frontmatter ",
+      "source_created_at": "2026-10-19T14:26:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/26zl/cybersec-toolkit/issues/125",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925253945",
+      "title": "[intake 输入] dsh-mcp-manager-plus@0.4.4：管理 API 只校验 loopback，无 Origin / Sec-Fetch-Site / CSRF，跨站 `text/plain` POST 可写入任意 MCP `command`（RCE）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1112",
+      "evidence": "# [intake 输入] dsh-mcp-manager-plus@0.4.4：管理 API 只校验 loopback，无 Origin / Sec-Fetch-Site / CSRF，跨站 `text/plain` POST 可写入任意 MCP `command`（RCE） ## 0. 摘要 `dsh-mcp-manager-plus@0.4.4`（target `appthin/dsh-mcp-manager-plus`，commit `9a29d1a7fb76ccf32b8c987f9833f244b285cb0e`）在 `/mcp-manager-plus` 下注册管理 API，但只做 **loopback** 校验： - `lib/index.js:957-966` `isLoopback()` 只看 `req.socket.remoteAddress`； - `lib/index.js:939-955` `readJsonBody()` **不检查 Content-Type**，直接 `JSON.parse`； - `lib/index.js:1022-1075` 的 handler 对 `/save`、`/toggle`、`/remove`、`/restart`、`/",
+      "source_created_at": "2026-10-19T13:58:27Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1112",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925223929",
+      "title": "feat(dark-factory): AgentArena M1 — intake fetch and unpack: run-agentarena-intake.sh (details, repo zip, caps)",
+      "url": "https://github.com/Replikanti/agentis-colonies/issues/2326",
+      "evidence": "Part of #2317 (AgentArena, milestone M1). Depends on: #2325, #2323 **Lane:** SDLC flow (`/sdlc agentis-colonies `; sdlc-scout picks the tier). ## Done when - [ ] Consumes inbox/ .json; fetches TaskResponse and the repo zip with X-API-Key. - [ ] The key reaches the HTTP client via env/stdin/header file, never argv. - [ ] Unpacks only into $DARK_FACTORY_DIR/agentarena/ /; zip-slip guard (absolute paths, '..', escaping symlinks); size cap and file-count cap. - [ ] Offline hatch in the --bounties style: details and zip read from fixture files. - [ ",
+      "source_created_at": "2026-10-19T13:56:37Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Replikanti/agentis-colonies/issues/2326",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925189438",
+      "title": "[intake 输入] @mazov2love/dsh-remote-control@1.0.0：`dsh_other` 的 `settings` 操作可把远端会话权限改为 `danger-full-access`，无对端人工确认",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1109",
+      "evidence": "# [intake 输入] @mazov2love/dsh-remote-control@1.0.0：`dsh_other` 的 `settings` 操作可把远端会话权限改为 `danger-full-access`，无对端人工确认 ## 0. 摘要 `@mazov2love/dsh-remote-control@1.0.0`（target `mazov2love/dsh-remote-control`，commit `09b6abcc8a7212abebe45888da1b4f3d89ec5d0f`）的 `dsh_other` operation `settings` 接受 `permissionPreset`。`RemoteController.configure()` 只校验 id 在远端 `permissionPresets/catalog` 中，然后用 launch-token 换来的 cookie 执行 `commands/execute { line: \"/permission \" }`，**没有对端人工确认**。模型/prompt injection 可把远端会话从受限档位改为 `danger-full-access`，再用同一 cookie 发命令。 ## 1. ",
+      "source_created_at": "2026-10-19T13:54:32Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1109",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925109460",
+      "title": "commit-monitor: new leads 2026-10-19_1349Z",
+      "url": "https://github.com/ahmedfuzayl-gif/commit-monitor/issues/153",
+      "evidence": "# commit-monitor digest 2026-10-19_1349 38 configured target(s); 34 attempted; 9 coverage error(s). 1336 security-relevant commit lead(s), ranked: ## [17] [SECURITY FIX] disclosed-fix variant analysis — github:nextcloud/server `cfb3c4f99f` - **fix(encryption): clarify how to enable server-side encryption** - Nextcloud Vulnerability Disclosure · vdp · web · 2026-09-27T00:39:08Z · Josh - https://github.com/nextcloud/server/commit/cfb3c4f99f1fa5aae9cda989657ccec589af0922 - explicit security-fix signal: security - patch signal: fix - feature introd",
+      "source_created_at": "2026-10-19T13:49:41Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ahmedfuzayl-gif/commit-monitor/issues/153",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925895088",
+      "title": "[radar] SN open bounty 2026-10-19T14:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1312",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1597420 Stacker_Stocks 2 63 10000 18 25.7 9274 28708 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats! 1597978 Construction_and_Engineering 2 50 5000 1 1.7 9274 28708 top@Construction_and_Engineering OPEN_BOUNTY,LOW_COMP,FRESH Show Your Build Weekly #6: Post Your Proof-of-Work 🔨 ```",
+      "source_created_at": "2026-10-19T14:36:02Z",
+      "opp_type": "concurso",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1312",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5926092778",
+      "title": "[intake 输入] 【独立复核】@hyzyn/dsh-profile 0.2.9 Windows 真实 UI、新建/复制安装/改名/端口/删除及冷重启",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1134",
+      "evidence": "## 性质声明 固定版本的增量测评/独立复核，**不是首测**。AI协助执行及整理；不 /claim、不自行加bounty标签，medium/B仅申报建议，受理/计分由维护者裁定。三个插件分别一件；共享的405文件ZIP与准备工作**不作为三倍独立成果**，可按实际增量合并裁定。 ## 锚定、环境与基线 - `hyzyn/dsh-plugin-kit` @ `7363332f595b8112cb4b601f8723e6453043eb62`（2026-10-18T13:46:13Z），`packages/profile`，`@hyzyn/dsh-profile@0.2.9`。 - 官方tgz SHA256 `71102fc1c9bdabc58c548b1f8e884a94db8127b3d52e5adb33304004c8b5bddd`；registry SHA1/SHA512一致，每包9个发布文件与固定Git对账（package.json语义、其余原字节）。目标源码未改。 - Windows11 x64 / Node24.19.0 / DSH0.2.0-rc.2 / Chrome / Playwright1.64.1 / Python3.14.7。独立DSH_HOME/profil",
+      "source_created_at": "2026-10-19T14:47:46Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1134",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5926092202",
+      "title": "[intake 输入] 【独立复核】@hyzyn/dsh-mcp 0.3.6 Windows 真实 UI、stdio 工具注册 2→0→2、HMR 与冷重启",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1133",
+      "evidence": "## 性质声明 固定版本的增量测评/独立复核，**不是首测**。AI协助执行及整理；不 /claim、不自行加bounty标签，medium/B仅申报建议，受理/计分由维护者裁定。三个插件分别一件；共享的405文件ZIP与准备工作**不作为三倍独立成果**，可按实际增量合并裁定。 ## 锚定、环境与基线 - `hyzyn/dsh-plugin-kit` @ `7363332f595b8112cb4b601f8723e6453043eb62`（2026-10-18T13:46:13Z），`packages/mcp`，`@hyzyn/dsh-mcp@0.3.6`。 - 官方tgz SHA256 `8289bd13317367deb85eaa734ad9fe535af57b9e6e153ece781abc064d34aca9`；registry SHA1/SHA512一致，每包9个发布文件与固定Git对账（package.json语义、其余原字节）。目标源码未改。 - Windows11 x64 / Node24.19.0 / DSH0.2.0-rc.2 / Chrome / Playwright1.64.1 / Python3.14.7。独立DSH_HOME/profile/TEMP/c",
+      "source_created_at": "2026-10-19T14:47:44Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1133",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5926091660",
+      "title": "[intake 输入] 【测评报告/独立复核】@hyzyn/dsh-env 0.3.10 Windows 真实 UI 与进程对账：删除行后旧值残留（删除契约/建议 P2 待确认）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1132",
+      "evidence": "## 性质声明 固定版本的增量测评/独立复核，**不是首测**。AI协助执行及整理；不 /claim、不自行加bounty标签，medium/B仅申报建议，受理/计分由维护者裁定。三个插件分别一件；共享的405文件ZIP与准备工作**不作为三倍独立成果**，可按实际增量合并裁定。 ## 锚定、环境与基线 - `hyzyn/dsh-plugin-kit` @ `7363332f595b8112cb4b601f8723e6453043eb62`（2026-10-18T13:46:13Z），`packages/env`，`@hyzyn/dsh-env@0.3.10`。 - 官方tgz SHA256 `9a36c3f9a4aaa1e0de40a0de227159c97423b20a8251f6f4d585a7e7c7c5cb3c`；registry SHA1/SHA512一致，每包9个发布文件与固定Git对账（package.json语义、其余原字节）。目标源码未改。 - Windows11 x64 / Node24.19.0 / DSH0.2.0-rc.2 / Chrome / Playwright1.64.1 / Python3.14.7。独立DSH_HOME/profile/TEMP/",
+      "source_created_at": "2026-10-19T14:47:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1132",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925787211",
+      "title": "[intake 输入] 【测评报告】dsh-ffmpeg 0.5.0 标准测评（能力五状态=没啥差别 · 配对实验 D=0 · 自带 bash 使封装插件零增量）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1129",
+      "evidence": "【intake 输入】测评报告 —— 本件是**投稿测评**（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**；计分与档位由维护者裁定（marker 的 difficulty / impact 仅为 intake 格式字段）。 ## 性质声明 - 被测对象：`dsh-ffmpeg` 0.5.0，对应测评站条目 https://review.lingshulab.com/plugins/01a14f27-30d9-79b3-9cda-561ad8e46126 。 - 本件是**标准测评**（配对对照 + 统计判定 → 能力五状态），按 https://review.lingshulab.com/spec 的口径收；**只给一个五状态判定，不给总分、不用星级、不排名**。 - 已在测评站发布：https://review.lingshulab.com/reviews/01a1543c-1871-7324-823a-a0c8fd100523 - 提交本件的账号：**ybyz2**；被测对象作者为 **STARDUSTLC666**，二者不同 ⇒ 不构成自评。 - **仅 Linux（WSL2/Ubuntu）**：读数为单机单次，Windows / macOS",
+      "source_created_at": "2026-10-19T14:29:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1129",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925926007",
+      "title": "[intake 输入] [测评报告] dsh-deja 0.22.2：deja_recall 默认一次返回 1,017,292 字符（≈283k tokens），插件与宿主都不设上限（P1）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1131",
+      "evidence": "# [intake 输入] [test/Windows] dsh-deja 0.22.2：deja_recall 默认一次返回 1,017,292 字符（≈283k tokens），插件与宿主都不设上限（P1） ## 0. 摘要 对 `dsh-deja` **0.22.2** 做工具输出边界测评（Windows 11；直驱真实模块 `apply(ctx)` 与真实工具 `execute()`， 不接入模型、不起会话）。 这个插件把本机 41 个编程智能体已经写下的会话历史（Claude Code、Codex、Cursor 等）变成 DSH 可检索的记忆： 6 个工具 + 自动召回 + 一个浏览器备注条。 **结论：真有用，但有一条会让它在真实历史上直接不可用的缺陷。** 默认参数下 `deja_recall` 一次返回 **1,017,292 字符（≈282,581 tokens）**；`limit=20` 时 **1,627,498 字符（≈452,083 tokens）**。原因不是数据本身大，而是插件选了 `--json` 这个**不截断片段**的输出模式： 同一查询、同一份数据，deja 自己给 agent 的人读形态只有 **1,195 B**（片段按 `…` 截断），差 ",
+      "source_created_at": "2026-10-19T14:37:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1131",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5925795903",
+      "title": "[intake 输入] dsh-im-connect@1.0.8：群聊分支丢弃发送者白名单，群内任意陌生人可直接驱动本机 DSH agent（另：actor 未登记时任意群成员可代批）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1130",
+      "evidence": "# [intake 输入] dsh-im-connect@1.0.8：群聊分支丢弃发送者白名单，群内任意陌生人可直接驱动本机 DSH agent（另：actor 未登记时任意群成员可代批） ## 0. 摘要 `dsh-im-connect@1.0.8`（target `MichengAI/dsh-im-connect`，commit `617b079a6c156a343d81e6e9c5fc762a8844fc8a`）把「谁能驱动本机 DSH agent」的准入判定写错在群聊分支上： - `src/engine/access.ts:23` —— `decideAccess()` 对 `kind === 'group'` **直接**返回 `addressed === false ? 'ignore' : 'allow'`，`input.userAllowed` 在群聊分支里**从未被读取**； - 私聊分支（`access.ts:25`）才走 `userAllowed ? 'allow' : 'deny'`。 而 `gateway.ts:395-399` 把 `isAuthorized()` 的结果照常算出来传进 `decideAccess()`，群聊分支却把它丢掉。出厂默认 `al",
+      "source_created_at": "2026-10-19T14:30:05Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1130",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-19T14:28:24.968Z"
     },
     {
@@ -399,156 +819,6 @@
     },
     {
       "source": "github",
-      "external_id": "5925526553",
-      "title": "Add a one-line demo note",
-      "url": "https://github.com/nhattung99/mergebounty-genlayer/issues/1",
-      "evidence": "## Scope Add one new file only: docs/bounty-demo.md. ## Required change The file must contain exactly this sentence: MergeBounty demo note: this file was added for the studionet bounty. ## Out of scope Do not edit any other file. Do not add a dependency. Do not change application code.",
-      "source_created_at": "2026-10-19T14:14:26Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/nhattung99/mergebounty-genlayer/issues/1",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925460574",
-      "title": "[intake 输入]【测评报告】@furongjun1999/dsh-memory 0.9.6（标准测评：能力五状态=真有用 + 配对 A/B 读数 + 最新基线复验）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1123",
-      "evidence": "【intake 输入】测评报告 —— 本件是**投稿测评**（外部贡献申报），不是悬赏：**不 /claim、不自行加 bounty 标签**；计分与档位由维护者裁定（marker 的 difficulty / impact 仅为 intake 格式字段）。**需维护者代打标签**：我方对目标站的权限实测为 `{\"admin\":false,\"maintain\":false,\"pull\":true,\"push\":false,\"triage\":false}`，无写权限。 ## 性质声明 - 被测对象：`@furongjun1999/dsh-memory` 0.9.6（灵枢 DSH 长期记忆插件），对应测评站条目 https://review.lingshulab.com/plugins/01a15224-9f41-7f78-af9a-052c8385f6dc 。 - 本件是**标准测评**（配对对照 + 统计判定 → 能力五状态），按测评站 https://review.lingshulab.com/spec 的口径收；**只给一个五状态判定，不给总分、不用星级、不排名**。 - 本件是 intake 输入（外部贡献申报），非悬赏：不 /claim、不加 bounty 标签；不含补丁 P",
-      "source_created_at": "2026-10-19T14:10:44Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1123",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925369601",
-      "title": "`check_plan.marker_of` 对**畸形标记静默跳过** ⇒ 与「没有标记」同形，`states_of` 静默降级到标签推导且 `declared` 可能由 True 变 False（输入坏被读成没声明）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1122",
-      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_plan.py` 的标记解析器对**坏 JSON 静默跳过**，而这个函数是「态」的判据来源： ```python 177| def marker_of(comments): 178| best = None 179| for body in comments or (): 180| for m in bb.MARKER_RE.finditer(body or \"\"): 181| try: 182| rec = json.loads(m.group(1)) 183| except ValueError: 184| continue # ← 坏 JSON 静默跳过 185| if isinstance(rec, dict) and rec.get(\"state\"): 186| if best is None or bb._seq(rec) >= bb._seq(best): 187| best = rec 188| return best or {} ... 194| de",
-      "source_created_at": "2026-10-19T14:05:32Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1122",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925369072",
-      "title": "`check_reviews_roleplay.checks(root)` 与 `check_reviews.py:430` **同形复制**：两处入口都收 `root` 而不用（同族复制）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1121",
-      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_reviews_roleplay.py` 与 `check_reviews.py` **完全同构**的入口形参： ```python 199| def checks(root): # 与 check_reviews.py:430 同一形态：root 不读，真正的根走返回的闭包 run(r) ``` ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP\"], \"audit-repos\", \"bs3\", \"scripts\", \"check_reviews_roleplay.py\") src = open(p, encoding=\"utf-8\").read() for fn in ast.walk(ast.parse(src)): if isinstance(fn, ast.FunctionDef) and fn.name == \"checks\": args = [a.arg for a",
-      "source_created_at": "2026-10-19T14:05:30Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1121",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925368742",
-      "title": "`check_reviews.checks(root)` 收下根却**不用**：真正的根由闭包 `run(r)` 接收，`--root` 被传了两次（修法：删掉入口形参）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1120",
-      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `check_reviews.py` 的判据入口收下 `root` 却不用： ```python 430| def checks(root): 431| ids = [\"R1\", \"R2\", ..., \"R14\"] 432| 433| def run(r): # ← 真正的根由**闭包** run(r) 接收 434| reviews = os.path.join(r, \"docs\", \"reviews\") ... 580| ids, run = checks(args.root) # ← 调用方把 args.root 传给 checks 585| red = run(args.root) # ← 又传一次给 run ``` **⇒ `checks(root)` 的 `root` 在函数体内**一次未读**；真正的根走 `run(r)`。** ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP",
-      "source_created_at": "2026-10-19T14:05:29Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1120",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925368036",
-      "title": "`review_build.render_method(recs)` 收下评审记录却**一次不读** ⇒ 「方法论」页成为与数据无关的静态页，而调用方仍在传 `recs`",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1119",
-      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 同一个文件里，`render_method(recs)` 收下 `recs`（评审记录）却不用： ```python 1151| def render_method(recs) -> ...: # 函数体内 recs 一次未出现 ``` **⇒ 它是「方法论」页的渲染器：签名说它按评审记录渲染，实现里没读那份记录。** ## 实测（AST 判定） 见上一条的 AST 输出：`render_method L1151 未读=['recs']`。 ## 为什么值得记一条 **与 `leaderboard(rubric)` 同族，但后果更具体：** **「方法论」页若**应当**随评审记录变化（例如列出「本批用了哪几条判据」）， 现在的实现让它成为一个**与数据无关的静态页**，而调用方仍在传 `recs`。** **⇒ 两条合起来看：`review_build.py` 的两个渲染入口都收下一个不用的数据形参 —— 说明这里的「数据驱动」在签名上是**承诺**、在实现上是**没有**。** #",
-      "source_created_at": "2026-10-19T14:05:26Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1119",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925366794",
-      "title": "`review_build.leaderboard(rubric)` 收下评分量表却**一次不读**：排行榜的排序口径与 `rubric` 无关（签名承诺了没有的判据输入）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1118",
-      "evidence": "**锚定提交**：`00882dd7e613`（`FuRongJun-1999/dsh-bounty` 的 `main`，2026-10-19T13:18:15Z）。行号以此为准。 --- ## 现象 `review_build.py` 的排行榜生成器收下 `rubric` 却不用： ```python 782| def leaderboard(rubric) -> ...: # 函数体内 rubric 一次未出现 ``` ## 实测（AST 判定） ```python import os, ast p = os.path.join(os.environ[\"TEMP\"], \"audit-repos\", \"bs3\", \"scripts\", \"review_build.py\") src = open(p, encoding=\"utf-8\").read() for fn in ast.walk(ast.parse(src)): if isinstance(fn, ast.FunctionDef) and fn.name in (\"leaderboard\", \"render_method\"): args = [a.arg for a in fn.args.args] d = ast.dump",
-      "source_created_at": "2026-10-19T14:05:22Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1118",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925329352",
-      "title": "Community technical review: token, governance, reserves and LP ownership (no audit claim)",
-      "url": "https://github.com/Dracul-Cybersec/dracul-coin/issues/6",
-      "evidence": "## Purpose Invite transparent **independent community feedback** about Dracul Coin (DRAC), an experimental ERC-20 token on Base Mainnet. This is an open request for technical review, **not evidence that an independent third-party audit has occurred**, and **no bounty or payment is promised**. ## Verifiable references - [Transparency snapshot and reproducible RPC checks](https://github.com/Dracul-Cybersec/dracul-coin/blob/main/docs/TRANSPARENCY.md) — Base block 52,814,301 - [Verified DRAC token source](https://basescan.org/address/0xb193cFE2E4A8",
-      "source_created_at": "2026-10-19T14:03:05Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Dracul-Cybersec/dracul-coin/issues/6",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925290261",
-      "title": "Formal Escalation: Nine Days of Silence on Safe Passkey Security Report — Response Required",
-      "url": "https://github.com/safe-fndn/safe-smart-account/issues/1125",
-      "evidence": "Dear Safe Security Team, This message serves as a formal escalation regarding a security report I submitted on October 10, 2026. Nine days have passed since the report was submitted. Despite multiple follow-ups, I have received no acknowledgment of receipt, no status update, and no indication that anyone has even reviewed the report. This level of communication is unacceptable. The issue falls within the scope of your Bug Bounty Program. My report includes a detailed technical analysis, steps to reproduce the vulnerability locally, test results",
-      "source_created_at": "2026-10-19T14:00:43Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/safe-fndn/safe-smart-account/issues/1125",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925248671",
-      "title": "Railway 赏金：有 2 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/110",
-      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-19 13:58Z total=29 hot=2 new=0 [+4] Railpack: how to use a per-service config file path (nixpacksConfigPath ignored) 竞争低, 提问·配置型 [+4] HTTP 403 verifying a project-scoped API token 竞争低, 提问·配置型 ``` 详情: `reports/railway_bounty_latest.json`",
-      "source_created_at": "2026-10-19T13:58:08Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/110",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
       "external_id": "5924924123",
       "title": "[intake 输入] 【测评报告】dsh-myskin 0.4.1：Windows 官方 Web 界面生命周期补测（体验快测，无能力五状态）",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1100",
@@ -579,51 +849,6 @@
     },
     {
       "source": "github",
-      "external_id": "5925095485",
-      "title": "A tone pass over commission I: names, jokes and the goose",
-      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/323",
-      "evidence": "Artur, 19 Oct: the first commission's names, small jokes and vibe \"don't do it for me\". The goose \"is needlessly trying to be cute\", and the goose joke \"was extremely lame\", but the game \"needs something\". The art is a bright storybook (a jolly King, a ginger Baron in plum), so the words stay storybook too. Disney's Robin Hood, or a pantomime villain you boo, and nothing grim. The agreed draft is attached in the comment below. Mrs Pike, Sergeant Pike and the hedge witch work as they are. **Grimsby keeps his name.** ## What A pass over every wor",
-      "source_created_at": "2026-10-19T13:48:50Z",
-      "opp_type": "otro",
-      "score": 29,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/arturcrmbot/crown-and-bounty/issues/323",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925218579",
-      "title": "灵枢大脑区组件测评报告 · dsh-memory 0.9.6（5 组件功能验证）",
-      "url": "https://github.com/FuRongJun-1999/dsh-memory/issues/564",
-      "evidence": "# 灵枢大脑区组件测评报告 · dsh-memory 0.9.6（5 组件功能验证） > 依据：工程协议手册 v1.1 §2/§3/§6/§13；`测试/协议/判定与证据链规范-v1.md`。 > 本件不是能力五状态：被测对象是库/运行时组件（md_cg / compiler / swarm / rust / hive），无「模型+工具 vs 裸模型」配对，按功能验证口径出结论。 ## 一、结论 | 组件 | 结果 | |---|---| | **swarm**（蜂群运行时） | **24/24 全过**（`swarm/tests/test_*.py` 逐一跑） | | **compiler**（中文编译器） | **31/31 全过**（`compiler/tests/test_*.py`） | | **hive**（蜂巢并发引擎） | `test_exec_cmd.py` **ALL_PASS（16 例）**；runner 中 hive 组其余红项均为环境（HIVE_EXE 未构建 / 短名可执行） | | **md_cg**（大脑本体） | runner 中 **628 PASS / 46 FAIL**（含全仓 scripts/hive/swarm 组），绝大多数失败为环境类；",
-      "source_created_at": "2026-10-19T13:56:18Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-memory/issues/564",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925214798",
-      "title": "epic(dark-factory): AgentArena — paid competition + bred hunt profiles",
-      "url": "https://github.com/Replikanti/agentis-colonies/issues/2317",
-      "evidence": "# Epic: dark-factory on AgentArena: paid competition + bred hunt profiles ## Why **AgentArena** (Nethermind) is a platform where independent audit agents compete on real smart-contract reviews and are paid on-chain for valid findings. Its mechanics, per the public docs: - **Task delivery.** A task arrives on the agent's registered webhook as `{task_id, task_repository_url, task_details_url, post_findings_url}`. - **Fetching the task.** The agent downloads the repo zip and the task details (`TaskResponse`: `selectedFiles`, `selectedDocs`, `addit",
-      "source_created_at": "2026-10-19T13:56:05Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Replikanti/agentis-colonies/issues/2317",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
       "external_id": "5925041553",
       "title": "【intake 输入】dsh-memory 0.9.6 · `content_kind=code` 验证器不跑 forbidden 禁表 ⇒ 代码里夹带的 sk- 凭据以 ACCEPT 明文永久落盘、无令牌 guest 可读（附三臂对照＋守卫反转自证）",
       "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1103",
@@ -634,81 +859,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1103",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925728601",
-      "title": "Vendored skills: upstream updates available",
-      "url": "https://github.com/26zl/cybersec-toolkit/issues/125",
-      "evidence": "Weekly check found vendored skill sources that advanced past their pin (past the 3-day cooldown) or upstream skills not yet vendored. Re-vendoring is manual and reviewed (see AGENTS.md \"Skills (portable via sync)\"). After re-vendoring, bump the pin in SKILLS.md, THIRD_PARTY_NOTICES.md, scripts/update-skills.sh, and the re-vendored skills' upstream_commit frontmatter, then run `scripts/update-skills.sh --check-pins`. Full report ``` == pin consistency (offline) == OK: all 6 pins consistent across SKILLS.md + THIRD_PARTY_NOTICES.md + frontmatter ",
-      "source_created_at": "2026-10-19T14:26:04Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/26zl/cybersec-toolkit/issues/125",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925253945",
-      "title": "[P0] dsh-mcp-manager-plus@0.4.4：仅 loopback 无 Origin/CSRF，跨站 text/plain POST /save 写入任意 MCP command（RCE）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1112",
-      "evidence": "## 结论 `dsh-mcp-manager-plus@0.4.4`（target `appthin/dsh-mcp-manager-plus`，commit `9a29d1a7fb76ccf32b8c987f9833f244b285cb0e`）在 `/mcp-manager-plus` 下注册管理 API，但只做 **loopback** 校验： - `lib/index.js:957-966` `isLoopback()` 只看 `req.socket.remoteAddress`； - `lib/index.js:939-955` `readJsonBody()` **不检查 Content-Type**，直接 `JSON.parse`； - `lib/index.js:1022-1075` 的 handler 对 `/save`、`/toggle`、`/remove`、`/restart`、`/import` 只做 `isLoopback(req)`，没有 Origin / Host / Sec-Fetch-Site / CSRF token； - `/save` 调 `saveServer()`（`lib/index.js:636-688`），把 `input.comman",
-      "source_created_at": "2026-10-19T13:58:27Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1112",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925223929",
-      "title": "feat(dark-factory): AgentArena M1 — intake fetch and unpack: run-agentarena-intake.sh (details, repo zip, caps)",
-      "url": "https://github.com/Replikanti/agentis-colonies/issues/2326",
-      "evidence": "Part of #2317 (AgentArena, milestone M1). Depends on: #2325, #2323 **Lane:** SDLC flow (`/sdlc agentis-colonies `; sdlc-scout picks the tier). ## Done when - [ ] Consumes inbox/ .json; fetches TaskResponse and the repo zip with X-API-Key. - [ ] The key reaches the HTTP client via env/stdin/header file, never argv. - [ ] Unpacks only into $DARK_FACTORY_DIR/agentarena/ /; zip-slip guard (absolute paths, '..', escaping symlinks); size cap and file-count cap. - [ ] Offline hatch in the --bounties style: details and zip read from fixture files. - [ ",
-      "source_created_at": "2026-10-19T13:56:37Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Replikanti/agentis-colonies/issues/2326",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925189438",
-      "title": "[P0] dsh-remote-control@1.0.0：dsh_other settings 可把远端会话权限改为 danger-full-access，无对端人工确认",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1109",
-      "evidence": "## 结论 `@mazov2love/dsh-remote-control@1.0.0`（target `mazov2love/dsh-remote-control`，commit `09b6abcc8a7212abebe45888da1b4f3d89ec5d0f`）的 `dsh_other` operation `settings` 接受 `permissionPreset`。`RemoteController.configure()` 只校验 id 在远端 `permissionPresets/catalog` 中，然后用 launch-token 换来的 cookie 执行 `commands/execute { line: \"/permission \" }`，**没有对端人工确认**。模型/prompt injection 可把远端会话从受限档位改为 `danger-full-access`，再用同一 cookie 发命令。 ## 影响 - A3 远程控制面：远端会话权限提升，无对端审批；`scope: persistent-session`，会持续影响整个会话。 - 提升后同一 cookie 可继续 `send` / 操作，等于把对端已登录会话交给模型。 - 不需要对端用户",
-      "source_created_at": "2026-10-19T13:54:32Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1109",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5925109460",
-      "title": "commit-monitor: new leads 2026-10-19_1349Z",
-      "url": "https://github.com/ahmedfuzayl-gif/commit-monitor/issues/153",
-      "evidence": "# commit-monitor digest 2026-10-19_1349 38 configured target(s); 34 attempted; 9 coverage error(s). 1336 security-relevant commit lead(s), ranked: ## [17] [SECURITY FIX] disclosed-fix variant analysis — github:nextcloud/server `cfb3c4f99f` - **fix(encryption): clarify how to enable server-side encryption** - Nextcloud Vulnerability Disclosure · vdp · web · 2026-09-27T00:39:08Z · Josh - https://github.com/nextcloud/server/commit/cfb3c4f99f1fa5aae9cda989657ccec589af0922 - explicit security-fix signal: security - patch signal: fix - feature introd",
-      "source_created_at": "2026-10-19T13:49:41Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ahmedfuzayl-gif/commit-monitor/issues/153",
       "first_seen_at": "2026-10-19T14:28:24.968Z",
       "last_seen_at": "2026-10-19T14:28:24.968Z"
     },
@@ -739,51 +889,6 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T13:11:29.375Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T13:11:29.375Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T13:11:29.375Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-19T13:11:29.375Z"
     },
@@ -12130,6 +12235,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-19T14:48:04.912Z",
+      "generated_at": "2026-10-19T14:48:04.912Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 359
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 762
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 48,
+      "new_items": 7,
+      "seen_again": 41,
+      "archive_total": 815,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "2 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "48 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-19T14:28:24.968Z",
       "generated_at": "2026-10-19T14:28:24.968Z",
       "status": "ok",
@@ -15467,67 +15633,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T16:42:28.425Z",
-      "generated_at": "2026-10-15T16:42:28.425Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 353
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 64
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 334,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",

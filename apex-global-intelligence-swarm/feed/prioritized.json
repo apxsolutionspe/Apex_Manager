@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-19T14:28:25.758Z",
+  "generated_at": "2026-10-19T14:48:05.857Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 808,
+    "total_evaluated": 815,
     "investigar": 0,
-    "informativa": 774,
+    "informativa": 781,
     "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -1999,11 +1999,11 @@
     },
     {
       "source": "github",
-      "title": "Four random bounty hunters to choose from",
-      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/322",
-      "source_created_at": "2026-10-19T13:48:48Z",
+      "title": "epic(dark-factory): AgentArena — paid competition + bred hunt profiles",
+      "url": "https://github.com/Replikanti/agentis-colonies/issues/2317",
+      "source_created_at": "2026-10-19T13:56:05Z",
       "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -2023,9 +2023,33 @@
     },
     {
       "source": "github",
-      "title": "epic(dark-factory): AgentArena — paid competition + bred hunt profiles",
-      "url": "https://github.com/Replikanti/agentis-colonies/issues/2317",
-      "source_created_at": "2026-10-19T13:56:05Z",
+      "title": "[radar] SN open bounty 2026-10-19T14:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1312",
+      "source_created_at": "2026-10-19T14:36:02Z",
+      "first_seen_at": "2026-10-19T14:48:04.912Z",
+      "last_seen_at": "2026-10-19T14:48:04.912Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Four random bounty hunters to choose from",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/322",
+      "source_created_at": "2026-10-19T13:48:48Z",
       "first_seen_at": "2026-10-19T14:28:24.968Z",
       "last_seen_at": "2026-10-19T14:28:24.968Z",
       "status": "informativa",
@@ -3764,31 +3788,6 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1251",
-      "source_created_at": "2026-10-14T16:33:17Z",
-      "first_seen_at": "2026-10-14T16:33:24.786Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
