@@ -84,3 +84,55 @@ export function buildPage(raw){
     '<footer>Catálogo digital preparado con APEX PRIME X</footer><script>'+script+'</script></body></html>'
   ].join('');
 }
+
+// APEX reserves the public business WhatsApp for demonstrations.
+// Published catalogs created by third parties must provide their own number.
+export const DEMO_PHONE = '51931797758';
+export const BACKUP_SCHEMA = 'catalogoexpress-backup-v1';
+
+export function requireRecipientForExport(raw) {
+  const normalized = validate(raw);
+  if (normalized.wa === DEMO_PHONE && !/^apex\s*prime\s*x$/i.test(normalized.name)) {
+    throw Error('Antes de descargar, reemplaza el WhatsApp de demostración de APEX por el número de tu negocio.');
+  }
+  return normalized;
+}
+
+// Retain a portable configuration using the SAME keys consumed by validate().
+export function createBackup(raw) {
+  const clean = validate(raw);
+  return {
+    schema: BACKUP_SCHEMA,
+    catalog: {
+      name: clean.name, tagline: clean.tagline, phone: clean.wa,
+      items: clean.items.map(p => ({
+        title: p.title, description: p.description, price: String(p.amount / 100)
+      }))
+    }
+  };
+}
+
+// Recover both current backups and the old v1 format mistakenly exporting
+// {wa, items:[{amount}]} instead of {phone, items:[{price}]}.
+export function restoreBackup(input) {
+  if (!input || typeof input !== 'object' || input.schema !== BACKUP_SCHEMA ||
+      !input.catalog || typeof input.catalog !== 'object' || Array.isArray(input.catalog)) {
+    throw Error('Formato de respaldo no compatible');
+  }
+  const raw = input.catalog;
+  const fixed = {
+    name: raw.name, tagline: raw.tagline, phone: raw.phone ?? raw.wa,
+    items: Array.isArray(raw.items) ? raw.items.map(p => {
+      if (!p || typeof p !== 'object' || Array.isArray(p)) throw Error('Artículo inválido');
+      const fallback = Number.isSafeInteger(p.amount) ? String(p.amount / 100) : undefined;
+      return { title: p.title, description: p.description, price: p.price ?? fallback };
+    }) : raw.items
+  };
+  const clean = validate(fixed);
+  return {
+    name: clean.name, tagline: clean.tagline, phone: clean.wa,
+    items: clean.items.map(p => ({
+      title: p.title, description: p.description, price: String(p.amount / 100)
+    }))
+  };
+}
