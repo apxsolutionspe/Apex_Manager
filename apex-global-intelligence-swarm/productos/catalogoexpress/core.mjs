@@ -57,7 +57,7 @@ export function buildPage(raw){
     "lines.push('Total referencial: '+currency(total),'Confirmar disponibilidad, plazo y precio por favor.');",
     "window.open('https://wa.me/'+DATA.wa+'?text='+encodeURIComponent(lines.join('\\n')),'_blank','noopener,noreferrer');});",
     "redraw();"
-  ].join('\\n');
+  ].join('\n');
   const css=[
     '*{box-sizing:border-box}body{margin:0;background:#f3f7fa;color:#142b43;font:16px/1.5 system-ui,sans-serif}',
     'header{background:linear-gradient(120deg,#071a31,#15546a);color:white;padding:55px 22px}',
