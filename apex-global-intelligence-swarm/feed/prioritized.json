@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-19T21:28:57.199Z",
+  "generated_at": "2026-10-19T22:20:42.736Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 878,
+    "total_evaluated": 881,
     "investigar": 0,
-    "informativa": 843,
+    "informativa": 846,
     "descartar": 35,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -24,7 +24,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/22620",
       "source_created_at": "2026-10-19T18:39:20Z",
       "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -47,30 +47,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/22614",
       "source_created_at": "2026-10-19T18:31:29Z",
       "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(memory): normalize mixed naive and aware evidence timestamps when ordering capture devices ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22611",
-      "source_created_at": "2026-10-19T18:24:40Z",
-      "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -93,7 +70,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/22638",
       "source_created_at": "2026-10-19T20:35:51Z",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -116,6 +93,29 @@
       "url": "https://github.com/BasedHardware/omi/issues/22636",
       "source_created_at": "2026-10-19T20:31:53Z",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(memory): normalize mixed naive and aware evidence timestamps when ordering capture devices ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22611",
+      "source_created_at": "2026-10-19T18:24:40Z",
+      "first_seen_at": "2026-10-19T18:48:56.948Z",
       "last_seen_at": "2026-10-19T21:28:56.447Z",
       "status": "informativa",
       "priority": 90,
@@ -622,7 +622,7 @@
       "url": "https://github.com/freedom-winds/BountyScout/issues/1282",
       "source_created_at": "2026-10-19T19:00:07Z",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -647,7 +647,7 @@
       "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
       "source_created_at": "2026-10-19T21:21:29Z",
       "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2236,7 +2236,7 @@
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
       "source_created_at": "2026-10-19T20:31:57Z",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -2260,7 +2260,7 @@
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1620",
       "source_created_at": "2026-10-19T19:07:57Z",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -2284,7 +2284,7 @@
       "url": "https://github.com/cranebeaker/coop-anything/issues/61",
       "source_created_at": "2026-10-19T21:10:39Z",
       "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [

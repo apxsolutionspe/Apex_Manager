@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-19T21:28:56.447Z",
+  "updated_at": "2026-10-19T22:20:41.782Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "github",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/BasedHardware/omi/issues/22620",
       "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "github",
@@ -230,7 +230,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/BasedHardware/omi/issues/22614",
       "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931200859",
+      "title": "escrow: Implement automated stale-escrow keeper bounty and dormant capital reclamation (`StaleThresholdConfig`)",
+      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
+      "evidence": "### Problem / Architectural Context `StaleThresholdConfig`, `EscrowHealth`, and `EscrowHealthReport` in `core/contracts/escrow/src/lib.rs` (`health_check_test.rs`) identify stale/abandoned escrows, but rely on manual party intervention to settle expired escrows. Without an incentivized keeper reward (`keeper_bounty_bps`), abandoned escrows sit in persistent storage indefinitely. ### Technical Specification & Implementation Details 1. Extend `StaleThresholdConfig` with `keeper_bounty_bps: u32`, `max_keeper_bounty_cap: i128`, and `dormant_grace_n",
+      "source_created_at": "2026-10-19T20:39:45Z",
+      "opp_type": "bounty_codigo",
+      "score": 53,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931084422",
+      "title": "[radar] SN open bounty 2026-10-19T20:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1597420 Stacker_Stocks 2 63 10000 18 31.7 9274 28721 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats! 1597978 Construction_and_Engineering 2 50 5000 1 7.6 9274 28721 top@Construction_and_Engineering OPEN_BOUNTY,LOW_COMP Show Your Build Weekly #6: Post Your Proof-of-Work 🔨 ```",
+      "source_created_at": "2026-10-19T20:31:57Z",
+      "opp_type": "concurso",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1313",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5929872932",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1620",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-19 19:07 UTC #### 1. [AI payout policy: five merged contributions and GitHub-only administration](https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/77) - **Repository:** [angeloasante/Diaspora_AI_Visa_data](https://github.com/angeloasante/Diaspora_AI_Visa_data) - **Comments:** 1 - **Last Updated:** 2026-10-19T19:06:54Z #### 2. [[contract] Paginated bounty listing getter](https://github.com/DepRadarOrg/DepRadar/issues/114) - **Repository:** [DepRadarOrg/DepRadar](https://github.com",
+      "source_created_at": "2026-10-19T19:07:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1620",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5929755668",
+      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1282",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-19 19:00 UTC #### 1. [Require auth on `/api/collab` websocket upgrades](https://github.com/yosemite01/stellar-creator-portfolio/issues/1517) - **Repository:** [yosemite01/stellar-creator-portfolio](https://github.com/yosemite01/stellar-creator-portfolio) - **Comments:** 2 - **Last Updated:** 2026-10-19T18:57:22Z #### 2. [[radar] SN open bounty 2026-07-22T09:33](https://github.com/relayhop/sn-monetization-runtime/issues/201) - **Repository:** [relayhop/sn-monetization-runtime](https://github.",
+      "source_created_at": "2026-10-19T19:00:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1282",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931204439",
+      "title": "refund: Add Schelling-point minority vote slashing and coherent consensus rewards in `ArbitrationCaseDecided`",
+      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/222",
+      "evidence": "### Problem / Architectural Context `ArbitrationVoteCast`, `ArbitrationCaseDecided`, `ArbitrationFeesDistributed`, and `ArbitratorStakeSlashed` in `core/contracts/refund/src/lib.rs` (`test_arbitration_fees.rs`, `test_arbitration_stake.rs`) handle basic fee distribution and non-response slashing, but lack Schelling-point incentive alignment where jurors voting with the coherent supermajority earn the arbitration fee pool while outlier/colluding jurors who are overturned on appeal suffer graduated stake slashing. ### Technical Specification & Imp",
+      "source_created_at": "2026-10-19T20:40:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 43,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/222",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931143361",
+      "title": "[Bounty proposal] fix(conversations): normalize mixed naive, aware, and ISO timestamps in find_neighbor ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22638",
+      "evidence": "### Summary `find_neighbor` in `backend/utils/conversations/relevance.py` compares and subtracts `started_at` and `finished_at` against candidate conversation rows (`other_end = finished_at`, `(other_start - finished_at).total_seconds()`) without normalizing timezone awareness, and requires candidate timestamps to be `datetime` instances (silently dropping ISO-8601 strings). Furthermore, in `decide_relevance` (`backend/utils/conversations/relevance.py:347`), `adjacent = neighbor()` is called inside `nano_decision()` **before** the `try:` block.",
+      "source_created_at": "2026-10-19T20:35:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/22638",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931083290",
+      "title": "[Bounty proposal] fix(calendar): normalize naive dateTime strings and guard None values in parse_event_times ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22636",
+      "evidence": "### Summary `parse_event_times(event)` in `backend/utils/conversations/calendar_utils.py` parses `start['dateTime']` and `end['dateTime']` via `datetime.fromisoformat(str(start['dateTime']).replace('Z', '+00:00'))` without normalizing timezone-naive datetimes to UTC, while all-day `date` events are constructed with `+00:00` (offset-aware UTC). When a Google Calendar feed contains a floating-time or ICS-imported event whose `start.dateTime` / `end.dateTime` lacks a UTC offset (e.g. `\"2026-08-18T19:30:00\"`), `parse_event_times` returns offset-nai",
+      "source_created_at": "2026-10-19T20:31:53Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/22636",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931253674",
+      "title": "Railway 赏金：有 3 条值得抢",
+      "url": "https://github.com/HCTDIP/corps-jobs/issues/111",
+      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-19 20:43Z total=29 hot=1 new=2 🆕 Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia 🆕 MongoDB 8.0 fails to start on kernel 6.19+ (europe-west4-drams3a region) [+4] Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia 竞争低, 提问·配置型 ``` 详情: `reports/railway_bounty_latest.json`",
+      "source_created_at": "2026-10-19T20:43:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/111",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5930656671",
+      "title": "Let assignees see private team bounties they are assigned to",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/451",
+      "evidence": "## Problem Only the creator, admins and team members can see a private bounty. Assignees are left out of all three copies of that rule: - `canViewPrivateBounty` in `routes/bounties.js` - the visibility filter in `GET /` in `routes/bounties.js` - `getBroadcastRecipients` in `utils/bountyHelpers.js` `POST /:id/assignees` does not require team membership, so a hunter outside a private team can be assigned to one of its bounties. That assignee then: - gets 404 on the bounty page (`GET /:id`), the assignee list (`GET /:id/assignees`) and the chat pa",
+      "source_created_at": "2026-10-19T20:02:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ZecHub/zec-bounties/issues/451",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931235254",
+      "title": "fix(backend): normalize naive/aware/ISO timestamps in smart_merge_policy and smart_merge_state",
+      "url": "https://github.com/BasedHardware/omi/issues/22641",
+      "evidence": "## Summary `backend/utils/conversations/smart_merge_policy.py` and `backend/utils/conversations/smart_merge_state.py` perform direct `<`, `max()`, `-`, and `.timestamp()` operations on `started_at`, `finished_at`, and `created_at` values from conversation rows and `smart_merge.fragments` ledger entries without normalizing timezone awareness or ISO-8601 string values. When legacy conversation rows, deserialized `smart_merge.fragments` ledger entries, or test/adapter fixtures mix offset-naive UTC `datetime`s, offset-aware `datetime`s, or ISO-8601",
+      "source_created_at": "2026-10-19T20:42:13Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/22641",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931211898",
+      "title": "refund: Add standby backup arbitrator auto-substitution on `ArbitrationTimedOut` (`test_arbitration_timeout.rs`)",
+      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/233",
+      "evidence": "### Problem / Architectural Context When an assigned arbitrator fails to cast a vote before the case deadline (`ArbitrationTimedOut` in `core/contracts/refund/src/test_arbitration_timeout.rs`), simply defaulting the outcome or restarting arbitration from scratch penalizes the disputing parties with double wait times. ### Technical Specification & Implementation Details 1. At arbitration escalation (`RefundEscalatedToArbitration`), select `panel_size` primary arbitrators plus `2` ranked standby reserve arbitrators. 2. Allow standby arbitrators t",
+      "source_created_at": "2026-10-19T20:40:33Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/233",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931506741",
+      "title": "docs: an AI contribution policy, and intake that keeps strangers' text away from the agents",
+      "url": "https://github.com/those-who-run/those-who-run/issues/359",
+      "evidence": "Labels: `documentation`, `stream: health` · Milestone: 0.7.5 Docs and guardrails · Size: S · Severity: Medium ## Summary `CONTRIBUTING.md` (org-wide, in `those-who-run/.github`) gains a short section on AI-assisted contributions: say so, you are responsible for every line, no unreviewed generated PRs or reports, and the maintainer may close those without review. The repository's issue templates gain a `config.yml` that turns off blank issues, and every new issue from a template gets a `needs triage` label, which the agents treat as \"not yet a s",
+      "source_created_at": "2026-10-19T21:01:32Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/those-who-run/those-who-run/issues/359",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931486643",
+      "title": "Remove the cheap top-level item merchants from the capitals (before remote play, #41)",
+      "url": "https://github.com/lometur/HearthDAoC/issues/141",
+      "evidence": "The capitals have upstream \"Item Merchant\" NPCs that sell top-level gear for a gold or two. The owner doesn't want them at all, or anything like them. They must be gone before players from outside the LAN join (#41). ## What they are In the clean 0.37b classic world, 13 NPCs in the guild \"Item Merchant\" (class `DOL.GS.GameMerchant`, paid in coin): | Capital | NPC | Merchant list | Sells | |---|---|---|---| | Camelot (region 10) | Albion Armor | `OrbsAlbionArmor` | 97 items, level 50-51, 1-2 gold each | | | Albion Magical | `OrbsAlbionMagical` |",
+      "source_created_at": "2026-10-19T21:00:02Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/lometur/HearthDAoC/issues/141",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931233247",
+      "title": "Triage Board (auto-updated daily — pin me)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/940",
+      "evidence": "# Triage Board Generated 2026-10-19 21:56 UTC by `tools/triage_bot.py scan` — review-first automation. The bot never merges and never closes. Buckets: `CONFLICTS` x2, `PARKED-DRAFT` x5, `PARKED-WILDCARD` x27, `STALE-BASE` x147. ## Pareto NOW (top 12) _none this pass — run recon on the RECON bucket_ ## Land-candidates (rest) _none_ ## Conflicts vs main | PR | title | author | age | +lines | files | tests | behind | score | action | |---|---|---|---|---|---|---|---|---|---| | #870 | fix(hy-emit): quote interpolated printf formats as Go strings | ",
+      "source_created_at": "2026-10-19T20:42:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/940",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931112079",
+      "title": "[wildcard] Kill the human-written repro: a self-submitting soundness pipeline (grammar fuzz → accept-gate → emit → go build → shrink → auto-file)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/939",
+      "evidence": "### The idea, in a paragraph Hybrid already owns every piece of a machine bug-hunter except the machine. A grammar-driven generator can synthesize well-formed `.hy` programs by the million; `hyb check` filters the ones it ACCEPTS; the emitter lowers them; `go build` is an independent oracle that requires zero trust in our own code; a delta-debugging shrinker reduces any accepted-but-unbuildable program to a minimal repro automatically. Chain those five stages and the Tier-0 BUILDABLE guarantee stops depending on humans noticing violations: ever",
+      "source_created_at": "2026-10-19T20:33:45Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/939",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5930519615",
+      "title": "[BUG FIX proposal] SA → GB: classify tourist travel as ETA, not eVisa",
+      "url": "https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/82",
+      "evidence": "AI disclosure: this is an AI-researched and reviewed proposal on behalf of the account owner, who resides in Saudi Arabia. No separate human technical review is claimed. ## Concrete correction In `data/passport-requirements/SA.json`, blob `88d90068f04a0e23303a72d1b6d2ebcdf338e4ac`, the route whose `to.code` is `GB` currently has `visa.policy: \"evisa\"` and `visa.evisa: true`. For an ordinary Saudi passport holder making a tourist visit, the applicable category is normally ETA, subject to exemptions. The repository schema already supports `eta`. ",
+      "source_created_at": "2026-10-19T19:52:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/angeloasante/Diaspora_AI_Visa_data/issues/82",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49788625",
+      "title": "Using TypeSafe AI in Bug Bounty",
+      "url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
+      "evidence": "",
+      "source_created_at": "2026-09-21T15:34:32Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49785135",
+      "title": "Intel Ends Its $100k Bug Bounty Program",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "evidence": "",
+      "source_created_at": "2026-09-21T09:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49776572",
+      "title": "Real attackers don't think in bug bounty scopes",
+      "url": "https://rushter.com/blog/security-bb-and-scopes/",
+      "evidence": "",
+      "source_created_at": "2026-09-20T15:04:26Z",
+      "opp_type": "bug_bounty",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762647",
+      "title": "Let's Fix Bug Bounty",
+      "url": "https://fixbugbounty.com/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T02:15:27Z",
+      "opp_type": "bug_bounty",
+      "score": 19,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "fixbugbounty.com",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931769972",
+      "title": "MCP / WebMCP edge cases: v2-era ids get calldata for a different bounty, + 19 more (report)",
+      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
+      "evidence": "For the \"test POIDH webmcp + mcp\" bounty (Base #1495), I ran read-only and dry-run tests against `https://poidh.xyz/api/mcp` (all 11 tools), the 9 WebMCP tools on poidh.xyz, and the `/tx` approval links on mainnet, Base and Arbitrum, checking results against `/data` and on-chain `eth_call`. Nothing was signed or sent. Full report (20 findings, each with the exact request, actual vs expected, and a one-line fix): https://gist.github.com/swiftbotlab/8a54c53ae629698214d5ba0cd22c92b6 The ones most worth fixing first: 1. **v2-era ids get v3 calldata",
+      "source_created_at": "2026-10-19T21:21:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/picsoritdidnthappen/poidh-app/issues/1584",
+      "first_seen_at": "2026-10-19T21:26:09.258Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931630233",
+      "title": "Claim: King's Bounty: Crossworlds",
+      "url": "https://github.com/cranebeaker/coop-anything/issues/61",
+      "evidence": "### Game King's Bounty: Crossworlds (King's Bounty: Перекрёстки миров), Steam App 63910. ### Plan Research first, then choose between enabling any existing engine networking and implementing campaign co-op. No ready-made co-op attempt has surfaced yet. The inspected Steam build contains Winsock imports and TheEngine client/server symbols, but its default config labels the endpoint as `debug_server`; this is not evidence of playable multiplayer. The same engine powered Fantasy Wars and Elven Legacy multiplayer, which may provide a comparison tar",
+      "source_created_at": "2026-10-19T21:10:39Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/cranebeaker/coop-anything/issues/61",
+      "first_seen_at": "2026-10-19T21:26:09.258Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931611007",
+      "title": "Remove Atlas ROGs (random generated magic items) from loot and rewards: stay in period",
+      "url": "https://github.com/lometur/HearthDAoC/issues/143",
+      "evidence": "The owner (2026-10-19): \"we will not use Atlas ROGs. we will try to stay in period as best we can.\" ROGs are Atlas's random magic items: an item made on the spot for the player's class, with random stats (`source/server/GameServer/Managers/RandomObjectGeneration/`: `AtlasROGManager`, `AtlasMobLoot.cs`'s `ROGMobGenerator`, `GeneratedUniqueItem`). They are not 1.65. Related: #141 (cheap gear merchants), #142 (Darkness Falls seal merchants). ## Where they come from (code at main 5b5577a, clean 0.37b world) 1. **Monster loot, everywhere:** the worl",
+      "source_created_at": "2026-10-19T21:09:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/lometur/HearthDAoC/issues/143",
+      "first_seen_at": "2026-10-19T21:26:09.258Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5931746343",
+      "title": "Game crashes when looting bodies",
+      "url": "https://github.com/GrayFace/MMExtension/issues/21",
+      "evidence": "Hi! I'm running MM8.Patch.v2.5.7. When I try to collect the loot from the bodies of a newer monster (one that's named in bounties, like a Vampire or Sorcerer), the game crashes. I can fight the mobs and kill them, but if I click on the bodies the game dies.",
+      "source_created_at": "2026-10-19T21:19:35Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/GrayFace/MMExtension/issues/21",
+      "first_seen_at": "2026-10-19T21:26:09.258Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49762468",
+      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
+      "url": "https://words.filippo.io/seeds-bounty/",
+      "evidence": "",
+      "source_created_at": "2026-09-19T01:34:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 22,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "words.filippo.io/seeds-bounty",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49760509",
+      "title": "Intel Appears to End Its Bug Bounty Program",
+      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "evidence": "",
+      "source_created_at": "2026-09-18T21:29:33Z",
+      "opp_type": "bug_bounty",
+      "score": 19,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "evidence": "",
+      "source_created_at": "2026-09-16T16:32:41Z",
+      "opp_type": "otro",
+      "score": 9,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49721998",
+      "title": "Bug Bounty Operating Principles",
+      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "evidence": "",
+      "source_created_at": "2026-09-16T04:12:21Z",
+      "opp_type": "bug_bounty",
+      "score": 17,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
+      "first_seen_at": "2026-10-13T18:26:40.272Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50156779",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com/",
+      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
+      "source_created_at": "2026-10-19T19:21:56Z",
+      "opp_type": "otro",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "dovepass.com",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49853122",
+      "title": "Music for 18 Bouncy Balls",
+      "url": "https://ianbutterworth.github.io/18-bouncy-balls/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T04:11:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5930945117",
+      "title": "Contract details do not display",
+      "url": "https://github.com/ROAM-game-org/road-machiners/issues/812",
+      "evidence": "Bug: I spawned in a migrated world, massive group shootout between npcs around me Also in general npc spawns should be spread out across locations AND time so they are not like 20 cars in one place Bug: contract doesnt display bot, where is the pathing fix? Pathing is ridicolously risk averse right now and for fucks sake I reported it long ago bug: car magically drawn over dust Hermes notes This card owns the missing contract display only. The attached screenshot shows a Contracts panel containing by Day 2 18:05 but no visible contract details.",
+      "source_created_at": "2026-10-19T20:22:03Z",
+      "opp_type": "otro",
+      "score": 29,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ROAM-game-org/road-machiners/issues/812",
+      "first_seen_at": "2026-10-19T22:20:41.782Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5932031104",
+      "title": "[Bug]: #172975 (held deleted-agent schema fix) missing from 2026.10.5 stable — update still leaves Gateway offline",
+      "url": "https://github.com/openclaw/openclaw/issues/177758",
+      "evidence": "### Bug type Behavior bug (incorrect output/state without crash) ### Beta release blocker No ### Summary The fix for #172740 (PR #172975, merged to `main` 2026-10-15) is not in the `2026.10.5` stable release (published 2026-10-18), and it isn't in `2026.10.10-beta.2` either. Updating 2026.10.4 → 2026.10.5 on a host with deleted agents whose databases are `retained-by-deletion` still fails post-activation with `state-migrated-no-rollback` and leaves the Gateway stopped. Separately, the Control UI \"Update Gateway\" dialog never showed the failure.",
+      "source_created_at": "2026-10-19T21:41:51Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/openclaw/openclaw/issues/177758",
+      "first_seen_at": "2026-10-19T22:20:41.782Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5932459146",
+      "title": "[player eu46ho] Imperials left their Death Star(s) (plural intentionally) VERY undefended making",
+      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/814",
+      "evidence": "**What happened** Imperials left their Death Star(s) (plural intentionally) VERY undefended making it easy to target them and blow both of them up. Fun for me, but too easy. I would suggest TIEs be used in mass (4 at least) to defend Death Stars in the future. **Reporter played: Rebel** (AI: Empire) --- **Build / context** - humanSide: `Rebel` (AI: `Empire`) - userAgent: `Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36` - canEncodeState: `true` - build: `84b8e58` - gameId: `g",
+      "source_created_at": "2026-10-19T22:17:42Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/johnchampaign/star-wars-rebellion/issues/814",
+      "first_seen_at": "2026-10-19T22:20:41.782Z",
+      "last_seen_at": "2026-10-19T22:20:41.782Z"
     },
     {
       "source": "github",
@@ -264,246 +759,6 @@
     },
     {
       "source": "github",
-      "external_id": "5931200859",
-      "title": "escrow: Implement automated stale-escrow keeper bounty and dormant capital reclamation (`StaleThresholdConfig`)",
-      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
-      "evidence": "### Problem / Architectural Context `StaleThresholdConfig`, `EscrowHealth`, and `EscrowHealthReport` in `core/contracts/escrow/src/lib.rs` (`health_check_test.rs`) identify stale/abandoned escrows, but rely on manual party intervention to settle expired escrows. Without an incentivized keeper reward (`keeper_bounty_bps`), abandoned escrows sit in persistent storage indefinitely. ### Technical Specification & Implementation Details 1. Extend `StaleThresholdConfig` with `keeper_bounty_bps: u32`, `max_keeper_bounty_cap: i128`, and `dormant_grace_n",
-      "source_created_at": "2026-10-19T20:39:45Z",
-      "opp_type": "bounty_codigo",
-      "score": 50,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/217",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931084422",
-      "title": "[radar] SN open bounty 2026-10-19T20:31",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1313",
-      "evidence": "New SN OPEN_BOUNTY detected: ``` 1597420 Stacker_Stocks 2 63 10000 18 31.7 9274 28721 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats! 1597978 Construction_and_Engineering 2 50 5000 1 7.6 9274 28721 top@Construction_and_Engineering OPEN_BOUNTY,LOW_COMP Show Your Build Weekly #6: Post Your Proof-of-Work 🔨 ```",
-      "source_created_at": "2026-10-19T20:31:57Z",
-      "opp_type": "concurso",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1313",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5929872932",
-      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1620",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-19 19:07 UTC #### 1. [AI payout policy: five merged contributions and GitHub-only administration](https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/77) - **Repository:** [angeloasante/Diaspora_AI_Visa_data](https://github.com/angeloasante/Diaspora_AI_Visa_data) - **Comments:** 1 - **Last Updated:** 2026-10-19T19:06:54Z #### 2. [[contract] Paginated bounty listing getter](https://github.com/DepRadarOrg/DepRadar/issues/114) - **Repository:** [DepRadarOrg/DepRadar](https://github.com",
-      "source_created_at": "2026-10-19T19:07:57Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1620",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5929755668",
-      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1282",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-19 19:00 UTC #### 1. [Require auth on `/api/collab` websocket upgrades](https://github.com/yosemite01/stellar-creator-portfolio/issues/1517) - **Repository:** [yosemite01/stellar-creator-portfolio](https://github.com/yosemite01/stellar-creator-portfolio) - **Comments:** 2 - **Last Updated:** 2026-10-19T18:57:22Z #### 2. [[radar] SN open bounty 2026-07-22T09:33](https://github.com/relayhop/sn-monetization-runtime/issues/201) - **Repository:** [relayhop/sn-monetization-runtime](https://github.",
-      "source_created_at": "2026-10-19T19:00:07Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1282",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931204439",
-      "title": "refund: Add Schelling-point minority vote slashing and coherent consensus rewards in `ArbitrationCaseDecided`",
-      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/222",
-      "evidence": "### Problem / Architectural Context `ArbitrationVoteCast`, `ArbitrationCaseDecided`, `ArbitrationFeesDistributed`, and `ArbitratorStakeSlashed` in `core/contracts/refund/src/lib.rs` (`test_arbitration_fees.rs`, `test_arbitration_stake.rs`) handle basic fee distribution and non-response slashing, but lack Schelling-point incentive alignment where jurors voting with the coherent supermajority earn the arbitration fee pool while outlier/colluding jurors who are overturned on appeal suffer graduated stake slashing. ### Technical Specification & Imp",
-      "source_created_at": "2026-10-19T20:40:01Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/222",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931143361",
-      "title": "[Bounty proposal] fix(conversations): normalize mixed naive, aware, and ISO timestamps in find_neighbor ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22638",
-      "evidence": "### Summary `find_neighbor` in `backend/utils/conversations/relevance.py` compares and subtracts `started_at` and `finished_at` against candidate conversation rows (`other_end = finished_at`, `(other_start - finished_at).total_seconds()`) without normalizing timezone awareness, and requires candidate timestamps to be `datetime` instances (silently dropping ISO-8601 strings). Furthermore, in `decide_relevance` (`backend/utils/conversations/relevance.py:347`), `adjacent = neighbor()` is called inside `nano_decision()` **before** the `try:` block.",
-      "source_created_at": "2026-10-19T20:35:51Z",
-      "opp_type": "bounty_codigo",
-      "score": 42,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/22638",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931083290",
-      "title": "[Bounty proposal] fix(calendar): normalize naive dateTime strings and guard None values in parse_event_times ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22636",
-      "evidence": "### Summary `parse_event_times(event)` in `backend/utils/conversations/calendar_utils.py` parses `start['dateTime']` and `end['dateTime']` via `datetime.fromisoformat(str(start['dateTime']).replace('Z', '+00:00'))` without normalizing timezone-naive datetimes to UTC, while all-day `date` events are constructed with `+00:00` (offset-aware UTC). When a Google Calendar feed contains a floating-time or ICS-imported event whose `start.dateTime` / `end.dateTime` lacks a UTC offset (e.g. `\"2026-08-18T19:30:00\"`), `parse_event_times` returns offset-nai",
-      "source_created_at": "2026-10-19T20:31:53Z",
-      "opp_type": "bounty_codigo",
-      "score": 42,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/22636",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931253674",
-      "title": "Railway 赏金：有 3 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/111",
-      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-19 20:43Z total=29 hot=1 new=2 🆕 Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia 🆕 MongoDB 8.0 fails to start on kernel 6.19+ (europe-west4-drams3a region) [+4] Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia 竞争低, 提问·配置型 ``` 详情: `reports/railway_bounty_latest.json`",
-      "source_created_at": "2026-10-19T20:43:32Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/111",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5930656671",
-      "title": "Let assignees see private team bounties they are assigned to",
-      "url": "https://github.com/ZecHub/zec-bounties/issues/451",
-      "evidence": "## Problem Only the creator, admins and team members can see a private bounty. Assignees are left out of all three copies of that rule: - `canViewPrivateBounty` in `routes/bounties.js` - the visibility filter in `GET /` in `routes/bounties.js` - `getBroadcastRecipients` in `utils/bountyHelpers.js` `POST /:id/assignees` does not require team membership, so a hunter outside a private team can be assigned to one of its bounties. That assignee then: - gets 404 on the bounty page (`GET /:id`), the assignee list (`GET /:id/assignees`) and the chat pa",
-      "source_created_at": "2026-10-19T20:02:04Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ZecHub/zec-bounties/issues/451",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931235254",
-      "title": "fix(backend): normalize naive/aware/ISO timestamps in smart_merge_policy and smart_merge_state",
-      "url": "https://github.com/BasedHardware/omi/issues/22641",
-      "evidence": "## Summary `backend/utils/conversations/smart_merge_policy.py` and `backend/utils/conversations/smart_merge_state.py` perform direct `<`, `max()`, `-`, and `.timestamp()` operations on `started_at`, `finished_at`, and `created_at` values from conversation rows and `smart_merge.fragments` ledger entries without normalizing timezone awareness or ISO-8601 string values. When legacy conversation rows, deserialized `smart_merge.fragments` ledger entries, or test/adapter fixtures mix offset-naive UTC `datetime`s, offset-aware `datetime`s, or ISO-8601",
-      "source_created_at": "2026-10-19T20:42:13Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/22641",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931211898",
-      "title": "refund: Add standby backup arbitrator auto-substitution on `ArbitrationTimedOut` (`test_arbitration_timeout.rs`)",
-      "url": "https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/233",
-      "evidence": "### Problem / Architectural Context When an assigned arbitrator fails to cast a vote before the case deadline (`ArbitrationTimedOut` in `core/contracts/refund/src/test_arbitration_timeout.rs`), simply defaulting the outcome or restarting arbitration from scratch penalizes the disputing parties with double wait times. ### Technical Specification & Implementation Details 1. At arbitration escalation (`RefundEscalatedToArbitration`), select `panel_size` primary arbitrators plus `2` ranked standby reserve arbitrators. 2. Allow standby arbitrators t",
-      "source_created_at": "2026-10-19T20:40:33Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/johnephraim949-web/cypher-gridpay-contracts/issues/233",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931506741",
-      "title": "docs: an AI contribution policy, and intake that keeps strangers' text away from the agents",
-      "url": "https://github.com/those-who-run/those-who-run/issues/359",
-      "evidence": "Labels: `documentation`, `stream: health` · Milestone: 0.7.5 Docs and guardrails · Size: S · Severity: Medium ## Summary `CONTRIBUTING.md` (org-wide, in `those-who-run/.github`) gains a short section on AI-assisted contributions: say so, you are responsible for every line, no unreviewed generated PRs or reports, and the maintainer may close those without review. The repository's issue templates gain a `config.yml` that turns off blank issues, and every new issue from a template gets a `needs triage` label, which the agents treat as \"not yet a s",
-      "source_created_at": "2026-10-19T21:01:32Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/those-who-run/those-who-run/issues/359",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931486643",
-      "title": "Remove the cheap top-level item merchants from the capitals (before remote play, #41)",
-      "url": "https://github.com/lometur/HearthDAoC/issues/141",
-      "evidence": "The capitals have upstream \"Item Merchant\" NPCs that sell top-level gear for a gold or two. The owner doesn't want them at all, or anything like them. They must be gone before players from outside the LAN join (#41). ## What they are In the clean 0.37b classic world, 13 NPCs in the guild \"Item Merchant\" (class `DOL.GS.GameMerchant`, paid in coin): | Capital | NPC | Merchant list | Sells | |---|---|---|---| | Camelot (region 10) | Albion Armor | `OrbsAlbionArmor` | 97 items, level 50-51, 1-2 gold each | | | Albion Magical | `OrbsAlbionMagical` |",
-      "source_created_at": "2026-10-19T21:00:02Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/lometur/HearthDAoC/issues/141",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931233247",
-      "title": "Triage Board (auto-updated daily — pin me)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/940",
-      "evidence": "# Triage Board Generated 2026-10-19 20:41 UTC by `tools/triage_bot.py scan` — review-first automation. The bot never merges and never closes. Buckets: `CONFLICTS` x20, `DUP` x49, `LAND-CANDIDATE` x71, `PARKED-DRAFT` x6, `PARKED-WILDCARD` x27, `RECON` x8, `STALE-BASE` x10. ## Merge gate (top land-candidates, worktree merge vs main) | PR | verdict | |---|---| | #741 | MERGE-CLEAN | | #869 | MERGE-CLEAN | | #892 | MERGE-CLEAN | ## Pareto NOW (top 12) | PR | title | author | age | +lines | files | tests | behind | score | action | |---|---|---|---|",
-      "source_created_at": "2026-10-19T20:42:04Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/940",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931112079",
-      "title": "[wildcard] Kill the human-written repro: a self-submitting soundness pipeline (grammar fuzz → accept-gate → emit → go build → shrink → auto-file)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/939",
-      "evidence": "### The idea, in a paragraph Hybrid already owns every piece of a machine bug-hunter except the machine. A grammar-driven generator can synthesize well-formed `.hy` programs by the million; `hyb check` filters the ones it ACCEPTS; the emitter lowers them; `go build` is an independent oracle that requires zero trust in our own code; a delta-debugging shrinker reduces any accepted-but-unbuildable program to a minimal repro automatically. Chain those five stages and the Tier-0 BUILDABLE guarantee stops depending on humans noticing violations: ever",
-      "source_created_at": "2026-10-19T20:33:45Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/939",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5930519615",
-      "title": "[BUG FIX proposal] SA → GB: classify tourist travel as ETA, not eVisa",
-      "url": "https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/82",
-      "evidence": "AI disclosure: this is an AI-researched and reviewed proposal on behalf of the account owner, who resides in Saudi Arabia. No separate human technical review is claimed. ## Concrete correction In `data/passport-requirements/SA.json`, blob `88d90068f04a0e23303a72d1b6d2ebcdf338e4ac`, the route whose `to.code` is `GB` currently has `visa.policy: \"evisa\"` and `visa.evisa: true`. For an ordinary Saudi passport holder making a tourist visit, the applicable category is normally ETA, subject to exemptions. The repository schema already supports `eta`. ",
-      "source_created_at": "2026-10-19T19:52:52Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/angeloasante/Diaspora_AI_Visa_data/issues/82",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
       "external_id": "5930362835",
       "title": "Product demo visuals for LinkedIn project content",
       "url": "https://github.com/apbthere/hlist-server/issues/15",
@@ -515,186 +770,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/apbthere/hlist-server/issues/15",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49788625",
-      "title": "Using TypeSafe AI in Bug Bounty",
-      "url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
-      "evidence": "",
-      "source_created_at": "2026-09-21T15:34:32Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49785135",
-      "title": "Intel Ends Its $100k Bug Bounty Program",
-      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "evidence": "",
-      "source_created_at": "2026-09-21T09:45:21Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49776572",
-      "title": "Real attackers don't think in bug bounty scopes",
-      "url": "https://rushter.com/blog/security-bb-and-scopes/",
-      "evidence": "",
-      "source_created_at": "2026-09-20T15:04:26Z",
-      "opp_type": "bug_bounty",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762647",
-      "title": "Let's Fix Bug Bounty",
-      "url": "https://fixbugbounty.com/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T02:15:27Z",
-      "opp_type": "bug_bounty",
-      "score": 19,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "fixbugbounty.com",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931769972",
-      "title": "MCP / WebMCP edge cases: v2-era ids get calldata for a different bounty, + 19 more (report)",
-      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
-      "evidence": "For the \"test POIDH webmcp + mcp\" bounty (Base #1495), I ran read-only and dry-run tests against `https://poidh.xyz/api/mcp` (all 11 tools), the 9 WebMCP tools on poidh.xyz, and the `/tx` approval links on mainnet, Base and Arbitrum, checking results against `/data` and on-chain `eth_call`. Nothing was signed or sent. Full report (20 findings, each with the exact request, actual vs expected, and a one-line fix): https://gist.github.com/swiftbotlab/8a54c53ae629698214d5ba0cd22c92b6 The ones most worth fixing first: 1. **v2-era ids get v3 calldata",
-      "source_created_at": "2026-10-19T21:21:29Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/picsoritdidnthappen/poidh-app/issues/1584",
-      "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931630233",
-      "title": "Claim: King's Bounty: Crossworlds",
-      "url": "https://github.com/cranebeaker/coop-anything/issues/61",
-      "evidence": "### Game King's Bounty: Crossworlds (King's Bounty: Перекрёстки миров), Steam App 63910. ### Plan Research first, then choose between enabling any existing engine networking and implementing campaign co-op. No ready-made co-op attempt has surfaced yet. The inspected Steam build contains Winsock imports and TheEngine client/server symbols, but its default config labels the endpoint as `debug_server`; this is not evidence of playable multiplayer. The same engine powered Fantasy Wars and Elven Legacy multiplayer, which may provide a comparison tar",
-      "source_created_at": "2026-10-19T21:10:39Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/cranebeaker/coop-anything/issues/61",
-      "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931611007",
-      "title": "Remove Atlas ROGs (random generated magic items) from loot and rewards: stay in period",
-      "url": "https://github.com/lometur/HearthDAoC/issues/143",
-      "evidence": "The owner (2026-10-19): \"we will not use Atlas ROGs. we will try to stay in period as best we can.\" ROGs are Atlas's random magic items: an item made on the spot for the player's class, with random stats (`source/server/GameServer/Managers/RandomObjectGeneration/`: `AtlasROGManager`, `AtlasMobLoot.cs`'s `ROGMobGenerator`, `GeneratedUniqueItem`). They are not 1.65. Related: #141 (cheap gear merchants), #142 (Darkness Falls seal merchants). ## Where they come from (code at main 5b5577a, clean 0.37b world) 1. **Monster loot, everywhere:** the worl",
-      "source_created_at": "2026-10-19T21:09:11Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/lometur/HearthDAoC/issues/143",
-      "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5931746343",
-      "title": "Game crashes when looting bodies",
-      "url": "https://github.com/GrayFace/MMExtension/issues/21",
-      "evidence": "Hi! I'm running MM8.Patch.v2.5.7. When I try to collect the loot from the bodies of a newer monster (one that's named in bounties, like a Vampire or Sorcerer), the game crashes. I can fight the mobs and kill them, but if I click on the bodies the game dies.",
-      "source_created_at": "2026-10-19T21:19:35Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/GrayFace/MMExtension/issues/21",
-      "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49762468",
-      "title": "NIST Elliptic Curves Seeds Bounty (2023)",
-      "url": "https://words.filippo.io/seeds-bounty/",
-      "evidence": "",
-      "source_created_at": "2026-09-19T01:34:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 22,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "words.filippo.io/seeds-bounty",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49760509",
-      "title": "Intel Appears to End Its Bug Bounty Program",
-      "url": "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "evidence": "",
-      "source_created_at": "2026-09-18T21:29:33Z",
-      "opp_type": "bug_bounty",
-      "score": 19,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49729492",
-      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
-      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
-      "evidence": "",
-      "source_created_at": "2026-09-16T16:32:41Z",
-      "opp_type": "otro",
-      "score": 9,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49721998",
-      "title": "Bug Bounty Operating Principles",
-      "url": "https://medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "evidence": "",
-      "source_created_at": "2026-09-16T04:12:21Z",
-      "opp_type": "bug_bounty",
-      "score": 17,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "medium.com/@JasonPuglisi/bug-bounty-principles-c379a2062614",
-      "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-19T21:28:56.447Z"
     },
     {
@@ -784,36 +859,6 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-19T21:26:09.258Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50156779",
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com/",
-      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
-      "source_created_at": "2026-10-19T19:21:56Z",
-      "opp_type": "otro",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "dovepass.com",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T21:26:09.258Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49853122",
-      "title": "Music for 18 Bouncy Balls",
-      "url": "https://ianbutterworth.github.io/18-bouncy-balls/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T04:11:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-19T21:26:09.258Z"
     },
@@ -13180,6 +13225,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-19T22:20:41.782Z",
+      "generated_at": "2026-10-19T22:20:41.782Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 425
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 668
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 48,
+      "new_items": 3,
+      "seen_again": 45,
+      "archive_total": 881,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "2 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "48 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-19T21:28:56.447Z",
       "generated_at": "2026-10-19T21:28:56.447Z",
       "status": "ok",
@@ -16490,67 +16596,6 @@
           "ok": true,
           "count": 25,
           "ms": 318
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 345,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T17:02:48.525Z",
-      "generated_at": "2026-10-15T17:02:48.525Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 232
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 68
         }
       ],
       "processed": 50,
