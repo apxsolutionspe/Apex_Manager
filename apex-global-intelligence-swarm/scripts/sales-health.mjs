@@ -8,7 +8,9 @@ export const TARGETS = Object.freeze([
  {id:'servicios',url:'https://apxsolutionspe.github.io/Apex_Manager/servicios.html',
   required:['APEX PRIME X','https://wa.me/51931797758','./productos/cotizapro/']},
  {id:'cotizapro',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/cotizapro/',
-  required:['CotizaPro','https://wa.me/51931797758','./app.mjs']}
+  required:['CotizaPro','https://wa.me/51931797758','./app.mjs']},
+ {id:'catalogoexpress',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/catalogoexpress/',
+  required:['CatálogoExpress','https://wa.me/51931797758','./app.mjs']}
 ]);
 
 export async function inspectTarget(target,{fetcher=fetch}={}) {
