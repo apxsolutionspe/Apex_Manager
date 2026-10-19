@@ -1,6 +1,12 @@
 name: APEX Multiagentes · investigación paralela
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/apex-multiagent.yml'
+      - 'apex-global-intelligence-swarm/scripts/multiagent-scout.mjs'
+      - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
   schedule:
     - cron: '17 */6 * * *' # Cada 6 h; GitHub puede retrasar ejecuciones
   workflow_dispatch:
