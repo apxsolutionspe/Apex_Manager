@@ -5,7 +5,7 @@ import {inspectTarget,monitorSales,TARGETS} from '../scripts/sales-health.mjs';
 function fakeResponse(html,{status=200,type='text/html; charset=utf-8'}={}) {
  return {ok:status>=200&&status<300,status,headers:{get:()=>type},text:async()=>html};
 }
-test('two commercial contact channels checked independently and in parallel',async()=>{
+test('three commercial contact channels checked independently and in parallel',async()=>{
  let requests=0;
  const monitored=await monitorSales({now:new Date('2026-10-19T18:30:00Z'),
  fetcher:async(url,init)=>{
@@ -14,8 +14,8 @@ test('two commercial contact channels checked independently and in parallel',asy
     const target=TARGETS.find(x=>x.url===url);
     return fakeResponse(target.required.join('\n'));
  }});
- assert.equal(requests,2);
- assert.equal(monitored.results.length,2);
+ assert.equal(requests,3);
+ assert.equal(monitored.results.length,3);
  assert.equal(monitored.healthy,true);
  assert.equal(monitored.payments_verified,false);
 });
