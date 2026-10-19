@@ -1,0 +1,51 @@
+name: APEX Multiagentes · investigación paralela
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # Cada 6 h; GitHub puede retrasar ejecuciones
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/apex-multiagent.yml'
+      - 'apex-global-intelligence-swarm/scripts/multiagent-scout.mjs'
+      - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: apex-multiagent-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  bounded-swarm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Obtener código del propietario sin credenciales persistentes
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Comprobar sintaxis y pruebas aisladas
+        working-directory: apex-global-intelligence-swarm
+        run: |
+          node --check scripts/multiagent-scout.mjs
+          node --test tests/multiagent-scout.test.mjs
+      - name: Ejecutar agentes públicos en paralelo (solo lectura)
+        if: github.event_name != 'pull_request'
+        working-directory: apex-global-intelligence-swarm
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/multiagent-scout.mjs
+      - name: Archivar evidencias sin publicar claves ni cobrar fondos
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: apex-multiagent-evidence-${{ github.run_id }}
+          path: apex-global-intelligence-swarm/artifacts/multiagent-report.json
+          if-no-files-found: error
+          retention-days: 14
