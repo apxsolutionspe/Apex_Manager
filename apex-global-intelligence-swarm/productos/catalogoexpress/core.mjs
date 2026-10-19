@@ -80,7 +80,7 @@ export function buildPage(raw){
     '<main class="wrap"><h2>Productos y servicios</h2><section class="grid">'+cards+'</section>',
     '<section class="cart"><h2>Mi pedido</h2><div id="cart" aria-live="polite"></div>',
     '<div class="total" id="total"></div><button type="button" id="send">Solicitar pedido por WhatsApp</button>',
-    '<p class="note">El pedido solo se envía si lo confirmas en WhatsApp. Precios y disponibilidad sujetos a confirmación. Esta página no cobra dinero ni registra datos en servidores.</p></section></main>',
+    '<p class="note">El pedido solo se envía si lo confirmas en WhatsApp. Precios y disponibilidad sujetos a confirmación. Esta página no cobra dinero y no registra datos en servidores.</p></section></main>',
     '<footer>Catálogo digital preparado con APEX PRIME X</footer><script>'+script+'</script></body></html>'
   ].join('');
 }
