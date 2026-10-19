@@ -1,16 +1,20 @@
-name: CotizaPro · pruebas producto digital
+name: APEX · pruebas de productos digitales
 
 on:
   pull_request:
     paths:
       - 'apex-global-intelligence-swarm/productos/cotizapro/**'
+      - 'apex-global-intelligence-swarm/productos/catalogoexpress/**'
       - 'apex-global-intelligence-swarm/tests/cotizapro*'
+      - 'apex-global-intelligence-swarm/tests/catalogoexpress*'
       - '.github/workflows/apex-cotizapro-qa.yml'
   push:
     branches: [main]
     paths:
       - 'apex-global-intelligence-swarm/productos/cotizapro/**'
+      - 'apex-global-intelligence-swarm/productos/catalogoexpress/**'
       - 'apex-global-intelligence-swarm/tests/cotizapro*'
+      - 'apex-global-intelligence-swarm/tests/catalogoexpress*'
       - '.github/workflows/apex-cotizapro-qa.yml'
   workflow_dispatch:
 
@@ -33,7 +37,9 @@ jobs:
         run: |
           node --check productos/cotizapro/core.mjs
           node --check productos/cotizapro/app.mjs
-          node --test tests/cotizapro.test.mjs
+          node --check productos/catalogoexpress/core.mjs
+          node --check productos/catalogoexpress/app.mjs
+          node --test tests/cotizapro.test.mjs tests/catalogoexpress.test.mjs
       - name: Preparar Chromium
         working-directory: apex-global-intelligence-swarm
         run: |
@@ -45,12 +51,16 @@ jobs:
           sleep 2
       - name: Validar la demo funcional en móvil
         working-directory: apex-global-intelligence-swarm
-        run: node tests/cotizapro-browser.mjs
+        run: |
+          node tests/cotizapro-browser.mjs
+          node tests/catalogoexpress-browser.mjs
       - name: Evidencia de navegador
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: cotizapro-qa-${{ github.run_id }}
-          path: apex-global-intelligence-swarm/apex-cotizapro-qa.png
+          path: |
+            apex-global-intelligence-swarm/apex-cotizapro-qa.png
+            apex-global-intelligence-swarm/apex-catalogoexpress-qa.png
           if-no-files-found: ignore
           retention-days: 14
