@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-18T20:41:13.203Z",
+  "generated_at": "2026-10-19T04:38:30.719Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,36 +10,14 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 732,
-    "investigar": 1,
-    "informativa": 697,
+    "total_evaluated": 757,
+    "investigar": 0,
+    "informativa": 723,
     "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
-    {
-      "source": "github",
-      "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
-      "source_created_at": "2026-10-14T10:31:03Z",
-      "first_seen_at": "2026-10-14T11:49:56.000Z",
-      "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "investigar",
-      "priority": 82,
-      "reasons": [
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false,
-        "issue_open_now": true
-      },
-      "published_amount_usd": 500,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
     {
       "source": "github",
       "title": "[Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
@@ -428,6 +406,78 @@
         "payment": false
       },
       "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
+      "source_created_at": "2026-10-19T04:11:43Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
+      "source_created_at": "2026-10-19T04:11:40Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Projections",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
+      "source_created_at": "2026-10-19T02:57:25Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -840,6 +890,51 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
+      "source_created_at": "2026-10-14T10:31:03Z",
+      "first_seen_at": "2026-10-14T11:49:56.000Z",
+      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago",
+        "La API oficial confirmó que el issue ya no está abierto o no es un issue"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false,
+        "issue_open_now": false
+      },
+      "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: wait_for_settlement accepts uninitialized system-owned nf_pda accounts, OnChainSubmitter discards realized post-fee balance, and quorum_available skips owner/stake checks",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1034",
+      "source_created_at": "2026-10-19T04:17:03Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1852,6 +1947,76 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake] 贡献申报（逐件）：lingshu 零引用参数五处删签名收口（dsh-bounty #112/#114/#115/#116/#117）—— PR #511 已合并",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1024",
+      "source_created_at": "2026-10-19T03:55:46Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: TransactSpl unconditionally enforces an initialized fee_token_account (InterfaceAccount ) while build_settlement_message passes authority's uncreated ATA, bricking SPL settlements",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1033",
+      "source_created_at": "2026-10-19T03:31:54Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: cosign_settlement_transact_tx and run_cosign_round enforce N-of-N unanimity over all Valid voters and pre-bake every voter as a required Solana signer, allowing a single Byzantine validator to censor 100% of settlements",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1032",
+      "source_created_at": "2026-10-19T03:29:28Z",
+      "first_seen_at": "2026-10-19T04:38:29.922Z",
+      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3624,174 +3789,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "【贡献申报】cross-eval（dsh-bounty issue #67 交付面）7 件量具/判据缺陷：P0×2 ＋ P1×5 —— 附逐条复现读数、参考补丁、定点变异与去重边界",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/375",
-      "source_created_at": "2026-10-14T10:09:26Z",
-      "first_seen_at": "2026-10-14T11:49:56.000Z",
-      "last_seen_at": "2026-10-14T11:49:56.000Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "High: No web UI for Ash Pit bounty place/cancel",
-      "url": "https://github.com/LegendofKEK/bichael/issues/294",
-      "source_created_at": "2026-10-14T03:39:46Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Critical: PvP bounty uses synthetic receipts with no live escrow gate",
-      "url": "https://github.com/LegendofKEK/bichael/issues/290",
-      "source_created_at": "2026-10-14T03:39:42Z",
-      "first_seen_at": "2026-10-14T04:51:39.956Z",
-      "last_seen_at": "2026-10-14T04:51:39.956Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Priced MCP operations are free and ungated at their REST twins (spend grant, cap, room allowance, single-use all bypassed)",
-      "url": "https://github.com/Uuriko/project-room/issues/3269",
-      "source_created_at": "2026-10-13T21:52:41Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Medium] Escrow settlement is not atomic across its two stores: in-memory dispute machine survives DB rollback, and closeEpoch commits partial settlements on per-bounty errors",
-      "url": "https://github.com/Uuriko/project-room/issues/3275",
-      "source_created_at": "2026-10-13T21:54:08Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[High] Split-decided 1-milli bounty wedges in 'approved' forever: epoch sweep throws 'nothing approved to sweep' before settling the claim bond (successor to #2840)",
-      "url": "https://github.com/Uuriko/project-room/issues/3263",
-      "source_created_at": "2026-10-13T21:49:44Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[contract] Minimum bounty amount per token",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/172",
-      "source_created_at": "2026-10-13T21:22:40Z",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
