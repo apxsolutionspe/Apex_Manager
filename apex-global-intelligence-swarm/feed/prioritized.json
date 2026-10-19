@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-19T13:11:30.286Z",
+  "generated_at": "2026-10-19T14:28:25.758Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,14 +10,37 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 783,
+    "total_evaluated": 808,
     "investigar": 0,
-    "informativa": 749,
+    "informativa": 774,
     "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(conversations): coerce ISO strings and naive timestamps in meeting context pack prior meetings sorting ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22499",
+      "source_created_at": "2026-10-19T13:45:57Z",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:28:24.968Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "[Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
@@ -1976,6 +1999,54 @@
     },
     {
       "source": "github",
+      "title": "Four random bounty hunters to choose from",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/322",
+      "source_created_at": "2026-10-19T13:48:48Z",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:28:24.968Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "epic(dark-factory): AgentArena — paid competition + bred hunt profiles",
+      "url": "https://github.com/Replikanti/agentis-colonies/issues/2317",
+      "source_created_at": "2026-10-19T13:56:05Z",
+      "first_seen_at": "2026-10-19T14:28:24.968Z",
+      "last_seen_at": "2026-10-19T14:28:24.968Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[radar] SN open bounty 2026-10-19T12:57",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1311",
       "source_created_at": "2026-10-19T12:57:56Z",
@@ -3718,78 +3789,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add require_not_paused to lib.rs reward distribution path",
-      "url": "https://github.com/MentorsMind/MentorsMind-Contract/issues/1288",
-      "source_created_at": "2026-10-14T16:49:27Z",
-      "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1590",
-      "source_created_at": "2026-10-14T16:48:09Z",
-      "first_seen_at": "2026-10-14T17:09:05.960Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Describe how to try a bounty in the README",
-      "url": "https://github.com/tamgahq/sandbox/issues/2",
-      "source_created_at": "2026-10-14T14:02:35Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T16:47:56.671Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
