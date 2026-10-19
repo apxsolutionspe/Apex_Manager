@@ -35,8 +35,8 @@ test('rechaza respaldos que excedan límites sin ejecutar scripts',()=>{
 test('exporta CSV escapado y protege contra fórmulas de hoja de cálculo',()=>{
   const exported=quoteCsv({...q,lines:[{label:'=IMPORTXML("evil")',quantity:1,unitPrice:3.75}]});
   assert.ok(exported.startsWith('\uFEFF'));
-  assert.match(exported,/'\u0027=IMPORTXML/);
-  assert.match(exported,/'Total PEN"/);
+  assert.match(exported,/"'=IMPORTXML/);
+  assert.match(exported,/"Total PEN"/);
   assert.match(csvCell('+SUM(1,2)'), /^"'\+SUM/);
 });
 test('utiliza formato monetario PEN para mostrar precios',()=>{
