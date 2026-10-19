@@ -57,7 +57,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/multiagent-scout.mjs
       - name: Verificar rutas comerciales y salud del sitio público
-        if: github.event_name != 'pull_request'
+        # Avoid deployment race: push launches the Pages publisher in parallel.
+        # Live URL verification runs on schedule or explicit manual dispatch.
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: apex-global-intelligence-swarm
         run: node scripts/sales-health.mjs
       - name: Archivar evidencias sin publicar claves ni cobrar fondos
