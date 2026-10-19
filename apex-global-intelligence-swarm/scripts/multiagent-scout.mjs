@@ -10,9 +10,9 @@ export const SCOUTS = Object.freeze([
   { id: 'code-bounties', specialization: 'Correcciones remuneradas',
     query: 'is:issue is:open label:bounty updated:>DATE sort:updated-desc' },
   { id: 'micro-fixes', specialization: 'Errores pequeños con posible pago',
-    query: 'is:issue is:open "paid" "bug" updated:>DATE sort:updated-desc' },
+    query: 'is:issue is:open "bounty" "bug" updated:>DATE sort:updated-desc' },
   { id: 'docs-bounties', specialization: 'Documentación técnica remunerada',
-    query: 'is:issue is:open "bounty" "documentation" updated:>DATE sort:updated-desc' }
+    query: 'is:issue is:open "bounty" "docs" updated:>DATE sort:updated-desc' }
 ]);
 const MAX_RESULTS = 12;
 const MIN_AMOUNT_USD = 1;
@@ -31,9 +31,14 @@ export function vetIssue(raw, agent, today = new Date()) {
   const risky = /seed phrase|private key|connect your wallet|deposit first|upfront fee|pay to join|guaranteed profit|casino|betting/i.test(content);
   const labels = (Array.isArray(raw.labels) ? raw.labels : [])
     .map(x => String(typeof x === 'string' ? x : x.name || '').toLowerCase()).slice(0, 16);
-  const rewarded = /bounty|paid|reward|recompensa|usd|\$/.test(content) ||
-    labels.some(x => /bounty|reward|paid/.test(x));
-  if (!rewarded) return null;
+  // Stronger relevance gate: don't treat arbitrary mentions of "paid" or
+  // a dollar amount in noisy issue text as a real paid assignment.
+  const labelledBounty = labels.some(x => /\bbounty\b|\breward\b/.test(x));
+  const titledBounty = /\bbounty\b|\bpaid task\b|\bpaid issue\b/.test(title.toLowerCase());
+  const mirroredAlert = /\bradar\b|\bmirror\b|\brelay log\b|\bwatchlist\b|\bmonitor\b|\bqueue\b/i.test(title) ||
+    /bounty-plaza|sn-monetization-runtime|bounty-feed/i.test(String(raw.repository_url || ''));
+  const tooCrowded = Number(raw.comments || 0) > 30;
+  if ((!labelledBounty && !titledBounty) || !estimatedAmount || mirroredAlert || tooCrowded) return null;
   let score = 0;
   if (estimatedAmount >= MIN_AMOUNT_USD) score += 20;
   if (labels.some(x => /bounty|paid/.test(x))) score += 10;
@@ -49,7 +54,8 @@ export function vetIssue(raw, agent, today = new Date()) {
     risk: risky ? 'potential_fraud_or_required_payment' : 'payment_and_eligibility_unverified',
     stage: risky ? 'rejected_review' : 'needs_manual_sponsor_verification',
     priority_score: score,
-    payout_verified: false, assignment_verified: false
+    sponsor_verified: false, award_funded_verified: false,
+    eligibility_peru_verified: false, payout_verified: false, assignment_verified: false
   };
 }
 
@@ -119,7 +125,9 @@ export async function runAgents(opts = {}) {
     external_accounts_created: 0, messages_sent: 0, transactions_executed: 0,
     verified_new_income_usd: null,
     income_status: 'no_payment_evidence_in_this_run',
-    worker_failures: failed, agents, candidate_count: leads.length, candidates: leads,
+    worker_failures: failed, agents, candidate_count: leads.length,
+    verified_payable_opportunities: 0,
+    candidates: leads,
     next_steps: ['Validate sponsor and payment terms on primary source',
       'Check whether issue accepts new submissions before implementing',
       'Use authorized account to submit tested PR, await acceptance and actual payment'],
