@@ -101,7 +101,7 @@ export async function runAgents(opts = {}) {
     ...SCOUTS.map(agent => scout(agent, opts)),
     readCryptoFeed(read, dir),
     Promise.resolve({ id: 'commercial-outreach', status: 'delegated',
-      note: 'Metricool connected automation handles authorized organic posts; no mass messaging.' }),
+      note: 'GitHub Pages self-service sales and voluntarily initiated WhatsApp enquiries; no third-party posting, accounts, or mass messaging.' }),
     Promise.resolve({ id: 'payment-auditor', status: 'read_only',
       note: 'No confirmed invoice, sponsor acceptance, bank credit, or on-chain receipt is provided to this process.' })
   ];
