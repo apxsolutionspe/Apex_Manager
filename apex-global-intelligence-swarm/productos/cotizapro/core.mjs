@@ -38,6 +38,20 @@ export function computeQuote(input) {
     throw new RangeError('El total excede el límite permitido');
   return { materials, labor, extras, cost, markup, subtotal, tax, total: subtotal + tax };
 }
+// Use exactly the same cent rounding as the on-screen quotation.
+export function printBreakdown(quote) {
+  const total = computeQuote(quote);
+  const rows = quote.lines.map(line => [
+    String(line.label ?? ''),
+    quantity(line.quantity),
+    Math.round(quantity(line.quantity) * cents(line.unitPrice))
+  ]);
+  if (total.labor) rows.push(['Mano de obra', quantity(quote.hours || 0), total.labor]);
+  if (total.extras) rows.push(['Otros gastos', 1, total.extras]);
+  if (total.markup) rows.push(['Recargo (' + percentage(quote.markupPercent || 0) + '%)', 1, total.markup]);
+  if (total.tax) rows.push(['Impuesto configurado (' + percentage(quote.taxPercent || 0) + '%)', 1, total.tax]);
+  return {rows, total};
+}
 export function pen(centsValue) {
   return new Intl.NumberFormat('es-PE', {style:'currency',currency:'PEN'}).format(centsValue / 100);
 }
