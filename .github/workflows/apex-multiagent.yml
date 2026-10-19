@@ -7,14 +7,22 @@ on:
       - '.github/workflows/apex-multiagent.yml'
       - 'apex-global-intelligence-swarm/scripts/multiagent-scout.mjs'
       - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/sales-health.mjs'
+      - 'apex-global-intelligence-swarm/tests/sales-health.test.mjs'
+      - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
+      - 'apex-global-intelligence-swarm/servicios.html'
   schedule:
-    - cron: '17 */6 * * *' # Cada 6 h; GitHub puede retrasar ejecuciones
+    - cron: '17 */2 * * *' # Cada 2 h día y noche; GitHub puede retrasar ejecuciones
   workflow_dispatch:
   pull_request:
     paths:
       - '.github/workflows/apex-multiagent.yml'
       - 'apex-global-intelligence-swarm/scripts/multiagent-scout.mjs'
       - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/sales-health.mjs'
+      - 'apex-global-intelligence-swarm/tests/sales-health.test.mjs'
+      - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
+      - 'apex-global-intelligence-swarm/servicios.html'
 
 permissions:
   contents: read
@@ -40,18 +48,25 @@ jobs:
         working-directory: apex-global-intelligence-swarm
         run: |
           node --check scripts/multiagent-scout.mjs
-          node --test tests/multiagent-scout.test.mjs
+          node --check scripts/sales-health.mjs
+          node --test tests/multiagent-scout.test.mjs tests/sales-health.test.mjs
       - name: Ejecutar agentes públicos en paralelo (solo lectura)
         if: github.event_name != 'pull_request'
         working-directory: apex-global-intelligence-swarm
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/multiagent-scout.mjs
-      - name: Archivar evidencias sin publicar claves ni cobrar fondos
+      - name: Verificar rutas comerciales y salud del sitio público
         if: github.event_name != 'pull_request'
+        working-directory: apex-global-intelligence-swarm
+        run: node scripts/sales-health.mjs
+      - name: Archivar evidencias sin publicar claves ni cobrar fondos
+        if: github.event_name != 'pull_request' && always()
         uses: actions/upload-artifact@v4
         with:
           name: apex-multiagent-evidence-${{ github.run_id }}
-          path: apex-global-intelligence-swarm/artifacts/multiagent-report.json
+          path: |
+            apex-global-intelligence-swarm/artifacts/multiagent-report.json
+            apex-global-intelligence-swarm/artifacts/sales-health.json
           if-no-files-found: error
           retention-days: 14
