@@ -57,5 +57,5 @@ test('report transparently distinguishes research, likely leads and verified rec
  assert.equal(report.summary.verified_new_income_pen,0);
  assert.equal(report.summary.verified_new_income_usd,0);
  assert.match(report.protections.join(' '),/120 combinaciones son ideas comerciales/);
- assert.equal(report.ideas.length,25);
+ assert.equal(report.ideas.length,120);
 });
