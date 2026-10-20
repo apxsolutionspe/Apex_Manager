@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-19T23:29:43.027Z",
+  "generated_at": "2026-10-20T04:48:16.719Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,14 +10,37 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 894,
+    "total_evaluated": 919,
     "investigar": 0,
-    "informativa": 859,
+    "informativa": 884,
     "descartar": 35,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(mcp_oauth): coerce naive and ISO-8601 timestamps to UTC in grant and token paths ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22660",
+      "source_created_at": "2026-10-20T00:32:35Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "[Bounty proposal] fix(entity-pages): normalize mixed naive, aware, and ISO conversation timestamps ($50 proposed)",
@@ -1198,6 +1221,98 @@
     },
     {
       "source": "github",
+      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailschema package",
+      "url": "https://github.com/auscaster/frantic-board/issues/541",
+      "source_created_at": "2026-10-20T04:15:53Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/538",
+      "source_created_at": "2026-10-20T04:15:36Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
+      "url": "https://github.com/auscaster/frantic-board/issues/540",
+      "source_created_at": "2026-10-20T04:15:47Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
+      "url": "https://github.com/auscaster/frantic-board/issues/539",
+      "source_created_at": "2026-10-20T04:15:41Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] Medium: deactivate_validator strands dual-stake SPL collateral permanently & slash_validator omits min_token_stake deactivation floor",
       "url": "https://github.com/paraloom-labs/paraloom-core/issues/1129",
       "source_created_at": "2026-10-19T22:45:47Z",
@@ -2274,6 +2389,223 @@
         "payment": false
       },
       "published_amount_usd": 3000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Cloudflare redirect for mainnet bounty 9 breaks /data and the MCP get_bounty tool",
+      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1591",
+      "source_created_at": "2026-10-20T03:52:41Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1622",
+      "source_created_at": "2026-10-20T04:03:51Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY CLAIM] bounty-2026-0304-005 — GH → GB current fee and processing-time verification",
+      "url": "https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/84",
+      "source_created_at": "2026-10-20T03:19:00Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1284",
+      "source_created_at": "2026-10-20T01:34:48Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-10-20T00:14",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1314",
+      "source_created_at": "2026-10-20T00:14:57Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty Board launch: hosted preview, playtests, score policy and submission gates",
+      "url": "https://github.com/sidhulyalkar/unicorn-stampede/issues/61",
+      "source_created_at": "2026-10-19T23:58:24Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Fight over: say when attacking a merchant puts a bounty on you",
+      "url": "https://github.com/allurco/caribbean-adventure/issues/454",
+      "source_created_at": "2026-10-19T23:40:35Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: ShieldedPool supply monotonically inflates and commitment tree desynchronizes due to missing output commitments and balance debit in settle_transact_via_cosign",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1136",
+      "source_created_at": "2026-10-20T02:18:31Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(task_intelligence): coerce naive and ISO-8601 timestamps in task recommendations ( proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/22672",
+      "source_created_at": "2026-10-20T00:43:24Z",
+      "first_seen_at": "2026-10-20T04:48:15.980Z",
+      "last_seen_at": "2026-10-20T04:48:15.980Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3437,343 +3769,6 @@
       "source_created_at": "2026-10-16T20:18:48Z",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
       "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feature proposal: findings have no list page, so the documented goes-quiet-after-3-dismissals control can only be driven one run at a time (bounty requested)",
-      "url": "https://github.com/neatlogs/neatroots/issues/290",
-      "source_created_at": "2026-10-16T18:24:06Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feature proposal: a compare view for two runs, since compare_runs is MCP-only today (bounty requested)",
-      "url": "https://github.com/neatlogs/neatroots/issues/289",
-      "source_created_at": "2026-10-16T18:23:50Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feature proposal: show what a run, a project and a period cost, from a bundled price table and the tokens already stored (bounty requested)",
-      "url": "https://github.com/neatlogs/neatroots/issues/288",
-      "source_created_at": "2026-10-16T18:23:40Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feature proposal: retention is value-blind, so a run with findings is evicted before a clean run (bounty requested)",
-      "url": "https://github.com/neatlogs/neatroots/issues/287",
-      "source_created_at": "2026-10-16T18:22:56Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Stop sending unchanged Bounty Hunt status as a reliable RPC every frame",
-      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1017",
-      "source_created_at": "2026-10-16T15:35:16Z",
-      "first_seen_at": "2026-10-16T16:37:52.234Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Move Bounty Hunt maintenance off the per-frame server path",
-      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1016",
-      "source_created_at": "2026-10-16T15:34:11Z",
-      "first_seen_at": "2026-10-16T16:37:52.234Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Reset Bounty Hunt flee candidates for each special Zed",
-      "url": "https://github.com/zeroking1998/KF2-Optimizer-Next/issues/1015",
-      "source_created_at": "2026-10-16T15:33:52Z",
-      "first_seen_at": "2026-10-16T16:37:52.234Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: On-chain deactivate_validator orphans dual-stake token collateral (slashing bypass + permanent fund lock) & verify_transact pre-reduces non-canonical public inputs",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/970",
-      "source_created_at": "2026-10-16T15:22:05Z",
-      "first_seen_at": "2026-10-16T16:37:52.234Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(database): sanitize plan_key attribution and guard hourly usage increments ( proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/21878",
-      "source_created_at": "2026-10-16T15:54:12Z",
-      "first_seen_at": "2026-10-16T16:37:52.234Z",
-      "last_seen_at": "2026-10-16T16:37:52.234Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "King's Bounty: The Legend (STEAM) does not work",
-      "url": "https://github.com/GameNative/gamenative-compat/issues/218",
-      "source_created_at": "2026-10-16T11:04:00Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1261",
-      "source_created_at": "2026-10-16T10:43:02Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: BatchVerifier zip-truncation soundness bypass, dropped intermediate Merkle roots in knows_root, ShieldedPool deposit race/overflow, and trailing-byte acceptance in proof_codec",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/953",
-      "source_created_at": "2026-10-16T11:14:22Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Feature proposal: offline regression suites for custom checks — bounty requested",
-      "url": "https://github.com/neatlogs/neatroots/issues/236",
-      "source_created_at": "2026-10-16T10:41:20Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Incomplete wallet wipe leaks unencrypted swap private keys, approved dApp origins, and exported secrets across wallet resets (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/940",
-      "source_created_at": "2026-10-16T04:03:42Z",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
