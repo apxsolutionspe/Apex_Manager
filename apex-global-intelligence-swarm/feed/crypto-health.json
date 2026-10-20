@@ -1,16 +1,16 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-10-20T00:25:43.343Z",
-  "observed_at": "2026-10-20T00:25:39.988Z",
+  "generated_at": "2026-10-20T06:06:30.318Z",
+  "observed_at": "2026-10-20T06:06:27.253Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
     "sources_read": 16,
     "sources_unavailable": 8,
     "failure_types": {
-      "access_denied": 2,
+      "access_denied": 1,
       "upstream_error": 1,
-      "network_failure": 3,
+      "network_failure": 4,
       "size_limit": 2,
       "unexpected_type": 0,
       "other": 0
@@ -42,7 +42,7 @@
       },
       {
         "source": "base-announcements",
-        "reason": "access_denied"
+        "reason": "network_failure"
       },
       {
         "source": "galxe-quests",
