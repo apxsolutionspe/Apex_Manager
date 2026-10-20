@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-20T17:01:54.973Z",
+  "generated_at": "2026-10-20T17:19:11.685Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 970,
+    "total_evaluated": 972,
     "investigar": 0,
-    "informativa": 934,
-    "descartar": 36,
+    "informativa": 935,
+    "descartar": 37,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -659,6 +659,29 @@
         "payment": false
       },
       "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Erdős 18(b): fixed-pin replay and a success-only ZZZ bounty collaboration",
+      "url": "https://github.com/JENW1N/complete-math-solutions/issues/1",
+      "source_created_at": "2026-10-20T17:15:36Z",
+      "first_seen_at": "2026-10-20T17:19:11.083Z",
+      "last_seen_at": "2026-10-20T17:19:11.083Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2470,7 +2493,7 @@
       "url": "https://github.com/harshiit-rana/VyaparAI/issues/655",
       "source_created_at": "2026-10-20T16:56:37Z",
       "first_seen_at": "2026-10-20T17:01:54.178Z",
-      "last_seen_at": "2026-10-20T17:01:54.178Z",
+      "last_seen_at": "2026-10-20T17:19:11.083Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3742,30 +3765,6 @@
       "source_created_at": "2026-10-17T10:32:49Z",
       "first_seen_at": "2026-10-17T10:42:01.825Z",
       "last_seen_at": "2026-10-17T10:42:01.825Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Untracked pending_rewards in BridgeState erodes deposit_cap & breaks vault backing, reset_validator_registry desyncs singleton stake_token_vault mint, and cosign_settlement accepts self-authority fee-payer & uninvited quorum payloads",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/974",
-      "source_created_at": "2026-10-17T02:34:14Z",
-      "first_seen_at": "2026-10-17T04:23:40.294Z",
-      "last_seen_at": "2026-10-17T04:23:40.294Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
