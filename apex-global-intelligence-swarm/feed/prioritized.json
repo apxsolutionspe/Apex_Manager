@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-20T11:34:24.408Z",
+  "generated_at": "2026-10-20T17:01:54.973Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 945,
+    "total_evaluated": 970,
     "investigar": 0,
-    "informativa": 910,
-    "descartar": 35,
+    "informativa": 934,
+    "descartar": 36,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2466,6 +2466,30 @@
     },
     {
       "source": "github",
+      "title": "AI red-team exercise and private bug bounty",
+      "url": "https://github.com/harshiit-rana/VyaparAI/issues/655",
+      "source_created_at": "2026-10-20T16:56:37Z",
+      "first_seen_at": "2026-10-20T17:01:54.178Z",
+      "last_seen_at": "2026-10-20T17:01:54.178Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Security policy and bug bounty",
       "url": "https://github.com/0xjevons/monkeytrading/issues/43",
       "source_created_at": "2026-10-20T11:03:06Z",
@@ -3740,30 +3764,6 @@
       "title": "[BOUNTY] Medium: Untracked pending_rewards in BridgeState erodes deposit_cap & breaks vault backing, reset_validator_registry desyncs singleton stake_token_vault mint, and cosign_settlement accepts self-authority fee-payer & uninvited quorum payloads",
       "url": "https://github.com/paraloom-labs/paraloom-core/issues/974",
       "source_created_at": "2026-10-17T02:34:14Z",
-      "first_seen_at": "2026-10-17T04:23:40.294Z",
-      "last_seen_at": "2026-10-17T04:23:40.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "As someone who lost their item, I want to be able to set a bounty (a reward) so that other people have more of an incentive to help me",
-      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/38",
-      "source_created_at": "2026-10-17T01:42:34Z",
       "first_seen_at": "2026-10-17T04:23:40.294Z",
       "last_seen_at": "2026-10-17T04:23:40.294Z",
       "status": "informativa",
