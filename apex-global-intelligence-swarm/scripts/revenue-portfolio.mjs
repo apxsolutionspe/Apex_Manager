@@ -109,7 +109,7 @@ export function buildReport({archive,at=new Date()}={}){
       verified_new_income_pen:0, verified_new_income_usd:0,
       payments_not_connected_to_this_report:true
     },
-    ideas:ideas.slice(0,25),
+    ideas, // Keep the full ranked catalog of 120 hypotheses in the archived report.
     code_opportunities:filtered,
     blockers:[
       'No hay un procesador o cuenta de cobro confirmada en esta automatización',
