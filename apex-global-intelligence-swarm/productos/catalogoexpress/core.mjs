@@ -25,7 +25,7 @@ export function validate(x){
   });
   return {name,wa,tagline:String(x.tagline||'').trim().slice(0,160),items};
 }
-export function buildPage(raw){
+export function buildPage(raw, {preview = false} = {}){
   const v=validate(raw);
   const money=n=>new Intl.NumberFormat('es-PE',{style:'currency',currency:'PEN'}).format(n/100);
   const cards=v.items.map((p,i)=>
@@ -36,6 +36,7 @@ export function buildPage(raw){
   const script=[
     "'use strict';",
     "const DATA="+payload+";",
+    "const PREVIEW="+(preview ? "true" : "false")+";",
     "const cart=new Map();",
     "const currency=n=>new Intl.NumberFormat('es-PE',{style:'currency',currency:'PEN'}).format(n/100);",
     "function redraw(){const box=document.getElementById('cart');box.replaceChildren();let total=0;",
@@ -48,10 +49,10 @@ export function buildPage(raw){
     "div.append(desc,amount,less);box.append(div);}",
     "if(!cart.size){const p=document.createElement('p');p.textContent='Carrito vacío';box.append(p);}",
     "document.getElementById('total').textContent='Total referencial: '+currency(total);",
-    "document.getElementById('send').disabled=!cart.size;}",
+    "document.getElementById('send').disabled=PREVIEW||!cart.size;}",
     "document.querySelectorAll('[data-add]').forEach(b=>b.addEventListener('click',()=>{const i=Number(b.dataset.add);",
     "if(!DATA.items[i]||(cart.get(i)||0)>=99)return;cart.set(i,(cart.get(i)||0)+1);redraw()}));",
-    "document.getElementById('send').addEventListener('click',()=>{if(!cart.size)return;",
+    "document.getElementById('send').addEventListener('click',()=>{if(PREVIEW||!cart.size)return;",
     "const lines=['Hola, quiero consultar este pedido:'];let total=0;",
     "for(const [i,n] of cart){const p=DATA.items[i];lines.push('• '+n+' × '+p.title+' — '+currency(n*p.amount));total+=n*p.amount;}",
     "lines.push('Total referencial: '+currency(total),'Confirmar disponibilidad, plazo y precio por favor.');",
@@ -79,8 +80,8 @@ export function buildPage(raw){
     '<body><header><div class="wrap"><small>CATÁLOGO DIGITAL · PEDIDOS DIRECTOS</small><h1>'+esc(v.name)+'</h1><p>'+esc(v.tagline)+'</p></div></header>',
     '<main class="wrap"><h2>Productos y servicios</h2><section class="grid">'+cards+'</section>',
     '<section class="cart"><h2>Mi pedido</h2><div id="cart" aria-live="polite"></div>',
-    '<div class="total" id="total"></div><button type="button" id="send">Solicitar pedido por WhatsApp</button>',
-    '<p class="note">El pedido solo se envía si lo confirmas en WhatsApp. Precios y disponibilidad sujetos a confirmación. Esta página no cobra dinero y no registra datos en servidores.</p></section></main>',
+    '<div class="total" id="total"></div><button type="button" id="send">'+(preview ? 'Pedidos disponibles solo en el catálogo descargado' : 'Solicitar pedido por WhatsApp')+'</button>',
+    '<p class="note">'+(preview ? 'Vista previa: prueba el carrito sin abrir WhatsApp. Los pedidos se habilitan en el catálogo descargado.' : 'El pedido solo se envía si lo confirmas en WhatsApp. Precios y disponibilidad sujetos a confirmación. Esta página no cobra dinero y no registra datos en servidores.')+'</p></section></main>',
     '<footer>Catálogo digital preparado con APEX PRIME X</footer><script>'+script+'</script></body></html>'
   ].join('');
 }
