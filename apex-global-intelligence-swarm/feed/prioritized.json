@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-20T17:19:11.685Z",
+  "generated_at": "2026-10-20T17:45:40.806Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 972,
+    "total_evaluated": 976,
     "investigar": 0,
-    "informativa": 935,
+    "informativa": 939,
     "descartar": 37,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -668,7 +668,7 @@
       "url": "https://github.com/JENW1N/complete-math-solutions/issues/1",
       "source_created_at": "2026-10-20T17:15:36Z",
       "first_seen_at": "2026-10-20T17:19:11.083Z",
-      "last_seen_at": "2026-10-20T17:19:11.083Z",
+      "last_seen_at": "2026-10-20T17:45:39.520Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2493,7 +2493,7 @@
       "url": "https://github.com/harshiit-rana/VyaparAI/issues/655",
       "source_created_at": "2026-10-20T16:56:37Z",
       "first_seen_at": "2026-10-20T17:01:54.178Z",
-      "last_seen_at": "2026-10-20T17:19:11.083Z",
+      "last_seen_at": "2026-10-20T17:45:39.520Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
