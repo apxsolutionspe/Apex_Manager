@@ -42,3 +42,39 @@ test('exporta CSV escapado y protege contra fórmulas de hoja de cálculo',()=>{
 test('utiliza formato monetario PEN para mostrar precios',()=>{
   assert.match(pen(3500),/35/);
 });
+
+test('CSV refleja materiales, mano de obra, recargo, impuestos y total calculados',()=>{
+  const csv=quoteCsv({...q,taxPercent:18});
+  const expected=[
+    ['Subtotal materiales','415.00'],
+    ['Mano de obra (horas)','220.00'],
+    ['Otros gastos','0.00'],
+    ['Costo base','635.00'],
+    ['Recargo (15%)','95.25'],
+    ['Subtotal antes de impuesto','730.25'],
+    ['Impuesto opcional (18%)','131.45'],
+    ['Total PEN','861.70']
+  ];
+  assert.match(csv,/"Importe PEN"/);
+  for(const [name,amount] of expected){
+    assert.ok(csv.includes(csvCell(name)),name);
+    assert.ok(csv.includes(csvCell(amount)),amount);
+  }
+  assert.ok(csv.includes('"Cámaras","2","160.00","320.00"'));
+  assert.ok(csv.includes('"Cable","1","95.00","95.00"'));
+});
+test('CSV usa los mismos redondeos de céntimos y no agrega impuesto por omisión',()=>{
+  const input={...q,lines:[{label:'Ítem',quantity:3,unitPrice:'1.235'}],
+    hours:0,hourRate:0,extras:0,markupPercent:0,taxPercent:0};
+  const csv=quoteCsv(input);
+  const result=computeQuote(input);
+  assert.equal(result.materials,372);
+  assert.ok(csv.includes('"Ítem","3","1.24","3.72"'));
+  assert.ok(csv.includes('"Total PEN","","","3.72"'));
+  assert.ok(csv.includes('"Impuesto opcional (0%)","","","0.00"'));
+});
+test('CSV no ejecuta fórmulas introducidas en etiquetas y rechaza montos inválidos',()=>{
+  const csv=quoteCsv({...q,lines:[{label:'=HYPERLINK("https://example.invalid")',quantity:1,unitPrice:2}]});
+  assert.ok(csv.includes('"\'=HYPERLINK(""https://example.invalid"")"'));
+  assert.throws(()=>quoteCsv({...q,markupPercent:101}),RangeError);
+});

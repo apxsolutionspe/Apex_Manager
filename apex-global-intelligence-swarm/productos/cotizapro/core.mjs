@@ -46,10 +46,26 @@ export function csvCell(value) {
   return '"' + s.replace(/"/g,'""') + '"';
 }
 export function quoteCsv(quote) {
-  const rows = [['Concepto', 'Cantidad', 'Precio unitario PEN'], ...quote.lines.map(x => [
-    x.label, x.quantity, x.unitPrice
-  ])];
-  rows.push(['Total PEN', '', (computeQuote(quote).total / 100).toFixed(2)]);
+  // Always derive every subtotal from the same cent-based calculation
+  // used by the interface. No fiscal status is inferred from the tax field.
+  const amounts = computeQuote(quote);
+  const rows = [
+    ['Concepto', 'Cantidad', 'Precio unitario PEN', 'Importe PEN'],
+    ...quote.lines.map(row => [
+      row.label,
+      row.quantity,
+      (cents(row.unitPrice) / 100).toFixed(2),
+      (Math.round(quantity(row.quantity) * cents(row.unitPrice)) / 100).toFixed(2)
+    ]),
+    ['Subtotal materiales', '', '', (amounts.materials / 100).toFixed(2)],
+    ['Mano de obra (horas)', quote.hours || 0, Number(quote.hourRate || 0).toFixed(2), (amounts.labor / 100).toFixed(2)],
+    ['Otros gastos', '', '', (amounts.extras / 100).toFixed(2)],
+    ['Costo base', '', '', (amounts.cost / 100).toFixed(2)],
+    ['Recargo (' + percentage(quote.markupPercent || 0) + '%)', '', '', (amounts.markup / 100).toFixed(2)],
+    ['Subtotal antes de impuesto', '', '', (amounts.subtotal / 100).toFixed(2)],
+    ['Impuesto opcional (' + percentage(quote.taxPercent || 0) + '%)', '', '', (amounts.tax / 100).toFixed(2)],
+    ['Total PEN', '', '', (amounts.total / 100).toFixed(2)]
+  ];
   return '\uFEFF' + rows.map(row => row.map(csvCell).join(',')).join('\r\n') + '\r\n';
 }
 export function validateStoredQuote(x) {
