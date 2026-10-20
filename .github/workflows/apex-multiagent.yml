@@ -9,6 +9,8 @@ on:
       - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
       - 'apex-global-intelligence-swarm/scripts/sales-health.mjs'
       - 'apex-global-intelligence-swarm/tests/sales-health.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/revenue-portfolio.mjs'
+      - 'apex-global-intelligence-swarm/tests/revenue-portfolio.test.mjs'
       - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
       - 'apex-global-intelligence-swarm/servicios.html'
   schedule:
@@ -21,6 +23,8 @@ on:
       - 'apex-global-intelligence-swarm/tests/multiagent-scout.test.mjs'
       - 'apex-global-intelligence-swarm/scripts/sales-health.mjs'
       - 'apex-global-intelligence-swarm/tests/sales-health.test.mjs'
+      - 'apex-global-intelligence-swarm/scripts/revenue-portfolio.mjs'
+      - 'apex-global-intelligence-swarm/tests/revenue-portfolio.test.mjs'
       - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
       - 'apex-global-intelligence-swarm/servicios.html'
 
@@ -49,13 +53,18 @@ jobs:
         run: |
           node --check scripts/multiagent-scout.mjs
           node --check scripts/sales-health.mjs
-          node --test tests/multiagent-scout.test.mjs tests/sales-health.test.mjs
+          node --check scripts/revenue-portfolio.mjs
+          node --test tests/multiagent-scout.test.mjs tests/sales-health.test.mjs tests/revenue-portfolio.test.mjs
       - name: Ejecutar agentes públicos en paralelo (solo lectura)
         if: github.event_name != 'pull_request'
         working-directory: apex-global-intelligence-swarm
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/multiagent-scout.mjs
+      - name: Generar cartera de 120 hipótesis y filtrar pagos no confirmados
+        if: github.event_name != 'pull_request'
+        working-directory: apex-global-intelligence-swarm
+        run: node scripts/revenue-portfolio.mjs
       - name: Verificar rutas comerciales y salud del sitio público
         # Avoid deployment race: push launches the Pages publisher in parallel.
         # Live URL verification runs on schedule or explicit manual dispatch.
@@ -70,5 +79,6 @@ jobs:
           path: |
             apex-global-intelligence-swarm/artifacts/multiagent-report.json
             apex-global-intelligence-swarm/artifacts/sales-health.json
+            apex-global-intelligence-swarm/artifacts/revenue-portfolio.json
           if-no-files-found: error
           retention-days: 14
