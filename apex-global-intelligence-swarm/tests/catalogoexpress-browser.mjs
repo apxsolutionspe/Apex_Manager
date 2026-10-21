@@ -73,7 +73,7 @@ try{
  assert.equal(await page.locator('#businessName').inputValue(),'Ferretería de ejemplo');
  assert.equal(await page.locator('#phone').inputValue(),'51912345678');
  assert.equal(await page.locator('.row-item').count(),3);
- assert.match(await page.locator('.row-item').first().innerText(),/Ejemplo: tornillos por bolsa/);
+ assert.equal(await page.locator('.row-item').first().locator('input').first().inputValue(),'Ejemplo: tornillos por bolsa');
  assert.match(await page.locator('#status').innerText(),/precios ficticios/i);
  const sectorContact=await page.locator('#sectorContact').getAttribute('href');
  assert.match(decodeURIComponent(sectorContact),/plantilla de Ferretería y materiales/);
