@@ -24,10 +24,12 @@ function persist(){
  try{localStorage.setItem(KEY,JSON.stringify(current));}catch{}
 }
 function preview(){
- pull();persist();
+ pull();
  try{
   const html=buildPage(current);
   $('preview').srcdoc=html;
+  // Invalid edits must not overwrite the last recoverable local draft.
+  persist();
   notify('');
  }catch(e){notify(e.message,true);}
 }
