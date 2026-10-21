@@ -9,7 +9,16 @@ export function quantity(value) {
 export function cents(value) {
   const n = Number(value);
   if (!Number.isFinite(n) || n < 0 || n > MAX_AMOUNT) throw new RangeError('Monto inválido');
-  return Math.round((n + Number.EPSILON) * 100);
+  const decimal = String(value).trim();
+  if (/^(?:[0-9]+(?:\.[0-9]*)?|\.[0-9]+)$/.test(decimal)) {
+    const [integer, fraction = ''] = decimal.split('.');
+    const rounded = Number(integer || 0) * 100
+      + Number((fraction + '00').slice(0, 2))
+      + (fraction.length > 2 && fraction[2] >= '5' ? 1 : 0);
+    return rounded;
+  }
+  if (typeof value === 'number') return Math.round(n * 100);
+  throw new RangeError('Monto inválido');
 }
 export function percentage(value) {
   const n = Number(value);
@@ -58,7 +67,7 @@ export function quoteCsv(quote) {
       (Math.round(quantity(row.quantity) * cents(row.unitPrice)) / 100).toFixed(2)
     ]),
     ['Subtotal materiales', '', '', (amounts.materials / 100).toFixed(2)],
-    ['Mano de obra (horas)', quote.hours || 0, Number(quote.hourRate || 0).toFixed(2), (amounts.labor / 100).toFixed(2)],
+    ['Mano de obra (horas)', quote.hours || 0, (cents(quote.hourRate || 0) / 100).toFixed(2), (amounts.labor / 100).toFixed(2)],
     ['Otros gastos', '', '', (amounts.extras / 100).toFixed(2)],
     ['Costo base', '', '', (amounts.cost / 100).toFixed(2)],
     ['Recargo (' + percentage(quote.markupPercent || 0) + '%)', '', '', (amounts.markup / 100).toFixed(2)],
