@@ -1,0 +1,40 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+
+const base=new URL('../',import.meta.url);
+const html=await readFile(new URL('plantillas-premium.html',base),'utf8');
+const services=await readFile(new URL('servicios.html',base),'utf8');
+
+test('escaparate premium tiene SEO real, presentación y cero checkout ficticio',()=>{
+ assert.ok(html.startsWith('<!doctype html>'));
+ assert.match(html,/<html lang="es">/);
+ assert.match(html,/name="viewport"/);
+ assert.match(html,/<link rel="canonical" href="https:\/\/apxsolutionspe\.github\.io\/Apex_Manager\/plantillas-premium\.html">/);
+ const raw=html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+ assert.ok(raw,'single JSON-LD block must exist');
+ const schema=JSON.parse(raw[1]);
+ assert.equal(schema['@type'],'CollectionPage');
+ assert.equal(schema.publisher.name,'APEX PRIME X');
+ assert.equal(schema.url,'https://apxsolutionspe.github.io/Apex_Manager/plantillas-premium.html');
+ assert.equal((html.match(/<article class="product">/g)||[]).length,2);
+ assert.match(html,/Figma · 6 diseños cuadrados/);
+ assert.match(html,/Canva · 10 diapositivas editables/);
+ assert.match(html,/No se procesan compras en esta página/);
+ assert.doesNotMatch(html,/checkout\.stripe\.com|pago recibido|compra confirmada/i);
+});
+test('productos tienen contacto comercial voluntario sin mensajes automáticos',()=>{
+ const links=[...html.matchAll(/href="(https:\/\/wa\.me\/51931797758\?text=[^"]+)"/g)];
+ assert.equal(links.length,3);
+ for(const item of links){
+  const url=new URL(item[1]);
+  assert.equal(url.hostname,'wa.me');
+  assert.equal(url.pathname,'/51931797758');
+  assert.match(decodeURIComponent(url.searchParams.get('text')),/(?:personalizacion|diseno)/);
+ }
+ assert.doesNotMatch(html,/<script\b(?! type="application\/ld\+json")/);
+ assert.match(html,/El visitante decide si inicia una conversación por WhatsApp/);
+});
+test('servicios enlaza la nueva colección premium',()=>{
+ assert.match(services,/href="\.\/plantillas-premium\.html"/);
+});
