@@ -19,14 +19,14 @@ function pull(){
  current.name=$('businessName').value;
  current.tagline=$('tagline').value;
  current.phone=$('phone').value;
+ return current;
 }
 function persist(){
  try{localStorage.setItem(KEY,JSON.stringify(current));}catch{}
 }
 function preview(){
- pull();
  try{
-  const html=buildPage(current);
+  const html=buildPage(pull());
   $('preview').srcdoc=html;
   // Invalid edits must not overwrite the last recoverable local draft.
   persist();
