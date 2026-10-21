@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-21T00:43:53.741Z",
+  "generated_at": "2026-10-21T04:44:04.323Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1014,
+    "total_evaluated": 1039,
     "investigar": 0,
-    "informativa": 976,
+    "informativa": 1001,
     "descartar": 38,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -659,6 +659,31 @@
         "payment": false
       },
       "published_amount_usd": 105,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1629",
+      "source_created_at": "2026-10-21T03:52:58Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1359,6 +1384,52 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Single-spend `payload.authority` rotation evicts `cosign_counts` at `MAX_COSIGN_COUNTS` to reset `MAX_COSIGNS_PER_SETTLEMENT`, and `initiate_transact_verification` omits the `#726` `already_verified` short-circuit (enabling retry sel",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1154",
+      "source_created_at": "2026-10-21T04:26:06Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty #30 Restaurant POS Interface ($400): scope and paid availability",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/45",
+      "source_created_at": "2026-10-21T02:50:12Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 400,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2581,6 +2652,52 @@
     },
     {
       "source": "github",
+      "title": "Application: board item 31 — Real Estate Listing Portal ($350) — RedGhost123",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/44",
+      "source_created_at": "2026-10-21T02:44:10Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Application: board item 22 — Live Chat Widget ($350) — RedGhost123",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/43",
+      "source_created_at": "2026-10-21T02:44:06Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[Bounty Proposal] Fix LocalWalSyncImpl async flush frame-buffer wipe & stale device clear on reconnect (#22912)",
       "url": "https://github.com/BasedHardware/omi/issues/22940",
       "source_created_at": "2026-10-20T20:55:49Z",
@@ -3650,128 +3767,6 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bounty Abandom Mechanic",
-      "url": "https://github.com/GranSkreaReforged/GSOOffline/issues/86",
-      "source_created_at": "2026-10-18T03:20:26Z",
-      "first_seen_at": "2026-10-18T04:30:25.292Z",
-      "last_seen_at": "2026-10-18T04:30:25.292Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "B-028 Bounty and progressive bounty, satellites, guarantee with overlay, multi-flight",
-      "url": "https://github.com/adwate-ui/rivr-platform/issues/117",
-      "source_created_at": "2026-10-18T04:22:40Z",
-      "first_seen_at": "2026-10-18T04:30:25.292Z",
-      "last_seen_at": "2026-10-18T04:30:25.292Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1269",
-      "source_created_at": "2026-10-17T17:48:50Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[feedback/bug] The join manifest's board-tail Monitor (`bounty tail ……",
-      "url": "https://github.com/ichabodcole/anthill/issues/114",
-      "source_created_at": "2026-10-17T20:16:29Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 1 New Opportunity found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1270",
-      "source_created_at": "2026-10-17T20:07:50Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
