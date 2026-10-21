@@ -10,7 +10,9 @@ export const TARGETS = Object.freeze([
  {id:'cotizapro',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/cotizapro/',
   required:['CotizaPro','https://wa.me/51931797758','./app.mjs']},
  {id:'catalogoexpress',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/catalogoexpress/',
-  required:['CatálogoExpress','https://wa.me/51931797758','./app.mjs']}
+  required:['CatálogoExpress','https://wa.me/51931797758','./app.mjs']},
+ {id:'plantillas-premium',url:'https://apxsolutionspe.github.io/Apex_Manager/plantillas-premium.html',
+  required:['Social Media Premium Kit','Pitch Deck Premium','https://wa.me/51931797758']}
 ]);
 
 export async function inspectTarget(target,{fetcher=fetch}={}) {
