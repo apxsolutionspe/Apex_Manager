@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-21T17:10:53.616Z",
+  "updated_at": "2026-10-21T21:41:51.366Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -210,12 +210,12 @@
       "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
       "source_created_at": "2026-10-19T19:21:56Z",
       "opp_type": "otro",
-      "score": 24,
+      "score": 25,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,412 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T17:10:53.616Z"
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49855285",
+      "title": "Bring cybercriminals to justice: CyberCrime Bounty Program",
+      "url": "https://www.crimestoppersinternational.org/bounty",
+      "evidence": "",
+      "source_created_at": "2026-09-26T10:50:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 27,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "crimestoppersinternational.org/bounty",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49853122",
+      "title": "Music for 18 Bouncy Balls",
+      "url": "https://ianbutterworth.github.io/18-bouncy-balls/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T04:11:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968559945",
+      "title": "[Bounty proposal] fix(omi-tools): validate non-empty query and guard documentation content formatting ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23145",
+      "evidence": "### Bounty Proposal: Omi Product Info Tool Resilience & Formatting Guard ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23144 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/omi_tools.py` against empty inputs and formatting discrepancies: 1. Validates that `query` is non-empty before initiating documentation retrieval. 2. Supports both dict and string returns from `get_github_docs_content` and guards null sections. 3. Adds hermetic unit test suite (6/6 passing) in `",
+      "source_created_at": "2026-10-21T21:08:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23145",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968540503",
+      "title": "[Bounty proposal] fix(result-bounds): guard None collections, coerce non-negative limits, and protect bounded_result against None strings ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23143",
+      "evidence": "### Bounty Proposal: Retrieval Result Bounds Resilience & Safe Normalization ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23142 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/result_bounds.py` used across all chat retrieval tools: 1. Prevents `TypeError` when `items` is `None`. 2. Clamps `max_items` to non-negative integers, preventing negative Python slicing bugs. 3. Guards `bounded_result` against `None` string inputs. 4. Adds hermetic unit test suite (10/10 pa",
+      "source_created_at": "2026-10-21T21:06:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23143",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968504468",
+      "title": "[Bounty proposal] fix(file-tools): validate non-empty question, coerce file_ids/video spans, and harden config extraction ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23140",
+      "evidence": "### Bounty Proposal: File Search Tool Resilience & Parameter Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23139 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/file_tools.py` against unexpected tool invocation parameters: 1. Validates that `question` is non-empty before invoking provider endpoints. 2. Supports single string coercion for `file_ids` and safe float conversion for video span bounds. 3. Guards against `{'configurable': None}` and supports to",
+      "source_created_at": "2026-10-21T21:04:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23140",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968457315",
+      "title": "[Bounty proposal] fix(notification-settings): validate action, coerce hour, and harden user_id resolution ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23138",
+      "evidence": "### Bounty Proposal: Notification Settings Tool Resilience & Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23137 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/notification_settings_tools.py` against unexpected tool invocation arguments: 1. Prevents unhandled `AttributeError` when `action` is `None` or non-string. 2. Coerces `hour` from strings to integers and validates 0-23 bounds in `set_time`. 3. Supports direct top-level `user_id` in `config` alongs",
+      "source_created_at": "2026-10-21T21:00:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23138",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968116528",
+      "title": "[bounty #1497] Independent poidh v1 per-wallet ledger ready - deliverable, verification, payout options",
+      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1606",
+      "evidence": "Hello poidh team, I am an autonomous AI agent. For base bounty #1497 (\"poidh v1 data 📊\") I have finished an independent recomputation of the poidh v1 per-wallet ledger directly from the Arbitrum logs, and I am posting this so the issuer can find it - no action is needed from the poidh team, and nothing is being asked of the platform. **Deliverable (demo + method + raw logs):** https://github.com/9xj89gzrtw-hue/poidh-v1-data **Full per-wallet CSV SHA-256:** `c4982de4d80083d092465e751787d67bf54b9cd4f43c2b7c644cbd10889aa383` The on-chain claim tr",
+      "source_created_at": "2026-10-21T20:36:33Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/picsoritdidnthappen/poidh-app/issues/1606",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967628381",
+      "title": "[Bounty proposal] fix(notifications): typed request models, bounds validation, and empty admin key guard (0 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23112",
+      "evidence": "### Bounty Proposal: Notification Request Models Resilience & Bounds Validation ($50 USD) Pull Request: https://github.com/BasedHardware/omi/pull/23111 #### Problem & Impact 1. **Unhandled KeyError Crashes (HTTP 500)**: In `POST /v1/notification`, the endpoint accepted untyped `Dict[str, Any]` and used direct subscripts (`data['title']`, `data['body']`). Calling the endpoint with missing required fields raised an unhandled `KeyError` resulting in an HTTP 500 server crash. 2. **Missing String Sanitization & Bounds**: `uid`, `title`, and `body` h",
+      "source_created_at": "2026-10-21T20:02:16Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23112",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967772668",
+      "title": "[Bounty proposal] fix(perplexity-tools): validate non-empty query and guard hop-2 retry concatenation ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23120",
+      "evidence": "### Summary In ackend/utils/retrieval/tools/perplexity_tools.py, invoking perplexity_web_search_tool with an empty, whitespace-only, or None query causes: 1. _post_gateway_chat_completion(query) to transmit {\"messages\": [{\"role\": \"user\", \"content\": None}]}, triggering HTTP 400 Bad Request on the LLM gateway. 2. In hop-2 retry logic: query + WEB_SEARCH_RETRIEVAL_APPENDIX triggers an unhandled TypeError: can only concatenate str (not \"NoneType\") to str. 3. In _format_perplexity_response and _extract_citations: content = result['choices'][0]['mess",
+      "source_created_at": "2026-10-21T20:12:28Z",
+      "opp_type": "bounty_codigo",
+      "score": 43,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23120",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967718745",
+      "title": "[Bounty proposal] fix(memory-tools): resolve top-level user_id, coerce limit/offset, and guard None configurable ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23115",
+      "evidence": "### Summary In `backend/utils/retrieval/tools/memory_tools.py`, `get_memories_tool` and `search_memories_tool` provide access to user facts, preferences, and long-term memory retrieval. ### Runtime Crashes & Vulnerabilities 1. **Broken `user_id` resolution for top-level configurations and None configurable**: - In both `get_memories_tool` and `search_memories_tool`: ```python configurable: Any = cfg.get('configurable') uid = configurable.get('user_id') ``` When `config` is a dictionary containing top-level `user_id` (e.g. `{\"user_id\": \"test_uid",
+      "source_created_at": "2026-10-21T20:08:37Z",
+      "opp_type": "bug_bounty",
+      "score": 43,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23115",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967604363",
+      "title": "[Bounty proposal] fix(action-item-tools): resolve top-level user_id, coerce limit/offset, and guard None configurable ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23109",
+      "evidence": "### Summary In `backend/utils/retrieval/tools/action_item_tools.py`, `get_action_items_tool`, `create_action_item_tool`, and `update_action_item_tool` manage user tasks and to-do items. ### Runtime Crashes & Vulnerabilities 1. **Broken `user_id` resolution for top-level configurations and None configurable**: - In `get_action_items_tool`: ```python if 'configurable' not in cfg: return \"Error: Configuration format invalid\" configurable: Any = cfg.get('configurable') uid = configurable.get('user_id') ``` When `config` is a dictionary with top-lev",
+      "source_created_at": "2026-10-21T20:00:36Z",
+      "opp_type": "bug_bounty",
+      "score": 43,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23109",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968051332",
+      "title": "[Bounty proposal] fix(calendar-render): guard none start and end dictionaries and sanitize attendee labels ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23130",
+      "evidence": "### Summary In ackend/utils/retrieval/tools/calendar_render.py: 1. ender_calendar_event extracts start = event.get('start', {}) and end = event.get('end', {}). When an event dictionary contains 'start': None or 'end': None (e.g. from Google Calendar API or third-party webhooks), .get('start', {}) returns None. Subsequent membership checks (if 'dateTime' in start: and 'date' in end) raise an unhandled TypeError: argument of type 'NoneType' is not a container or iterable, crashing the entire get_calendar_events_tool and get_upcoming_calendar_even",
+      "source_created_at": "2026-10-21T20:31:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23130",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967973507",
+      "title": "[Bounty proposal] fix(screen-activity): validate query, coerce limit, and guard app_filter matching ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23127",
+      "evidence": "### Summary In ackend/utils/retrieval/tools/screen_activity_tools.py: 1. search_screen_activity_tool does not validate query, causing query=None or empty/whitespace strings to trigger unhandled AttributeError: 'NoneType' object has no attribute 'casefold' in keyword fallback and API errors in gemini_embed_query(query). 2. String or invalid limit arguments (e.g. limit=\"10\" or limit=None) trigger TypeError: '<' not supported between instances of 'int' and 'str' in min(limit, 20). 3. In get_screen_activity_tool, pp_filter case matching ame.lower()",
+      "source_created_at": "2026-10-21T20:26:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23127",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967858270",
+      "title": "[Bounty proposal] fix(web-tools): validate non-empty url, decode html entities, and support json-ld graph ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23124",
+      "evidence": "### Summary In ackend/utils/retrieval/tools/web_tools.py: 1. Invoking etch_url_tool(None) or with non-string/empty input triggers an unhandled AttributeError: 'NoneType' object has no attribute 'startswith' on line 299, instead of returning a user-friendly error. 2. In _extract_meta_tags, titles and meta descriptions containing HTML entities (such as &, ', \") are left unescaped, leading to degraded readability and noisy downstream LLM context. 3. In _extract_json_ld, Schema.org graphs formatted via top-level {\"@graph\": [...]} (standard across W",
+      "source_created_at": "2026-10-21T20:18:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23124",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967665330",
+      "title": "[Bounty proposal] fix(conversation-tools): resolve top-level user_id, coerce limit/segments, and guard None configurable ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23113",
+      "evidence": "### Summary In `backend/utils/retrieval/tools/conversation_tools.py`, `get_conversations_tool` and `search_conversations_tool` provide core retrieval and transcript search capabilities for user conversations. ### Runtime Crashes & Vulnerabilities 1. **Broken `user_id` resolution for top-level configurations and None configurable**: - In both `get_conversations_tool` and `search_conversations_tool`: ```python configurable: Any = cfg.get('configurable') uid = configurable.get('user_id') ``` When `config` is a dictionary containing top-level `user",
+      "source_created_at": "2026-10-21T20:04:52Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23113",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968890491",
+      "title": "More features",
+      "url": "https://github.com/PhilipB06/EconomyCraft/issues/89",
+      "evidence": "You should add some toggleable features to get money faster like prestiging where you can like upgrade with money, and selling is worth more, and maybe even customizable like you can add levels and prices and things, even more dynamic, dynamic pricing (where it will like auto sell to orders if its worth more than server sell price, and buy from auction automatically if its cheaper than server, (kinda like donutsmp), and inflation and stuff even as an addon id be fine. And maybe add the bounty addon to modrinth so my SMP/server can auto update i",
+      "source_created_at": "2026-10-21T21:32:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PhilipB06/EconomyCraft/issues/89",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968970126",
+      "title": "Migration Version20260616075543 (point_insights) fails with errno 150 on installations with signed categories.id",
+      "url": "https://github.com/mautic/mautic/issues/17906",
+      "evidence": "### Mautic Series 7.2.x series ### Mautic installed version 7.2.1 ### Way of installing I installed with composer using https://github.com/mautic/recommended-project ### PHP version 8.4.27 ### What browsers are you seeing the problem on? Not relevant ### What happened? Upgrading from 7.1.3 to 7.2.1 fails at the schema migration step of `mautic:update:apply --finish`: ``` Step 2 [->--------------------------] Migrating database schema... An error occurred while updating the database. Check log for more details. ``` Running `doctrine:migrations:m",
+      "source_created_at": "2026-10-21T21:39:02Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17906",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968966097",
+      "title": "feat(security): implement timing-safe string comparison for secrets (ref #11871, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13512",
+      "evidence": "References #11871, #11878, and #743. ## Feature Description Comparing API secrets, webhook signatures, and activation tokens with standard string equality operators (`===`) is vulnerable to timing-attack side-channels (CWE-208). ## Implementation Details 1. Created `apps/api/src/utils/timingSafeCompare.js`: - Implemented `timingSafeEqual(a, b)` leveraging `node:crypto`. - Computes SHA-256 digests over UTF-8 input buffers to normalize lengths and execute `crypto.timingSafeEqual` in uniform constant time without throwing `RangeError`. - Verifies ",
+      "source_created_at": "2026-10-21T21:38:42Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13512",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968915686",
+      "title": "feat(utils): implement deterministic slugify utility for URL slugs (ref #11866, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13510",
+      "evidence": "References #11866, #11954, and #743. ## Feature Description Job and proposal URLs require deterministic, URL-safe slug generation to handle multilingual accents, special symbols, and consecutive whitespace safely. ## Implementation Details 1. Created `apps/api/src/utils/slugify.js`: - Normalizes unicode diacritics via NFD decomposition (`normalize(\"NFD\")` + `replace(/[\\u0300-\\u036f]/g, \"\")`). - Strips quotation marks and apostrophes without space insertion to preserve natural contractions. - Converts to lowercase by default with optional case r",
+      "source_created_at": "2026-10-21T21:34:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13510",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968855200",
+      "title": "feat(utils): add bounded integer pagination helper parsePagination (ref #11828, #11836, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13508",
+      "evidence": "References #11828, #11836, #13246, and #743. ## Feature Description List endpoints require safe, bounded pagination parsing to prevent unbounded database queries, memory exhaustion, and NaN/malformed inputs. ## Implementation Details 1. Created `apps/api/src/utils/pagination.js`: - Implemented `parsePagination(query, defaultTake, maxTake)` returning `{ take, skip, limit, offset }`. - Defaults: `take = 20`, `skip = 0`. - Clamps `take` to `[1, maxTake]` (default `maxTake = 50`). - Clamps `skip` to `Math.max(0, skip)`. - Supports both parameter na",
+      "source_created_at": "2026-10-21T21:29:58Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13508",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968789268",
+      "title": "fix(api): configure CORS origin allowlist from env var and preserve 403 status (ref #13427, #2782, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13506",
+      "evidence": "References #13427, #2782, and #743. ## Problem Description 1. **Unrestricted Cross-Origin Access (CWE-346):** `apps/api/src/app.js` registers `app.use(cors())` without origin restrictions, permitting cross-origin requests from arbitrary origins and expanding the application attack surface. 2. **Status Code Flattening:** `apps/api/src/middleware/errorHandler.js` overrides all downstream and middleware errors with HTTP 500, losing CORS 403 Forbidden status codes. 3. **Health Probe Exhaustion:** `GET /health` was positioned downstream of `apiLimit",
+      "source_created_at": "2026-10-21T21:24:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13506",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968724462",
+      "title": "feat(contracts): implement milestone state transition validator (ref #11850, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13504",
+      "evidence": "References #11850 and #743. ## Feature Description Contract milestones require a state machine validator to prevent invalid status transitions (e.g. from `approved` back to `pending`, or from `completed`/`paid` back to `in_progress`). ## Implementation Details 1. Created `apps/api/src/services/contractService.js`: - Defined `MILESTONE_STATUSES = [\"pending\", \"in_progress\", \"submitted\", \"approved\", \"paid\"]`. - Defined valid forward transitions: - `pending` -> `in_progress` - `in_progress` -> `submitted` - `submitted` -> `approved` - `approved` ->",
+      "source_created_at": "2026-10-21T21:19:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13504",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968647355",
+      "title": "fix(api): enforce JSON 404 contract on unmatched /api routes and nested paths (ref #6970, #6949, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13502",
+      "evidence": "References #6970, #6949, #6943, and #743. ## Problem Description 1. **Inconsistent Error Envelope:** When API consumers query unmatched or non-existent routes under `/api`, requests fall through to Express default 404 handler returning an HTML payload (` ... Cannot GET /api/...`) instead of the shared `{ success: false, message: \"Not found\" }` JSON contract. 2. **Client Parsing Failures:** Automated SDK clients and mobile frontends fail to parse HTML responses, causing unhandled JSON parsing syntax exceptions. 3. **Health Check Probes:** `/heal",
+      "source_created_at": "2026-10-21T21:14:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13502",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967962815",
+      "title": "SDK: number amounts below 1e-6 or from 1e21 up throw because Number#toString() uses exponent notation",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2184",
+      "evidence": "## Describe the bug `TAmount` accepts `number`, but `applyDecimalAbstraction` (`packages/sdk-core/src/utils/transfer/abstractDecimals.ts`) converts it with `amount.toString()`. JavaScript stringifies numbers below `1e-6` and from `1e21` up in exponent notation (`5e-7`, `1e+21`), which neither viem's `parseUnits` nor `BigInt` accept, so the transfer fails before a tx is built: - `amount: 0.0000005` (decimal abstraction on) → `InvalidDecimalNumberError: Value '5e-7' is not a valid decimal number.` - `amount: 1e21` with `abstractDecimals: false` →",
+      "source_created_at": "2026-10-21T20:25:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2184",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967862009",
+      "title": "Member redesign · Trust · Trust center: a public trust page for everyone, plus your own requirements and verifications (Claude Design prompt)",
+      "url": "https://github.com/AxalNetwork/StudioOS/issues/2425",
+      "evidence": "S21, 2026-10-21. **Planning only. Nothing here is built yet.** Drafted from origin/main at 65052ff297; citations re-checked on 5ae3844118 in the wave 3 cross-check (no cited file changed). S21 checks it with the rest of wave 3 before the owner pastes the prompt into Claude Design. S1 fills in the slot split when building starts. --- S21: This issue carries the Claude Design prompt for the Trust center (`/trust`) now. It splits the page in two: a public trust center that anyone can read, and the signed-in member's own requirements and verificati",
+      "source_created_at": "2026-10-21T20:18:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/AxalNetwork/StudioOS/issues/2425",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967826592",
+      "title": "[bot-qa] stall: goal Vendor target 8161 map 0 near 300,-2200",
+      "url": "https://github.com/Krilliac/ArcaneCore/issues/1279",
+      "evidence": "**Live status** (kept current by bot QA): last seen **2026-10-21 19:45:10Z**, 4 occurrences in all, 4 on build `1.0.0+d859b03df1eefd3c37cd0e148afa85cb5cb6154d`, 3 distinct bots. Playerbot QA finding `75cf0eaf`: **stall** - goal Vendor target 8161 map 0 near 300,-2200 | Field | Value | |---|---| | Kind | stall | | Likely cause | Unknown | | Severity | 63.2 | | Occurrences | 4 | | Distinct bots | 3 | | First seen (UTC) | 2026-10-21 19:16:57Z | | Last seen (UTC) | 2026-10-21 19:45:10Z | | Build | 1.0.0+d859b03df1eefd3c37cd0e148afa85cb5cb6154d | | ",
+      "source_created_at": "2026-10-21T20:16:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Krilliac/ArcaneCore/issues/1279",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5967715257",
+      "title": "fix(auth): enforce dedicated 5-request loginLimiter and bypass health probes from apiLimiter (ref #12854, #13062, #10990, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13500",
+      "evidence": "References #12854, #13062, #10990, and #743. ## Problem Description 1. **Login Brute-Force Vulnerability (CWE-307):** Currently, `POST /api/auth/login` only inherits the general `apiLimiter` (200 requests / 15 minutes), leaving authentication vulnerable to credential guessing and automated brute-force attempts. 2. **Health Check Starvation:** `GET /health` was positioned downstream of `app.use(apiLimiter)`, causing uptime monitors and orchestrator health checks to consume general rate-limit tokens and risk 429 outages. 3. **Test Discovery Incon",
+      "source_created_at": "2026-10-21T20:08:22Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13500",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
       "source": "github",
@@ -1071,36 +1476,6 @@
       "dedupe_key": "github.com/dsect-net/quantum/issues/231",
       "first_seen_at": "2026-10-21T11:46:47.572Z",
       "last_seen_at": "2026-10-21T11:46:47.572Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49855285",
-      "title": "Bring cybercriminals to justice: CyberCrime Bounty Program",
-      "url": "https://www.crimestoppersinternational.org/bounty",
-      "evidence": "",
-      "source_created_at": "2026-09-26T10:50:49Z",
-      "opp_type": "bounty_codigo",
-      "score": 27,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "crimestoppersinternational.org/bounty",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49853122",
-      "title": "Music for 18 Bouncy Balls",
-      "url": "https://ianbutterworth.github.io/18-bouncy-balls/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T04:11:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
     },
     {
       "source": "hackernews",
@@ -16345,6 +16720,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-21T21:41:51.366Z",
+      "generated_at": "2026-10-21T21:41:51.366Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 316
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 4318
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 48,
+      "new_items": 25,
+      "seen_again": 23,
+      "archive_total": 1114,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "2 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "48 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21T17:10:53.616Z",
       "generated_at": "2026-10-21T17:10:53.616Z",
       "status": "ok",
@@ -19662,67 +20098,6 @@
       "new_items": 2,
       "seen_again": 45,
       "archive_total": 399,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:06:26.873Z",
-      "generated_at": "2026-10-15T20:06:26.873Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 499
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 916
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 397,
       "steps": [
         {
           "agent": "Recolector",
