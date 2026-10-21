@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-21T04:44:04.323Z",
+  "generated_at": "2026-10-21T11:46:48.501Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,10 +10,10 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1039,
+    "total_evaluated": 1064,
     "investigar": 0,
-    "informativa": 1001,
-    "descartar": 38,
+    "informativa": 1024,
+    "descartar": 40,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2698,6 +2698,102 @@
     },
     {
       "source": "github",
+      "title": "Bounty sync: GitHub credential dead with the fox suspension",
+      "url": "https://github.com/dsect-net/quantum/issues/196",
+      "source_created_at": "2026-10-21T09:56:46Z",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Cross-cluster (mainnet-beta vs devnet) ShieldedNote collision & destructive dropPhantomNotes eviction, stranded gas SOL in token-to-token round-trip swaps, and failed-CPI eventPayloads tree contamination",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/101",
+      "source_created_at": "2026-10-21T11:44:47Z",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty Proposal] fix(chat-sessions): safe chat session deserialization & title validation ( - USD)",
+      "url": "https://github.com/BasedHardware/omi/issues/23021",
+      "source_created_at": "2026-10-21T10:39:16Z",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Hydration calculateFee passes raw units as a decimal string, so the fee is estimated on an oversized trade",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2174",
+      "source_created_at": "2026-10-21T10:15:00Z",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[Bounty Proposal] Fix LocalWalSyncImpl async flush frame-buffer wipe & stale device clear on reconnect (#22912)",
       "url": "https://github.com/BasedHardware/omi/issues/22940",
       "source_created_at": "2026-10-20T20:55:49Z",
@@ -3672,101 +3768,6 @@
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Unbounded bincode allocation OOM on Gossipsub frames, ignored ValidatorRegistry minimum_stake floor in register_validator, and unvalidated CLI SOL-to-lamport & registry decoding",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1022",
-      "source_created_at": "2026-10-18T09:51:57Z",
-      "first_seen_at": "2026-10-18T11:02:29.052Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Private compute consensus/commitment binding bypasses, Poseidon commitment mismatch, and TEE attestation verification gaps",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1019",
-      "source_created_at": "2026-10-18T08:29:51Z",
-      "first_seen_at": "2026-10-18T11:02:29.052Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Idempotent retries are re-checked against current policy before the key lookup, which can lead to a second paid task",
-      "url": "https://github.com/ayaangazali/eyes/issues/106",
-      "source_created_at": "2026-10-18T08:06:14Z",
-      "first_seen_at": "2026-10-18T11:02:29.052Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bounty quest kind and max_level",
-      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/97",
-      "source_created_at": "2026-10-18T04:19:27Z",
-      "first_seen_at": "2026-10-18T04:30:25.292Z",
-      "last_seen_at": "2026-10-18T04:30:25.292Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {

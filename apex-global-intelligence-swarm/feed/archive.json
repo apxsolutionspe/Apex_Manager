@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-21T04:44:03.604Z",
+  "updated_at": "2026-10-21T11:46:47.572Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50156779",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com/",
+      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
+      "source_created_at": "2026-10-19T19:21:56Z",
+      "opp_type": "otro",
+      "score": 24,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "dovepass.com",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50172448",
+      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "evidence": "",
+      "source_created_at": "2026-10-20T20:46:55Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "first_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959031887",
+      "title": "Security report: tari-ootle post-invocation host charges push a fully executed main intent into the all-or-nothing reject path, refunding its fee (GHSA-mp6v-gfmj-r6xw)",
+      "url": "https://github.com/tari-project/special_contributions/issues/288",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-mp6v-gfmj-r6xw](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-mp6v-gfmj-r6xw). The report showed that post-invocation host charges push a fully executed main intent into the all-or-nothing reject path, refunding its fee. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3040. **No code work is required here.** Details stay in the adv",
+      "source_created_at": "2026-10-21T10:47:30Z",
+      "opp_type": "bug_bounty",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/288",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958548749",
+      "title": "Bounty Board rewire to Quantum AI App + Tracker",
+      "url": "https://github.com/dsect-net/quantum/issues/288",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0241** is the source of truth. Edits here do not flow back. Backfill record (Oct 21 outage audit, Section B.11 verification). The Bounty Board froze; diagnosis landed Oct 20 daytime and the board was REWIRED to run on the Quantum AI App + Tracker instead of the suspended cooper-the-fox credential (see also TRK-0147, TRK-0120). This record confirms the rewire itself carries a Tracker home, since it is the first surface embodying the tracker-first pattern that TRK-0235 (Tracker-to-GitHub sync) generali",
+      "source_created_at": "2026-10-21T10:12:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 48,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/288",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958329772",
+      "title": "Bounty sync: GitHub credential dead with the fox suspension",
+      "url": "https://github.com/dsect-net/quantum/issues/196",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0147** is the source of truth. Edits here do not flow back. Oct 18 05:41 run of quantum-bounty-sync logged issue_details_failed for GitHub fetches - its GitHub credential is presumably the revoked cooper-the-fox token. Sync completes on fallback pricing meanwhile. Fix options: repoint the sync at the Muse GitHub App connector path, or issue a fresh fine-grained token under a living account and store it in Vaultwarden. Found during the lemond chore verification (TRK-0120). --- **Tracker fields** - Kin",
+      "source_created_at": "2026-10-21T09:56:46Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/196",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959826735",
+      "title": "[BOUNTY] Cross-cluster (mainnet-beta vs devnet) ShieldedNote collision & destructive dropPhantomNotes eviction, stranded gas SOL in token-to-token round-trip swaps, and failed-CPI eventPayloads tree contamination",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/101",
+      "evidence": "# [BOUNTY] Cross-Cluster (`mainnet-beta` vs `devnet`) `ShieldedNote` Collision & Destructive `dropPhantomNotes` Eviction, Stranded Self-Funded Gas SOL in Token-to-Token Round-Trip Swaps, and Failed-CPI `eventPayloads` Tree Contamination (`paraloom-wallet`) ## Summary A source-code audit of `paraloom-labs/paraloom-wallet` at commit `1e79eec8fbe99cd7e1381f6971c855bdce883d41` identified four related defects across shielded note storage, phantom-note reconciliation, private swap gas sweeping, and client-side Merkle tree event attribution: 1. **Cros",
+      "source_created_at": "2026-10-21T11:44:47Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/101",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958921065",
+      "title": "[Bounty Proposal] fix(chat-sessions): safe chat session deserialization & title validation ( - USD)",
+      "url": "https://github.com/BasedHardware/omi/issues/23021",
+      "evidence": "### Bounty Proposal: Safe Chat Session Deserialization & Title Validation (\\ - \\ USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23020 #### Problem & Impact Unlike `Message` (`Message.deserialize_many_safe`) and `FocusSession` (`FocusSession.deserialize_many_safe`), `ChatSessionResponse` lacked a safe bulk deserializer. - If a single document in Firestore has legacy missing fields (e.g. missing `id`, corrupted/unparseable timestamps, or non-dict records), FastAPI's response validation raises an unhandled `ResponseValidationErro",
+      "source_created_at": "2026-10-21T10:39:16Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23021",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958590956",
+      "title": "[Bug bounty] Hydration calculateFee passes raw units as a decimal string, so the fee is estimated on an oversized trade",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2174",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug `calculateFee` passes the raw-unit `bigint` amount to `TradeRouter.getBestSell` **as a string** ([calculateFee.ts:27–31](https://github.com/paraspell/xcm-tools/blob/de8d2266ced92c755655e861d17c7dddcc00a25a/packages/swap/src/exchanges/Hydration/utils/calculateFee.ts#L27-L31)): ```ts const trade = await tradeRouter.getBestSell( currencyFromInfo.id, currencyToInfo.id, amount.toString(), // raw units, e.g. \"1000000000000\" for 1 HDX ); ``` In `@galacticcouncil/sdk-next` 2.3.2, `TradeRouter.toSellSwaps` treats a",
+      "source_created_at": "2026-10-21T10:15:00Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2174",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958352669",
+      "title": "HA: Quantum Credits economy snapshot sensors",
+      "url": "https://github.com/dsect-net/quantum/issues/205",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0156** is the source of truth. Edits here do not flow back. HA expansion A5 (plan item i-5, epic dsect-net/home-assistant#23). Scope: REST sensors on the Quantum Credits economy service: issued vs 21M cap, Treasury balance, block height, open bounties, Scotty's available balance. Feeds the economy section of A6. Acceptance: Each value matches the Quantum Bank / Bounty Board live figures at check time; sensors update on cadence without errors in the HA log; screenshot of values rendering. Conventions:",
+      "source_created_at": "2026-10-21T09:58:25Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/205",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959583878",
+      "title": "【intake 输入】@zseven-w/dsh-noema 0.1.0-rc.6 插件测评：10 题对 8 题、不装对 2 题（判定：真有用）；会把两个服务的端口搞混",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1424",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `@zseven-w/dsh-noema@0.1.0-rc.6`（仓库 ZSeven-W/dsh-noema） | | 依据 | 站点规范 https://review.lingshulab.com/spec | | 自申等级 | medium / B，只作建议，由维护者裁定 | | 判定 | 真有用，范围只到 10 道记忆题的取回 | | 一句话 | 同一套 10 道题，装它答对 8 道，不装答对 2 道；但答错的方式是把两个对象的数值搞混 | | 自申依据 | 本件做了 10 道题两侧对照 + 六类风险逐条实跑，六项都没抓到问题（只有一处接触面偏大）。按计分表「单插件安装 + 一轮有读数的对照 → medium / B」自申；没有 P0/P1，不按安全审计那一档申。 | ## 2. 锚定提交 | 件 | 位置 | 读数 | |---|---|---| | 发布页 | https://registry.npmjs.org/@zseven-w%2Fdsh",
+      "source_created_at": "2026-10-21T11:27:18Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1424",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959583682",
+      "title": "【intake 输入】dsh-engramory-recall 0.21.0 插件测评：10 题对 9 题、不装对 2 题（判定：真有用）；坏指令被它拦住",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1423",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `dsh-engramory-recall@0.21.0`（仓库 yffo/dsh-engramory-recall） | | 依据 | 站点规范 https://review.lingshulab.com/spec | | 自申等级 | medium / B，只作建议，由维护者裁定 | | 判定 | 真有用，范围只到 10 道记忆题的取回 | | 一句话 | 同一套 10 道题，装它答对 9 道，不装答对 2 道；塞进去的坏指令被它拦住了 | | 自申依据 | 本件做了 10 道题两侧对照 + 六类风险逐条实跑，六项都没抓到问题。按计分表「单插件安装 + 一轮有读数的对照 → medium / B」自申；没有 P0/P1，不按安全审计那一档申。 | ## 2. 锚定提交 | 件 | 位置 | 读数 | |---|---|---| | 发布页 | https://registry.npmjs.org/dsh-engramory-recall | 最新版本",
+      "source_created_at": "2026-10-21T11:27:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1423",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959583141",
+      "title": "【intake 输入】dsh-plugin-yolo 0.5.0 插件测评：10 题对 10 题、不装对 2 题（判定：真有用）；塞进去的指令跨会话生效",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1422",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `dsh-plugin-yolo@0.5.0`（仓库 hanshanyike/dsh-yolo） | | 依据 | 站点规范 https://review.lingshulab.com/spec | | 自申等级 | hard / B，只作建议，由维护者裁定 | | 判定 | 真有用，范围只到 10 道记忆题的取回 | | 一句话 | 同一套 10 道题，装它答对 10 道，不装答对 2 道 | | 自申依据 | 本件做了 10 道题两侧对照 + 六类风险逐条实跑，并在第一项实跑里抓到一处跨会话生效的注入缺陷、定位到具体代码行。按计分表「安全审计（发现 P0/P1）→ hard / B」自申。 | ## 2. 锚定提交 | 件 | 位置 | 读数 | |---|---|---| | 发布页 | https://registry.npmjs.org/dsh-plugin-yolo | 最新版本 `0.5.0`，发布时间 2026-09-10T16:19:5",
+      "source_created_at": "2026-10-21T11:27:14Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1422",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959499675",
+      "title": "[intake 输入] 【测评报告】dsh-we-whalegirl 0.1.0（gzyy111·微信/QQ 机器人控制面）：控制接口只认回环不认来源网页——跨站可启停进程、经全量代理借受害者账号发微信消息（P1，9 用例实测坐实）；已负责任披露；同洞线索 dsh-free-search",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1421",
+      "evidence": "**对象**：[gzyy111/dsh-we-whalegirl](https://github.com/gzyy111/dsh-we-whalegirl) v0.1.0（自建微信/QQ「鲸鱼娘」机器人控制面：启停 Python 侧车、功能开关、人设/频率、9 个 whalegirl_* 工具；3869 行） **测评站全文**：https://review.lingshulab.com/reviews/01a15e2e-bba9-70b3-b78b-94e6c1696520 （判定：还说不准——机器人本体不在仓库，端到端未测；**附 P1 实测坐实**） **负责任披露**：发布前已向作者提交安全提醒 https://github.com/gzyy111/dsh-we-whalegirl/issues/1 （附实测矩阵、修法、生态参照与复测承诺），报告链接已回贴。 **撞车核验**：bounty 与测评站双查均为零（站内首测；插件条目亦为本流程代收录） ## 核心发现（P1 形态，实测坐实） `/dsh-we-whalegirl/*` 裸路由唯一防线是 `isLoopbackRequest`（`req.socket.remoteAddress ∈ {127.0.0.1,::1,::",
+      "source_created_at": "2026-10-21T11:21:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1421",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959275423",
+      "title": "Security report: tari-ootle identify metrics retain every peer forever: unbounded memory growth on metrics-enabled validator/indexer nodes (GHSA-x9m4-9c4v-r385)",
+      "url": "https://github.com/tari-project/special_contributions/issues/290",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-x9m4-9c4v-r385](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-x9m4-9c4v-r385). The report showed that identify metrics retain every peer forever: unbounded memory growth on metrics-enabled validator/indexer nodes. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3045. **No code work is required here.** Details stay in the advisory u",
+      "source_created_at": "2026-10-21T11:05:26Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/290",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959088208",
+      "title": "Security report: tari-ootle spend-script leaf validation loads (and can compile) the referenced template without charging the template-load fee (GHSA-57r9-hc99-grj4)",
+      "url": "https://github.com/tari-project/special_contributions/issues/289",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-57r9-hc99-grj4](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-57r9-hc99-grj4). The report showed that spend-script leaf validation loads (and can compile) the referenced template without charging the template-load fee. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3039. **No code work is required here.** Details stay in the advis",
+      "source_created_at": "2026-10-21T10:51:42Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/289",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958804194",
+      "title": "Security report: tari-ootle malicious indexer permanently poisons the wallet's stealth-UTXO scan cursor (GHSA-rrp6-34q3-56r8)",
+      "url": "https://github.com/tari-project/special_contributions/issues/287",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-rrp6-34q3-56r8](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-rrp6-34q3-56r8). The report showed that malicious indexer permanently poisons the wallet's stealth-UTXO scan cursor. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3037. **No code work is required here.** Details stay in the advisory until it is published. ## Done when ",
+      "source_created_at": "2026-10-21T10:30:31Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/287",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958770995",
+      "title": "Security report: tari-ootle template definition is deep-cloned on every resolve, giving a published template unmetered host CPU per transaction (GHSA-22mg-5wh7-3m6f)",
+      "url": "https://github.com/tari-project/special_contributions/issues/286",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-22mg-5wh7-3m6f](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-22mg-5wh7-3m6f). The report showed that template definition is deep-cloned on every resolve, giving a published template unmetered host CPU per transaction. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3041. **No code work is required here.** Details stay in the advis",
+      "source_created_at": "2026-10-21T10:28:01Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/286",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958687465",
+      "title": "【intake 输入】dsh-workflow-lite 0.6.0 增量：普通三步任务两臂 3/3 一样；不写版本会装到 0.5.0",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1411",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `@xiaoso/dsh-workflow-lite@0.6.0`（仓库 xiaoso456/dsh-workflow-lite） | | 依据 | `docs/bounty/插件测评_AI编程工作流规范_v2.0.md` §六；站点规范 https://review.lingshulab.com/spec | | 自申等级 | medium / B，只作建议，由维护者裁定 | | 判定 | 没啥差别，范围只到一个三步文件任务 | | 一句话 | 同一任务两组各 3 次都 3/3 做完，装的那组 0 次调用插件工具 | ## 1.5 它是干什么的 它把做事的步骤画成一张图。 图里一个方块是一步，箭头表示先后。 画好以后，它把图翻成一段说明文字。 模型照着这段文字一步一步做。 ## 1.6 它怎么发生作用 打个比方：不装它，手里就没有流程图纸。 模型只能在脑子里记步骤，写在回复里。 装了它，模型多了一套画图的工具。 先用工具建图，再把图翻成一份说明书。 说",
+      "source_created_at": "2026-10-21T10:21:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1411",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958687099",
+      "title": "【intake 输入】dsh-claude-style 0.17.0 插件测评：两臂各 3 次结果一样（判定：没啥差别）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1410",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `dsh-claude-style@0.17.0`（仓库 Nwflower/dsh-claude-style） | | 依据 | `docs/bounty/插件测评_AI编程工作流规范_v2.0.md` §六；站点规范 https://review.lingshulab.com/spec | | 自申等级 | medium / B，只作建议，由维护者裁定 | | 判定 | 没啥差别，范围只到无界面问答 | | 一句话 | 两臂各 3 次问答都一样；界面只看图，操作未测 | ## 1.5 它是干什么的 它换掉 DSH 网页的样子。 颜色、字体、字距，都换成另一套。 它不碰模型，也不改答案。 同一个问题，装与不装答出来一样。 ## 1.6 装上看一眼 先看首页这一对。 第一张装了插件，第二张不装。 ![装插件后的同一页](https://raw.githubusercontent.com/hawkongz/dsh-review-evidence-202610",
+      "source_created_at": "2026-10-21T10:21:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1410",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958666958",
+      "title": "【intake 输入】dsh-purge-community 1.6.38 插件测评：状态自检装 3/3 做成、不装 0/3（判定：真有用）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1409",
+      "evidence": "## 1. 性质声明 | 项 | 值 | |---|---| | 性质 | intake 输入（外部贡献申报），不是悬赏 | | 不做 | 不 `/claim`、不打 bounty 标签、不发 `/deliver` | | 对象 | `dsh-purge-community@1.6.38`（仓库 kingcharleslzy-ai/dsh-purge） | | 依据 | `docs/bounty/插件测评_AI编程工作流规范_v2.0.md` §六；站点规范 https://review.lingshulab.com/spec | | 自申等级 | medium / B，只作建议，由维护者裁定 | | 判定 | 真有用，范围只到状态自检 | | 一句话 | 同一句提示词，装插件 3/3 次做出分层状态，不装 0/3 次做成 | ## 1.5 它是干什么的 它给 DSH 做体检。 它会列出 DSH 有哪些部件，每个部件是好的还是坏的。 它还能把 DSH 的文件存成快照。 哪次改坏了，就退回到先前那份。 ## 1.6 它怎么发生作用 打个比方：不装它，家里就没有那台体检仪。 模型手里没有体检工具，只能说「做不到」。 装了它，模型手里多出两样东西。 一样是体检工具，问一句就列出部件和状态。",
+      "source_created_at": "2026-10-21T10:20:28Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1409",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958406224",
+      "title": "[feature] Can the NPU turn discussed tasks / todo items into fully-formed GitHub issues? (needs refinement)",
+      "url": "https://github.com/dsect-net/quantum/issues/229",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0181** is the source of truth. Edits here do not flow back. Scotty (Oct 17, 2026, during the Quantum Credits / bounty-board conversation): \"Is the NPU smart enough to turn tasks we discuss into Github issues? Or a todo list item into a fully created github issue with the right tags, linkings, milestones, etc? Like all the fields required put in?\" Context: the NPU pricer (qwen3-1.7b via Lemonade) already prices bounty-labeled issues; this asks whether the same local model could draft/create complete i",
+      "source_created_at": "2026-10-21T10:02:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/229",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5959435996",
+      "title": "Before/after shots can't show anything after Post request: the test copies have no GitHub token",
+      "url": "https://github.com/Usernode-Labs/social-vibecoding/issues/5743",
+      "evidence": "## What happened The shots agent couldn't take the before/after shots for a change on the feedback sheet. Its report: > Couldn't take the shots. These copies cannot post a request, so the thanks sheet never appears. Pressing Post request in the member phone browser on both addresses sent POST /api/feedback and got 503 \"GitHub token not configured\". The sheet showed \"Couldn't file this right now. Please try again later.\" and the thanks sheet stayed hidden. I tried it on both addresses and got the same result. This is a limit of the copies (no Gi",
+      "source_created_at": "2026-10-21T11:16:42Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Usernode-Labs/social-vibecoding/issues/5743",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958769968",
+      "title": "Feature: BS-7 — managed rootless public egress for authorized BeeScan assessments",
+      "url": "https://github.com/beesyst/beeagent/issues/326",
+      "evidence": "### Summary Implement one BeeAgent-managed, security-verified Linux public egress environment for explicitly authorized HTTP(S) assessments, with controlled dependency provisioning, immutable operator authority, reusable per-assessment network sessions and verified cleanup. ### Type - [x] Feature - [ ] Fix - [ ] Docs - [ ] Chore - [ ] Idea ### Roadmap / iteration - **Iteration:** BS-7 — Managed Rootless Public Egress and Authorized External Assessment - **Stage:** Stage 7 — Governed Public Target Execution - **Roadmap:** `docs/product/beescan_r",
+      "source_created_at": "2026-10-21T10:27:56Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/beesyst/beeagent/issues/326",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958413236",
+      "title": "Quantum MCP: GitHub tools backed by Quantum AI App",
+      "url": "https://github.com/dsect-net/quantum/issues/232",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0184** is the source of truth. Edits here do not flow back. Expose GitHub work through the hub MCP as a quantum_github_* tool family, authenticated by the Quantum AI App (id 5372246, installation 172808305) instead of user tokens. v1: reads (repos, issues, PRs, files, branches) + writes with mandatory agent sign-off (create_issue, comment, create_pull_request, create_branch, update_file via contents API). JWT minting ported to Node in the hub (PEM at /home/scott/.cooper/quantum-ai-app.pem). Plus a Tr",
+      "source_created_at": "2026-10-21T10:02:40Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/232",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958282936",
+      "title": "[Bug]: HunyuanImage3.0 AR-to-DiT KV reuse can fail when re-tokenizing generated CoT changes token boundaries",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/9214",
+      "evidence": "### Your current environment The output of python collect_env.py ```text Your output of `python collect_env.py` here ``` ### Your code version The commit id or version of vllm - Original failing run: `724f5d132deb55dfd73591c83494eca15c95d179` . - Upstream main checked on: `295b7339aeb505d80e56a0406853a308c1df02c6`. ### 🐛 Describe the bug HunyuanImage3 forwards the AR-generated CoT as text and re-tokenizes it to construct the DiT sequence and KV reuse boundary. The imported KV, however, belongs to the original AR token sequence. Decoding and en",
+      "source_created_at": "2026-10-21T09:53:35Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vllm-project/vllm-omni/issues/9214",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958975017",
+      "title": "Data: Rednote food picks for slider (21 Oct)",
+      "url": "https://github.com/grokyjforeal/lim-shanghai-week/issues/2",
+      "evidence": "Rednote food picks data for the slider (read-only research, 21 Oct 2026). Copy the JSON below into the repo as data/rednote-food-picks.json. ```json [{\"slot\":\"breakfast_xujiahui\",\"tier\":\"low\",\"name_en\":\"Lai Lai Xiao Long\",\"name_zh\":\"莱莱小笼\",\"price_per_pax\":\"~CNY60 for two (per post); crab-pork xiaolong 46/8\",\"area_address\":\"Jing'an, 北京西路1726号 / 天津路504号 (not Xujiahui)\",\"must_order\":\"蟹粉鲜肉小笼 + 鸡血鸭汤\",\"quote_zh\":\"鸡血鸭汤…感觉非常非常鲜灵，第一口甚至鲜到惊艳。\",\"quote_en\":\"The chicken-blood duck soup was incredibly fresh; the first sip was stunning.\",\"rednote_url\":\"https://",
+      "source_created_at": "2026-10-21T10:43:19Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/grokyjforeal/lim-shanghai-week/issues/2",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5958411197",
+      "title": "GitHub access: org-owned automation app",
+      "url": "https://github.com/dsect-net/quantum/issues/231",
+      "evidence": "> Mirrored from the Solorion Tracker — **TRK-0183** is the source of truth. Edits here do not flow back. Durable fix for Cooper GitHub access while cooper-the-fox is suspended (and after): build an org-owned GitHub App (Option A in the plan) - org owns the app, installed on a selected repo set, permissions Contents/Pull requests/Issues RW + org Projects RW, private key in Vaultwarden, 1h installation tokens minted by a script on Tritium (JWT RS256 -> /app/installations/{id}/access_tokens). Runs all bulk/scheduled GitHub work (hygiene/bookkeeper",
+      "source_created_at": "2026-10-21T10:02:31Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dsect-net/quantum/issues/231",
+      "first_seen_at": "2026-10-21T11:46:47.572Z",
+      "last_seen_at": "2026-10-21T11:46:47.572Z"
     },
     {
       "source": "hackernews",
@@ -230,66 +725,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50156779",
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com/",
-      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
-      "source_created_at": "2026-10-19T19:21:56Z",
-      "opp_type": "otro",
-      "score": 24,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "dovepass.com",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50172448",
-      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
-      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "evidence": "",
-      "source_created_at": "2026-10-20T20:46:55Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "first_seen_at": "2026-10-20T21:36:21.115Z",
       "last_seen_at": "2026-10-21T04:44:03.604Z"
     },
     {
@@ -1101,66 +1536,6 @@
       "dedupe_key": "github.com/GranSkreaReforged/GSOOffline/issues/109",
       "first_seen_at": "2026-10-21T00:43:53.131Z",
       "last_seen_at": "2026-10-21T00:43:53.131Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z"
     },
     {
       "source": "github",
@@ -15595,6 +15970,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-21T11:46:47.572Z",
+      "generated_at": "2026-10-21T11:46:47.572Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 314
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 758
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 1064,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21T04:44:03.604Z",
       "generated_at": "2026-10-21T04:44:03.604Z",
       "status": "ok",
@@ -18905,67 +19341,6 @@
           "ok": true,
           "count": 25,
           "ms": 51
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 397,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:04:36.528Z",
-      "generated_at": "2026-10-15T20:04:36.528Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 271
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 44
         }
       ],
       "processed": 50,
