@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-20T21:36:21.912Z",
+  "generated_at": "2026-10-21T00:43:53.741Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1002,
+    "total_evaluated": 1014,
     "investigar": 0,
-    "informativa": 964,
+    "informativa": 976,
     "descartar": 38,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -668,7 +668,7 @@
       "url": "https://github.com/soterika/aura-vault-protocol/issues/1295",
       "source_created_at": "2026-10-20T21:35:03Z",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -692,7 +692,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/22942",
       "source_created_at": "2026-10-20T20:55:57Z",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -1359,6 +1359,28 @@
         "issue_open_now": false
       },
       "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "source_created_at": "2026-10-20T22:25:17Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2559,6 +2581,152 @@
     },
     {
       "source": "github",
+      "title": "[Bounty Proposal] Fix LocalWalSyncImpl async flush frame-buffer wipe & stale device clear on reconnect (#22912)",
+      "url": "https://github.com/BasedHardware/omi/issues/22940",
+      "source_created_at": "2026-10-20T20:55:49Z",
+      "first_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1628",
+      "source_created_at": "2026-10-20T23:00:57Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Testing and Balance: Bounty System",
+      "url": "https://github.com/GranSkreaReforged/GSOOffline/issues/108",
+      "source_created_at": "2026-10-20T22:20:33Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1289",
+      "source_created_at": "2026-10-20T22:05:57Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Public bug bounty for wrong-result bugs",
+      "url": "https://github.com/lambdaclass/stabileo/issues/505",
+      "source_created_at": "2026-10-21T00:23:23Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty: a 27B-class model (Ternary-Bonsai-2-27B) validated on an 8 GB consumer GPU",
+      "url": "https://github.com/sybil-solutions/local-ai-registry/issues/349",
+      "source_created_at": "2026-10-20T22:26:30Z",
+      "first_seen_at": "2026-10-21T00:43:53.131Z",
+      "last_seen_at": "2026-10-21T00:43:53.131Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] [200 $ USD DOLLARS] Rewrite the game in rust",
       "url": "https://github.com/ademkalt103-debug/Nova-Racer/issues/3",
       "source_created_at": "2026-10-20T20:08:05Z",
@@ -2619,30 +2787,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Proposal] Fix LocalWalSyncImpl async flush frame-buffer wipe & stale device clear on reconnect (#22912)",
-      "url": "https://github.com/BasedHardware/omi/issues/22940",
-      "source_created_at": "2026-10-20T20:55:49Z",
-      "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3628,149 +3772,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add non-interactive bug bounty triage tooling CI smoke",
-      "url": "https://github.com/OpenLedger-Foundation/Kora-Contract/issues/1027",
-      "source_created_at": "2026-10-17T19:36:13Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1608",
-      "source_created_at": "2026-10-17T19:05:04Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Keeper Bounty Deduction Precedes Fixed-Amount Payouts, Arbitrarily Shrinking Designated Inheritances",
-      "url": "https://github.com/Gospelsam019/williams-contracts/issues/66",
-      "source_created_at": "2026-10-17T17:33:23Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "release_inheritance Permits Unauthenticated Payouts to Arbitrary Caller Addresses for Keeper Bounty",
-      "url": "https://github.com/Gospelsam019/williams-contracts/issues/63",
-      "source_created_at": "2026-10-17T17:33:16Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "eBay Royaume-Uni : Hunt Showdown - Limited Bounty Hunter Edition (Xbox One) (New and sealed)",
-      "url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/85989",
-      "source_created_at": "2026-10-17T20:25:17Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: PrivateSwapRelayer burns note nullifier and strands funds on post-withdraw fee/overhead failure",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/998",
-      "source_created_at": "2026-10-17T18:47:08Z",
-      "first_seen_at": "2026-10-17T20:35:33.693Z",
-      "last_seen_at": "2026-10-17T20:35:33.693Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
