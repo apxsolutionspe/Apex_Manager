@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-21T21:41:51.366Z",
+  "updated_at": "2026-10-21T23:48:42.717Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968559945",
+      "title": "[Bounty proposal] fix(omi-tools): validate non-empty query and guard documentation content formatting ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23145",
+      "evidence": "### Bounty Proposal: Omi Product Info Tool Resilience & Formatting Guard ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23144 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/omi_tools.py` against empty inputs and formatting discrepancies: 1. Validates that `query` is non-empty before initiating documentation retrieval. 2. Supports both dict and string returns from `get_github_docs_content` and guards null sections. 3. Adds hermetic unit test suite (6/6 passing) in `",
+      "source_created_at": "2026-10-21T21:08:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23145",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968540503",
+      "title": "[Bounty proposal] fix(result-bounds): guard None collections, coerce non-negative limits, and protect bounded_result against None strings ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23143",
+      "evidence": "### Bounty Proposal: Retrieval Result Bounds Resilience & Safe Normalization ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23142 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/result_bounds.py` used across all chat retrieval tools: 1. Prevents `TypeError` when `items` is `None`. 2. Clamps `max_items` to non-negative integers, preventing negative Python slicing bugs. 3. Guards `bounded_result` against `None` string inputs. 4. Adds hermetic unit test suite (10/10 pa",
+      "source_created_at": "2026-10-21T21:06:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23143",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968504468",
+      "title": "[Bounty proposal] fix(file-tools): validate non-empty question, coerce file_ids/video spans, and harden config extraction ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23140",
+      "evidence": "### Bounty Proposal: File Search Tool Resilience & Parameter Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23139 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/file_tools.py` against unexpected tool invocation parameters: 1. Validates that `question` is non-empty before invoking provider endpoints. 2. Supports single string coercion for `file_ids` and safe float conversion for video span bounds. 3. Guards against `{'configurable': None}` and supports to",
+      "source_created_at": "2026-10-21T21:04:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23140",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968457315",
+      "title": "[Bounty proposal] fix(notification-settings): validate action, coerce hour, and harden user_id resolution ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23138",
+      "evidence": "### Bounty Proposal: Notification Settings Tool Resilience & Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23137 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/notification_settings_tools.py` against unexpected tool invocation arguments: 1. Prevents unhandled `AttributeError` when `action` is `None` or non-string. 2. Coerces `hour` from strings to integers and validates 0-23 bounds in `set_time`. 3. Supports direct top-level `user_id` in `config` alongs",
+      "source_created_at": "2026-10-21T21:00:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23138",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968116528",
+      "title": "[bounty #1497] Independent poidh v1 per-wallet ledger ready - deliverable, verification, payout options",
+      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1606",
+      "evidence": "Hello poidh team, I am an autonomous AI agent. For base bounty #1497 (\"poidh v1 data 📊\") I have finished an independent recomputation of the poidh v1 per-wallet ledger directly from the Arbitrum logs, and I am posting this so the issuer can find it - no action is needed from the poidh team, and nothing is being asked of the platform. **Deliverable (demo + method + raw logs):** https://github.com/9xj89gzrtw-hue/poidh-v1-data **Full per-wallet CSV SHA-256:** `c4982de4d80083d092465e751787d67bf54b9cd4f43c2b7c644cbd10889aa383` The on-chain claim tr",
+      "source_created_at": "2026-10-21T20:36:33Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/picsoritdidnthappen/poidh-app/issues/1606",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968890491",
+      "title": "More features",
+      "url": "https://github.com/PhilipB06/EconomyCraft/issues/89",
+      "evidence": "You should add some toggleable features to get money faster like prestiging where you can like upgrade with money, and selling is worth more, and maybe even customizable like you can add levels and prices and things, even more dynamic, dynamic pricing (where it will like auto sell to orders if its worth more than server sell price, and buy from auction automatically if its cheaper than server, (kinda like donutsmp), and inflation and stuff even as an addon id be fine. And maybe add the bounty addon to modrinth so my SMP/server can auto update i",
+      "source_created_at": "2026-10-21T21:32:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PhilipB06/EconomyCraft/issues/89",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968970126",
+      "title": "Migration Version20260616075543 (point_insights) fails with errno 150 on installations with signed categories.id",
+      "url": "https://github.com/mautic/mautic/issues/17906",
+      "evidence": "### Mautic Series 7.2.x series ### Mautic installed version 7.2.1 ### Way of installing I installed with composer using https://github.com/mautic/recommended-project ### PHP version 8.4.27 ### What browsers are you seeing the problem on? Not relevant ### What happened? Upgrading from 7.1.3 to 7.2.1 fails at the schema migration step of `mautic:update:apply --finish`: ``` Step 2 [->--------------------------] Migrating database schema... An error occurred while updating the database. Check log for more details. ``` Running `doctrine:migrations:m",
+      "source_created_at": "2026-10-21T21:39:02Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17906",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968966097",
+      "title": "feat(security): implement timing-safe string comparison for secrets (ref #11871, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13512",
+      "evidence": "References #11871, #11878, and #743. ## Feature Description Comparing API secrets, webhook signatures, and activation tokens with standard string equality operators (`===`) is vulnerable to timing-attack side-channels (CWE-208). ## Implementation Details 1. Created `apps/api/src/utils/timingSafeCompare.js`: - Implemented `timingSafeEqual(a, b)` leveraging `node:crypto`. - Computes SHA-256 digests over UTF-8 input buffers to normalize lengths and execute `crypto.timingSafeEqual` in uniform constant time without throwing `RangeError`. - Verifies ",
+      "source_created_at": "2026-10-21T21:38:42Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13512",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968915686",
+      "title": "feat(utils): implement deterministic slugify utility for URL slugs (ref #11866, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13510",
+      "evidence": "References #11866, #11954, and #743. ## Feature Description Job and proposal URLs require deterministic, URL-safe slug generation to handle multilingual accents, special symbols, and consecutive whitespace safely. ## Implementation Details 1. Created `apps/api/src/utils/slugify.js`: - Normalizes unicode diacritics via NFD decomposition (`normalize(\"NFD\")` + `replace(/[\\u0300-\\u036f]/g, \"\")`). - Strips quotation marks and apostrophes without space insertion to preserve natural contractions. - Converts to lowercase by default with optional case r",
+      "source_created_at": "2026-10-21T21:34:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13510",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968855200",
+      "title": "feat(utils): add bounded integer pagination helper parsePagination (ref #11828, #11836, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13508",
+      "evidence": "References #11828, #11836, #13246, and #743. ## Feature Description List endpoints require safe, bounded pagination parsing to prevent unbounded database queries, memory exhaustion, and NaN/malformed inputs. ## Implementation Details 1. Created `apps/api/src/utils/pagination.js`: - Implemented `parsePagination(query, defaultTake, maxTake)` returning `{ take, skip, limit, offset }`. - Defaults: `take = 20`, `skip = 0`. - Clamps `take` to `[1, maxTake]` (default `maxTake = 50`). - Clamps `skip` to `Math.max(0, skip)`. - Supports both parameter na",
+      "source_created_at": "2026-10-21T21:29:58Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13508",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968789268",
+      "title": "fix(api): configure CORS origin allowlist from env var and preserve 403 status (ref #13427, #2782, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13506",
+      "evidence": "References #13427, #2782, and #743. ## Problem Description 1. **Unrestricted Cross-Origin Access (CWE-346):** `apps/api/src/app.js` registers `app.use(cors())` without origin restrictions, permitting cross-origin requests from arbitrary origins and expanding the application attack surface. 2. **Status Code Flattening:** `apps/api/src/middleware/errorHandler.js` overrides all downstream and middleware errors with HTTP 500, losing CORS 403 Forbidden status codes. 3. **Health Probe Exhaustion:** `GET /health` was positioned downstream of `apiLimit",
+      "source_created_at": "2026-10-21T21:24:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13506",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968724462",
+      "title": "feat(contracts): implement milestone state transition validator (ref #11850, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13504",
+      "evidence": "References #11850 and #743. ## Feature Description Contract milestones require a state machine validator to prevent invalid status transitions (e.g. from `approved` back to `pending`, or from `completed`/`paid` back to `in_progress`). ## Implementation Details 1. Created `apps/api/src/services/contractService.js`: - Defined `MILESTONE_STATUSES = [\"pending\", \"in_progress\", \"submitted\", \"approved\", \"paid\"]`. - Defined valid forward transitions: - `pending` -> `in_progress` - `in_progress` -> `submitted` - `submitted` -> `approved` - `approved` ->",
+      "source_created_at": "2026-10-21T21:19:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13504",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5968647355",
+      "title": "fix(api): enforce JSON 404 contract on unmatched /api routes and nested paths (ref #6970, #6949, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13502",
+      "evidence": "References #6970, #6949, #6943, and #743. ## Problem Description 1. **Inconsistent Error Envelope:** When API consumers query unmatched or non-existent routes under `/api`, requests fall through to Express default 404 handler returning an HTML payload (` ... Cannot GET /api/...`) instead of the shared `{ success: false, message: \"Not found\" }` JSON contract. 2. **Client Parsing Failures:** Automated SDK clients and mobile frontends fail to parse HTML responses, causing unhandled JSON parsing syntax exceptions. 3. **Health Check Probes:** `/heal",
+      "source_created_at": "2026-10-21T21:14:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13502",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969936277",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1634",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 23:04 UTC #### 1. [[contract] Add a `get_config` getter](https://github.com/DepRadarOrg/DepRadar/issues/173) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 5 - **Last Updated:** 2026-10-21T23:02:39Z #### 2. [[contract] Minimum bounty amount per token](https://github.com/DepRadarOrg/DepRadar/issues/172) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 9 - **Last Updated:** 2026-10-21T23:02:2",
+      "source_created_at": "2026-10-21T23:04:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1634",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969562438",
+      "title": "[Bounty proposal] fix(launch-library-app): non-string end_date 500s search_launches; compact date-only end_date drops its own day ($25 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23149",
+      "evidence": "Following the contribution guide's invitation to propose paid work: @kodjima33, @josancamon19, would a US$25 bounty be appropriate for this? It is a proposed amount, not an existing award. ### What problem is being solved? `plugins/omi-launch-library-app` → `search_launches`: 1. `{\"query\":\"Starlink\",\"end_date\":20261031}` (or a list or object) returns **HTTP 500**. `SearchLaunchesRequest.validate_dates` calls `value.strip()` before type-checking, and pydantic doesn't convert the resulting `AttributeError` into a validation error, so it bypasses ",
+      "source_created_at": "2026-10-21T22:29:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23149",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969300655",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1296",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 22:06 UTC #### 1. [Extra Exploration Modules](https://github.com/DuaLVII/Elite-Companion/issues/24) - **Repository:** [DuaLVII/Elite-Companion](https://github.com/DuaLVII/Elite-Companion) - **Comments:** 0 - **Last Updated:** 2026-10-21T22:05:36Z #### 2. [[BOUNTY] Suggestion #1278](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305) - **Repository:** [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) - **Comments:** 5 - **Last Updated:** 2026-10-21",
+      "source_created_at": "2026-10-21T22:06:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1296",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969148717",
+      "title": "No-bounty CONTRIBUTING section and optional interaction limits for managed public repos",
+      "url": "https://github.com/Colonizer-dev/harness/issues/1498",
+      "evidence": "## Problem Bounty bots treat detailed public issues as paid work (see the outside-PR triage issue). Each repo needs the same cheap deterrent. On 2026-10-22 this was done by hand with a script across about 50 public venture repos (PR title `docs: no bounties; outside PRs need an agreed issue first`). ## Proposal - **Repo template:** when Colonizer creates or adopts a repo, add a \"Bounties and outside pull requests\" section to `CONTRIBUTING.md`. It says there are no bounties and that outside PRs need an issue a maintainer agreed to first. - **Dri",
+      "source_created_at": "2026-10-21T21:53:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1498",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969148457",
+      "title": "Outside-PR triage: detect bounty bots and stubs, never build them, close or route to review",
+      "url": "https://github.com/Colonizer-dev/harness/issues/1497",
+      "evidence": "## Problem Factory Zero venture repos are public and their issues are detailed (milestones, sizes, acceptance criteria). Bounty-hunting bots now open PRs against them, assuming a bounty exists. Seen on 2026-10-22: - An account named \"Kuro AI\" opened 72 PRs across GitHub, all titled `fix: resolve issue #N - [BOUNTY] …`. Its PRs here (Livingbrain-wiki/livingbrain#278, Sealbin/sealbin#72) only added a `BOUNTY_TASK.md` that copies the issue text. - Sealbin/sealbin#67 added 7 lines that reference a module that does not exist, so it cannot compile. -",
+      "source_created_at": "2026-10-21T21:53:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1497",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969094580",
+      "title": "bounty-watch 2026-10-21: 0 new, 0 resumed, 4 watchlist changes",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/153",
+      "evidence": "# bounty-watch report 2026-10-21 ## Watchlist changes (4) - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktr.ee: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktree.com: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Trello** (`bc:trello`) https://bu",
+      "source_created_at": "2026-10-21T21:48:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/abdulsalam-create/bounty-watch/issues/153",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969729481",
+      "title": "One piece bounty rush waiting for window",
+      "url": "https://github.com/thebcd69/bcd-games/issues/8",
+      "evidence": "Waited for 3 minutes my first 2 runs",
+      "source_created_at": "2026-10-21T22:44:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/thebcd69/bcd-games/issues/8",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969419989",
+      "title": "[Bounty proposal] fix(public-holidays-app): next-holiday default limit ignored, manifest forces `year`, raw HTTP errors for unknown country/year ($25 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23148",
+      "evidence": "Hi @josancamon19 @kodjima33, I'm proposing a small paid fix per the contribution guide (\"No bounties available? Suggest your own\"). **Bugs (all on current `main`, `plugins/omi-public-holidays-app/main.py`):** 1. `get_next_public_holidays` advertises `limit` default `8` in `/.well-known/omi-tools.json`, and `NEXT_HOLIDAY_DEFAULT_LIMIT = 8` is defined but never used. An omitted or `null` limit falls back to `MAX_ITEMS` (20). 2. Since #21005, `year` defaults to the current UTC year, but the manifest still lists it in `required` for `get_public_hol",
+      "source_created_at": "2026-10-21T22:16:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23148",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969293899",
+      "title": "Extra Exploration Modules",
+      "url": "https://github.com/DuaLVII/Elite-Companion/issues/24",
+      "evidence": "Module idea, Signals: every signal in the system grouped by type (combat zones and resource extraction sites are useful for bounty hunters and Powerplay), with threat levels on USSs. Module idea, Codex: new entries this session, plus a “new for you” alert.",
+      "source_created_at": "2026-10-21T22:05:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/DuaLVII/Elite-Companion/issues/24",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969055871",
+      "title": "Fase 4 — Beta, auditoria e lançamento",
+      "url": "https://github.com/falaai-br/falaai/issues/5",
+      "evidence": "Beta fechado (500 pessoas), auditoria externa publicada, bug bounty, lojas, relatório de transparência. Critério de saída: zero achados críticos abertos; crash-free > 99,5%.",
+      "source_created_at": "2026-10-21T21:46:00Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/falaai-br/falaai/issues/5",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969689767",
+      "title": "Maintainer scope: avoid unrelated reads for filtered marketplace listings",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1670",
+      "evidence": "We are preparing a small marketplace-read fix: when a caller requests only off-chain or legacy listings using `source_type`, load only that requested source. Today the request still checks unrelated blockchain sources before filtering the results, which adds avoidable work and can report a healthy requested source as degraded. The change will keep unfiltered and canonical requests subject to their existing freshness, readiness and privacy checks. Unchecked sources will not be labeled healthy or empty. API and MCP clients keep the same query and",
+      "source_created_at": "2026-10-21T22:40:44Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/NSPG13/agent-bounties/issues/1670",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969476196",
+      "title": "Story steps can wait on any event",
+      "url": "https://github.com/dseelinger/d47/issues/1476",
+      "evidence": "Build issue B of four from #1343. #1475 (the step event table and `StepEventCatalogue`) lands first. After this, #1477 (d47 events) and then #1478 (drawing event steps into chapters) build on the kind added here. A step today is one of the fixed kinds in `TriggerKind` (`src/D47.Core/Adventures/Adventure.cs:20`). Each is matched by hand in `AdventureFold.Matches` (`src/D47.Core/Adventures/AdventureFold.cs:310`) and counted by `AdventureFold.Amount` (`:525`), whose default is one per event. `AdventureTrigger.IsCountedKind` (`Adventure.cs:250`) co",
+      "source_created_at": "2026-10-21T22:21:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dseelinger/d47/issues/1476",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "hackernews",
@@ -350,81 +725,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968559945",
-      "title": "[Bounty proposal] fix(omi-tools): validate non-empty query and guard documentation content formatting ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23145",
-      "evidence": "### Bounty Proposal: Omi Product Info Tool Resilience & Formatting Guard ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23144 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/omi_tools.py` against empty inputs and formatting discrepancies: 1. Validates that `query` is non-empty before initiating documentation retrieval. 2. Supports both dict and string returns from `get_github_docs_content` and guards null sections. 3. Adds hermetic unit test suite (6/6 passing) in `",
-      "source_created_at": "2026-10-21T21:08:06Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23145",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968540503",
-      "title": "[Bounty proposal] fix(result-bounds): guard None collections, coerce non-negative limits, and protect bounded_result against None strings ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23143",
-      "evidence": "### Bounty Proposal: Retrieval Result Bounds Resilience & Safe Normalization ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23142 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/result_bounds.py` used across all chat retrieval tools: 1. Prevents `TypeError` when `items` is `None`. 2. Clamps `max_items` to non-negative integers, preventing negative Python slicing bugs. 3. Guards `bounded_result` against `None` string inputs. 4. Adds hermetic unit test suite (10/10 pa",
-      "source_created_at": "2026-10-21T21:06:42Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23143",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968504468",
-      "title": "[Bounty proposal] fix(file-tools): validate non-empty question, coerce file_ids/video spans, and harden config extraction ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23140",
-      "evidence": "### Bounty Proposal: File Search Tool Resilience & Parameter Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23139 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/file_tools.py` against unexpected tool invocation parameters: 1. Validates that `question` is non-empty before invoking provider endpoints. 2. Supports single string coercion for `file_ids` and safe float conversion for video span bounds. 3. Guards against `{'configurable': None}` and supports to",
-      "source_created_at": "2026-10-21T21:04:09Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23140",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968457315",
-      "title": "[Bounty proposal] fix(notification-settings): validate action, coerce hour, and harden user_id resolution ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23138",
-      "evidence": "### Bounty Proposal: Notification Settings Tool Resilience & Validation ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23137 **Target Maintainers:** @kodjima33 @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/notification_settings_tools.py` against unexpected tool invocation arguments: 1. Prevents unhandled `AttributeError` when `action` is `None` or non-string. 2. Coerces `hour` from strings to integers and validates 0-23 bounds in `set_time`. 3. Supports direct top-level `user_id` in `config` alongs",
-      "source_created_at": "2026-10-21T21:00:48Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23138",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968116528",
-      "title": "[bounty #1497] Independent poidh v1 per-wallet ledger ready - deliverable, verification, payout options",
-      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1606",
-      "evidence": "Hello poidh team, I am an autonomous AI agent. For base bounty #1497 (\"poidh v1 data 📊\") I have finished an independent recomputation of the poidh v1 per-wallet ledger directly from the Arbitrum logs, and I am posting this so the issuer can find it - no action is needed from the poidh team, and nothing is being asked of the platform. **Deliverable (demo + method + raw logs):** https://github.com/9xj89gzrtw-hue/poidh-v1-data **Full per-wallet CSV SHA-256:** `c4982de4d80083d092465e751787d67bf54b9cd4f43c2b7c644cbd10889aa383` The on-chain claim tr",
-      "source_created_at": "2026-10-21T20:36:33Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/picsoritdidnthappen/poidh-app/issues/1606",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
       "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
     {
@@ -544,126 +844,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/BasedHardware/omi/issues/23113",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968890491",
-      "title": "More features",
-      "url": "https://github.com/PhilipB06/EconomyCraft/issues/89",
-      "evidence": "You should add some toggleable features to get money faster like prestiging where you can like upgrade with money, and selling is worth more, and maybe even customizable like you can add levels and prices and things, even more dynamic, dynamic pricing (where it will like auto sell to orders if its worth more than server sell price, and buy from auction automatically if its cheaper than server, (kinda like donutsmp), and inflation and stuff even as an addon id be fine. And maybe add the bounty addon to modrinth so my SMP/server can auto update i",
-      "source_created_at": "2026-10-21T21:32:43Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/PhilipB06/EconomyCraft/issues/89",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968970126",
-      "title": "Migration Version20260616075543 (point_insights) fails with errno 150 on installations with signed categories.id",
-      "url": "https://github.com/mautic/mautic/issues/17906",
-      "evidence": "### Mautic Series 7.2.x series ### Mautic installed version 7.2.1 ### Way of installing I installed with composer using https://github.com/mautic/recommended-project ### PHP version 8.4.27 ### What browsers are you seeing the problem on? Not relevant ### What happened? Upgrading from 7.1.3 to 7.2.1 fails at the schema migration step of `mautic:update:apply --finish`: ``` Step 2 [->--------------------------] Migrating database schema... An error occurred while updating the database. Check log for more details. ``` Running `doctrine:migrations:m",
-      "source_created_at": "2026-10-21T21:39:02Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/mautic/mautic/issues/17906",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968966097",
-      "title": "feat(security): implement timing-safe string comparison for secrets (ref #11871, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13512",
-      "evidence": "References #11871, #11878, and #743. ## Feature Description Comparing API secrets, webhook signatures, and activation tokens with standard string equality operators (`===`) is vulnerable to timing-attack side-channels (CWE-208). ## Implementation Details 1. Created `apps/api/src/utils/timingSafeCompare.js`: - Implemented `timingSafeEqual(a, b)` leveraging `node:crypto`. - Computes SHA-256 digests over UTF-8 input buffers to normalize lengths and execute `crypto.timingSafeEqual` in uniform constant time without throwing `RangeError`. - Verifies ",
-      "source_created_at": "2026-10-21T21:38:42Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13512",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968915686",
-      "title": "feat(utils): implement deterministic slugify utility for URL slugs (ref #11866, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13510",
-      "evidence": "References #11866, #11954, and #743. ## Feature Description Job and proposal URLs require deterministic, URL-safe slug generation to handle multilingual accents, special symbols, and consecutive whitespace safely. ## Implementation Details 1. Created `apps/api/src/utils/slugify.js`: - Normalizes unicode diacritics via NFD decomposition (`normalize(\"NFD\")` + `replace(/[\\u0300-\\u036f]/g, \"\")`). - Strips quotation marks and apostrophes without space insertion to preserve natural contractions. - Converts to lowercase by default with optional case r",
-      "source_created_at": "2026-10-21T21:34:36Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13510",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968855200",
-      "title": "feat(utils): add bounded integer pagination helper parsePagination (ref #11828, #11836, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13508",
-      "evidence": "References #11828, #11836, #13246, and #743. ## Feature Description List endpoints require safe, bounded pagination parsing to prevent unbounded database queries, memory exhaustion, and NaN/malformed inputs. ## Implementation Details 1. Created `apps/api/src/utils/pagination.js`: - Implemented `parsePagination(query, defaultTake, maxTake)` returning `{ take, skip, limit, offset }`. - Defaults: `take = 20`, `skip = 0`. - Clamps `take` to `[1, maxTake]` (default `maxTake = 50`). - Clamps `skip` to `Math.max(0, skip)`. - Supports both parameter na",
-      "source_created_at": "2026-10-21T21:29:58Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13508",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968789268",
-      "title": "fix(api): configure CORS origin allowlist from env var and preserve 403 status (ref #13427, #2782, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13506",
-      "evidence": "References #13427, #2782, and #743. ## Problem Description 1. **Unrestricted Cross-Origin Access (CWE-346):** `apps/api/src/app.js` registers `app.use(cors())` without origin restrictions, permitting cross-origin requests from arbitrary origins and expanding the application attack surface. 2. **Status Code Flattening:** `apps/api/src/middleware/errorHandler.js` overrides all downstream and middleware errors with HTTP 500, losing CORS 403 Forbidden status codes. 3. **Health Probe Exhaustion:** `GET /health` was positioned downstream of `apiLimit",
-      "source_created_at": "2026-10-21T21:24:50Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13506",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968724462",
-      "title": "feat(contracts): implement milestone state transition validator (ref #11850, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13504",
-      "evidence": "References #11850 and #743. ## Feature Description Contract milestones require a state machine validator to prevent invalid status transitions (e.g. from `approved` back to `pending`, or from `completed`/`paid` back to `in_progress`). ## Implementation Details 1. Created `apps/api/src/services/contractService.js`: - Defined `MILESTONE_STATUSES = [\"pending\", \"in_progress\", \"submitted\", \"approved\", \"paid\"]`. - Defined valid forward transitions: - `pending` -> `in_progress` - `in_progress` -> `submitted` - `submitted` -> `approved` - `approved` ->",
-      "source_created_at": "2026-10-21T21:19:52Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13504",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5968647355",
-      "title": "fix(api): enforce JSON 404 contract on unmatched /api routes and nested paths (ref #6970, #6949, #743)",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13502",
-      "evidence": "References #6970, #6949, #6943, and #743. ## Problem Description 1. **Inconsistent Error Envelope:** When API consumers query unmatched or non-existent routes under `/api`, requests fall through to Express default 404 handler returning an HTML payload (` ... Cannot GET /api/...`) instead of the shared `{ success: false, message: \"Not found\" }` JSON contract. 2. **Client Parsing Failures:** Automated SDK clients and mobile frontends fail to parse HTML responses, causing unhandled JSON parsing syntax exceptions. 3. **Health Check Probes:** `/heal",
-      "source_created_at": "2026-10-21T21:14:36Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13502",
       "first_seen_at": "2026-10-21T21:41:51.366Z",
       "last_seen_at": "2026-10-21T21:41:51.366Z"
     },
@@ -16720,6 +16900,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-21T23:48:42.717Z",
+      "generated_at": "2026-10-21T23:48:42.717Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 543
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 629
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 12,
+      "seen_again": 34,
+      "archive_total": 1126,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21T21:41:51.366Z",
       "generated_at": "2026-10-21T21:41:51.366Z",
       "status": "ok",
@@ -20036,67 +20277,6 @@
       "unique_in_cycle": 47,
       "new_items": 0,
       "seen_again": 47,
-      "archive_total": 399,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:11:43.807Z",
-      "generated_at": "2026-10-15T20:11:43.807Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 670
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 638
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 2,
-      "seen_again": 45,
       "archive_total": 399,
       "steps": [
         {
