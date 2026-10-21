@@ -28,7 +28,7 @@ section.content{padding:45px 0}.heading{margin-bottom:26px}.heading h2{font-size
 .layout{display:grid;grid-template-columns:minmax(0,1.03fr) minmax(330px,1fr);align-items:start;gap:20px}
 .panel{background:white;border:1px solid #d7e4ec;border-radius:17px;padding:23px;box-shadow:0 8px 25px #092c4810}
 .panel h3{margin:0 0 14px}.field{display:grid;gap:6px;margin-bottom:12px;font-size:.86rem;font-weight:730}
-input,textarea{width:100%;padding:10px 11px;border:1px solid #bbced8;border-radius:9px;background:white;color:#153346;min-height:43px}
+input,textarea,select{width:100%;padding:10px 11px;border:1px solid #bbced8;border-radius:9px;background:white;color:#153346;min-height:43px}
 textarea{min-height:76px;resize:vertical}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .row-item{background:#f5f8fb;border-radius:12px;border:1px solid #e0eaf0;padding:14px;margin-bottom:12px}
 .rowhead{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px}
@@ -57,6 +57,12 @@ footer{padding:21px 0;background:#e6edf3;color:#557083;font-size:.85rem}
 <div class="heading"><h2>Diseña tu catálogo en minutos</h2><p class="muted">Los valores iniciales son ficticios. Sustitúyelos por los de tu propio negocio antes de publicar.</p></div>
 <div class="layout">
 <div class="panel">
+<h3>0. Elige un ejemplo para empezar (opcional)</h3>
+<p class="small">Cinco ejemplos editables para negocios peruanos. <strong>Los artículos, precios y nombres son ficticios</strong>; no son un catálogo comercial real. Aplicar una plantilla reemplaza los campos del editor, pero conserva el WhatsApp que escribiste.</p>
+<div class="field"><label for="starterTemplate">Tipo de negocio</label><select id="starterTemplate"><option value="">Seleccionar plantilla...</option></select></div>
+<button type="button" id="applyStarter" class="secondary">Usar ejemplo editable</button>
+<p class="small">Personaliza productos, cantidades y datos antes de distribuir. Los pedidos se confirman exclusivamente por WhatsApp.</p>
+<hr style="border:0;border-top:1px solid #e2eaf0;margin:23px 0">
 <h3>1. Tu empresa</h3>
 <div class="field"><label for="businessName">Nombre del negocio</label><input id="businessName" value="Mi tienda de ejemplo" maxlength="90"></div>
 <div class="field"><label for="tagline">Presentación corta</label><textarea id="tagline" maxlength="160">Productos y servicios para ayudarte en tu día a día.</textarea></div>
@@ -79,7 +85,7 @@ footer{padding:21px 0;background:#e6edf3;color:#557083;font-size:.85rem}
 </div></div>
 <div class="sponsor" id="servicio"><div><div class="kicker">APEX PRIME X · soluciones comerciales</div><h2>¿Quieres una versión profesional para tu empresa?</h2>
 <p>Podemos personalizar imágenes, identidad, categorías, dominio e integraciones empresariales según el alcance acordado. El precio se cotiza individualmente.</p></div>
-<a class="btn light" rel="noopener noreferrer" target="_blank" href="https://wa.me/51931797758?text=Hola%20APEX%20PRIME%20X%2C%20quiero%20personalizar%20Cat%C3%A1logoExpress%20para%20mi%20negocio.">Solicitar propuesta ↗</a></div>
+<a class="btn light" id="sectorContact" rel="noopener noreferrer" target="_blank" href="https://wa.me/51931797758?text=Hola%20APEX%20PRIME%20X%2C%20quiero%20personalizar%20Cat%C3%A1logoExpress%20para%20mi%20negocio.">Solicitar propuesta ↗</a></div>
 </div></section></main>
 <footer><div class="wrap">APEX PRIME X · CatálogoExpress · Demo libre de registro · No procesa pagos, no promete disponibilidad y no representa una tienda afiliada a SUNAT. <a href="../../servicios.html">Ver servicios de APEX</a>.</div></footer>
 <script type="module" src="./app.mjs"></script>
