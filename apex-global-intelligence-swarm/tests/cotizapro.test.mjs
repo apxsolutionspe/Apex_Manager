@@ -78,3 +78,18 @@ test('CSV no ejecuta fórmulas introducidas en etiquetas y rechaza montos invál
   assert.ok(csv.includes('"\'=HYPERLINK(""https://example.invalid"")"'));
   assert.throws(()=>quoteCsv({...q,markupPercent:101}),RangeError);
 });
+
+test('decimal currency rounding is stable above 8192 PEN',()=>{
+  assert.equal(cents('8192.005'),819201);
+  assert.equal(cents(8192.005),819201);
+  assert.equal(cents('8192.004'),819200);
+  assert.equal(cents('0.995'),100);
+  assert.equal(cents('1.235'),124);
+});
+test('labor rate CSV agrees with cent-based totals',()=>{
+  const quote={...q,lines:[],hours:1,hourRate:'8192.005',extras:0,markupPercent:0,taxPercent:0};
+  assert.equal(computeQuote(quote).labor,819201);
+  const csv=quoteCsv(quote);
+  assert.ok(csv.includes('"Mano de obra (horas)","1","8192.01","8192.01"'));
+  assert.ok(csv.includes('"Total PEN","","","8192.01"'));
+});
