@@ -1,4 +1,5 @@
 import {buildPage, validate, MAX_PRODUCTS, createBackup, restoreBackup, requireRecipientForExport} from './core.mjs';
+import {STARTER_KITS, kitFor, customizationLink} from './starter-kits.mjs';
 const $=id=>document.getElementById(id);
 const KEY='apx-catalogoexpress-builder-v1';
 let current={
@@ -62,6 +63,26 @@ function download(text,filename,type){
  const a=document.createElement('a');a.download=filename;a.href=url;document.body.append(a);
  a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),3000);
 }
+// Industry templates are opt-in and must not silently overwrite saved work.
+const selector=$('starterTemplate');
+for(const kit of STARTER_KITS){
+ const option=document.createElement('option');
+ option.value=kit.id;option.textContent=kit.label;selector.append(option);
+}
+$('applyStarter').addEventListener('click',()=>{
+ try{
+  const id=selector.value;
+  const replacement=kitFor(id,$('phone').value);
+  if(!confirm('Aplicar este ejemplo reemplazará nombre, descripción y artículos actuales. ¿Continuar?'))return;
+  current=replacement;
+  $('businessName').value=current.name;
+  $('tagline').value=current.tagline;
+  $('phone').value=current.phone;
+  $('sectorContact').href=customizationLink(id);
+  redraw();preview();
+  notify('Plantilla de ejemplo cargada. Cambia datos, precios ficticios y WhatsApp antes de publicar.');
+ }catch(e){notify(e.message,true);}
+});
 $('businessName').addEventListener('input',preview);
 $('tagline').addEventListener('input',preview);
 $('phone').addEventListener('input',preview);

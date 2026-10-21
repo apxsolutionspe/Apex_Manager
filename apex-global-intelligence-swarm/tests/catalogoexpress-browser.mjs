@@ -62,6 +62,23 @@ try{
  await page.waitForFunction(() => document.getElementById('businessName').value==='Catálogo recuperado');
  assert.equal(await page.locator('.row-item').count(),1);
  assert.equal(await page.locator('input[type="number"]').inputValue(),'15.5');
+ // Templates are opt-in and do not erase saved work without confirmation.
+ assert.equal(await page.locator('#starterTemplate option').count(),6);
+ await page.locator('#starterTemplate').selectOption('ferreteria');
+ page.once('dialog',dialog=>dialog.dismiss());
+ await page.locator('#applyStarter').click();
+ assert.equal(await page.locator('#businessName').inputValue(),'Catálogo recuperado');
+ page.once('dialog',dialog=>dialog.accept());
+ await page.locator('#applyStarter').click();
+ assert.equal(await page.locator('#businessName').inputValue(),'Ferretería de ejemplo');
+ assert.equal(await page.locator('#phone').inputValue(),'51912345678');
+ assert.equal(await page.locator('.row-item').count(),3);
+ assert.equal(await page.locator('.row-item').first().locator('input').first().inputValue(),'Ejemplo: tornillos por bolsa');
+ assert.match(await page.locator('#status').innerText(),/precios ficticios/i);
+ const sectorContact=await page.locator('#sectorContact').getAttribute('href');
+ assert.match(decodeURIComponent(sectorContact),/plantilla de Ferretería y materiales/);
+ await frame.locator('.item').first().waitFor();
+ assert.equal(await frame.locator('.item').count(),3);
  await page.screenshot({path:'apex-catalogoexpress-qa.png',fullPage:true});
  assert.deepEqual(errors,[]);
  console.log('CatalogoExpress E2E OK: mobile, products, cart, totals, preview, standalone HTML download.');
