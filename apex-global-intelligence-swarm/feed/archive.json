@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-21T11:46:47.572Z",
+  "updated_at": "2026-10-21T17:10:53.616Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T11:46:47.572Z"
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964609698",
+      "title": "Availability of one funded S-size bounty and PayPal fallback",
+      "url": "https://github.com/nick-transition/fitapp/issues/100",
+      "evidence": "Hi, I read BOUNTIES.md. Is there currently one unclaimed, non-security S-size documentation, configuration, or regression-test bounty that a maintainer has approved and funded? If so, please link the exact issue and confirm its scope, acceptance criteria, fixed amount, reviewer/assignment, and deadline. Before I start, could we agree the PayPal USD fallback described in the policy, including any recipient fees and whether the 48-hours-after-merge payment window applies? I understand the suggested sizing table is not an individual offer and that",
+      "source_created_at": "2026-10-21T16:39:44Z",
+      "opp_type": "bug_bounty",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/nick-transition/fitapp/issues/100",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964974307",
+      "title": "feat(ui): integrate @stellar/freighter-api for non-custodial transaction signing in the Bounty Drawer",
+      "url": "https://github.com/Phenoll/issuelens/issues/2",
+      "evidence": "### Context Right now, triggering a bounty payout from the React dashboard calls the backend payout endpoint directly. In production, maintainers should be able to sign the XDR payment payload directly in their browser using the **Freighter** browser extension without exposing private keys to the backend environment. ### Proposed Solution 1. Install `@stellar/freighter-api` in `/frontend`. 2. Wire the **Connect Freighter** button in the top navigation bar to call `isConnected()` and `requestAccess()`, displaying the truncated public key (e.g., ",
+      "source_created_at": "2026-10-21T17:04:27Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Phenoll/issuelens/issues/2",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964829974",
+      "title": "Realm: levels.toml splits into a quest reward basis and a steeper cost per level",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/270",
+      "evidence": "Part of #265. Build lane, `crates/twilight-realm` only. Blocked by #267, which edits the same quest XP functions. ADR 0012. ## What `content/levels.toml` gets two columns: the vanilla numbers stay as the basis for quest rewards, and a new, steeper column is what each level costs. ## Today `levels.toml` has one `xp_to_next` array, vanilla, indexed by level − 1. `rules/xp.rs` `xp_to_next` reads it for the cost of a level, and `rules/quest.rs` reads it for quest pay, so steepening it would raise quest pay with it. ## Do 1. Rename the vanilla array",
+      "source_created_at": "2026-10-21T16:54:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dmavs412/twilights-eve-wow/issues/270",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964030032",
+      "title": "[board] Search cards",
+      "url": "https://github.com/amiller/bounty-arcade/issues/1",
+      "evidence": "**App:** `apps/board` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/board-search/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/board-search/check.yml) at `8232383`, run with `node check.mjs bounties/board-search/check.yml ` in the dev image. Nobody reviews the result. Add a search box above the board that hides cards whose text does not contain the query, case-insensitively, across all columns. Column counts show `matching/total` while a query is active and the plain total otherwise. ",
+      "source_created_at": "2026-10-21T16:02:06Z",
+      "opp_type": "bounty_codigo",
+      "score": 34,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/1",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964540942",
+      "title": "Bug: Contact email not working",
+      "url": "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1073",
+      "evidence": "### Description The security contact listed in docs/BUG_BOUNTY.md, security@neurowealth.io, returns an NXDOMAIN/DNS error. Could the maintainers please publish or confirm a working private security reporting address? No vulnerability details are included here. ### Soroban Network Devnet (local development) ### Contract ID _No response_ ### Contract Function _No response_ ### Steps to Reproduce 1 ### Expected Behavior 1 ### Actual Behavior 1 ### Test Command Output ```shell 1 ``` ### Rust Version _No response_ ### Stellar CLI Version _No respons",
+      "source_created_at": "2026-10-21T16:35:25Z",
+      "opp_type": "bug_bounty",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1073",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964955422",
+      "title": "feat(stellar): add Soroban escrow contract support alongside direct Horizon XLM payouts",
+      "url": "https://github.com/Phenoll/issuelens/issues/1",
+      "evidence": "### Context Currently, `backend/stellar_service.py` executes direct Horizon payment transactions from the maintainer's account when an issue bounty is released. For larger bounties, maintainers and contributors need trustless on-chain locking so contributors know funds are guaranteed before starting work on a complex pull request. ### Proposed Solution Extend our Stellar bounty workflow to support an optional Soroban escrow flow on Stellar Testnet: 1. Add an escrow state helper in `backend/stellar_service.py` that prepares an unsigned XDR trans",
+      "source_created_at": "2026-10-21T17:03:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Phenoll/issuelens/issues/1",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964830308",
+      "title": "Realm: Power Level drives base stats and combat, the real level drives progress",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/271",
+      "evidence": "Part of #265. Build lane, `crates/twilight-realm` only. Blocked by #268, which rewrites the attack table this ticket would otherwise feed. ADR 0012, GLOSSARY **Power Level**. ## What A character's body and combat run on its Power Level: the real level mapped in a straight line onto its Tier's content band. ## Today `c.level` feeds everything: base stats (`equipment.rs:159` into `rules/stats.rs`), armour mitigation of the character's hits (`rules/school.rs:46` `attacker_level`), rage (`rules/rage.rs`), spell scaling, and the Bounty Hunter's leve",
+      "source_created_at": "2026-10-21T16:54:42Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dmavs412/twilights-eve-wow/issues/271",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964828896",
+      "title": "Realm: quests gate by Tier, pay with no falloff, and are done once per character",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/267",
+      "evidence": "Part of #265. Build lane, `crates/twilight-realm` only, plus the two quest content files. Independent of the other tickets. ADR 0012. ## What Quests gate by Tier instead of level, pay from their own level with no falloff, and are done once per character. ## Today - `quests/content.rs:434` `in_range` offers a quest from `min_level()` (default: its level − 4) to `max_level`. `quests/dialogs.rs:371` refuses below `min_level`. - `rules/quest.rs` `falloff_pct` cuts quest XP once the character is more than 5 levels above. `reward_xp`, `hunting_reward",
+      "source_created_at": "2026-10-21T16:54:37Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dmavs412/twilights-eve-wow/issues/267",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964033913",
+      "title": "[routes] Time, moving time and speed",
+      "url": "https://github.com/amiller/bounty-arcade/issues/12",
+      "evidence": "**App:** `apps/routes` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/routes-time/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/routes-time/check.yml) at `8232383`, run with `node check.mjs bounties/routes-time/check.yml ` in the dev image. Nobody reviews the result. Most recorded GPX has ` ` on each point. Parse it to `time` (ms since epoch; a point without ` ` has no `time` property, since existing tests deep-compare points) and add a pure `timing(points)` returning `{ elapsed, movin",
+      "source_created_at": "2026-10-21T16:02:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/12",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964033652",
+      "title": "[routes] Gain/loss threshold",
+      "url": "https://github.com/amiller/bounty-arcade/issues/11",
+      "evidence": "**App:** `apps/routes` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/routes-threshold/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/routes-threshold/check.yml) at `8232383`, run with `node check.mjs bounties/routes-threshold/check.yml ` in the dev image. Nobody reviews the result. Raw GPS and barometer noise inflates elevation gain: the flat Riverside Loop reports 53 m. Add `stats(points, { threshold })` (metres, default 0, which keeps current results) that counts a climb or descent o",
+      "source_created_at": "2026-10-21T16:02:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/11",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964033324",
+      "title": "[routes] Segments and gaps",
+      "url": "https://github.com/amiller/bounty-arcade/issues/10",
+      "evidence": "**App:** `apps/routes` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/routes-segments/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/routes-segments/check.yml) at `8232383`, run with `node check.mjs bounties/routes-segments/check.yml ` in the dev image. Nobody reviews the result. `parseGpx` flattens every ` ` into one list, so a GPX with two ` ` blocks (a paused recording, or a ferry crossing) counts the straight line across the gap as distance. Return `segments: [[point, ...], ...]` al",
+      "source_created_at": "2026-10-21T16:02:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/10",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964032940",
+      "title": "[puzzle] Shareable replay links",
+      "url": "https://github.com/amiller/bounty-arcade/issues/9",
+      "evidence": "**App:** `apps/puzzle` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/puzzle-replay-links/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/puzzle-replay-links/check.yml) at `8232383`, run with `node check.mjs bounties/puzzle-replay-links/check.yml ` in the dev image. Nobody reviews the result. Let a player share a solution as a URL such as `/apps/puzzle/#level=2&moves=lLLLrrrddLLL`. On load, the page selects that level and replays the moves; the replay must stop with an error message in `",
+      "source_created_at": "2026-10-21T16:02:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/9",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964032610",
+      "title": "[puzzle] Persist progress and best scores per level",
+      "url": "https://github.com/amiller/bounty-arcade/issues/8",
+      "evidence": "**App:** `apps/puzzle` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/puzzle-progress/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/puzzle-progress/check.yml) at `8232383`, run with `node check.mjs bounties/puzzle-progress/check.yml ` in the dev image. Nobody reviews the result. Players lose their place on reload. Store, per level name, whether it was solved and the fewest moves used, and restore the last selected level on load. Keep the bookkeeping pure in `logic.js` as `recordWin(pro",
+      "source_created_at": "2026-10-21T16:02:16Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/8",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964032238",
+      "title": "[puzzle] Deadlock detection for boxes stuck in corners",
+      "url": "https://github.com/amiller/bounty-arcade/issues/7",
+      "evidence": "**App:** `apps/puzzle` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/puzzle-deadlock/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/puzzle-deadlock/check.yml) at `8232383`, run with `node check.mjs bounties/puzzle-deadlock/check.yml ` in the dev image. Nobody reviews the result. A box pushed into a corner that is not a goal can never move again, and the player only finds out much later. Add `deadBoxes(state)` to `logic.js`, returning the sorted indices of boxes that sit on a non-goal c",
+      "source_created_at": "2026-10-21T16:02:14Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/7",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964031836",
+      "title": "[flight] Seeded wind",
+      "url": "https://github.com/amiller/bounty-arcade/issues/6",
+      "evidence": "**App:** `apps/flight` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/flight-wind/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/flight-wind/check.yml) at `8232383`, run with `node check.mjs bounties/flight-wind/check.yml ` in the dev image. Nobody reviews the result. Levels get a constant horizontal wind, so headwind levels are slower and tailwind levels faster over the ground. `makeLevel(seed)` adds `level.wind` (m/s, positive = tailwind) drawn from the seeded RNG in [-12, 12]. Lift a",
+      "source_created_at": "2026-10-21T16:02:13Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/6",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964031444",
+      "title": "[flight] Run recording and replay",
+      "url": "https://github.com/amiller/bounty-arcade/issues/5",
+      "evidence": "**App:** `apps/flight` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/flight-replay/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/flight-replay/check.yml) at `8232383`, run with `node check.mjs bounties/flight-replay/check.yml ` in the dev image. Nobody reviews the result. Let players share a run as a short string that reproduces it exactly. Export `encodeRun(seed, inputs)` and `decodeRun(str)` → `{ seed, inputs }`, where inputs is an array of per-step `{ pitch, throttle }` with values",
+      "source_created_at": "2026-10-21T16:02:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/5",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964031073",
+      "title": "[flight] Fuel",
+      "url": "https://github.com/amiller/bounty-arcade/issues/4",
+      "evidence": "**App:** `apps/flight` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/flight-fuel/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/flight-fuel/check.yml) at `8232383`, run with `node check.mjs bounties/flight-fuel/check.yml ` in the dev image. Nobody reviews the result. Throttle burns fuel; an empty tank means no thrust and the plane must glide. State gains `fuel` (starts at 1). Each step subtracts `throttle * BURN * dt` with exported `BURN = 1 / 90` (90 s at full throttle), clamped at 0.",
+      "source_created_at": "2026-10-21T16:02:10Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/4",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964030658",
+      "title": "[board] Work-in-progress limit on Doing",
+      "url": "https://github.com/amiller/bounty-arcade/issues/3",
+      "evidence": "**App:** `apps/board` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/board-wip-limit/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/board-wip-limit/check.yml) at `8232383`, run with `node check.mjs bounties/board-wip-limit/check.yml ` in the dev image. Nobody reviews the result. Let the user set a limit on the Doing column with a number input (`data-testid=limit-doing`, empty means no limit). Adding or moving a card into a full Doing column is rejected by the reducer, and the UI disable",
+      "source_created_at": "2026-10-21T16:02:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/3",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964030319",
+      "title": "[board] Undo and redo",
+      "url": "https://github.com/amiller/bounty-arcade/issues/2",
+      "evidence": "**App:** `apps/board` **Amount:** not yet funded **Base commit:** `5c76d40` **Checker:** [`bounties/board-undo/check.yml`](https://github.com/amiller/bounty-arcade/blob/8232383/bounties/board-undo/check.yml) at `8232383`, run with `node check.mjs bounties/board-undo/check.yml ` in the dev image. Nobody reviews the result. Add Undo and Redo buttons (`data-testid=undo`, `data-testid=redo`) and the shortcuts Ctrl/Cmd+Z and Ctrl/Cmd+Shift+Z. History holds at most 50 past states, is cleared by import, and is not persisted. A new action after an undo",
+      "source_created_at": "2026-10-21T16:02:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/amiller/bounty-arcade/issues/2",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5965074861",
+      "title": "Spec: Northshire loot, four Loot Sources and one stat budget",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/272",
+      "evidence": "## Northshire loot: four Loot Sources, one stat budget Grilled 2026-10-21 from the gear-generation template. Every piece of Gear a character can get in Northshire (levels 1 to 10, the Abbey included) is replaced by hand-authored rows in `gear.csv`, ordered by where it comes from: Token whites are the floor, world greens next, quest greens above them, Abbey blues the best, with one epic staff. Trinkets do not exist in Northshire. Elwynn's 10 to 30 loot and the Barrens are untouched; they get their own pass later under the same rules. ### Decisio",
+      "source_created_at": "2026-10-21T17:10:48Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dmavs412/twilights-eve-wow/issues/272",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964991967",
+      "title": "feat(backend): add GitHub webhook receiver with X-Hub-Signature-256 verification for automatic triage",
+      "url": "https://github.com/Phenoll/issuelens/issues/3",
+      "evidence": "### Context IssueLens currently fetches issues when a maintainer clicks the manual **Sync** button (`GET /api/repos/{owner}/{repo}/sync`). To make triage fully automated, the FastAPI backend needs a webhook listener that triggers AI triage and complexity scoring the moment a new issue or pull request is opened on GitHub. ### Proposed Solution 1. Add `POST /api/webhooks/github` in `backend/main.py`. 2. Implement HMAC-SHA256 verification using `GITHUB_WEBHOOK_SECRET` to validate the `X-Hub-Signature-256` request header. 3. Listen for `issues.open",
+      "source_created_at": "2026-10-21T17:05:37Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Phenoll/issuelens/issues/3",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964827850",
+      "title": "Spec: leveling after Advancement, Power Level, level-free combat and XP, hostile zones",
+      "url": "https://github.com/dmavs412/twilights-eve-wow/issues/265",
+      "evidence": "## Leveling after Advancement: Power Level, level-free combat and XP, hostile zones Grilled 2026-10-21. ADR 0012. Advancement resets a character to level 1, but the next Tier's content is built for higher levels (Elwynn is 10 to 30). Today the realm's vanilla rules punish that in every direction. Kill XP stops growing 4 levels above the character and is zero for gray mobs. Quests are only offered from 4 levels below their own, and they fall off once the character is 6 above. The melee table misses, dodges and crushes by the level gap. And Advan",
+      "source_created_at": "2026-10-21T16:54:33Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dmavs412/twilights-eve-wow/issues/265",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964302945",
+      "title": "Bot arc: gamebots get and choose good period gear and weapons",
+      "url": "https://github.com/lometur/HearthDAoC/issues/157",
+      "evidence": "The owner asked (2026-10-21): \"a part of making the bots efficient is i want to make sure they are good at getting good equipement and weapons, picking the right spells, good specs that complement their items or vice versa, and otherwise are making decisions that make these bots legitimate companions as well as foes. i'm sure plenty of this might already be done, but i want to review it and make changes where necessary.\" This is the gear part. Specs and spells (#158) and decisions (#159) have their own issues. Paths: `GS/` = `source/server/Game",
+      "source_created_at": "2026-10-21T16:19:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/lometur/HearthDAoC/issues/157",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964203689",
+      "title": "ttnn.log_sigmoid_bw returns 0.0 instead of NaN on bfloat16 NaN inputs (and runs 13 dispatches instead of 3), and ttnn.hardshrink_bw returns wrong gradients at NaN and at x == 0 when lambd < 0",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/61901",
+      "evidence": "**Component / Area:** ttnn eltwise unary backward (composite), `ttnn.log_sigmoid_bw` and `ttnn.hardshrink_bw` (`ttnn/cpp/ttnn/operations/eltwise/unary_backward/unary_backward.cpp`) **Issue Type:** Bad Outputs / Performance ## Summary `ttnn::log_sigmoid_bw` (`ttnn/cpp/ttnn/operations/eltwise/unary_backward/unary_backward.cpp:439-459`) and `ttnn::hardshrink_bw` (`ttnn/cpp/ttnn/operations/eltwise/unary_backward/unary_backward.cpp:763-770`) both disagree with PyTorch and with their registered TTNN goldens (`ttnn/ttnn/operations/unary_backward.py:20",
+      "source_created_at": "2026-10-21T16:13:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/61901",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5964096067",
+      "title": "[intake 输入] 【测评报告】@hyzyn/dsh-docker 0.13.3 标准测评（16 任务 × 3 轮配对 · 五状态=没啥差别）：两边都 48/48 全对，但调用少一半、返回数据 1/6；事件长窗口返 0 条（P2）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1472",
+      "evidence": "## 0. 摘要 被测：`@hyzyn/dsh-docker` **0.13.3**（npm 正式包，tarball SHA-256 `2e49ff6b6198d3eb4afa23544f77460115d1d520f233d8131d848b966ca14d0e`），源码在 `hyzyn/dsh-plugin-kit` 的 `packages/docker` 子目录。 **五状态判定：没啥差别。** 在真有 Docker 的机器上出了 **16 道运维题**，不装插件（只用 docker 官方命令）和装插件各答一遍，每道题连做 3 轮、顺序 A→B / B→A 交替。**两边都是 48/48 全对，配对差值恒为 0**，区间 [0, 0]。 插件确实更省：**调用次数 12 → 6**，**返回数据量约 55 KB → 约 8.9 KB（约 1/6）**，耗时基本不变。但按 /spec 口径效率不进判定，所以落「没啥差别」。 三条发现： - **F1（P2，可稳定复现）事件窗口开大反而查不到**：1 小时窗口插件返回 **0 条**，同期 `docker events` 返回 **253 条**；10 分钟也是 0 条；2 分钟窗口正常（3 条）。原因是插件只留生命周期事件、丢掉 ",
+      "source_created_at": "2026-10-21T16:06:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1472",
+      "first_seen_at": "2026-10-21T17:10:53.616Z",
+      "last_seen_at": "2026-10-21T17:10:53.616Z"
     },
     {
       "source": "github",
@@ -15970,6 +16345,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-21T17:10:53.616Z",
+      "generated_at": "2026-10-21T17:10:53.616Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 312
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 600
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 1089,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21T11:46:47.572Z",
       "generated_at": "2026-10-21T11:46:47.572Z",
       "status": "ok",
@@ -19307,67 +19743,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:05:13.980Z",
-      "generated_at": "2026-10-15T20:05:13.980Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 503
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 51
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 397,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",
