@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-22T11:49:52.236Z",
+  "updated_at": "2026-10-22T17:09:29.420Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z"
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983904751",
+      "title": "[intake 输入] 【测评报告】dsh-obsidian 0.2.6 安全面首评：.obsidian/ 无保护可写插件并启用，junction 可越出 vault 读写（P1×2）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1604",
+      "evidence": "# 【测评报告】dsh-obsidian 0.2.6 安全面首评：`.obsidian/` 无保护可写插件并启用，junction 可越出 vault 读写（P1×2） > 基线：review 站未收录；bounty 无 `dsh-obsidian` 同件；`可上传清单_记忆类_全量.md` 标 `—`。本件是**安全面首评**。 ## 性质声明 - **intake 输入**，不是悬赏：不 /claim、不自行加 bounty 标签；计分、档位与归并由维护者裁定。 - 四态：已验 / 未验 / 不确定 / 不做；未跑如实写「未验」。 - **仅 Windows 11 x64**；临时 vault，未碰真实 Obsidian vault/配置。 - 不排名、不给总分、不用星级；只给逐项读数与 P 级发现。 - **没有安装/启动 Obsidian**；插件注入链的“执行”一步未实跑，只验证到文件写入。 ## 锚定提交 | 项 | 读数 | |---|---| | 仓库 | `mingzeng21/dsh-obsidian` | | HEAD | **`ff878109d40e2d2b41c7bed05dee25bd2ae52b48`**（2026-10-15T08:12:17+08:",
+      "source_created_at": "2026-10-22T17:03:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1604",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983743884",
+      "title": "[intake 输入] 【合并复核】dsh-arbiter-wf 0.8.4-stable 与 dsh-sidechat 0.3.4：分别同 #1143 / #1515，建议合并、不另计",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1603",
+      "evidence": "# 【合并复核】dsh-arbiter-wf 0.8.4-stable 与 dsh-sidechat 0.3.4：分别同 #1143 / #1515，建议合并、不另计 > 本件按用户要求把两件复核合并成一件提交。**结论先行：两件都是重复件，本件不主张新分。** > 建议：arbiter 并入 **#1143**（已 hard / A / 6 结算）；sidechat 并入 **#1515**（同版本、无新安全根因）。若维护者按“合并件”处理，接受 0 分。 ## 性质声明 - **intake 输入**，不是悬赏：不 /claim、不自行加 bounty 标签；计分、档位与归并由维护者裁定。 - 四态：已验 / 未验 / 不确定 / 不做；未跑如实写「未验」。 - **仅 Windows 11 x64**；两件均未执行真实破坏性操作。 - 不排名、不给总分、不用星级。 - 本件**没有**创建 PR、没有评论既有 issue、没有动用户真实 `~/.dsh` 数据。 --- # A. dsh-arbiter-wf 0.8.4-stable —— 同 tarball，重复 #1143 ## 锚定 | 项 | 读数 | |---|---| | 版本 / tag | `0.8.4-sta",
+      "source_created_at": "2026-10-22T16:52:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1603",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983736923",
+      "title": "Definer exposure: a SECURITY DEFINER writer is reachable from a browser",
+      "url": "https://github.com/Smarter-Poker/Smarter-Poker-Club-Arena/issues/7714",
+      "evidence": "The daily live audit found a SECURITY DEFINER function a browser role can execute, that WRITES, and that never consults auth.uid(), auth.role() or auth.jwt(). SECURITY DEFINER runs it as an owner with BYPASSRLS, so the table policies are not standing behind it either. ``` [definer-exposure] live: 2, baselined: 1, new: 1; anon-executable writers: 0 (must be 0); RLS-off writable tables: 0 (0 new); anon-readable functions: 14 (0 new) [definer-exposure] NEW LIVE EXPOSURE. fn_mystery_bounty_offer(p_award_id uuid) executable by: authenticated It writ",
+      "source_created_at": "2026-10-22T16:52:24Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Smarter-Poker/Smarter-Poker-Club-Arena/issues/7714",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983459089",
+      "title": "[intake 输入] 【测评报告】dsh-plugin-tlsearch 1.0.0 安全面首评：外部搜索结果未加不可信围栏，单条 URL 无上限可吃满 60k 工具输出（P3）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1601",
+      "evidence": "# 【测评报告】dsh-plugin-tlsearch 1.0.0 安全面首评：外部搜索结果未加不可信围栏，单条 URL 无上限可吃满 60k 工具输出（P3） > 基线：review 站 153 主列表未收录（低重复）；bounty 无 `dsh-plugin-tlsearch` 同件。本件是**安全面首评**。 ## 性质声明 - **intake 输入**，不是悬赏：不 /claim、不自行加 bounty 标签；计分、档位与归并由维护者裁定。 - **四态边界**：已验 / 未验 / 不确定 / 不做；未跑如实写「未验」。 - **仅 Windows 11 x64**；host tool，无自建 HTTP 路由。 - 不排名、不给总分、不用星级；只给逐项读数与 P 级发现。 - **没有访问任何真实搜索后端/外网**；只用包导出的 `normalizeHits` / `renderOutcome` / `toContentBlocks` 喂合成结果。 ## 锚定提交 | 项 | 读数 | |---|---| | 包 | `dsh-plugin-tlsearch@1.0.0`（npm，2026-10-19T09:52:17Z） | | shasum | `017d13f39c1",
+      "source_created_at": "2026-10-22T16:33:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1601",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983364746",
+      "title": "keras-3.10.0-py3-none-any.whl: 16 vulnerabilities (highest severity is: 9.0)",
+      "url": "https://github.com/joseguzman1337/offensive-security/issues/704",
+      "evidence": "Vulnerable Library - keras-3.10.0-py3-none-any.whl Multi-backend Keras Library home page: https://files.pythonhosted.org/packages/95/e6/4179c461a5fc43e3736880f64dbdc9b1a5349649f0ae32ded927c0e3a227/keras-3.10.0-py3-none-any.whl Sample Path to Dependency File: /Linux/Python/requirements.txt Path to vulnerable library: /tmp/ws-ua_20260325185413_DRVGIN/python_CCRPUY/20260325185414/141/keras-3.10.0-py3-none-any.whl,/tmp/ws-ua_20260325185413_DRVGIN/python_CCRPUY/20260325185414/299/keras-3.10.0-py3-none-any.whl,/tmp/ws-ua_20260325185413_DRVGIN/python_",
+      "source_created_at": "2026-10-22T16:27:48Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/joseguzman1337/offensive-security/issues/704",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983624479",
+      "title": "[compiler] Valid UTF-8 byte escapes are re-encoded as Unicode scalars",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1199",
+      "evidence": "Valid UTF-8 byte escapes are re-encoded as Unicode scalar values, changing accepted programs' string contents and comparisons. Tested base: `9f61f54f196877189814e791ce4f5d5c8a8c1e81`, still upstream `main` when rechecked on 2026-10-22 at 16:30 UTC. Environment: macOS arm64, Rust 1.99.0 and Go 1.26.9. ## Minimal reproduction Save as `byte-escapes.hy`: ```hy fn main() { s := \"\\xc3\\xa9\" fmt.println(len(s)) fmt.println(s == \"é\") } ``` Using a compiler built from the commit above: ```sh hyb check byte-escapes.hy --json hyb build byte-escapes.hy -o b",
+      "source_created_at": "2026-10-22T16:44:58Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1199",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983610132",
+      "title": "log4brains-1.0.1.tgz: 65 vulnerabilities (highest severity is: 10.0)",
+      "url": "https://github.com/storm-software/cyclone-ui/issues/374",
+      "evidence": "Vulnerable Library - log4brains-1.0.1.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (log4brains version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [WS-2026-0029](https://github.com/vercel/next.js/security/advisories/GHSA-2xp9-vwfh-vxw4) | Critical | 10.0 | next-10.2.3.tgz | Transitive | N/A* | &#10060; | | [CVE-2026-6951](https://www.mend.io/vulnerabi",
+      "source_created_at": "2026-10-22T16:44:01Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/storm-software/cyclone-ui/issues/374",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983603554",
+      "title": "bundlewatch-0.4.0.tgz: 30 vulnerabilities (highest severity is: 9.3)",
+      "url": "https://github.com/storm-software/cyclone-ui/issues/361",
+      "evidence": "Vulnerable Library - bundlewatch-0.4.0.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (bundlewatch version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2026-101904](https://www.mend.io/vulnerability-database/CVE-2026-101904) | Critical | 9.3 | axios-0.28.1.tgz | Transitive | N/A* | &#10060; | | [CVE-2026-44492](https://www.mend.io/vulnerability-data",
+      "source_created_at": "2026-10-22T16:43:35Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/storm-software/cyclone-ui/issues/361",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983563067",
+      "title": "[intake 输入] dsh-update-checker 1.7.3：写操作的 `isLoopback` 只看 peer IP，跨站两步即可把备份根改到任意 Windows 绝对路径并递归强删其下全部条目",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1602",
+      "evidence": "# [intake 输入] dsh-update-checker 1.7.3：写操作的 `isLoopback` 只看 peer IP，跨站两步即可把备份根改到任意 Windows 绝对路径并递归强删其下全部条目 ## 0. 摘要 `dsh-update-checker@1.7.3`（target `Airmetro/dsh-update-checker`，commit `d9b20e1d`）为**所有写操作**设了一道 `writeGate`： ```js // lib/index.js:5331-5353 function isLoopback(req) { const a = req && req.socket && req.socket.remoteAddress; return a === \"127.0.0.1\" || a === \"::1\" || a === \"::ffff:127.0.0.1\"; // ← 只看 peer IP } async function writeGate(req, res) { if (!isLoopback(req)) return { err: json(res, 403, { ok: false, error: \"loopback req",
+      "source_created_at": "2026-10-22T16:40:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1602",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983529079",
+      "title": "WS-2023-0439 (High) detected in axios-0.25.0.tgz",
+      "url": "https://github.com/pustovitDmytro/semantic-release-heroku/issues/236",
+      "evidence": "## WS-2023-0439 - High Severity Vulnerability Vulnerable Library - axios-0.25.0.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.25.0.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json Dependency Hierarchy: - base-api-client-1.5.8.tgz (Root Library) - :x: **axios-0.25.0.tgz** (Vulnerable Library) Found in base branch: master Vulnerability Details Axios is vulnerable to Regular Expression Denial of Service (ReDoS). When a manipulated s",
+      "source_created_at": "2026-10-22T16:38:31Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/pustovitDmytro/semantic-release-heroku/issues/236",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983526300",
+      "title": "keras-2.11.0-py2.py3-none-any.whl: 14 vulnerabilities (highest severity is: 9.8)",
+      "url": "https://github.com/BrentWJacobs/Py/issues/232",
+      "evidence": "Vulnerable Library - keras-2.11.0-py2.py3-none-any.whl Multi-backend Keras. Library home page: https://files.pythonhosted.org/packages/de/44/bf1b0eef5b13e6201aef076ff34b91bc40aace8591cd273c1c2a94a9cc00/keras-2.11.0-py2.py3-none-any.whl Sample Path to Dependency File: /requirements.txt Path to vulnerable library: /requirements.txt ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (keras version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2024",
+      "source_created_at": "2026-10-22T16:38:20Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BrentWJacobs/Py/issues/232",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983525342",
+      "title": "CVE-2021-3749 (High) detected in axios-0.21.1.tgz",
+      "url": "https://github.com/mcaj-git/nextcloud-dev/issues/793",
+      "evidence": "## CVE-2021-3749 - High Severity Vulnerability Vulnerable Library - axios-0.21.1.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.21.1.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json Dependency Hierarchy: - axios-1.6.0.tgz (Root Library) - :x: **axios-0.21.1.tgz** (Vulnerable Library) Found in base branch: master Vulnerability Details axios is vulnerable to Inefficient Regular Expression Complexity Publish Date: 2021-08-31 URL: CVE",
+      "source_created_at": "2026-10-22T16:38:16Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mcaj-git/nextcloud-dev/issues/793",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983525147",
+      "title": "axios-0.26.1.tgz: 30 vulnerabilities (highest severity is: 9.3)",
+      "url": "https://github.com/KOSASIH/stable-pi-core/issues/58",
+      "evidence": "Vulnerable Library - axios-0.26.1.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.26.1.tgz Sample Path to Dependency File: /api-gateway/package.json Path to vulnerable library: /api-gateway/node_modules/axios/package.json ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (axios version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2026-101904](https://www.mend.io/vulnerabi",
+      "source_created_at": "2026-10-22T16:38:15Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/KOSASIH/stable-pi-core/issues/58",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983521834",
+      "title": "axios-0.21.4.tgz: 30 vulnerabilities (highest severity is: 9.3)",
+      "url": "https://github.com/KOSASIH/stable-pi-core/issues/51",
+      "evidence": "Vulnerable Library - axios-0.21.4.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.21.4.tgz Sample Path to Dependency File: /token-incentive-system/package.json Path to vulnerable library: /token-incentive-system/node_modules/axios/package.json ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (axios version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2026-101904](https:/",
+      "source_created_at": "2026-10-22T16:38:02Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/KOSASIH/stable-pi-core/issues/51",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983517093",
+      "title": "transformers-4.30.2-py3-none-any.whl: 31 vulnerabilities (highest severity is: 9.6)",
+      "url": "https://github.com/BrentWJacobs/Py/issues/210",
+      "evidence": "Vulnerable Library - transformers-4.30.2-py3-none-any.whl State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow Library home page: https://files.pythonhosted.org/packages/5b/0b/e45d26ccd28568013523e04f325432ea88a442b4e3020b757cf4361f0120/transformers-4.30.2-py3-none-any.whl Sample Path to Dependency File: /requirements.txt Path to vulnerable library: /requirements.txt ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (transformers version) | Remediation Possible** | | ------------- | ------------- |",
+      "source_created_at": "2026-10-22T16:37:42Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BrentWJacobs/Py/issues/210",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983508671",
+      "title": "WS-2023-0439 (High) detected in axios-0.21.1.tgz",
+      "url": "https://github.com/mcaj-git/nextcloud-dev/issues/753",
+      "evidence": "## WS-2023-0439 - High Severity Vulnerability Vulnerable Library - axios-0.21.1.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.21.1.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json Dependency Hierarchy: - axios-1.6.0.tgz (Root Library) - :x: **axios-0.21.1.tgz** (Vulnerable Library) Found in base branch: master Vulnerability Details Axios is vulnerable to Regular Expression Denial of Service (ReDoS). When a manipulated string is p",
+      "source_created_at": "2026-10-22T16:37:07Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mcaj-git/nextcloud-dev/issues/753",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983507528",
+      "title": "onnx-1.14.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl: 13 vulnerabilities (highest severity is: 8.8)",
+      "url": "https://github.com/BrentWJacobs/Py/issues/188",
+      "evidence": "Vulnerable Library - onnx-1.14.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl Open Neural Network Exchange Library home page: https://files.pythonhosted.org/packages/f7/18/d23e3fdc4226373377614eec2fca6fd13a23fd47651e9a741e131db05540/onnx-1.14.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl Sample Path to Dependency File: /requirements.txt Path to vulnerable library: /requirements.txt ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (onnx version) | Remediation Possible** | | ----------",
+      "source_created_at": "2026-10-22T16:37:03Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BrentWJacobs/Py/issues/188",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983501875",
+      "title": "nltk-3.8.1-py3-none-any.whl: 46 vulnerabilities (highest severity is: 10.0)",
+      "url": "https://github.com/BrentWJacobs/Py/issues/176",
+      "evidence": "Vulnerable Library - nltk-3.8.1-py3-none-any.whl Natural Language Toolkit Library home page: https://files.pythonhosted.org/packages/a6/0a/0d20d2c0f16be91b9fa32a77b76c60f9baf6eba419e5ef5deca17af9c582/nltk-3.8.1-py3-none-any.whl Sample Path to Dependency File: /requirements.txt Path to vulnerable library: /requirements.txt ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (nltk version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2026-0848](ht",
+      "source_created_at": "2026-10-22T16:36:40Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BrentWJacobs/Py/issues/176",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983493882",
+      "title": "CVE-2022-0155 (High) detected in follow-redirects-1.13.0.tgz, follow-redirects-1.14.2.tgz",
+      "url": "https://github.com/mcaj-git/nextcloud-dev/issues/719",
+      "evidence": "## CVE-2022-0155 - High Severity Vulnerability Vulnerable Libraries - follow-redirects-1.13.0.tgz , follow-redirects-1.14.2.tgz follow-redirects-1.13.0.tgz HTTP and HTTPS modules that follow redirects. Library home page: https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.13.0.tgz Sample Path to Dependency File: /package.json Path to vulnerable library: /package.json Dependency Hierarchy: - axios-1.6.0.tgz (Root Library) - axios-0.21.1.tgz - :x: **follow-redirects-1.13.0.tgz** (Vulnerable Library) follow-redirects-1.14.2.tgz HTTP a",
+      "source_created_at": "2026-10-22T16:36:08Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mcaj-git/nextcloud-dev/issues/719",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983465572",
+      "title": "transformers-4.46.3-py3-none-any.whl: 27 vulnerabilities (highest severity is: 8.8)",
+      "url": "https://github.com/ls1intum/Athena/issues/518",
+      "evidence": "Vulnerable Library - transformers-4.46.3-py3-none-any.whl State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow Library home page: https://files.pythonhosted.org/packages/51/51/b87caa939fedf307496e4dbf412f4b909af3d9ca8b189fc3b65c1faa456f/transformers-4.46.3-py3-none-any.whl Sample Path to Dependency File: /modules/programming/module_programming_themisml/.ws-temp-JAAXML-requirements.txt Path to vulnerable library: /home/wss-scanner/.cache/pypoetry/virtualenvs/module-programming-themisml-6JtHFAOJ-py3.11/lib/python3.11/site-packages/tr",
+      "source_created_at": "2026-10-22T16:34:17Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ls1intum/Athena/issues/518",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983462053",
+      "title": "nltk-3.9.1-py3-none-any.whl: 42 vulnerabilities (highest severity is: 10.0)",
+      "url": "https://github.com/ls1intum/Athena/issues/511",
+      "evidence": "Vulnerable Library - nltk-3.9.1-py3-none-any.whl Natural Language Toolkit Library home page: https://files.pythonhosted.org/packages/4d/66/7d9e26593edda06e8cb531874633f7c2372279c3b0f46235539fe546df8b/nltk-3.9.1-py3-none-any.whl Sample Path to Dependency File: /llm_core/.ws-temp-UUSECC-requirements.txt Path to vulnerable library: /llm_core/.ws-temp-UUSECC-requirements.txt,/modules/text/module_text_llm/.ws-temp-YBCMOS-requirements.txt,/modules/programming/module_programming_winnowing/.ws-temp-MVCPIX-requirements.txt,/modules/programming/module_pr",
+      "source_created_at": "2026-10-22T16:34:03Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ls1intum/Athena/issues/511",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983449652",
+      "title": "langchain_community-0.2.15-py3-none-any.whl: 3 vulnerabilities (highest severity is: 8.6)",
+      "url": "https://github.com/ls1intum/Athena/issues/485",
+      "evidence": "Vulnerable Library - langchain_community-0.2.15-py3-none-any.whl Community contributed LangChain integrations. Library home page: https://files.pythonhosted.org/packages/f6/cf/3857a79c39f451a445f9afc836199fde92a942850808f97bcc396ed6dc64/langchain_community-0.2.15-py3-none-any.whl Sample Path to Dependency File: /modules/modeling/module_modeling_llm/.ws-temp-FXAQNG-requirements.txt Path to vulnerable library: /modules/modeling/module_modeling_llm/.ws-temp-FXAQNG-requirements.txt,/modules/programming/module_programming_llm/.ws-temp-QQXLZB-require",
+      "source_created_at": "2026-10-22T16:33:14Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ls1intum/Athena/issues/485",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983439032",
+      "title": "CVE-2021-3749 (High) detected in axios-0.19.0.tgz",
+      "url": "https://github.com/b-tomi/100DaysOfCode/issues/281",
+      "evidence": "## CVE-2021-3749 - High Severity Vulnerability Vulnerable Library - axios-0.19.0.tgz Promise based HTTP client for the browser and node.js Library home page: https://registry.npmjs.org/axios/-/axios-0.19.0.tgz Sample Path to Dependency File: /day59/package.json Path to vulnerable library: /day59/package.json,/day60/package.json Dependency Hierarchy: - browser-sync-2.26.13.tgz (Root Library) - localtunnel-2.0.0.tgz - :x: **axios-0.19.0.tgz** (Vulnerable Library) Found in HEAD commit: c88b9429eb68a85b22f0e39cac7bf20b89cb6709 Found in base branch:",
+      "source_created_at": "2026-10-22T16:32:33Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/b-tomi/100DaysOfCode/issues/281",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983437516",
+      "title": "axios-1.6.2.tgz: 40 vulnerabilities (highest severity is: 9.3)",
+      "url": "https://github.com/Sudeep72/doc-nm/issues/18",
+      "evidence": "Vulnerable Library - axios-1.6.2.tgz Library home page: https://registry.npmjs.org/axios/-/axios-1.6.2.tgz Sample Path to Dependency File: /client/package.json Path to vulnerable library: /client/package.json ## Vulnerabilities | Vulnerability | Severity | CVSS | Dependency | Type | Fixed in (axios version) | Remediation Possible** | | ------------- | ------------- | ----- | ----- | ----- | ------------- | --- | | [CVE-2026-101904](https://www.mend.io/vulnerability-database/CVE-2026-101904) | Critical | 9.3 | axios-1.6.2.tgz | Direct | 1.20.0 |",
+      "source_created_at": "2026-10-22T16:32:27Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Sudeep72/doc-nm/issues/18",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5983411573",
+      "title": "CVE-2022-0155 (High) detected in follow-redirects-1.13.0.tgz, follow-redirects-1.5.10.tgz",
+      "url": "https://github.com/b-tomi/100DaysOfCode/issues/219",
+      "evidence": "## CVE-2022-0155 - High Severity Vulnerability Vulnerable Libraries - follow-redirects-1.13.0.tgz , follow-redirects-1.5.10.tgz follow-redirects-1.13.0.tgz HTTP and HTTPS modules that follow redirects. Library home page: https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.13.0.tgz Sample Path to Dependency File: /day59/package.json Path to vulnerable library: /day59/package.json,/day60/package.json Dependency Hierarchy: - browser-sync-2.26.13.tgz (Root Library) - http-proxy-1.18.1.tgz - :x: **follow-redirects-1.13.0.tgz** (Vulnerab",
+      "source_created_at": "2026-10-22T16:30:46Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/b-tomi/100DaysOfCode/issues/219",
+      "first_seen_at": "2026-10-22T17:09:29.420Z",
+      "last_seen_at": "2026-10-22T17:09:29.420Z"
     },
     {
       "source": "github",
@@ -17631,219 +18006,70 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/273",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834410905",
-      "title": "[Bug][P2] 守卫盲区：真模式审核员授权（`handle_issue_comment` 里的 `is_rev`）没有一条断言覆盖，「任何人都是审核员」的变异体 124/124 全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/271",
-      "evidence": "**项目归属**：`project:bounty_site` **难度自申请**：easy——补打两条定点变异即可证明；修法是加一条路由层断言。最终定档以维护者为准。 **影响等级建议**：C——不是线上缺陷本身，而是 3792394「账本 role 授权面」这条最关键的接线没有任何守卫；它一旦回归成「人人可 `/verify`」，现有 124 条断言和 43 条定点变异都发现不了。 **意图**：让维护者知道 README 里「逐条判据 + 定点变异自证」的承诺在授权接线这一层是空的。 **环境**：Debian GNU/Linux 13 / Linux 6.12（aarch64）· Python 3.12.15 · 纯标准库（上游零第三方依赖）· 被测提交 `4e04c9d7f633569810674f28f980207176556ce1`（main HEAD，2026-10-13 00:15 +08:00；开工时 `git ls-remote` 确认）。复现只在临时目录里跑，经 `git archive` 导出副本，不改仓库、不触网（GitHub 用内存替身，命令走上游真模式入口 `handle_issue_comment`）。 ### 触发条件 任何改动把 `scripts/",
-      "source_created_at": "2026-10-13T17:01:57Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/271",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834410413",
-      "title": "[Bug][P1] 回避闸只看「动作那一刻」的持有者：审核员先 `/appraise` 再 `/claim`，自评的影响等级随标记带进自己的结算；招标中的投标人也能给自己的任务定级，维护者可 `/select` 自己",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/269",
-      "evidence": "**项目归属**：`project:bounty_site` **难度自申请**：medium——要把 `needs_recusal` 的判据、`_accept` 里影响等级的跨态继承、招标态（无持有者）三处连起来看，并在真模式入口上走完「评→领→交→验→结」整条链。最终定档以维护者为准。 **影响等级建议**：B——触发者须是审核员或维护者（受信角色），但《审核员机制 v0.1》§三把「授权不豁免回避」写成硬规则，本条正是在这条规则下的绕过；被操纵的是价值评价轴（`impact`，进结算事件与价值向量），不改声誉分。 **意图**：让维护者知道 3792394 的回避闸只在「持有者已经存在」时生效，按顺序换一下就能自评自领。 **环境**：Debian GNU/Linux 13 / Linux 6.12（aarch64）· Python 3.12.15 · 纯标准库（上游零第三方依赖）· 被测提交 `4e04c9d7f633569810674f28f980207176556ce1`（main HEAD，2026-10-13 00:15 +08:00；开工时 `git ls-remote` 确认）。复现只在临时目录里跑，经 `git archive` 导出副本，不改仓库、不触网（Gi",
-      "source_created_at": "2026-10-13T17:01:54Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/269",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834409783",
-      "title": "[Bug][P1] 晋升判据把真模式的 `round=1`（真实返工一次）当成「追溯性中性占位」：每条都先被退回一次的人判达标，偶尔一次过闸的人反被「一次过闸占比」挡下",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/267",
-      "evidence": "**项目归属**：`project:bounty_site` **难度自申请**：medium——要对上 `quality_delta` 的 `round = rounds − 1` 定义、状态机 `/verify fail` 的轮次计法、`promotion_report` 的「区分度前置」三处，并用真流程造出对照组。最终定档以维护者为准。 **影响等级建议**：A——晋升评估（`docs/bounty/promotion.json`）是授予审核员权限的机械依据，这条让「一次过闸占比」判据在真模式数据上失效，而且结论非单调（做得更好反而不达标）。依据《价值评价规格 v0.1》A 档「量具失效（使评测结论不可信）」。 **意图**：让维护者知道 §5.1「round 全为 1 ⇒ 不适用」只对追溯性账本成立，对状态机产出的账本是错的。 **利益关系公示**：本报告作者 LarryE135 是现网 `promotion.json` 中唯一达标的候选人。本条不改变这一结论（现网账本全是追溯性结算），但修复后的判据会同样适用于本人。 **环境**：Debian GNU/Linux 13 / Linux 6.12（aarch64）· Python 3.12.15 · 纯标准库（上游零第三方依",
-      "source_created_at": "2026-10-13T17:01:52Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/267",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834336497",
-      "title": "【intake 输入】dsh-memory：coldverify 队列跨实例静默丢条目（_persist 全量覆写 + 每实例各持内存队列）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/266",
-      "evidence": "## 性质声明 本件是**外部贡献申报（intake 输入）**，不是悬赏：不 /claim、不自行加 `bounty` 标签、不发 /claim /deliver /verify /settle。依据：`docs/bounty/README.md` §九「外部贡献申报走 intake 命名空间，不打 bounty 标签」（它是输入不是悬赏，维护者裁定后另立悬赏）、§六 两条参与通道（原 issue 仍开着的走 /claim；已随载体迁移关闭的走 PR 通道）、以及实测「外部账号对 dsh-bounty 只有 pull 权限，POST /issues/{n}/labels 返回 403 Must have admin rights」（标签只能由维护者打）。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | FuRongJun-1999/dsh-memory | | PR | https://github.com/FuRongJun-1999/dsh-memory/pull/268 | | 缺陷 issue | https://github.com/FuRongJun-1999/dsh-memory/issues/265 | | 基线 commit | `17b85",
-      "source_created_at": "2026-10-13T16:56:31Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/266",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834086492",
-      "title": "Preregister: refute Hertz–Lupu-Gladstein–Heshami–Goldberg Conjecture 7 (arXiv:2501.02047, Quantum Stud. Math. Found. 13, 34 (2026)): the purity of a state under loss is not always log-convex in T (ρ₁ = diag(1/100, 3/4, 6/25), T = 49/50)",
-      "url": "https://github.com/the-omega-institute/trureturing/issues/16345",
-      "evidence": "- skill context: none; main loop direct. - carriers: - candidate and counterexample: nyxid-oracle quick-track search seat `search1014a` (pool `chrono-chatgpt-pro-pool`, task `8ff1e859-adba-40db-83d3-283fb731b746`, model label `chatgpt-6-pro`); - the source reading, the exact checks with their positive control and the literature readings: orchestrator (Claude Code), first-hand. - session: `9cd30b0e-2e83-4293-82ca-b7914dc3eac6` (`claude --resume 9cd30b0e-2e83-4293-82ca-b7914dc3eac6`). ## Source (verbatim) A. Hertz, N. Lupu-Gladstein, K. Heshami a",
-      "source_created_at": "2026-10-13T16:38:03Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/the-omega-institute/trureturing/issues/16345",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834267604",
-      "title": "交付：lingshu 贡献结算核对 —— 7 件 PR 按「内容在库」判定实际落地 2 件（#26 / #286），另 5 件未采纳并逐条给出反证",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/265",
-      "evidence": "## 这是什么 对我在上游仓 `FuRongJun-1999/lingshu` 提交的 **7 件 PR（#26 / #27 / #283 / #284 / #285 / #286 / #287）** 做一次**采纳结算核对**：哪些真落地了、哪些没有。 结论一句话：**7 件里只有 2 件落地（#26、#286），其余 5 件未采纳**。本文按「内容是否在库」判定，**不按 merge 谱系判定**（谱系已证明不可靠，见第六节）。 --- ## 一、结论速览 | PR | 主张内容 | 判定 | 决定性证据 | |:--|:--|:--|:--| | **#26** | follow 巡逻改为「已提交目标点」语义 | ✅ **已采纳** | 提交 `8cb0846e`，信息原文含「**采纳自 PR #26，作者 acrot0**」；`tests/test_scene_follow_patrol.py` **在库** | | **#27** | wander 归一化返回单位方向 | ❌ 未采纳 | `tests/test_scene_wander_kinematics.py` **缺**；我加的三处注释（「返回单位方向」「sqrt(2)」「退化分支」）在库内**均未出现** | | ",
-      "source_created_at": "2026-10-13T16:51:28Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/265",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834118055",
-      "title": "Paid bug-report offer: current eligibility and Nano / USDT payout before work",
-      "url": "https://github.com/PayRam/payram-scripts/issues/113",
-      "evidence": "Runproof Studio / Pururin-ux — a paid-work intake question. Your February 8 post advertises $1–5 USDC/USDT for bug reports and directs claims to this repository: https://www.moltbook.com/post/6f9481ff-bffa-4f7f-af87-0a81f46d3ea1 . Is that offer still funded for new, distinct functional bugs in the current agent CLI on main? Before investing in a report, could you confirm: - Whether a deterministic local reproducer and a narrowly tested fix are acceptable, without a VPS, live payment gateway, wallet transactions or an actual mainnet deployment. ",
-      "source_created_at": "2026-10-13T16:40:21Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/PayRam/payram-scripts/issues/113",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:24:37.789Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834037148",
-      "title": "[red-team] stadtwien-my-sharepoint: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/116",
-      "evidence": "## Alvo(s) - target: `stadtwien-my-sharepoint` ## Tipo type: `web` ## Intenção intent: Host SharePoint de tenant governamental (stadtwien-my.sharepoint.com), Jev MEDIUM 0.29; tenants SharePoint frequentemente expõem configurações de compartilhamento, listas e metadados publicamente. Validar de forma passiva/não-destrutiva a superfície de `stadtwien-my.sharepoint.com`. ## Fases desejadas phases: `[\"recon\", \"api\", \"frontend\"]` ## Contexto extra (opcional) - Fonte: `arkadiyt` - Programa: n/d - offers_bounty: n/d - Jev reward: MEDIUM (conf 0.58, sc",
-      "source_created_at": "2026-10-13T16:34:33Z",
-      "opp_type": "bounty_codigo",
-      "score": 38,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/steingui/redteam-ops/issues/116",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834037264",
-      "title": "[red-team] teach-classdojo: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/117",
-      "evidence": "## Alvo(s) - target: `teach-classdojo` ## Tipo type: `web` ## Intenção intent: Aplicação web de professor (teach.classdojo.com), Jev MEDIUM 0.29; interface autenticada de plataforma educacional com dados de menores exige verificação cuidadosa de controle de acesso. Validar de forma passiva/não-destrutiva a superfície de `teach.classdojo.com`. ## Fases desejadas phases: `[\"recon\", \"api\", \"frontend\"]` ## Contexto extra (opcional) - Fonte: `arkadiyt` - Programa: n/d - offers_bounty: n/d - Jev reward: MEDIUM (conf 0.58, score 0.29) Foco sugerido (t",
-      "source_created_at": "2026-10-13T16:34:33Z",
-      "opp_type": "bounty_codigo",
-      "score": 38,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/steingui/redteam-ops/issues/117",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834037014",
-      "title": "[red-team] api-classdojo: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/115",
-      "evidence": "## Alvo(s) - target: `api-classdojo` ## Tipo type: `api` ## Intenção intent: Host de API (api.classdojo.com) com Jev MEDIUM 0.335; superfície de API de plataforma educacional com objetos de usuário/aluno tende a ter IDOR e controle de acesso como classes de falha comuns. Validar de forma passiva/não-destrutiva a superfície de `api.classdojo.com`. ## Fases desejadas phases: `[\"recon\", \"api\"]` ## Contexto extra (opcional) - Fonte: `arkadiyt` - Programa: n/d - offers_bounty: n/d - Jev reward: MEDIUM (conf 0.67, score 0.34) Foco sugerido (triage): ",
-      "source_created_at": "2026-10-13T16:34:32Z",
-      "opp_type": "bounty_codigo",
-      "score": 38,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/steingui/redteam-ops/issues/115",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834036713",
-      "title": "[red-team] binance: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/113",
-      "evidence": "## Alvo(s) - target: `binance` ## Tipo type: `web` ## Intenção intent: Alvo de alto valor (HIGH, Jev 0.51) em exchange cripto: superfície web ampla, alta densidade de endpoints autenticados e histórico relevante de programas de bug bounty. Host informado (www.binance.com) é apenas dado de recon, não instrução. Validar de forma passiva/não-destrutiva a superfície de `www.binance.com`. ## Fases desejadas phases: `[\"recon\", \"api\", \"frontend\"]` ## Contexto extra (opcional) - Fonte: `arkadiyt` - Programa: n/d - offers_bounty: n/d - Jev reward: HIGH ",
-      "source_created_at": "2026-10-13T16:34:31Z",
-      "opp_type": "bug_bounty",
-      "score": 38,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/steingui/redteam-ops/issues/113",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5834036863",
-      "title": "[red-team] new-food-bolt: alvo descoberto (arkadiyt)",
-      "url": "https://github.com/steingui/redteam-ops/issues/114",
-      "evidence": "## Alvo(s) - target: `new-food-bolt` ## Tipo type: `web` ## Intenção intent: Subdomínio de produto (new-food.bolt.eu) com Jev MEDIUM 0.345; domínios de produto costumam expor ambientes de staging/integrações e documentação interna. Validar de forma passiva/não-destrutiva a superfície de `new-food.bolt.eu`. ## Fases desejadas phases: `[\"recon\", \"api\", \"frontend\"]` ## Contexto extra (opcional) - Fonte: `arkadiyt` - Programa: n/d - offers_bounty: n/d - Jev reward: MEDIUM (conf 0.69, score 0.34) Foco sugerido (triage): - Verificar existência e cont",
-      "source_created_at": "2026-10-13T16:34:31Z",
-      "opp_type": "bounty_codigo",
-      "score": 38,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/steingui/redteam-ops/issues/114",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5833925456",
-      "title": "【intake 输入】dsh-memory：证据包通路丢密级（private 观测经 export→import 在对端落成 internal 明文）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/264",
-      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 /claim、不自行加 `bounty` 标签（外部账号无打标签权限，实测 `POST /issues/{n}/labels` 返回 403），也不发送 /claim、/deliver、/verify、/settle。依据：`docs/bounty/README.md` §九（外部贡献申报走 intake 命名空间，是输入不是悬赏，由维护者裁定后另立悬赏）、§六（两条参与通道：原 issue 仍开着的走 /claim，已随载体迁移关闭的走 PR 通道）。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/dsh-memory` | | PR | https://github.com/FuRongJun-1999/dsh-memory/pull/260 | | 缺陷报告 issue | ## 病灶（P0，安全面） 跨节点证据包通路整条不带密级：`_collect` 的条目无 `sensitivity` 字段；`import_pack` 经 `identity.observe` 落盘而该函数签名无 `sensitivity` ⇒ `cg.add` 取缺省 ",
-      "source_created_at": "2026-10-13T16:26:19Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/264",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5833925058",
-      "title": "【intake 输入】dsh-memory：分支派生写丢密级（fork/rewrite/merge 把 private 落成 internal 明文）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/263",
-      "evidence": "## 性质声明 本件是 **intake 输入（外部贡献申报）**，不是悬赏：不 /claim、不自行加 `bounty` 标签（外部账号无打标签权限，实测 `POST /issues/{n}/labels` 返回 403），也不发送 /claim、/deliver、/verify、/settle。依据：`docs/bounty/README.md` §九（外部贡献申报走 intake 命名空间，是输入不是悬赏，由维护者裁定后另立悬赏）、§六（两条参与通道：原 issue 仍开着的走 /claim，已随载体迁移关闭的走 PR 通道）。 ## 交付物 | 项 | 值 | |---|---| | 目标仓 | `FuRongJun-1999/dsh-memory` | | PR | https://github.com/FuRongJun-1999/dsh-memory/pull/244 | | 缺陷报告 issue | ## 病灶 `md_cg/branches.py` 的 `fork` / `rewrite` / `merge` 三处派生写都不传 `sensitivity`，`MdCGSecure.add` 把缺省归一为 `internal`，而 `crypto.ENCRYPTED_L",
-      "source_created_at": "2026-10-13T16:26:18Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/263",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T17:28:33.193Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-22T17:09:29.420Z",
+      "generated_at": "2026-10-22T17:09:29.420Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 303
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 724
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-22T11:49:52.236Z",
       "generated_at": "2026-10-22T11:49:52.236Z",
@@ -21182,67 +21408,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:20:12.842Z",
-      "generated_at": "2026-10-15T20:20:12.842Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 837
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 43
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 399,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",

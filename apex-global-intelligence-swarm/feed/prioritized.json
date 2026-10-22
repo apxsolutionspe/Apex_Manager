@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-22T11:49:53.007Z",
+  "generated_at": "2026-10-22T17:09:30.254Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1189,
+    "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1147,
+    "informativa": 1158,
     "descartar": 42,
     "verified_payouts": 0,
     "verified_income_usd": 0
