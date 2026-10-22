@@ -38,3 +38,24 @@ test('productos tienen contacto comercial voluntario sin mensajes automáticos',
 test('servicios enlaza la nueva colección premium',()=>{
  assert.match(services,/href="\.\/plantillas-premium\.html"/);
 });
+
+test('enlace real del titular habilita cobro externo SOLO tras precio acordado',()=>{
+ const payment='https://link.mercadopago.com.pe/apexprimex';
+ for(const site of [html,services]){
+  assert.equal(site.split(payment).length-1,1,'single verified public link per page');
+  assert.match(site,/monto acordado|importe lo ingresas tú/);
+  assert.match(site,/Mercado Pago/);
+ }
+ const checkout=html.match(/<a class="btn" href="([^"]+)" target="_blank" rel="noopener noreferrer" aria-label="Ir al enlace oficial de Mercado Pago[^"]+">Pagar acuerdo/);
+ assert.ok(checkout,'explicitly labeled external payment CTA');
+ const url=new URL(checkout[1]);
+ assert.equal(url.protocol,'https:');
+ assert.equal(url.hostname,'link.mercadopago.com.pe');
+ assert.equal(url.pathname,'/apexprimex');
+ assert.equal(url.search,'');
+ assert.match(html,/no confirma automáticamente un pedido/);
+ assert.match(html,/no entrega descargas digitales/);
+ assert.match(services,/no genera contratos ni entrega automática/);
+ assert.match(html,/Confirmar importe antes de pagar/);
+ assert.doesNotMatch(html+services,/autopago|pago confirmado automáticamente|ganancias garantizadas/i);
+});
