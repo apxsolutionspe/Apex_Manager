@@ -6,13 +6,13 @@ import {fileURLToPath} from 'node:url';
 
 export const TARGETS = Object.freeze([
  {id:'servicios',url:'https://apxsolutionspe.github.io/Apex_Manager/servicios.html',
-  required:['APEX PRIME X','https://wa.me/51931797758','./productos/cotizapro/']},
+  required:['APEX PRIME X','https://wa.me/51931797758','./productos/cotizapro/','https://link.mercadopago.com.pe/apexprimex']},
  {id:'cotizapro',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/cotizapro/',
   required:['CotizaPro','https://wa.me/51931797758','./app.mjs']},
  {id:'catalogoexpress',url:'https://apxsolutionspe.github.io/Apex_Manager/productos/catalogoexpress/',
   required:['CatálogoExpress','https://wa.me/51931797758','./app.mjs']},
  {id:'plantillas-premium',url:'https://apxsolutionspe.github.io/Apex_Manager/plantillas-premium.html',
-  required:['Social Media Premium Kit','Pitch Deck Premium','https://wa.me/51931797758']}
+  required:['Social Media Premium Kit','Pitch Deck Premium','https://wa.me/51931797758','https://link.mercadopago.com.pe/apexprimex']}
 ]);
 
 export async function inspectTarget(target,{fetcher=fetch}={}) {
