@@ -25,7 +25,7 @@ test('escaparate premium tiene SEO real, presentación y cero checkout ficticio'
 });
 test('productos tienen contacto comercial voluntario sin mensajes automáticos',()=>{
  const links=[...html.matchAll(/href="(https:\/\/wa\.me\/51931797758\?text=[^"]+)"/g)];
- assert.equal(links.length,3);
+ assert.equal(links.length,4); // Three product/studio inquiries plus pre-payment quote confirmation.
  for(const item of links){
   const url=new URL(item[1]);
   assert.equal(url.hostname,'wa.me');
