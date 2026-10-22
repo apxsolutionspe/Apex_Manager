@@ -12,6 +12,14 @@ try {
   await page.locator('#total').waitFor();
   await page.waitForFunction(()=>document.querySelector('#total')?.textContent.includes('730'));
   assert.match(await page.locator('#total').innerText(),/730/);
+  // The print-only table is populated before window.print() is invoked.
+  assert.match(await page.locator('#printedRows').innerText(),/Recargo \(15%\)/);
+  assert.match(await page.locator('#printedRows').innerText(),/95[.,]25/);
+  await page.locator('#taxPercent').fill('18');
+  await page.waitForFunction(()=>document.querySelector('#printedTotal')?.textContent.includes('861'));
+  assert.match(await page.locator('#printedRows').innerText(),/Impuesto opcional \(18%\)/);
+  assert.match(await page.locator('#printedRows').innerText(),/131[.,]45/);
+  await page.locator('#taxPercent').fill('0');
   await page.locator('#markupPercent').fill('0');
   await page.waitForFunction(()=>document.querySelector('#total')?.textContent.includes('635'));
   await page.locator('#title').fill('Prueba QA navegador');
