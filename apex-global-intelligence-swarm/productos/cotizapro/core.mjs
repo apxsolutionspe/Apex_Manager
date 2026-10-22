@@ -9,7 +9,11 @@ export function quantity(value) {
 export function cents(value) {
   const n = Number(value);
   if (!Number.isFinite(n) || n < 0 || n > MAX_AMOUNT) throw new RangeError('Monto inválido');
-  return Math.round((n + Number.EPSILON) * 100);
+  // Shift the decimal in base 10 before rounding. Multiplication by 100
+  // loses half-cent ties such as 10.075 -> 1007.4999999999999.
+  // Handle scientific notation for very small positive amounts as well.
+  const [mantissa, exponent = '0'] = String(n).split('e');
+  return Math.round(Number(`${mantissa}e${Number(exponent) + 2}`));
 }
 export function percentage(value) {
   const n = Number(value);
