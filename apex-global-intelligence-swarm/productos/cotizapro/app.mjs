@@ -74,6 +74,9 @@ function printRows(q,total) {
   const items=q.lines.map(l=>[l.label,l.quantity,pen(Math.round(l.unitPrice*100))]);
   if(q.hours>0) items.push(['Mano de obra ('+q.hours+' horas)',1,pen(Math.round(q.hourRate*q.hours*100))]);
   if(q.extras>0) items.push(['Otros gastos',1,pen(Math.round(q.extras*100))]);
+  // The printed quote must disclose the same markup and optional tax as the UI/CSV.
+  if(total.markup>0) items.push(['Recargo ('+q.markupPercent+'%)',1,pen(total.markup)]);
+  if(total.tax>0) items.push(['Impuesto opcional ('+q.taxPercent+'%)',1,pen(total.tax)]);
   for(const itemsRow of items){
     const tr=document.createElement('tr');
     itemsRow.forEach((cell,i)=>{const td=document.createElement('td');td.textContent=String(cell);if(i===2)td.className='align-right';tr.append(td);});
