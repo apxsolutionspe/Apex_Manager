@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-22T04:41:56.016Z",
+  "updated_at": "2026-10-22T11:49:52.236Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z"
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976431997",
+      "title": "Include bounty_id in gate.verdict and reversal receipt claims",
+      "url": "https://github.com/Mumega-com/mupot/issues/2134",
+      "evidence": "From the Codex review on #2116 (thread 4344749971). For a bounty-only scope, `resolveGateVerdictScope` loads `bountyId`, but the immutable receipt drops it, so a receipt-chain consumer has to read `bounty_task_bindings` to find out which bounty was approved. Fix: add `scope.bountyId` to the claims of both the verdict and reversal receipts. done_when: receipt claims carry `bounty_id`, with a test.",
+      "source_created_at": "2026-10-22T09:10:18Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Mumega-com/mupot/issues/2134",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978506873",
+      "title": "[Bounty proposal] fix(chart-tools): harden create_chart_tool input validation, numeric coercion, and configurable resilience ( proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23287",
+      "evidence": "### Bounty Proposal: Chart Tools Resilience & Formatting Hardening ($50 USD) **Pull Request:** https://github.com/BasedHardware/omi/pull/23286 **Target Maintainers:** @kodjima33 @Git-on-my-level @josancamon19 #### Description Hardens `backend/utils/retrieval/tools/chart_tools.py` against edge cases and runtime crashes when generating inline chat visualizations: 1. Guards `labels` and `values` against `None` and non-list structures, eliminating unhandled `TypeError` crashes. 2. Normalizes `chart_type` with case-insensitive trimming (`\"Line\"` / `",
+      "source_created_at": "2026-10-22T11:34:38Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23287",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976655226",
+      "title": "[Bounty Proposal] fix(preference-tools): guard None replacement, validate non-empty preference, and harden UID extraction (0 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23276",
+      "evidence": "### Bounty Proposal: Preference Tools Input Resilience & UID Extraction ($50 proposed) #### Problem & Root Causes While tracing memory and preference tool invocations in `save_user_preference_tool` (`backend/utils/retrieval/tools/preference_tools.py`), several unhandled crash edge cases and type-coercion pitfalls were identified when LLMs emit non-standard tool call arguments: 1. **`AttributeError` on `replace_memory_id=None` or Non-String:** When an LLM invokes `save_user_preference_tool` with `replace_memory_id=None` (very common for optional",
+      "source_created_at": "2026-10-22T09:24:47Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23276",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976510929",
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1639",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-22 09:15 UTC #### 1. [sdk-10.1.4.tgz: 34 vulnerabilities (highest severity is: 9.3)](https://github.com/yashiel/sveltekit_cloudflare_test/issues/35) - **Repository:** [yashiel/sveltekit_cloudflare_test](https://github.com/yashiel/sveltekit_cloudflare_test) - **Comments:** 0 - **Last Updated:** 2026-10-22T09:14:49Z #### 2. [axios-0.21.4.tgz: 30 vulnerabilities (highest severity is: 9.3)](https://github.com/KOSASIH/pi-supernode/issues/78) - **Repository:** [KOSASIH/pi-supernode](https://github",
+      "source_created_at": "2026-10-22T09:15:20Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1639",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976459864",
+      "title": "[Bounty Proposal] fix(notification-tools): coerce string hour, validate action, and fallback top-level UID (0 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23273",
+      "evidence": "### Bounty Proposal: Notification Settings Tool Coercion & Config Fallback ($50 proposed) #### Problem & Root Causes While tracing tool invocations in `manage_daily_summary_tool` (`backend/utils/retrieval/tools/notification_settings_tools.py`), three edge cases were observed that can break the chat turn or abort settings updates: 1. **String `hour` Parameter Causes `TypeError` on Bounds Comparison:** When an LLM model or tool caller invokes `action=\"set_time\"` with `hour=\"22\"` or `\"9\"` as a numeric string, the check `if not (0 `22`) while safel",
+      "source_created_at": "2026-10-22T09:12:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23273",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978553839",
+      "title": "[Bug bounty]",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2190",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug ## 🧪 To Reproduce ## 🖥️ Environment - OS: [e.g. Linux, MacOS, Windows ..] - Framework [e.g. Vue, React, React native .. (Also include version)] - XCM Tool version (e.g. XCM SDK 10.10.1) - NodeJS version [e.g. v22.0.1] ## 📸 Screenshots / Logs ## 💡 Expected Behavior ## 📍 Additional Context --- ## ✅ Contributor Eligibility - [ ] My GitHub account's commit history is at least 6 months old. - [ ] I have set an on-chain identity on the Polkadot People Chain for my AssetHub address (below) and requested a re",
+      "source_created_at": "2026-10-22T11:38:02Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2190",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976113523",
+      "title": "[Program]: datachain.ai",
+      "url": "https://github.com/lissy93/bug-bounties/issues/240",
+      "evidence": "### Company datachain.ai ### Program URL https://www.datachain.ai/bug-bounty ### Contact security@datachain.ai ### Description DataChain puts a lot of effort into keeping its systems, platforms and tools as secure as possible. Yet, we understand that no matter how much effort we put into system security, bugs and accidents can happen and security vulnerabilities can always be discovered in our products. Thus, we welcome and appreciate the assistance of the global security community in helping us keeping our systems and tools safe. ### Rewards -",
+      "source_created_at": "2026-10-22T08:48:06Z",
+      "opp_type": "bug_bounty",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/lissy93/bug-bounties/issues/240",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977071145",
+      "title": "【深度审计】dsh-narrator 0.12.5：安全六威胁全项 + 变异判别力复测（插件路由绕过宿主 token 层 · 提示词无校验）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1526",
+      "evidence": "[intake 输入] 【深度审计】dsh-narrator 0.12.5（实装件 · 安全六威胁全项 · 含变异判别力复测） ## 性质声明 本件是 **intake 输入**（外部贡献申报），不是悬赏。不执行 claim、不自加 bounty 标签。计分与档位由维护者裁定。 - **档位**：深度审计。规范 §6 定义深度审计 = 标准测评 + 安全六威胁全项。标准测评部分**已完成**（72 次受控配对，见 `标准测评-dsh-narrator-0.12.5.md`），因此本件给出**指定范围安全结论 + 能力判定**。 - **四态边界**：已验 / 未测 / 不确定 / 不做，逐条标注。三分法不混用：未测（没考）≠ 未发现问题（考了没抓到）≠ 已验证（考了有证据）。 - **被测对象**：本机实装件 `C:\\Users\\86176\\.dsh\\plugins\\dsh-narrator`，profile `desktop` 已挂载运行。读数来自运行中的真实实例（端口 62234）与隔离副本。 - **只跑 Windows**：Windows 10.0.26200 x64、DSH Desktop `0.2.1-rc.2`、Node 24.21.0。Linux / macOS / ",
+      "source_created_at": "2026-10-22T09:53:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1526",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5975937085",
+      "title": "terst",
+      "url": "https://github.com/skull-X/Testing/issues/30",
+      "evidence": "est",
+      "source_created_at": "2026-10-22T08:35:30Z",
+      "opp_type": "otro",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/skull-X/Testing/issues/30",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978114809",
+      "title": "Main is broken",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/372",
+      "evidence": "Commit bbccef6 broke the play-through. Run: https://github.com/arturcrmbot/crown-and-bounty/actions/runs/39765351699",
+      "source_created_at": "2026-10-22T11:07:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/arturcrmbot/crown-and-bounty/issues/372",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977193586",
+      "title": "[审计] dsh-narrator 0.12.5 安全六威胁全项 + 72 次受控配对：路由绕过宿主 token 层、prompt 无校验、默认阈值实测不触发",
+      "url": "https://github.com/Asza-other/dsh-narrator/issues/1",
+      "evidence": "> 外部审计报告。被测：`dsh-narrator@0.12.5`，实装于 Windows 10.0.26200 / DSH `0.2.1-rc.2` / Node 24.21.0。 > 数据来自运行中的真实实例与本机隔离副本；每条结论都附可复跑命令。 > 悬赏站同内容存档：FuRongJun-1999/dsh-bounty#1526（标准测评：同仓 #1525）。 ## 性质声明 本件是 **intake 输入**（外部贡献申报），不是悬赏。不执行 claim、不自加 bounty 标签。计分与档位由维护者裁定。 - **档位**：深度审计。规范 §6 定义深度审计 = 标准测评 + 安全六威胁全项。标准测评部分**已完成**（72 次受控配对，见 `标准测评-dsh-narrator-0.12.5.md`），因此本件给出**指定范围安全结论 + 能力判定**。 - **四态边界**：已验 / 未测 / 不确定 / 不做，逐条标注。三分法不混用：未测（没考）≠ 未发现问题（考了没抓到）≠ 已验证（考了有证据）。 - **被测对象**：本机实装件 `C:\\Users\\86176\\.dsh\\plugins\\dsh-narrator`，profile `desktop` 已挂载运行。读数",
+      "source_created_at": "2026-10-22T10:01:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Asza-other/dsh-narrator/issues/1",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977068043",
+      "title": "【标准测评】dsh-narrator 0.12.5：72 次受控配对（8 场景 × 3 臂 × 3 重复），机制确证、判定还说不准",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1525",
+      "evidence": "[intake 输入] 【标准测评】dsh-narrator 0.12.5（72 次受控配对 · 机制确证 · 判定：还说不准） ## 性质声明 本件是 **intake 输入**，不是悬赏。不执行 claim、不自加 bounty 标签。计分与档位由维护者裁定。 - **档位**：标准测评（`dsh-bench` §6）。已完成 72 次受控配对（8 场景 × 3 臂 × 3 重复），达到 §2.3「≥8 独立场景、每场景 ≥3 次配对重跑」的样本门槛。 - **四态边界**：已验 / 未测 / 不确定 / 不做，逐条标注。 - **被测件**：`C:\\Users\\86176\\.dsh\\plugins\\dsh-narrator`（0.12.5，代码面与 tag `v0.12.5` 逐字节一致）。 - **环境**：Windows 10.0.26200 x64 / DSH `0.2.1-rc.2` / Node 24.21.0 / 模型 `global:deepseek-v4.1-flash`（三臂同源）。 ## 判定 **判定：❓还说不准（证据不足）** 理由不是「没测出来」，而是**判分器缺失**：本次能确证「插件确实按设计触发」，但无法把「用户是否因此更安心/更少误判卡死」转成",
+      "source_created_at": "2026-10-22T09:53:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1525",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976997377",
+      "title": "[$175] Web -WS Setting - No \"not found page\" is shown after disabling tax from other device",
+      "url": "https://github.com/Expensify/App/issues/104708",
+      "evidence": "If you haven’t already, check out our [contributing guidelines](https://github.com/Expensify/ReactNativeChat/blob/main/contributingGuides/CONTRIBUTING.md) for onboarding and email contributors@expensify.com to request to join our Slack channel! ___ **Version Number:** v9.5.16-0 **Reproducible in staging?:** Yes **Reproducible in production?:** Yes **If this was caught during regression testing, add the test name, ID and link from BrowserStack:** https://github.com/Expensify/Expensify/issues/441368 **Email or phone of affected tester (no custome",
+      "source_created_at": "2026-10-22T09:48:21Z",
+      "opp_type": "otro",
+      "score": 31,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Expensify/App/issues/104708",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978246102",
+      "title": "dsh and opencode deja_recall hand the model 222,536 characters for 5 hits, MCP recall answers in 4,097",
+      "url": "https://github.com/vshulcz/deja-vu/issues/5568",
+      "evidence": "The `deja_recall` tool in the dsh plugin returns `deja --framed search --json --limit N`, which carries every hit's matched messages whole. Five Claude sessions of ~240 KB each give the model 222,536 characters for five hits. The MCP `recall` tool answers the same query in 4,097. Outside report on 0.23.0 with a bigger store: 661,528 characters for 5 hits (https://github.com/FuRongJun-1999/dsh-bounty/issues/1518, and 1,017,292 on 0.22.2 in #1131 there). Repro on main 552b675, sandbox HOME with 5 synthetic Claude sessions (100 messages each, all ",
+      "source_created_at": "2026-10-22T11:16:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vshulcz/deja-vu/issues/5568",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976414833",
+      "title": "[intake 输入] 【测评报告】dsh-lore 0.9.5 版本增量复核：全局记忆索引仍注入恶意条目原文（P1，同 #1011）；npm 包缺 docs 致 test:plugin 19 红",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1523",
+      "evidence": "# 【测评报告】dsh-lore 0.9.5 版本增量复核：全局记忆索引仍注入恶意条目原文（P1，同 #1011）；npm 包缺 docs 致 test:plugin 19 红 > 基线：#1011（0.9.2 · Linux 安全/并发审计，CLOSED，**medium/B 3**）；#985（0.9.2 Windows 功能）、#1053（设置页）。本件是 **0.9.5 版本增量复核**，不是首评。 ## 性质声明 - **intake 输入**，不是悬赏：不 /claim、不自行加 bounty 标签；计分、档位与归并由维护者裁定。 - **四态边界**：已验 / 未验 / 不确定 / 不做；未跑如实写「未验」。 - **仅 Windows 11 x64**；本机无 Python/WSL，`_selftest.py` 未跑（显式声明）。 - 不排名、不给总分、不用星级；只给逐项读数与 P 级发现。 - 测试使用临时记忆根；未读写用户真实 `work_log/`。 ## 锚定提交 | 项 | 读数 | |---|---| | 仓库 | `IThinkItsaName/dsh-lore` | | tag / HEAD | **`v0.9.5` = `3d1b7f5a216901",
+      "source_created_at": "2026-10-22T09:09:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1523",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978352800",
+      "title": "Feedback one.",
+      "url": "https://github.com/travism26/frostmark/issues/84",
+      "evidence": "- Inventory to stash upon entering into the fort please get rid of it lol - weight of items are too high compared to the weight you can hold (i find i always go over the weight but never use the rest of the pack slots) - If you continue to use the weight system i think you should bring up the carry weight and reduce the amount of bag space. I want to carry my pickaxe, axe and fishing rod or at least two at a time so i can go farm but even holding one with food makes it so my weight is 20/30. Maybe have the ability to upgrade weight after hittin",
+      "source_created_at": "2026-10-22T11:23:41Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/travism26/frostmark/issues/84",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976607275",
+      "title": "#2116 follow-ups: monotonic receipt order, legacy dashboard verdicts, reversal time in replayed receipts",
+      "url": "https://github.com/Mumega-com/mupot/issues/2135",
+      "evidence": "Codex findings on #2116 at head dbe6bc14. All are P2 and ship with this issue. 1. **Owed-receipt ordering** (`src/tasks/verdict-binding.ts:306`, thread 4346613299). Two verdicts on the same task within one millisecond can sort out of causal order, because `claimTimestamp()` uses a random six-digit suffix. Fix: order by a monotonic DB key (rowid or a sequence), not `decided_at`/UUID. 2. **Legacy dashboard humans** (`src/tasks/service.ts:2281`, thread 4346613313). An owner/admin dashboard session that has no resolved `memberId` falls back to an `",
+      "source_created_at": "2026-10-22T09:21:38Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Mumega-com/mupot/issues/2135",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978475820",
+      "title": "Grill me: reasons to fight and explore - enemy-drop sinks, max health, things to do per area",
+      "url": "https://github.com/travism26/frostmark/issues/92",
+      "evidence": "Part of #84. **Grill me**: a design call covering two feedback points. Every question has a recommended answer. ## The feedback > Have it where certain enemies drop materials for the outpost upgrades that way I'm force to fight the mobs instead of avoiding them. Example can be use the pelt for crafting armor. Another one can be by killing certain amount of specific mobs gives you the ability to upgrade your HP. > More quest. Give each area a small thing to do, this gives the player the ability to explore and kill things to level up stats, that ",
+      "source_created_at": "2026-10-22T11:32:24Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/travism26/frostmark/issues/92",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978306766",
+      "title": "feat(utils): implement safe numeric clamp utility (ref #11868, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13518",
+      "evidence": "References #11868, #743. ## Feature Description Math calculations for budget percentages, rating scores, pagination limits, and financial metrics require safe numeric clamping within inclusive bounds. Standard unbounded or naive math operations fail on `NaN`, `Infinity`, inverted bounds, or non-numeric inputs. A hardened, safe `clamp(val, min, max, defaultValue)` utility is required. This issue is limited only to the creator of this issue. This means that only the issue author can attempt to solve this issue. If you would like to work on it, pl",
+      "source_created_at": "2026-10-22T11:20:20Z",
+      "opp_type": "subvencion",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13518",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5978249502",
+      "title": "Feature: New Subdomain , Login Page, and Path Detection Feature Notification",
+      "url": "https://github.com/oasm-platform/open-asm/issues/746",
+      "evidence": "### Feature Description Overall, this tool is very good. I just have a few suggestions. For example, let's say I work for a corporate company. In general, monitoring an organization's IP address and subdomains is important. Subdomains should be identified using tools that track both subdomains via reverse IP and regular subdomain tracking. It's crucial to detect and alert about new login pages and paths belonging to the organization. Furthermore, it's important to scan newly emerging valid subdomains for vulnerabilities using tools like Nuclei ",
+      "source_created_at": "2026-10-22T11:16:19Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/oasm-platform/open-asm/issues/746",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977818044",
+      "title": "feat(utils): implement prototype-pollution safe deepMerge utility (ref #11873, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13516",
+      "evidence": "References #11873, #743. ## Feature Description Deep object merging is needed across configuration, user settings, and metadata handlers, but standard recursive assignment is vulnerable to Prototype Pollution (CWE-1321). A hardened, prototype-safe `deepMerge(target, source)` utility is required. ## Implementation Details 1. Created `apps/api/src/utils/deepMerge.js`: - Implemented `deepMerge(target, source, options)` and `isPlainObject(value)`. - Recursively merges nested plain objects into target. - Strictly blocks prototype pollution by skippi",
+      "source_created_at": "2026-10-22T10:46:04Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13516",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977524256",
+      "title": "Game-craft audit, 22 Oct: what good looks like, and the launch list",
+      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/364",
+      "evidence": "Artur asked on 22 Oct for what good looks like across the game's craft, and for an honest score against it before launch. The truths and the checklists are now a skill, `kings-commission-gamecraft` (#363). This issue scores live main against every checklist in it, with the evidence, and lists the cheap fixes that would most help a stranger's first session. **How I measured.** I played live main in headless Edge through Playwright, with real clicks and taps, at 1280×720 and on an emulated iPhone 13 held sideways. The clips are of `44197d5`; the ",
+      "source_created_at": "2026-10-22T10:24:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/arturcrmbot/crown-and-bounty/issues/364",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5977521060",
+      "title": "feat(utils): add safe query sorting helper parseSorting (ref #11856, #743)",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13514",
+      "evidence": "References #11856, #743. ## Feature Description API endpoints with sorting parameters currently accept unvalidated strings or can trigger database/sorting errors when invalid fields or directions are supplied. Safe, whitelist-validated sorting parsing is required across list endpoints. ## Implementation Details 1. Created `apps/api/src/utils/sorting.js`: - Implemented `parseSorting(query, allowedFields, defaultField, defaultOrder)` returning `{ field, order, sortBy, sortOrder, direction, orderBy }`. - Strictly validates field names against `all",
+      "source_created_at": "2026-10-22T10:24:37Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13514",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5976354385",
+      "title": "[Feature] Add Pydantic Monty as a lightweight sandbox execution backend",
+      "url": "https://github.com/cuga-project/cuga-agent/issues/997",
+      "evidence": "Part of #353. ## Issue type [Feature] ## What you want and why CUGA's code mode runs Python that the model writes. Today that code runs through one of these executors: `local` (in the CUGA process, guarded by static checks), `native` (macOS only), or the remote and container backends (`e2b`, `opensandbox`). The `local` executor is not a security boundary, and the remote backends need Docker or a cloud account and add latency. A small deployment that serves CUGA to untrusted users, for example one container or a hosted demo, has no lightweight o",
+      "source_created_at": "2026-10-22T09:05:01Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/cuga-project/cuga-agent/issues/997",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5975550079",
+      "title": "[Policy / Lobby] CVE修復報奨・公的テール保障・民間プラスサム保険市場 / Cyber repair market",
+      "url": "https://github.com/saitoomituru/ZeroRoomLab-manifest/issues/56",
+      "evidence": "# CVE修復市場・巨大テール保障を政策提案へ進める / Lobby for pooled cyber tail risk and a paid repair market 状態 / Status: `[PROPOSAL / LOBBY WORKSTREAM / NOT ENDORSED]` (2026-10-22) 著者の政策命題 / Authorial policy thesis: 齋藤みつる (SaitooMituru-Fusamofu-ふさもふ), ZeroRoomLab 日本語正本、en-US外部説明併記。協議開始・提案採用・資金確保を既成事実として扱わない。 ## 1. ロビーの要求 / Policy asks 1. **広域の最低保障床**: 大規模サイバー事故の定義された適格金銭損害を、公的または準公的な潤沢な相関リスクプールで迅速に吸収。対象被害、補償限度・財源・審査と仮払、求償、不正対策を具体化する。 **Public catastrophe floor:** Back well-defined eligible financial cyber losses with a large public or mutual pool, with fast provisi",
+      "source_created_at": "2026-10-22T08:08:56Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/saitoomituru/ZeroRoomLab-manifest/issues/56",
+      "first_seen_at": "2026-10-22T11:49:52.236Z",
+      "last_seen_at": "2026-10-22T11:49:52.236Z"
     },
     {
       "source": "github",
@@ -17470,6 +17845,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-22T11:49:52.236Z",
+      "generated_at": "2026-10-22T11:49:52.236Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 430
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 668
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 1189,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22T04:41:56.016Z",
       "generated_at": "2026-10-22T04:41:56.016Z",
       "status": "ok",
@@ -20780,67 +21216,6 @@
           "ok": true,
           "count": 25,
           "ms": 43
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 399,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:19:42.908Z",
-      "generated_at": "2026-10-15T20:19:42.908Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 258
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 44
         }
       ],
       "processed": 50,
