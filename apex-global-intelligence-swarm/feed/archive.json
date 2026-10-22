@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-22T01:01:39.366Z",
+  "updated_at": "2026-10-22T01:21:14.557Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,472 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969936277",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1634",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 23:04 UTC #### 1. [[contract] Add a `get_config` getter](https://github.com/DepRadarOrg/DepRadar/issues/173) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 5 - **Last Updated:** 2026-10-21T23:02:39Z #### 2. [[contract] Minimum bounty amount per token](https://github.com/DepRadarOrg/DepRadar/issues/172) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 9 - **Last Updated:** 2026-10-21T23:02:2",
+      "source_created_at": "2026-10-21T23:04:07Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1634",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969562438",
+      "title": "[Bounty proposal] fix(launch-library-app): non-string end_date 500s search_launches; compact date-only end_date drops its own day ($25 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23149",
+      "evidence": "Following the contribution guide's invitation to propose paid work: @kodjima33, @josancamon19, would a US$25 bounty be appropriate for this? It is a proposed amount, not an existing award. ### What problem is being solved? `plugins/omi-launch-library-app` → `search_launches`: 1. `{\"query\":\"Starlink\",\"end_date\":20261031}` (or a list or object) returns **HTTP 500**. `SearchLaunchesRequest.validate_dates` calls `value.strip()` before type-checking, and pydantic doesn't convert the resulting `AttributeError` into a validation error, so it bypasses ",
+      "source_created_at": "2026-10-21T22:29:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23149",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969300655",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1296",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 22:06 UTC #### 1. [Extra Exploration Modules](https://github.com/DuaLVII/Elite-Companion/issues/24) - **Repository:** [DuaLVII/Elite-Companion](https://github.com/DuaLVII/Elite-Companion) - **Comments:** 0 - **Last Updated:** 2026-10-21T22:05:36Z #### 2. [[BOUNTY] Suggestion #1278](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305) - **Repository:** [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) - **Comments:** 5 - **Last Updated:** 2026-10-21",
+      "source_created_at": "2026-10-21T22:06:09Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1296",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969148717",
+      "title": "No-bounty CONTRIBUTING section and optional interaction limits for managed public repos",
+      "url": "https://github.com/Colonizer-dev/harness/issues/1498",
+      "evidence": "## Problem Bounty bots treat detailed public issues as paid work (see the outside-PR triage issue). Each repo needs the same cheap deterrent. On 2026-10-22 this was done by hand with a script across about 50 public venture repos (PR title `docs: no bounties; outside PRs need an agreed issue first`). ## Proposal - **Repo template:** when Colonizer creates or adopts a repo, add a \"Bounties and outside pull requests\" section to `CONTRIBUTING.md`. It says there are no bounties and that outside PRs need an issue a maintainer agreed to first. - **Dri",
+      "source_created_at": "2026-10-21T21:53:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1498",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969148457",
+      "title": "Outside-PR triage: detect bounty bots and stubs, never build them, close or route to review",
+      "url": "https://github.com/Colonizer-dev/harness/issues/1497",
+      "evidence": "## Problem Factory Zero venture repos are public and their issues are detailed (milestones, sizes, acceptance criteria). Bounty-hunting bots now open PRs against them, assuming a bounty exists. Seen on 2026-10-22: - An account named \"Kuro AI\" opened 72 PRs across GitHub, all titled `fix: resolve issue #N - [BOUNTY] …`. Its PRs here (Livingbrain-wiki/livingbrain#278, Sealbin/sealbin#72) only added a `BOUNTY_TASK.md` that copies the issue text. - Sealbin/sealbin#67 added 7 lines that reference a module that does not exist, so it cannot compile. -",
+      "source_created_at": "2026-10-21T21:53:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1497",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969094580",
+      "title": "bounty-watch 2026-10-21: 0 new, 0 resumed, 4 watchlist changes",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/153",
+      "evidence": "# bounty-watch report 2026-10-21 ## Watchlist changes (4) - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktr.ee: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktree.com: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Trello** (`bc:trello`) https://bu",
+      "source_created_at": "2026-10-21T21:48:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/abdulsalam-create/bounty-watch/issues/153",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969729481",
+      "title": "One piece bounty rush waiting for window",
+      "url": "https://github.com/thebcd69/bcd-games/issues/8",
+      "evidence": "Waited for 3 minutes my first 2 runs",
+      "source_created_at": "2026-10-21T22:44:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/thebcd69/bcd-games/issues/8",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969419989",
+      "title": "[Bounty proposal] fix(public-holidays-app): next-holiday default limit ignored, manifest forces `year`, raw HTTP errors for unknown country/year ($25 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23148",
+      "evidence": "Hi @josancamon19 @kodjima33, I'm proposing a small paid fix per the contribution guide (\"No bounties available? Suggest your own\"). **Bugs (all on current `main`, `plugins/omi-public-holidays-app/main.py`):** 1. `get_next_public_holidays` advertises `limit` default `8` in `/.well-known/omi-tools.json`, and `NEXT_HOLIDAY_DEFAULT_LIMIT = 8` is defined but never used. An omitted or `null` limit falls back to `MAX_ITEMS` (20). 2. Since #21005, `year` defaults to the current UTC year, but the manifest still lists it in `required` for `get_public_hol",
+      "source_created_at": "2026-10-21T22:16:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23148",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969293899",
+      "title": "Extra Exploration Modules",
+      "url": "https://github.com/DuaLVII/Elite-Companion/issues/24",
+      "evidence": "Module idea, Signals: every signal in the system grouped by type (combat zones and resource extraction sites are useful for bounty hunters and Powerplay), with threat levels on USSs. Module idea, Codex: new entries this session, plus a “new for you” alert.",
+      "source_created_at": "2026-10-21T22:05:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/DuaLVII/Elite-Companion/issues/24",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969055871",
+      "title": "Fase 4 — Beta, auditoria e lançamento",
+      "url": "https://github.com/falaai-br/falaai/issues/5",
+      "evidence": "Beta fechado (500 pessoas), auditoria externa publicada, bug bounty, lojas, relatório de transparência. Critério de saída: zero achados críticos abertos; crash-free > 99,5%.",
+      "source_created_at": "2026-10-21T21:46:00Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/falaai-br/falaai/issues/5",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969689767",
+      "title": "Maintainer scope: avoid unrelated reads for filtered marketplace listings",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1670",
+      "evidence": "We are preparing a small marketplace-read fix: when a caller requests only off-chain or legacy listings using `source_type`, load only that requested source. Today the request still checks unrelated blockchain sources before filtering the results, which adds avoidable work and can report a healthy requested source as degraded. The change will keep unfiltered and canonical requests subject to their existing freshness, readiness and privacy checks. Unchecked sources will not be labeled healthy or empty. API and MCP clients keep the same query and",
+      "source_created_at": "2026-10-21T22:40:44Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/NSPG13/agent-bounties/issues/1670",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5969476196",
+      "title": "Story steps can wait on any event",
+      "url": "https://github.com/dseelinger/d47/issues/1476",
+      "evidence": "Build issue B of four from #1343. #1475 (the step event table and `StepEventCatalogue`) lands first. After this, #1477 (d47 events) and then #1478 (drawing event steps into chapters) build on the kind added here. A step today is one of the fixed kinds in `TriggerKind` (`src/D47.Core/Adventures/Adventure.cs:20`). Each is matched by hand in `AdventureFold.Matches` (`src/D47.Core/Adventures/AdventureFold.cs:310`) and counted by `AdventureFold.Amount` (`:525`), whose default is one per event. `AdventureTrigger.IsCountedKind` (`Adventure.cs:250`) co",
+      "source_created_at": "2026-10-21T22:21:34Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dseelinger/d47/issues/1476",
+      "first_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971018089",
+      "title": "[intake 输入][缺陷报告] check_links 合法 URL 内右括号被截断，真实 probe 请求错路径（对照 200→404）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1483",
+      "evidence": "作者：fladyck；复核日期：2026-10-22。建议 easy/C，最终定性与是否计分由维护者裁定。本件只报缺陷，未交付修复 PR。 ## 结论与影响 scripts/check_links.py 的 extract_urls 使用 URL_RE，将 URL 内的右括号一律当结束符。合法的 Markdown 平衡括号链接、尖括号自动链接都会被截断，后续 probe 检查的地址与材料作者给出的地址不同。 本机实际读数：普通链接对照 1/1 正确；两种含括号链接 0/2 正确；本地固定路径 HTTP 服务中，真实 probe 直接检查原地址为 HTTP 200，检查提取结果为 HTTP 404，服务端收到了缺少右括号的路径。 这会使宣传材料的链接验活拒绝本可通过的页面；本件不声称存在安全漏洞，也不声称所有含括号公网网址均返回同一状态。 ## 锚定版本和合法性依据 - 仓库：FuRongJun-1999/dsh-bounty - main 基线：`4708d2ed82050c8000c78be459841199a63da3ff` - 被测文件：[scripts/check_links.py](https://github.com/FuRongJun-1999/dsh-bounty/b",
+      "source_created_at": "2026-10-22T00:56:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1483",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970896534",
+      "title": "[intake 输入] 【测评报告】dsh-slack 0.3.4 能力试跑（本地假 Slack · 五状态=还说不准）：8 项试跑 7 项符合；频道超过 20 页只取前 20 页且无提醒",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1482",
+      "evidence": "## 0. 摘要 被测：`dsh-slack` **0.3.4**（源码提交 `8d5f743193b09aee71da8b857c1da2fae97f3ce2`）。 **五状态判定：还说不准。** 本轮是**能力试跑**（方法试验，不进能力榜）：不用真实 Slack、不用真实模型，起本地假 Slack，查 8 项功能，每项 3 次；另跑插件自带 44 项检查与 5 项本地请求格式检查。 **主要发现：S8 频道超过 20 页会少报。** 列 21 页频道时只取前 20 页，**没有提醒**。模型可能把「没列出来」当成「没有这个频道」。这是本轮唯一稳定复现的功能缺陷。 读数：插件自带 44 项无报错；5 项请求格式检查全符合；8 项本地功能试跑 **7 项符合事先写好的结果**（唯一不符就是 S8）。 装与不装的工具层试算差值是 87.5 个百分点（估 62.5–100），**但这个数不能当成绩**：B0 没有让模型真的试，8 项也不是 8 个互不相关的真实任务。 --- ## 1. 性质声明 本件是给测评站 的投稿测评（intake 输入，外部贡献申报），**不是悬赏**：不 /claim、不自行加 bounty 标签；档位由维护者裁定，自评仅供参考。 站内投稿：提交后补（见 is",
+      "source_created_at": "2026-10-22T00:43:44Z",
+      "opp_type": "bounty_codigo",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1482",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970752787",
+      "title": "Lineage that changes gameplay: heritable traits and creature-specific attacks (light Rogue Legacy 2), from real genetics",
+      "url": "https://github.com/redaphid/blorbarium/issues/45",
+      "evidence": "Owner: 'I do want the attacks they can do etc to vary based off of the creature, and have significant, obvious, fun effects of creature lineage that changes gameplay and causes delight. Think about a light version of the game Rogue Legacy 2 for inspiration, but based off of the actual genetics for the creature. We can evolve the genetics system to support this. Wiping out the pets and starting fresh is an easy option at this point.' - Heritable traits expressed from the genome, with visible, funny, gameplay-changing effects (Rogue Legacy 2's he",
+      "source_created_at": "2026-10-22T00:28:08Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/redaphid/blorbarium/issues/45",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970787395",
+      "title": "Fights have consequences: winning or losing affects the creature; the winner gains something, the loser loses it",
+      "url": "https://github.com/redaphid/blorbarium/issues/46",
+      "evidence": "Owner: 'I want winning or losing fights to effect the creature, and the user should get something if they win, or lose it if they lose.' - The outcome changes the creature (e.g. confidence, mood, a scar or a trophy, a trait nudge, a stat), visibly. - Stakes with something to hold: the winner gains a thing the loser loses (an item, keepsake, power charge, snack or trait token), exchanged over the duel protocol so both badges agree. - Designed within the lineage gameplay (#45, agent lineage-design); fits the existing stakes (Spar/Scrap/Mortal) an",
+      "source_created_at": "2026-10-22T00:31:51Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/redaphid/blorbarium/issues/46",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970895341",
+      "title": "[intake 输入] 【测评报告】@sunwindy/dsh-tool-baixiaochun 0.2.1 标准测评（配对 50 次 · 五状态=没啥差别）：装与不装都 15/25；npm 装法把依赖拖低一代、profile 起不来",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1481",
+      "evidence": "## 0. 摘要 被测：`@sunwindy/dsh-tool-baixiaochun` **0.2.1**（git HEAD `07bc7db9e6dea645ae930818754375b16f6f59b3`，npm 未发布，只有 GitHub 分发）。 **五状态判定：没啥差别。** 5 个场景 × 5 次 × 2 臂 = **50 次配对执行**（A 臂装插件、B 臂不装只用 bash），**两边都是 15/25**，D = 0，95% 聚类 bootstrap [0, 0]，半宽 0，门槛 a=2 / b=2。 三个发现： - **F1（P2）npm 安装路径会把依赖拖低一代、profile 直接起不来**：在 profile 目录里 `npm i` 拖进 23 个包，其中 19 个 `@deepseek-ai/*` 全是上一代 `0.2.0-rc.2`；DSH 0.2.1-rc.2 的兼容闸门随即停用 session / agent / tools 等 7 行，profile 起不来（「3 required plugins did not activate」）。病根在 `package.json` L45–L49：`peerDependencies` 与 `engines",
+      "source_created_at": "2026-10-22T00:43:37Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1481",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970887849",
+      "title": "[intake 输入] lingshu issues 859/860：两处公开 API 声明参数零引用（stable_lease.acquire history / multimodal_check n_expected）——基线 1eafb3f5 发现、复核 71f357b0 读数逐字一致（最小复现+对照证据见原 issue）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1480",
+      "evidence": "## 摘要 两条 `lingshu` 公开 API 的**声明参数零引用**（\"声明 vs 实现\"类，P2），均锚基线 `1eafb3f5`（main，2026-10-21），最小复现本机实跑通过（Python 3.12.10 · numpy 2.5.3 · Windows），读数逐字贴在对应 issue 正文： 1. lingshu issue [#859](https://github.com/FuRongJun-1999/lingshu/issues/859) · `world/stable_lease.py:58` `StableLease.acquire(..., history=...)` ——docstring 承诺\"验证历史记录（不可遗忘，仅记录不删除）\"，函数体零引用 `history`： `acquire()` 返回与 `state()` 读数均无任何历史痕迹（键集 `['confidence','expires_at','key','state','t_verified','ttl','ttl_expires_at','weak_at']`）， 传入即蒸发；同函数 `ttl`/`confidence` 对照真实生效。 2. lingshu issue [#860",
+      "source_created_at": "2026-10-22T00:42:48Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1480",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970859708",
+      "title": "[nn/hex_text][P2 声明静默失效] `multimodal_check(..., n_expected=...)` 收下\"期望物体数\"却一次不读——声明期望 0 个物体的场景也照判 ACCEPT",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/860",
+      "evidence": "审查基线：`1eafb3f57a3f9a83d067c0a39568aca4588cfdff`（main，2026-10-21）。 复核基线：`71f357b0154b289766605ddcd6f1105efb3cb640`（main，2026-10-22）——函数体未变、 本件复现读数逐字一致（import 已核到该检出），结论对当前 main 仍成立。 环境：Python 3.12.10 · numpy 2.5.3 · Windows（Git Bash）——本仓已测版本矩阵内。 ## 现象 `multimodal_check` 的签名（`lingshu/nn/hex_text.py:225-226`）声明： ```text def multimodal_check(net: HexHierNet, lat: np.ndarray, text: str, n_expected: Optional[int] = None) -> Dict: \"\"\"完整管线:描述解析→图像空间拆分→融合四态判定(+拆分对齐率)。\"\"\" ``` 函数体（`:228-246`）用 `parse_description(text)` 得子句、`spatial_detect(net, lat)` 得检测、`",
+      "source_created_at": "2026-10-22T00:39:40Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/860",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5970858951",
+      "title": "[world/stable_lease][P2 声明静默失效] `acquire(..., history=...)` 收下\"不可遗忘的验证历史\"却一次不读——传入即蒸发，事后不可审计",
+      "url": "https://github.com/FuRongJun-1999/lingshu/issues/859",
+      "evidence": "审查基线：`1eafb3f57a3f9a83d067c0a39568aca4588cfdff`（main，2026-10-21）。 复核基线：`71f357b0154b289766605ddcd6f1105efb3cb640`（main，2026-10-22）——函数体未变、 本件复现读数逐字一致，结论对当前 main 仍成立。 环境：Python 3.12.10 · numpy 2.5.3 · Windows（Git Bash）——本仓已测版本矩阵内。 ## 现象 `StableLease.acquire` 的签名（`lingshu/world/stable_lease.py:58-59`）声明： ```text def acquire(self, key: str, ttl: Optional[float] = None, confidence: float = 1.0, history: Optional[list] = None) -> Dict: \"\"\"进入 stable 状态。history：验证历史记录（不可遗忘，仅记录不删除）。\"\"\" ``` 函数体（`:61-71`）把本次租约整条写进 `self._leases[key]`（字段：t_verified / ttl ",
+      "source_created_at": "2026-10-22T00:39:35Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/859",
+      "first_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49879798",
+      "title": "Boulder County's wildfire risk eased after summer rain",
+      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T15:41:26Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971187420",
+      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1297",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-22 01:12 UTC #### 1. [localtunnel-2.0.1.tgz: 36 vulnerabilities (highest severity is: 9.3)](https://github.com/nexmo-community/js-song-generator/issues/2) - **Repository:** [nexmo-community/js-song-generator](https://github.com/nexmo-community/js-song-generator) - **Comments:** 0 - **Last Updated:** 2026-10-22T01:12:42Z #### 2. [localtunnel-2.0.1.tgz: 36 vulnerabilities (highest severity is: 9.3)](https://github.com/nexmo-community/client-sdk-tutorials/issues/26) - **Repository:** [nexmo-com",
+      "source_created_at": "2026-10-22T01:12:55Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1297",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971205272",
+      "title": "[Bounty proposal] fix(messaging): coerce received_at timestamps to UTC and guard null media tuples ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23171",
+      "evidence": "### Summary In ackend/utils/messaging/gateway.py, ackend/utils/messaging/album_turn.py, and ackend/utils/messaging/identity.py, inbound messaging queue workers and head-advancement checks crash with unhandled TypeError or ValueError when stored inbox payloads or identity records contain timezone-naive ISO-8601 strings, datetime objects, or explicit None media/ ttachments fields: 1. **Unprotected subtraction before ry/finally settlement in Gateway._process ( ackend/utils/messaging/gateway.py:200)**: - Immediately after self.store.claim_next mark",
+      "source_created_at": "2026-10-22T01:14:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23171",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971157847",
+      "title": "[Bounty proposal] fix(processing-attention): coerce timestamps to UTC and guard null retry maps ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23169",
+      "evidence": "### Summary In ackend/database/processing_attention.py, attention-item duration calculation, retry-claim lease expiration checks, and retry-state inspection crash with unhandled TypeError or AttributeError when stored conversation or claim documents contain naive datetime / ISO-8601 string timestamps or explicit None etry fields: 1. **Mixed naive/aware datetime subtraction in iming(row) (lines 29-33)**: - iming(row) computes (end - start).total_seconds() directly when isinstance(start, datetime) and isinstance(end, datetime). - When started_at/",
+      "source_created_at": "2026-10-22T01:10:12Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23169",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971128307",
+      "title": "[Bounty proposal] fix(byok): coerce last_seen_at timestamps and guard null BYOK state maps ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23167",
+      "evidence": "### Summary In ackend/database/users.py and ackend/utils/byok.py, BYOK activation and header validation crash with unhandled TypeError or AttributeError when stored Firestore yok sub-maps contain naive datetime / ISO-8601 string last_seen_at values or explicit None fields: 1. **Mixed naive/aware datetime subtraction & ISO-8601 string last_seen_at**: - is_byok_active ( ackend/database/users.py:327) and _validated_byok_keys ( ackend/utils/byok.py:268) evaluate (datetime.now(timezone.utc) - last_seen).total_seconds(). - When last_seen_at is deseri",
+      "source_created_at": "2026-10-22T01:07:33Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/BasedHardware/omi/issues/23167",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5971266065",
+      "title": "[READ] 2026-10-22 · 精读 Anthropic Claude Duet：主动式 agent 的审批闸门与安全栈",
+      "url": "https://github.com/geekjourneyx/agendum/issues/49",
+      "evidence": "### 事件类型 READ ### 优先级 P1 ### 工作量 S · 1–2 小时 ### 核心判断 值得精读。Anthropic 一手发布的主动式（proactive）个人 agent 研究预览：会主动找你、后台继续干活，但在发信/付款/签字/删除前必须等人批。安全栈写清了（trustworthy agents、Managed Agents 凭据、auto mode classifier、browser-use 防注入、敏感信息分类器）。直接咬合「判断权留在人手里」与个人 AI / agent+computer-use 主线；不是纯模型 drop。 ### 为什么推荐 / 为什么值得 - 推荐理由：一手产品+安全设计同文；把「主动」和「可撤回批准」写成可对照清单，比又一篇 harness 综述更可行动。 - 投入：约 1–2 小时精读博客 + 对照 #44（共享 agent 会话/权限）与 #16/#19（browser-use）。 - 回报：一套可迁到数字员工/Grok Bot 的规则——晨报/推送频率、后台 VM、哪些动作必须人工闸门、哪些动作禁做。 - 不做的代价：个人 agent 产品叙事仍停在「更强模型」，错过 Anthropic 把审批与凭据隔离写成默认的一手样本。",
+      "source_created_at": "2026-10-22T01:19:55Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/geekjourneyx/agendum/issues/49",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z"
     },
     {
       "source": "github",
@@ -305,186 +770,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13508",
       "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969936277",
-      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1634",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 23:04 UTC #### 1. [[contract] Add a `get_config` getter](https://github.com/DepRadarOrg/DepRadar/issues/173) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 5 - **Last Updated:** 2026-10-21T23:02:39Z #### 2. [[contract] Minimum bounty amount per token](https://github.com/DepRadarOrg/DepRadar/issues/172) - **Repository:** [DepRadarOrg/DepRadar](https://github.com/DepRadarOrg/DepRadar) - **Comments:** 9 - **Last Updated:** 2026-10-21T23:02:2",
-      "source_created_at": "2026-10-21T23:04:07Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1634",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969562438",
-      "title": "[Bounty proposal] fix(launch-library-app): non-string end_date 500s search_launches; compact date-only end_date drops its own day ($25 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23149",
-      "evidence": "Following the contribution guide's invitation to propose paid work: @kodjima33, @josancamon19, would a US$25 bounty be appropriate for this? It is a proposed amount, not an existing award. ### What problem is being solved? `plugins/omi-launch-library-app` → `search_launches`: 1. `{\"query\":\"Starlink\",\"end_date\":20261031}` (or a list or object) returns **HTTP 500**. `SearchLaunchesRequest.validate_dates` calls `value.strip()` before type-checking, and pydantic doesn't convert the resulting `AttributeError` into a validation error, so it bypasses ",
-      "source_created_at": "2026-10-21T22:29:01Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23149",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969300655",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1296",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-21 22:06 UTC #### 1. [Extra Exploration Modules](https://github.com/DuaLVII/Elite-Companion/issues/24) - **Repository:** [DuaLVII/Elite-Companion](https://github.com/DuaLVII/Elite-Companion) - **Comments:** 0 - **Last Updated:** 2026-10-21T22:05:36Z #### 2. [[BOUNTY] Suggestion #1278](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305) - **Repository:** [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) - **Comments:** 5 - **Last Updated:** 2026-10-21",
-      "source_created_at": "2026-10-21T22:06:09Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1296",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969148717",
-      "title": "No-bounty CONTRIBUTING section and optional interaction limits for managed public repos",
-      "url": "https://github.com/Colonizer-dev/harness/issues/1498",
-      "evidence": "## Problem Bounty bots treat detailed public issues as paid work (see the outside-PR triage issue). Each repo needs the same cheap deterrent. On 2026-10-22 this was done by hand with a script across about 50 public venture repos (PR title `docs: no bounties; outside PRs need an agreed issue first`). ## Proposal - **Repo template:** when Colonizer creates or adopts a repo, add a \"Bounties and outside pull requests\" section to `CONTRIBUTING.md`. It says there are no bounties and that outside PRs need an issue a maintainer agreed to first. - **Dri",
-      "source_created_at": "2026-10-21T21:53:19Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1498",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969148457",
-      "title": "Outside-PR triage: detect bounty bots and stubs, never build them, close or route to review",
-      "url": "https://github.com/Colonizer-dev/harness/issues/1497",
-      "evidence": "## Problem Factory Zero venture repos are public and their issues are detailed (milestones, sizes, acceptance criteria). Bounty-hunting bots now open PRs against them, assuming a bounty exists. Seen on 2026-10-22: - An account named \"Kuro AI\" opened 72 PRs across GitHub, all titled `fix: resolve issue #N - [BOUNTY] …`. Its PRs here (Livingbrain-wiki/livingbrain#278, Sealbin/sealbin#72) only added a `BOUNTY_TASK.md` that copies the issue text. - Sealbin/sealbin#67 added 7 lines that reference a module that does not exist, so it cannot compile. -",
-      "source_created_at": "2026-10-21T21:53:17Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Colonizer-dev/harness/issues/1497",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969094580",
-      "title": "bounty-watch 2026-10-21: 0 new, 0 resumed, 4 watchlist changes",
-      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/153",
-      "evidence": "# bounty-watch report 2026-10-21 ## Watchlist changes (4) - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktr.ee: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og - https://linktree.com: new JS bundles: 2q9xsvqs7vlik.js, 3c3-f8h61ib_n.js; removed JS bundles: 056n1vte2zyfs.js, 0so0i1ud-yf9n.js _[deploy]_ - **Trello** (`bc:trello`) https://bu",
-      "source_created_at": "2026-10-21T21:48:57Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/abdulsalam-create/bounty-watch/issues/153",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969729481",
-      "title": "One piece bounty rush waiting for window",
-      "url": "https://github.com/thebcd69/bcd-games/issues/8",
-      "evidence": "Waited for 3 minutes my first 2 runs",
-      "source_created_at": "2026-10-21T22:44:19Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/thebcd69/bcd-games/issues/8",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969419989",
-      "title": "[Bounty proposal] fix(public-holidays-app): next-holiday default limit ignored, manifest forces `year`, raw HTTP errors for unknown country/year ($25 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23148",
-      "evidence": "Hi @josancamon19 @kodjima33, I'm proposing a small paid fix per the contribution guide (\"No bounties available? Suggest your own\"). **Bugs (all on current `main`, `plugins/omi-public-holidays-app/main.py`):** 1. `get_next_public_holidays` advertises `limit` default `8` in `/.well-known/omi-tools.json`, and `NEXT_HOLIDAY_DEFAULT_LIMIT = 8` is defined but never used. An omitted or `null` limit falls back to `MAX_ITEMS` (20). 2. Since #21005, `year` defaults to the current UTC year, but the manifest still lists it in `required` for `get_public_hol",
-      "source_created_at": "2026-10-21T22:16:31Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23148",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969293899",
-      "title": "Extra Exploration Modules",
-      "url": "https://github.com/DuaLVII/Elite-Companion/issues/24",
-      "evidence": "Module idea, Signals: every signal in the system grouped by type (combat zones and resource extraction sites are useful for bounty hunters and Powerplay), with threat levels on USSs. Module idea, Codex: new entries this session, plus a “new for you” alert.",
-      "source_created_at": "2026-10-21T22:05:36Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DuaLVII/Elite-Companion/issues/24",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969055871",
-      "title": "Fase 4 — Beta, auditoria e lançamento",
-      "url": "https://github.com/falaai-br/falaai/issues/5",
-      "evidence": "Beta fechado (500 pessoas), auditoria externa publicada, bug bounty, lojas, relatório de transparência. Critério de saída: zero achados críticos abertos; crash-free > 99,5%.",
-      "source_created_at": "2026-10-21T21:46:00Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/falaai-br/falaai/issues/5",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969689767",
-      "title": "Maintainer scope: avoid unrelated reads for filtered marketplace listings",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1670",
-      "evidence": "We are preparing a small marketplace-read fix: when a caller requests only off-chain or legacy listings using `source_type`, load only that requested source. Today the request still checks unrelated blockchain sources before filtering the results, which adds avoidable work and can report a healthy requested source as degraded. The change will keep unfiltered and canonical requests subject to their existing freshness, readiness and privacy checks. Unchecked sources will not be labeled healthy or empty. API and MCP clients keep the same query and",
-      "source_created_at": "2026-10-21T22:40:44Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/NSPG13/agent-bounties/issues/1670",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5969476196",
-      "title": "Story steps can wait on any event",
-      "url": "https://github.com/dseelinger/d47/issues/1476",
-      "evidence": "Build issue B of four from #1343. #1475 (the step event table and `StepEventCatalogue`) lands first. After this, #1477 (d47 events) and then #1478 (drawing event steps into chapters) build on the kind added here. A step today is one of the fixed kinds in `TriggerKind` (`src/D47.Core/Adventures/Adventure.cs:20`). Each is matched by hand in `AdventureFold.Matches` (`src/D47.Core/Adventures/AdventureFold.cs:310`) and counted by `AdventureFold.Amount` (`:525`), whose default is one per event. `AdventureTrigger.IsCountedKind` (`Adventure.cs:250`) co",
-      "source_created_at": "2026-10-21T22:21:34Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dseelinger/d47/issues/1476",
-      "first_seen_at": "2026-10-21T23:48:42.717Z",
       "last_seen_at": "2026-10-22T01:01:39.366Z"
     },
     {
@@ -606,216 +891,6 @@
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
       "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5971018089",
-      "title": "[intake 输入][缺陷报告] check_links 合法 URL 内右括号被截断，真实 probe 请求错路径（对照 200→404）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1483",
-      "evidence": "作者：fladyck；复核日期：2026-10-22。建议 easy/C，最终定性与是否计分由维护者裁定。本件只报缺陷，未交付修复 PR。 ## 结论与影响 scripts/check_links.py 的 extract_urls 使用 URL_RE，将 URL 内的右括号一律当结束符。合法的 Markdown 平衡括号链接、尖括号自动链接都会被截断，后续 probe 检查的地址与材料作者给出的地址不同。 本机实际读数：普通链接对照 1/1 正确；两种含括号链接 0/2 正确；本地固定路径 HTTP 服务中，真实 probe 直接检查原地址为 HTTP 200，检查提取结果为 HTTP 404，服务端收到了缺少右括号的路径。 这会使宣传材料的链接验活拒绝本可通过的页面；本件不声称存在安全漏洞，也不声称所有含括号公网网址均返回同一状态。 ## 锚定版本和合法性依据 - 仓库：FuRongJun-1999/dsh-bounty - main 基线：`4708d2ed82050c8000c78be459841199a63da3ff` - 被测文件：[scripts/check_links.py](https://github.com/FuRongJun-1999/dsh-bounty/b",
-      "source_created_at": "2026-10-22T00:56:36Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1483",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970896534",
-      "title": "[intake 输入] 【测评报告】dsh-slack 0.3.4 能力试跑（本地假 Slack · 五状态=还说不准）：8 项试跑 7 项符合；频道超过 20 页只取前 20 页且无提醒",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1482",
-      "evidence": "## 0. 摘要 被测：`dsh-slack` **0.3.4**（源码提交 `8d5f743193b09aee71da8b857c1da2fae97f3ce2`）。 **五状态判定：还说不准。** 本轮是**能力试跑**（方法试验，不进能力榜）：不用真实 Slack、不用真实模型，起本地假 Slack，查 8 项功能，每项 3 次；另跑插件自带 44 项检查与 5 项本地请求格式检查。 **主要发现：S8 频道超过 20 页会少报。** 列 21 页频道时只取前 20 页，**没有提醒**。模型可能把「没列出来」当成「没有这个频道」。这是本轮唯一稳定复现的功能缺陷。 读数：插件自带 44 项无报错；5 项请求格式检查全符合；8 项本地功能试跑 **7 项符合事先写好的结果**（唯一不符就是 S8）。 装与不装的工具层试算差值是 87.5 个百分点（估 62.5–100），**但这个数不能当成绩**：B0 没有让模型真的试，8 项也不是 8 个互不相关的真实任务。 --- ## 1. 性质声明 本件是给测评站 的投稿测评（intake 输入，外部贡献申报），**不是悬赏**：不 /claim、不自行加 bounty 标签；档位由维护者裁定，自评仅供参考。 站内投稿：提交后补（见 is",
-      "source_created_at": "2026-10-22T00:43:44Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1482",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970752787",
-      "title": "Lineage that changes gameplay: heritable traits and creature-specific attacks (light Rogue Legacy 2), from real genetics",
-      "url": "https://github.com/redaphid/blorbarium/issues/45",
-      "evidence": "Owner: 'I do want the attacks they can do etc to vary based off of the creature, and have significant, obvious, fun effects of creature lineage that changes gameplay and causes delight. Think about a light version of the game Rogue Legacy 2 for inspiration, but based off of the actual genetics for the creature. We can evolve the genetics system to support this. Wiping out the pets and starting fresh is an easy option at this point.' - Heritable traits expressed from the genome, with visible, funny, gameplay-changing effects (Rogue Legacy 2's he",
-      "source_created_at": "2026-10-22T00:28:08Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/redaphid/blorbarium/issues/45",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970787395",
-      "title": "Fights have consequences: winning or losing affects the creature; the winner gains something, the loser loses it",
-      "url": "https://github.com/redaphid/blorbarium/issues/46",
-      "evidence": "Owner: 'I want winning or losing fights to effect the creature, and the user should get something if they win, or lose it if they lose.' - The outcome changes the creature (e.g. confidence, mood, a scar or a trophy, a trait nudge, a stat), visibly. - Stakes with something to hold: the winner gains a thing the loser loses (an item, keepsake, power charge, snack or trait token), exchanged over the duel protocol so both badges agree. - Designed within the lineage gameplay (#45, agent lineage-design); fits the existing stakes (Spar/Scrap/Mortal) an",
-      "source_created_at": "2026-10-22T00:31:51Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/redaphid/blorbarium/issues/46",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970895341",
-      "title": "[intake 输入] 【测评报告】@sunwindy/dsh-tool-baixiaochun 0.2.1 标准测评（配对 50 次 · 五状态=没啥差别）：装与不装都 15/25；npm 装法把依赖拖低一代、profile 起不来",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1481",
-      "evidence": "## 0. 摘要 被测：`@sunwindy/dsh-tool-baixiaochun` **0.2.1**（git HEAD `07bc7db9e6dea645ae930818754375b16f6f59b3`，npm 未发布，只有 GitHub 分发）。 **五状态判定：没啥差别。** 5 个场景 × 5 次 × 2 臂 = **50 次配对执行**（A 臂装插件、B 臂不装只用 bash），**两边都是 15/25**，D = 0，95% 聚类 bootstrap [0, 0]，半宽 0，门槛 a=2 / b=2。 三个发现： - **F1（P2）npm 安装路径会把依赖拖低一代、profile 直接起不来**：在 profile 目录里 `npm i` 拖进 23 个包，其中 19 个 `@deepseek-ai/*` 全是上一代 `0.2.0-rc.2`；DSH 0.2.1-rc.2 的兼容闸门随即停用 session / agent / tools 等 7 行，profile 起不来（「3 required plugins did not activate」）。病根在 `package.json` L45–L49：`peerDependencies` 与 `engines",
-      "source_created_at": "2026-10-22T00:43:37Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1481",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970887849",
-      "title": "[intake 输入] lingshu issues 859/860：两处公开 API 声明参数零引用（stable_lease.acquire history / multimodal_check n_expected）——基线 1eafb3f5 发现、复核 71f357b0 读数逐字一致（最小复现+对照证据见原 issue）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1480",
-      "evidence": "## 摘要 两条 `lingshu` 公开 API 的**声明参数零引用**（\"声明 vs 实现\"类，P2），均锚基线 `1eafb3f5`（main，2026-10-21），最小复现本机实跑通过（Python 3.12.10 · numpy 2.5.3 · Windows），读数逐字贴在对应 issue 正文： 1. lingshu issue [#859](https://github.com/FuRongJun-1999/lingshu/issues/859) · `world/stable_lease.py:58` `StableLease.acquire(..., history=...)` ——docstring 承诺\"验证历史记录（不可遗忘，仅记录不删除）\"，函数体零引用 `history`： `acquire()` 返回与 `state()` 读数均无任何历史痕迹（键集 `['confidence','expires_at','key','state','t_verified','ttl','ttl_expires_at','weak_at']`）， 传入即蒸发；同函数 `ttl`/`confidence` 对照真实生效。 2. lingshu issue [#860",
-      "source_created_at": "2026-10-22T00:42:48Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1480",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970859708",
-      "title": "[nn/hex_text][P2 声明静默失效] `multimodal_check(..., n_expected=...)` 收下\"期望物体数\"却一次不读——声明期望 0 个物体的场景也照判 ACCEPT",
-      "url": "https://github.com/FuRongJun-1999/lingshu/issues/860",
-      "evidence": "审查基线：`1eafb3f57a3f9a83d067c0a39568aca4588cfdff`（main，2026-10-21）。 复核基线：`71f357b0154b289766605ddcd6f1105efb3cb640`（main，2026-10-22）——函数体未变、 本件复现读数逐字一致（import 已核到该检出），结论对当前 main 仍成立。 环境：Python 3.12.10 · numpy 2.5.3 · Windows（Git Bash）——本仓已测版本矩阵内。 ## 现象 `multimodal_check` 的签名（`lingshu/nn/hex_text.py:225-226`）声明： ```text def multimodal_check(net: HexHierNet, lat: np.ndarray, text: str, n_expected: Optional[int] = None) -> Dict: \"\"\"完整管线:描述解析→图像空间拆分→融合四态判定(+拆分对齐率)。\"\"\" ``` 函数体（`:228-246`）用 `parse_description(text)` 得子句、`spatial_detect(net, lat)` 得检测、`",
-      "source_created_at": "2026-10-22T00:39:40Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/860",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5970858951",
-      "title": "[world/stable_lease][P2 声明静默失效] `acquire(..., history=...)` 收下\"不可遗忘的验证历史\"却一次不读——传入即蒸发，事后不可审计",
-      "url": "https://github.com/FuRongJun-1999/lingshu/issues/859",
-      "evidence": "审查基线：`1eafb3f57a3f9a83d067c0a39568aca4588cfdff`（main，2026-10-21）。 复核基线：`71f357b0154b289766605ddcd6f1105efb3cb640`（main，2026-10-22）——函数体未变、 本件复现读数逐字一致，结论对当前 main 仍成立。 环境：Python 3.12.10 · numpy 2.5.3 · Windows（Git Bash）——本仓已测版本矩阵内。 ## 现象 `StableLease.acquire` 的签名（`lingshu/world/stable_lease.py:58-59`）声明： ```text def acquire(self, key: str, ttl: Optional[float] = None, confidence: float = 1.0, history: Optional[list] = None) -> Dict: \"\"\"进入 stable 状态。history：验证历史记录（不可遗忘，仅记录不删除）。\"\"\" ``` 函数体（`:61-71`）把本次租约整条写进 `self._leases[key]`（字段：t_verified / ttl ",
-      "source_created_at": "2026-10-22T00:39:35Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/lingshu/issues/859",
-      "first_seen_at": "2026-10-22T01:01:39.366Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49879798",
-      "title": "Boulder County's wildfire risk eased after summer rain",
-      "url": "https://boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T15:41:26Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z"
     },
     {
       "source": "github",
@@ -17020,6 +17095,67 @@
   ],
   "runs": [
     {
+      "id": "2026-10-22T01:21:14.557Z",
+      "generated_at": "2026-10-22T01:21:14.557Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 356
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 521
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 5,
+      "seen_again": 41,
+      "archive_total": 1139,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22T01:01:39.366Z",
       "generated_at": "2026-10-22T01:01:39.366Z",
       "status": "ok",
@@ -20330,67 +20466,6 @@
           "ok": true,
           "count": 25,
           "ms": 102
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 0,
-      "seen_again": 47,
-      "archive_total": 399,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:13:14.896Z",
-      "generated_at": "2026-10-15T20:13:14.896Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 318
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 139
         }
       ],
       "processed": 50,

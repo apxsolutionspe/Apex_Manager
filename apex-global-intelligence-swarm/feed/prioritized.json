@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-22T01:01:40.094Z",
+  "generated_at": "2026-10-22T01:21:15.225Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1134,
+    "total_evaluated": 1139,
     "investigar": 0,
-    "informativa": 1093,
+    "informativa": 1098,
     "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -1623,7 +1623,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/23149",
       "source_created_at": "2026-10-21T22:29:01Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -1646,7 +1646,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/23148",
       "source_created_at": "2026-10-21T22:16:31Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -1660,6 +1660,75 @@
         "payment": false
       },
       "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(messaging): coerce received_at timestamps to UTC and guard null media tuples ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23171",
+      "source_created_at": "2026-10-22T01:14:31Z",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(processing-attention): coerce timestamps to UTC and guard null retry maps ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23169",
+      "source_created_at": "2026-10-22T01:10:12Z",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(byok): coerce last_seen_at timestamps and guard null BYOK state maps ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23167",
+      "source_created_at": "2026-10-22T01:07:33Z",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3047,7 +3116,7 @@
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1634",
       "source_created_at": "2026-10-21T23:04:07Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3072,7 +3141,7 @@
       "url": "https://github.com/freedom-winds/BountyScout/issues/1296",
       "source_created_at": "2026-10-21T22:06:09Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3097,7 +3166,7 @@
       "url": "https://github.com/Colonizer-dev/harness/issues/1498",
       "source_created_at": "2026-10-21T21:53:19Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3121,7 +3190,7 @@
       "url": "https://github.com/Colonizer-dev/harness/issues/1497",
       "source_created_at": "2026-10-21T21:53:17Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3145,13 +3214,38 @@
       "url": "https://github.com/abdulsalam-create/bounty-watch/issues/153",
       "source_created_at": "2026-10-21T21:48:57Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-22T01:01:39.366Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1297",
+      "source_created_at": "2026-10-22T01:12:55Z",
+      "first_seen_at": "2026-10-22T01:21:14.557Z",
+      "last_seen_at": "2026-10-22T01:21:14.557Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3650,103 +3744,6 @@
       "source_created_at": "2026-10-20T08:34:38Z",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
       "last_seen_at": "2026-10-20T11:34:23.667Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "CRITICAL: Attribution & Wave Bounty Dispute on PR #218 (Issues #209-#212) — Forensic Audit Trail",
-      "url": "https://github.com/Orbit-xyz/Orbit/issues/220",
-      "source_created_at": "2026-10-20T08:16:17Z",
-      "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-20T11:34:23.667Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Cloudflare redirect for mainnet bounty 9 breaks /data and the MCP get_bounty tool",
-      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1591",
-      "source_created_at": "2026-10-20T03:52:41Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1622",
-      "source_created_at": "2026-10-20T04:03:51Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY CLAIM] bounty-2026-0304-005 — GH → GB current fee and processing-time verification",
-      "url": "https://github.com/angeloasante/Diaspora_AI_Visa_data/issues/84",
-      "source_created_at": "2026-10-20T03:19:00Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
