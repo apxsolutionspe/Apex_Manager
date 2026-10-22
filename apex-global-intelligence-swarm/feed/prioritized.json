@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-21T23:48:43.668Z",
+  "generated_at": "2026-10-22T01:01:40.094Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -10,9 +10,9 @@
     "automatic_transfers": false
   },
   "summary": {
-    "total_evaluated": 1126,
+    "total_evaluated": 1134,
     "investigar": 0,
-    "informativa": 1085,
+    "informativa": 1093,
     "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
@@ -1623,7 +1623,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/23149",
       "source_created_at": "2026-10-21T22:29:01Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -1646,7 +1646,7 @@
       "url": "https://github.com/BasedHardware/omi/issues/23148",
       "source_created_at": "2026-10-21T22:16:31Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -3043,34 +3043,11 @@
     },
     {
       "source": "github",
-      "title": "[bounty #1497] Independent poidh v1 per-wallet ledger ready - deliverable, verification, payout options",
-      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1606",
-      "source_created_at": "2026-10-21T20:36:33Z",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "🎯 Bounty Alert: 9 New Opportunityies found",
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1634",
       "source_created_at": "2026-10-21T23:04:07Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3095,7 +3072,7 @@
       "url": "https://github.com/freedom-winds/BountyScout/issues/1296",
       "source_created_at": "2026-10-21T22:06:09Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3120,7 +3097,7 @@
       "url": "https://github.com/Colonizer-dev/harness/issues/1498",
       "source_created_at": "2026-10-21T21:53:19Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3144,7 +3121,7 @@
       "url": "https://github.com/Colonizer-dev/harness/issues/1497",
       "source_created_at": "2026-10-21T21:53:17Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3168,13 +3145,36 @@
       "url": "https://github.com/abdulsalam-create/bounty-watch/issues/153",
       "source_created_at": "2026-10-21T21:48:57Z",
       "first_seen_at": "2026-10-21T23:48:42.717Z",
-      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "last_seen_at": "2026-10-22T01:01:39.366Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty #1497] Independent poidh v1 per-wallet ledger ready - deliverable, verification, payout options",
+      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1606",
+      "source_created_at": "2026-10-21T20:36:33Z",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T23:48:42.717Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
