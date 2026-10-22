@@ -17,6 +17,27 @@ export const SCOUTS = Object.freeze([
 const MAX_RESULTS = 12;
 const MIN_AMOUNT_USD = 1;
 
+// GitHub issue text is untrusted. Count only amounts stated as a reward on the
+// same line, not unrelated product prices, donations or subscription fees.
+export function advertisedBountyAmount(title, body = '') {
+  const lines = [String(title), ...String(body).slice(0, 2000).split(/\r?\n/)];
+  for (const line of lines) {
+    const after = line.match(/\b(?:bounty|reward|payout|prize|compensation)\b[^\n.!?]{0,75}?(?:\$\s*|usd\s*)([1-9]\d{0,5})(?!\d)/i);
+    const before = line.match(/(?:\$\s*|usd\s*)([1-9]\d{0,5})(?!\d)[^\n.!?]{0,28}?\b(?:bounty|reward|prize)\b/i);
+    const currencyAfter = line.match(/\b(?:bounty|reward|payout|prize)\b[^\n.!?]{0,60}?\b([1-9]\d{0,5})\s*(?:usd|usdc)\b/i);
+    const match = after || before || currencyAfter;
+    if (match) return Number(match[1]);
+  }
+  return null;
+}
+
+export function isDisqualifiedBountyText(body) {
+  const text = String(body).slice(0, 3500);
+  return /\b(?:kyc\s+(?:is\s+)?required|(?:requires?|must|mandatory)\s+(?:a\s+|an\s+)?(?:kyc|deposit|paid\s+subscription|physical\s+(?:device|hardware)|hardware\s+purchase|new\s+account)|must\s+(?:register|subscribe|deposit|purchase\s+hardware|sign\s+(?:a\s+)?contract)|(?:no|unpaid|unfunded)\s+(?:cash\s+)?(?:bounty|reward)|(?:bounty|reward)\s+(?:is\s+)?(?:unfunded|not\s+funded|pending\s+funding)|(?:bounty|reward)\s+proposal|proposed\s+(?:bounty|reward))\b/i.test(text) ||
+    /\b(?:no|prohibited|forbidden)\s+(?:ai[- ](?:generated|assisted)|llm[- ]generated|bot[- ]generated)\s+(?:prs?|code|submissions?|contributions?)\b/i.test(text) ||
+    /\b(?:ai[- ](?:generated|assisted)|llm[- ]generated)\s+(?:prs?|code|submissions?|contributions?)\s+(?:not\s+allowed|prohibited|forbidden)\b/i.test(text);
+}
+
 export function vetIssue(raw, agent, today = new Date()) {
   if (!raw || raw.pull_request || !ISSUE_URL.test(String(raw.html_url || ''))) return null;
   if (raw.state !== 'open' || typeof raw.title !== 'string') return null;
@@ -24,11 +45,12 @@ export function vetIssue(raw, agent, today = new Date()) {
   if (!Number.isFinite(updated) || updated > today.getTime() + 86400000 ||
       today.getTime() - updated > 92 * 86400000) return null;
   const title = raw.title.trim().slice(0, 220);
-  const content = (title + ' ' + String(raw.body || '').slice(0, 2000)).toLowerCase();
-  const amountMatch = content.match(/(?:\$\s*|usd\s*)([1-9]\d{0,5})(?!\d)/i);
-  const estimatedAmount = amountMatch ? Number(amountMatch[1]) : null;
-  // Titles and bodies are untrusted; amounts are unverified claims, not assets.
-  const risky = /seed phrase|private key|connect your wallet|deposit first|upfront fee|pay to join|guaranteed profit|casino|betting/i.test(content);
+  const body = String(raw.body || '').slice(0, 3500);
+  const content = (title + ' ' + body).toLowerCase();
+  const estimatedAmount = advertisedBountyAmount(title, body);
+  // Neither a posted amount nor "escrow locked" establishes sponsor funding.
+  const risky = /seed phrase|private key|connect your wallet|deposit first|upfront fee|pay to join|guaranteed profit|casino|betting/i.test(content) ||
+    isDisqualifiedBountyText(content);
   const labels = (Array.isArray(raw.labels) ? raw.labels : [])
     .map(x => String(typeof x === 'string' ? x : x.name || '').toLowerCase()).slice(0, 16);
   // Stronger relevance gate: don't treat arbitrary mentions of "paid" or
@@ -36,7 +58,8 @@ export function vetIssue(raw, agent, today = new Date()) {
   const labelledBounty = labels.some(x => /\bbounty\b|\breward\b/.test(x));
   const titledBounty = /\bbounty\b|\bpaid task\b|\bpaid issue\b/.test(title.toLowerCase());
   const mirroredAlert = /\bradar\b|\bmirror\b|\brelay log\b|\bwatchlist\b|\bmonitor\b|\bqueue\b/i.test(title) ||
-    /bounty-plaza|sn-monetization-runtime|bounty-feed/i.test(String(raw.repository_url || ''));
+    /bounty-plaza|sn-monetization-runtime|bounty-feed/i.test(String(raw.repository_url || '')) ||
+    /^\s*>?\s*(?:mirrored from|this github issue is a mirrored|source of truth is)/im.test(body);
   const tooCrowded = Number(raw.comments || 0) > 30;
   if ((!labelledBounty && !titledBounty) || !estimatedAmount || mirroredAlert || tooCrowded) return null;
   let score = 0;
