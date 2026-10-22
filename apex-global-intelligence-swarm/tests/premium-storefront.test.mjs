@@ -59,3 +59,17 @@ test('enlace real del titular habilita cobro externo SOLO tras precio acordado',
  assert.match(html,/Confirmar importe antes de pagar/);
  assert.doesNotMatch(html+services,/autopago|pago confirmado automáticamente|ganancias garantizadas/i);
 });
+
+test('sitemap indexa APEX Studio y preserva las rutas comerciales existentes',async()=>{
+ const sitemap=await readFile(new URL('sitemap.xml',base),'utf8');
+ const urls=[
+  'https://apxsolutionspe.github.io/Apex_Manager/servicios.html',
+  'https://apxsolutionspe.github.io/Apex_Manager/productos/cotizapro/',
+  'https://apxsolutionspe.github.io/Apex_Manager/productos/catalogoexpress/',
+  'https://apxsolutionspe.github.io/Apex_Manager/plantillas-premium.html'
+ ];
+ for(const url of urls){
+  assert.equal(sitemap.split('<loc>'+url+'</loc>').length-1,1,url+' debe estar exactamente una vez');
+ }
+ assert.match(sitemap,/<urlset xmlns="http:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9">/);
+});
