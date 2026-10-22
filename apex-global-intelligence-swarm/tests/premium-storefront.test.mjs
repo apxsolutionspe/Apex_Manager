@@ -30,7 +30,7 @@ test('productos tienen contacto comercial voluntario sin mensajes automáticos',
   const url=new URL(item[1]);
   assert.equal(url.hostname,'wa.me');
   assert.equal(url.pathname,'/51931797758');
-  assert.match(decodeURIComponent(url.searchParams.get('text')),/(?:personalizacion|diseno)/);
+  assert.match(decodeURIComponent(url.searchParams.get('text')),/(?:personalizacion|diseno|confirmar el monto)/);
  }
  assert.doesNotMatch(html,/<script\b(?! type="application\/ld\+json")/);
  assert.match(html,/El visitante decide si inicia una conversación por WhatsApp/);
