@@ -13,8 +13,11 @@ on:
       - 'apex-global-intelligence-swarm/tests/revenue-portfolio.test.mjs'
       - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
       - 'apex-global-intelligence-swarm/servicios.html'
+      - 'apex-global-intelligence-swarm/plantillas-premium.html'
+      - 'apex-global-intelligence-swarm/tests/premium-storefront.test.mjs'
+      - 'apex-global-intelligence-swarm/tests/apex-operations.test.mjs'
   schedule:
-    - cron: '17 */2 * * *' # Cada 2 h día y noche; GitHub puede retrasar ejecuciones
+    - cron: '27 * * * *' # Cada hora, 24/7 (UTC nominal). GitHub puede retrasar/omitir ejecuciones
   workflow_dispatch:
   pull_request:
     paths:
@@ -27,6 +30,9 @@ on:
       - 'apex-global-intelligence-swarm/tests/revenue-portfolio.test.mjs'
       - 'apex-global-intelligence-swarm/productos/cotizapro/index.html'
       - 'apex-global-intelligence-swarm/servicios.html'
+      - 'apex-global-intelligence-swarm/plantillas-premium.html'
+      - 'apex-global-intelligence-swarm/tests/premium-storefront.test.mjs'
+      - 'apex-global-intelligence-swarm/tests/apex-operations.test.mjs'
 
 permissions:
   contents: read
@@ -81,4 +87,4 @@ jobs:
             apex-global-intelligence-swarm/artifacts/sales-health.json
             apex-global-intelligence-swarm/artifacts/revenue-portfolio.json
           if-no-files-found: error
-          retention-days: 14
+          retention-days: 3
