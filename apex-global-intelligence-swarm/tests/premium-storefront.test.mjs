@@ -54,7 +54,7 @@ test('enlace real del titular habilita cobro externo SOLO tras precio acordado',
  assert.equal(url.pathname,'/apexprimex');
  assert.equal(url.search,'');
  assert.match(html,/no confirma automáticamente un pedido/);
- assert.match(html,/no entrega descargas digitales/);
+ assert.match(html,/ni entrega descargas digitales/);
  assert.match(services,/no genera contratos ni entrega automática/);
  assert.match(html,/Confirmar importe antes de pagar/);
  assert.doesNotMatch(html+services,/autopago|pago confirmado automáticamente|ganancias garantizadas/i);
