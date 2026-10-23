@@ -1,5 +1,6 @@
 """Autenticación sin servicios de terceros (PBKDF2-HMAC + token HMAC)."""
 import base64
+import binascii
 import hashlib
 import hmac
 import json
@@ -54,6 +55,8 @@ def verify_token(token: str, secret: str) -> bool:
         if not hmac.compare_digest(signature, expected):
             return False
         payload = json.loads(_decode(body))
-        return payload.get("sub") == "admin" and isinstance(payload.get("exp"), int) and payload["exp"] > int(time.time())
-    except (ValueError, TypeError, KeyError, UnicodeDecodeError):
+        if not isinstance(payload, dict):
+            return False
+        return payload.get("sub") == "admin" and type(payload.get("exp")) is int and payload["exp"] > int(time.time())
+    except (ValueError, TypeError, KeyError, UnicodeDecodeError, binascii.Error):
         return False
