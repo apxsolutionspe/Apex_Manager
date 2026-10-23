@@ -179,3 +179,19 @@ def test_security_headers_on_quote_responses(client):
     assert response.headers['cache-control'] == 'no-store'
     assert 'default-src' in response.headers['content-security-policy']
     assert response.json()['state'] == 'registrado'
+
+def test_quote_rejects_separator_only_and_overlong_phone_numbers(client, headers):
+    """Never store a quote that the customer cannot identify by phone."""
+    payload = {
+        'customer_name': 'Contacto Sintetico',
+        'consent': True,
+        'items': [{'product_id': 1, 'quantity': 1}],
+    }
+    for invalid_phone in ('-------', '+++(())', '12345678901234567890'):
+        response = client.post('/api/quotes', json={**payload, 'phone': invalid_phone})
+        assert response.status_code == 422, invalid_phone
+
+    assert client.get('/api/admin/quotes', headers=headers).json() == []
+    accepted = client.post('/api/quotes', json={**payload, 'phone': '+51 987 654 321'})
+    assert accepted.status_code == 201
+    assert len(client.get('/api/admin/quotes', headers=headers).json()) == 1
