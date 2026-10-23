@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-23T17:05:22.667Z",
+  "generated_at": "2026-10-23T21:23:23.939Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,35 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1154,
-    "descartar": 46,
+    "informativa": 1162,
+    "descartar": 38,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "Claiming Bounty #7 — Blog Publishing System ($200)",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/75",
+      "source_created_at": "2026-10-23T20:50:22Z",
+      "first_seen_at": "2026-10-23T21:23:22.494Z",
+      "last_seen_at": "2026-10-23T21:23:22.494Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 200,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "Claiming Bounty #34 - Healthcare Appointment System ($500)",
@@ -2241,24 +2264,24 @@
     },
     {
       "source": "github",
-      "title": "Bounty track: hunt accepted-but-unsound programs at the task boundary",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/5",
-      "source_created_at": "2026-10-14T10:31:03Z",
-      "first_seen_at": "2026-10-14T11:49:56.000Z",
-      "last_seen_at": "2026-10-14T11:49:56.000Z",
+      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107",
+      "source_created_at": "2026-10-23T20:20:52Z",
+      "first_seen_at": "2026-10-23T21:23:22.494Z",
+      "last_seen_at": "2026-10-23T21:23:22.494Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
-        "Candidato para verificar bases oficiales, elegibilidad y condiciones de pago",
-        "La API oficial confirmó que el issue ya no está abierto o no es un issue"
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
         "eligibility": false,
         "ownership": false,
-        "payment": false,
-        "issue_open_now": false
+        "payment": false
       },
-      "published_amount_usd": 500,
+      "published_amount_usd": 100,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3685,30 +3708,6 @@
         "payment": false
       },
       "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1252",
-      "source_created_at": "2026-10-14T20:27:03Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 95,
       "monetary_value_received": 0,
       "verified_payment": false
     }
