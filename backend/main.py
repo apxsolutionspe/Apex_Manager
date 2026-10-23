@@ -209,6 +209,9 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         if settings.environment == 'production' and settings.demo_mode:
             return []  # Nunca ofrecer artículos DEMO con un despliegue marcado como producción.
         sql = 'SELECT * FROM products WHERE active=1'
+        if settings.environment == 'production':
+            # Old DEMO rows may remain after a database is switched to production.
+            sql += " AND sku NOT LIKE 'DEMO-%'"
         params = []
         if category:
             sql += ' AND category=?'
@@ -236,7 +239,10 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             raise HTTPException(422, 'Demasiados artículos')
         with transaction(settings.db_path) as db:
             placeholders = ','.join('?' for _ in counts)
-            rows = db.execute(f'SELECT * FROM products WHERE active=1 AND id IN ({placeholders})', tuple(counts)).fetchall()
+            product_sql = f'SELECT * FROM products WHERE active=1 AND id IN ({placeholders})'
+            if settings.environment == 'production':
+                product_sql += " AND sku NOT LIKE 'DEMO-%'"
+            rows = db.execute(product_sql, tuple(counts)).fetchall()
             if len(rows) != len(counts):
                 raise HTTPException(422, 'Uno o varios artículos no están disponibles')
             records = []
