@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-23T04:47:07.103Z",
+  "updated_at": "2026-10-23T11:36:37.582Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,472 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 15,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49937131",
+      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
+      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+      "evidence": "",
+      "source_created_at": "2026-10-02T18:52:03Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49946213",
+      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
+      "url": "https://hoaspy.com/",
+      "evidence": "",
+      "source_created_at": "2026-10-03T17:42:32Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "hoaspy.com",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49915584",
+      "title": "The data center buildout, county by county",
+      "url": "https://pressaudit.org/blog/datacenters",
+      "evidence": "",
+      "source_created_at": "2026-09-30T23:00:58Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50202599",
+      "title": "Amazon won't build data centers in Loudoun County in deal with local leaders",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders/",
+      "evidence": "",
+      "source_created_at": "2026-10-22T23:36:50Z",
+      "opp_type": "otro",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
+      "first_seen_at": "2026-10-23T04:47:07.103Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49856624",
+      "title": "One Silicon Valley founder bought the Bucks County school board",
+      "url": "https://www.pbs.org/show/bucks-county-usa/",
+      "evidence": "",
+      "source_created_at": "2026-09-26T13:58:58Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "pbs.org/show/bucks-county-usa",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995145753",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1644",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-23 09:14 UTC #### 1. [[routes] Time, moving time and speed](https://github.com/amiller/bounty-arcade/issues/12) - **Repository:** [amiller/bounty-arcade](https://github.com/amiller/bounty-arcade) - **Comments:** 7 - **Last Updated:** 2026-10-23T09:14:11Z #### 2. [[radar] SN open bounty 2026-10-22T19:11](https://github.com/relayhop/sn-monetization-runtime/issues/1326) - **Repository:** [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime) - **Comments:** 3 - ",
+      "source_created_at": "2026-10-23T09:14:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1644",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5996888216",
+      "title": "[Bug bounty] getBalance resolves native balance by symbol alone — 15 assets across 5 chains, and the same predicate in isSufficient misjudges transfer sufficiency",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2202",
+      "evidence": "# 🐞 Bug Report ## 🔍 Summary `SubstrateChain.getBalance` decides whether to read the native balance using **only** the asset symbol: ```ts // packages/sdk-core/src/chains/SubstrateChain.ts:504-512 getBalance(api, address, asset) { const isNativeAsset = isSymbolMatch(asset.symbol, this.getNativeAssetSymbol(api)) if (isNativeAsset) return this.getBalanceNative(api, address, asset) // System.Account return this.getBalanceForeign(api, address, asset) // Assets / ForeignAssets } ``` `isSymbolMatch` compares normalised symbols only — it never looks ",
+      "source_created_at": "2026-10-23T11:25:40Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2202",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995772233",
+      "title": "[BOUNTY] Low: approved dApps can bypass wallet idle-lock through rejected swaps and silent reconnects",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1193",
+      "evidence": "# Low: approved sites can keep the wallet unlocked without owner activity Affected repository: `paraloom-labs/paraloom-wallet`, current main `1e79eec8fbe99cd7e1381f6971c855bdce883d41` (version 1.7.15). Suggested severity: **Low**, for weakening the idle-lock privacy boundary. Please evaluate under the published Stage 1 wallet scope; no award is claimed. ## Preconditions and observed impact The wallet is unlocked, and script runs on an already-approved origin supported by the extension. This is not an authorization bypass by an arbitrary website",
+      "source_created_at": "2026-10-23T10:01:22Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/1193",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995559660",
+      "title": "[Bug bounty] Asset Hub balance query returns native DOT for a non-native DOT asset",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2199",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug Asset Hub Polkadot lists a non-native asset with ID `50000546`, symbol `DOT`, and `isNative` unset ([asset metadata](https://github.com/paraspell/xcm-tools/blob/b7e9a6b05fe89686412c85be70f41792acbdd223/packages/assets/src/maps/assets.json#L5267-L5288)). A caller can select it by ID, so it is distinct from native DOT. [`SubstrateChain.getBalance`](https://github.com/paraspell/xcm-tools/blob/b7e9a6b05fe89686412c85be70f41792acbdd223/packages/sdk-core/src/chains/SubstrateChain.ts#L504-L511) decides whether to ",
+      "source_created_at": "2026-10-23T09:45:32Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2199",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5996074418",
+      "title": "Security report: tari-ootle validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half) (GHSA-4r7j-w95g-59v2)",
+      "url": "https://github.com/tari-project/special_contributions/issues/308",
+      "evidence": "Retro bounty for @sebattoriq for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-4r7j-w95g-59v2](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-4r7j-w95g-59v2). The report showed that validator JSON-RPC validates neither Host nor Origin: a DNS-rebinding page drives the privileged loopback RPC (PR #2726 fixed only the CORS half). The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3087. **No code work is required",
+      "source_created_at": "2026-10-23T10:23:42Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/308",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995867871",
+      "title": "Economía + seguridad audit + anuncio",
+      "url": "https://github.com/ChicoCifrado/SMCP/issues/28",
+      "evidence": "## Contexto Falta parametrizar economía, auditar seguridad y anunciar. ## Objetivo Cerrar economía, seguridad y lanzamiento. ## Checklist - [ ] Parametrizar treasury, bounty, fee del overlay - [ ] Audit del locking script + gates - [ ] Anuncio en BSV/DeLM communities - [ ] Listado en 1sat.market",
+      "source_created_at": "2026-10-23T10:08:15Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ChicoCifrado/SMCP/issues/28",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995865415",
+      "title": "Tests contra modelo real (Qwen3.8-27B, no mockeado)",
+      "url": "https://github.com/ChicoCifrado/SMCP/issues/18",
+      "evidence": "## Contexto La suite usa FakeLLMClient; falta validación con modelo real. ## Objetivo Flujo end-to-end con Qwen3.8-27B en VRAM. ## Checklist - [ ] alice/bob dual-node con modelo real - [ ] Verificación extremo a extremo de capas A-E - [ ] Inferencia real -> gist -> verificación -> bounty cobrado - [ ] Documentar params de lanzamiento (Unsloth)",
+      "source_created_at": "2026-10-23T10:08:04Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ChicoCifrado/SMCP/issues/18",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995563832",
+      "title": "[auto] open high/critical Dependabot alerts",
+      "url": "https://github.com/IcanBENCHurCAT/algo-bounty/issues/213",
+      "evidence": "2 open high/critical Dependabot alerts: - high: ws (https://github.com/IcanBENCHurCAT/algo-bounty/security/dependabot/5) - high: ws (https://github.com/IcanBENCHurCAT/algo-bounty/security/dependabot/1)",
+      "source_created_at": "2026-10-23T09:45:51Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/IcanBENCHurCAT/algo-bounty/issues/213",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994177172",
+      "title": "Security report: tari-ootle unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials (GHSA-9p3v-6v6f-8m76)",
+      "url": "https://github.com/tari-project/special_contributions/issues/307",
+      "evidence": "Retro bounty for @sands786 for reporting a security weakness in `tari-ootle` through GitHub Security Advisories: [GHSA-9p3v-6v6f-8m76](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-9p3v-6v6f-8m76). The report showed that unauthenticated WebAuthn auth_start endpoint leaks username existence via allowCredentials. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3064. **No code work is required here.** Details stay in the advisory until it is published. #",
+      "source_created_at": "2026-10-23T08:01:17Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/307",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5993992082",
+      "title": "Bug report: tari-ootle state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node (GHSA-cr6x-7g4q-v3qr)",
+      "url": "https://github.com/tari-project/special_contributions/issues/306",
+      "evidence": "Retro bounty for @Thalima-hehe for reporting a bug in `tari-ootle` through GitHub Security Advisories: [GHSA-cr6x-7g4q-v3qr](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-cr6x-7g4q-v3qr). The report showed that state sync clears transaction pool without releasing substate locks, permanently bricking substates on the syncing node. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3079. **No code work is required here.** ## Done when @Thalima-hehe opens a",
+      "source_created_at": "2026-10-23T07:46:22Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/306",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5993982832",
+      "title": "Security report: tari-ootle a withholding indexer permanently locks a wallet's inputs: transaction-linked locks are never timeout-reaped and a 200-Pending/404 answer counts as healthy so failover never fires (GHSA-6fp7-7wf2-ph5m)",
+      "url": "https://github.com/tari-project/special_contributions/issues/305",
+      "evidence": "Retro bounty for @chironbuilds for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-6fp7-7wf2-ph5m](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-6fp7-7wf2-ph5m). The report showed that a withholding indexer permanently locks a wallet's inputs: transaction-linked locks are never timeout-reaped and a 200-Pending/404 answer counts as healthy so failover never fires. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-oo",
+      "source_created_at": "2026-10-23T07:45:36Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/305",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5993979708",
+      "title": "Security report: tari-ootle walletd: no Host header validation in no-auth mode, and the WebAuthn signature counter is not persisted (ISSUE-2842)",
+      "url": "https://github.com/tari-project/special_contributions/issues/304",
+      "evidence": "Retro bounty for @chironbuilds for reporting a security weakness in `tari-ootle` in a GitHub issue: https://github.com/tari-project/tari-ootle/issues/2842. The report showed that walletd: no Host header validation in no-auth mode, and the WebAuthn signature counter is not persisted. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3066. **No code work is required here.** ## Done when @chironbuilds opens a PR in this repo that follows the pattern of earlier merged PRs, with ",
+      "source_created_at": "2026-10-23T07:45:21Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/304",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5993973453",
+      "title": "Security report: tari-ootle outbound messaging stream permanently black-holed on an I/O negotiation failure (silent message loss + unbounded retention) (GHSA-wh7f-8p58-g7qq)",
+      "url": "https://github.com/tari-project/special_contributions/issues/303",
+      "evidence": "Retro bounty for @m4r1m0 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-wh7f-8p58-g7qq](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-wh7f-8p58-g7qq). The report showed that outbound messaging stream permanently black-holed on an I/O negotiation failure (silent message loss + unbounded retention). The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3071. **No code work is required here.** Details stay in t",
+      "source_created_at": "2026-10-23T07:44:51Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/tari-project/special_contributions/issues/303",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5996941285",
+      "title": "clear3 runs state changes for a side take would skip (zero output / negative ratio)",
+      "url": "https://github.com/rainlanguage/raindex/issues/2906",
+      "evidence": "`takeOrders4` only takes an order whose calculation gives `outputMax > 0` and `IORatio >= 0`; anything else is skipped (`OrderZeroAmount`) with no state change and no `handleIO`. `clear3` has no per-side equivalent. Its only zero check is `ClearZeroAmount` at the end, which fires only when **both** `aliceOutput` and `bobOutput` are zero. ## Failure - Alice `outputMax = 0`, Bob `IORatio = 0`, Bob `outputMax > 0`. - Alice fills 0 for 0, yet her calculate KVs are written to the store and her `handleIO` runs; Bob's whole output goes to the clearer ",
+      "source_created_at": "2026-10-23T11:29:40Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rainlanguage/raindex/issues/2906",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995263103",
+      "title": "📧 Daily Digest — 2026-10-23",
+      "url": "https://github.com/GaspardCoche/agent-system/issues/261",
+      "evidence": "# 📧 Daily Digest — 2026-10-23 ## Anthropic rebat les cartes : Opus 5.5 moins cher, et l'authentification des agents devient le vrai champ de bataille _Claude Opus 5.5 arrive 40% moins cher pendant que banques, 1Password et Google se battent pour sécuriser les agents qui agissent en ton nom._ ## ⭐ Top story ### [Introducing Claude Opus 5.5 (avec Haiku 5.5 et Sonnet 5.5)](https://www.anthropic.com/news) *Anthropic* · Modeles Anthropic lance Claude Opus 5.5, son nouveau modèle phare orienté coding agentique et travail de connaissance, avec un coû",
+      "source_created_at": "2026-10-23T09:23:21Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/GaspardCoche/agent-system/issues/261",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994785613",
+      "title": "test",
+      "url": "https://github.com/skull-X/Testing/issues/40",
+      "evidence": "test",
+      "source_created_at": "2026-10-23T08:48:28Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/skull-X/Testing/issues/40",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994134053",
+      "title": "test",
+      "url": "https://github.com/skull-X/Testing/issues/37",
+      "evidence": "test",
+      "source_created_at": "2026-10-23T07:57:47Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/skull-X/Testing/issues/37",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994076990",
+      "title": "test",
+      "url": "https://github.com/skull-X/Testing/issues/36",
+      "evidence": "test",
+      "source_created_at": "2026-10-23T07:53:17Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/skull-X/Testing/issues/36",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5996712113",
+      "title": "Check child-segment access in segment dependency-tree responses",
+      "url": "https://github.com/mautic/mautic/issues/17912",
+      "evidence": "## Summary Check access to every segment included in the segment dependency-tree response, not only the requested root segment. PR #17897 adds root-segment authorization to `getSegmentDependencyTreeAction`. The review identified a potential remaining disclosure: when a user can view the root segment but cannot view a referenced child segment, the dependency tree may expose that child's name, ID, and link. Verify this path and prevent the disclosure. This work was deferred from PR #17897 at the request of @fedys. ## Required changes - Inspect ho",
+      "source_created_at": "2026-10-23T11:12:47Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17912",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5996240077",
+      "title": "Phase 3 — Outlaw Identity, character card and Guild Passport prototype",
+      "url": "https://github.com/HuRiKh4n/robinhoot-outlaw-guild/issues/4",
+      "evidence": "Implement Phase 3 on a separate feature branch; open PR, do not merge or deploy. Goal: deliver a polished, mobile-first RobinHoot Outlaw identity experience while preserving existing Next.js site and Meteor account-only connection. Requirements: 1. Dedicated My Outlaw view/page with editable name, class, species, outfit and personality, using existing creator options and visual language. Clear empty, connected and disconnected states. 2. Create an attractive responsive Character Card / Guild Passport preview with fox/outlaw design motifs, reada",
+      "source_created_at": "2026-10-23T10:36:39Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HuRiKh4n/robinhoot-outlaw-guild/issues/4",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5995462471",
+      "title": "Explorer rounds uint64 pow_nonce in block details and RAW view (Minor)",
+      "url": "https://github.com/xeprotocol/xe/issues/13",
+      "evidence": "# Explorer rounds uint64 proof-of-work nonces in detail and RAW views Suggested severity: Minor (display/data fidelity). Team determines final severity. No ledger corruption or funds impact established. Observed on 23 October 2026, testnet-0005, node UI version xe/92d83d1. ## Reproduction 1. Open https://ldn.test.network/blocks/?hash=feaebd2fefd055247d6019dd0317b32c833e715ddd3c4b33269c16917103515d 2. Read pow_nonce in the detail fields and RAW section: 810647907827518000. 3. Retrieve the original HTTP response as TEXT from https://ldn.core.test",
+      "source_created_at": "2026-10-23T09:38:20Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/13",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994984770",
+      "title": "Excluded crates report",
+      "url": "https://github.com/theblockcade/stellarcade/issues/1550",
+      "evidence": "# Excluded crates report Generated: 2026-10-23T09:03:15Z ## Excluded crates report | Crate | Clippy | Tests | First error | | --- | --- | --- | --- | | higher-lower | fail | pass | [1m [91merror [0m: could not compile `stellarcade-higher-lower` (lib) due to 1 previous error | | challenge-ladder | fail | pass | [1m [91merror [0m: could not compile `stellarcade-challenge-ladder` (lib) due to 4 previous errors | | merch-redemption | pass | pass | — | | profile-perks | pass | pass | — | | achievements | fail | fail | [1m [91merror[E0599] [0m [1m: n",
+      "source_created_at": "2026-10-23T09:03:17Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/theblockcade/stellarcade/issues/1550",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994859110",
+      "title": "[tooling/autoland] run_bundle joins --slug onto the land-queue without traversal validation — out-of-queue bundles reach git apply + push-to-main",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1300",
+      "evidence": "### Revision (`git rev-parse HEAD`) `7d63d5fc25ceb525c2d0f6ec89a4ad608a6a5011` (origin/main, 2026-10-23 06:19 UTC). Also present in PR #1212's patch (its pre-validation additions do not touch the slug join). ## Summary `tools/autoland.py` is the single path to main (\"the ONLY path to main\", AUTOMATION.md). `run_bundle()` joins the caller-supplied `--slug` onto the queue root with **no dot-segment or absolute-path validation**: ```python def run_bundle(slug: str, live: bool, token_env: str) -> int: d = QUEUE / slug if not (d / \"meta.json\").is_fi",
+      "source_created_at": "2026-10-23T08:53:58Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1300",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994237626",
+      "title": "Security hardening and pre-launch assessment",
+      "url": "https://github.com/TimerErTim/logandaim.at/issues/44",
+      "evidence": "**Spec section:** [`specs/product/betrieb.md#security-hardening`](https://github.com/TimerErTim/logandaim.at/blob/main/specs/product/betrieb.md#security-hardening) — Draft section written in the new spec; ACs are proposed, not approved. **Proposed priority:** P2 ## Outcome The deployed surface has a reviewed security baseline and an external assessment whose findings are closed before public launch. Archers' accounts and scores are not the weak point. ## Acceptance criteria Proposed, not approved. - [ ] AC-1: The API sends HSTS, a CSP without i",
+      "source_created_at": "2026-10-23T08:05:58Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TimerErTim/logandaim.at/issues/44",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
+    },
+    {
+      "source": "github",
+      "external_id": "5994237018",
+      "title": "Security: Exposed PostgreSQL connection string in .env.vercel.prod",
+      "url": "https://github.com/danielshulman1/social-poster/issues/1",
+      "evidence": "Hello, I am a security researcher. I found what appears to be a live PostgreSQL connection string exposed in your public repository. Details: - Repository: danielshulman1/social-poster - File: .env.vercel.prod (line 2) - Type: PostgreSQL connection string (Supabase, with credentials) - Commit: 49027f685298a49ba56145354587cdb125e79e1d - Date: 2026-05-05 This connection string contains the database host, username, and password in plain text. Anyone with access to this repository can connect to your Supabase database and read, modify, or delete al",
+      "source_created_at": "2026-10-23T08:05:55Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/danielshulman1/social-poster/issues/1",
+      "first_seen_at": "2026-10-23T11:36:37.582Z",
+      "last_seen_at": "2026-10-23T11:36:37.582Z"
     },
     {
       "source": "hackernews",
@@ -259,66 +724,6 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "boulderreportinglab.org/2026/09/27/boulder-countys-wildfire-risk-eased-after-summer-rain-fall-winds-and-drought-remain-concerns",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 15,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49937131",
-      "title": "Florida County Finds 11 Unpermitted Flock Cameras with Unidentified Owners",
-      "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
-      "evidence": "",
-      "source_created_at": "2026-10-02T18:52:03Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49946213",
-      "title": "Show HN: I indexed court dockets and county liens for every US HOA",
-      "url": "https://hoaspy.com/",
-      "evidence": "",
-      "source_created_at": "2026-10-03T17:42:32Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "hoaspy.com",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49915584",
-      "title": "The data center buildout, county by county",
-      "url": "https://pressaudit.org/blog/datacenters",
-      "evidence": "",
-      "source_created_at": "2026-09-30T23:00:58Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pressaudit.org/blog/datacenters",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-23T04:47:07.103Z"
     },
@@ -694,21 +1099,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/commonworld-one/commonworld/issues/67",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50202599",
-      "title": "Amazon won't build data centers in Loudoun County in deal with local leaders",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders/",
-      "evidence": "",
-      "source_created_at": "2026-10-22T23:36:50Z",
-      "opp_type": "otro",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
       "last_seen_at": "2026-10-23T04:47:07.103Z"
     },
@@ -5196,21 +5586,6 @@
       "dedupe_key": "github.com/QMeshPy/distributed-quantum/issues/1",
       "first_seen_at": "2026-10-20T17:45:39.520Z",
       "last_seen_at": "2026-10-20T17:48:33.059Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49856624",
-      "title": "One Silicon Valley founder bought the Bucks County school board",
-      "url": "https://www.pbs.org/show/bucks-county-usa/",
-      "evidence": "",
-      "source_created_at": "2026-09-26T13:58:58Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "pbs.org/show/bucks-county-usa",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-20T17:19:11.083Z"
     },
     {
       "source": "github",
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/172",
       "first_seen_at": "2026-10-13T22:43:52.678Z",
       "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837934157",
-      "title": "[contract] Reject self-claims by the bounty creator",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/171",
-      "evidence": "## Description A creator can submit a claim on their own bounty, which makes the claim list misleading and enables wash activity. ## Tasks - In `submit_claim`, return a new `CreatorCannotClaim` error when `claimant == bounty.creator` **Relevant files:** `contracts/deprader_router/src/lib.rs`, `contracts/deprader_router/src/test.rs` ## Acceptance criteria - [ ] A test for the new error; existing tests unchanged - [ ] `cargo fmt`, `cargo clippy -- -D warnings` and `cargo test --workspace` pass - [ ] Contract test snapshots are updated and the was",
-      "source_created_at": "2026-10-13T21:22:33Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/171",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837928153",
-      "title": "[frontend] Show the scanner's detection for a bounty's package",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/166",
-      "evidence": "## Description Bounty pages could show why a package is suspicious, not just the reference. ## Tasks - Compile the typosquat scorer to WebAssembly (`wasm-bindgen`, in a new `crates/typosquat-wasm`) - On the bounty page, parse the package from `issue_ref` and show the signals that fire **Relevant files:** `crates/typosquat-wasm/`, `frontend/src/pages/BountyDetail.tsx` ## Acceptance criteria - [ ] The wasm builds in CI; a component test with the wasm module mocked - [ ] `cargo fmt`, `cargo clippy -- -D warnings` and `cargo test --workspace` pass ",
-      "source_created_at": "2026-10-13T21:22:05Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/166",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837926224",
-      "title": "Bounty templates management for clients",
-      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1611",
-      "evidence": "## Summary `lib/bounty-templates.ts` is static; let clients save their own templates. ## Where to look - `lib/bounty-templates.ts` ## Tasks - [ ] Model + CRUD ## Acceptance criteria - Templates scoped to owner",
-      "source_created_at": "2026-10-13T21:21:56Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/yosemite01/stellar-creator-portfolio/issues/1611",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838718974",
-      "title": "As someone who lost their item, I want to mark who helped me when resolving the post so that the bounty is recorded as going to the right person.",
-      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
-      "evidence": "_By definition, this `spike` is not related to any specific User Story._",
-      "source_created_at": "2026-10-13T22:30:11Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/20",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838707254",
-      "title": "As someone who lost their item, I want to attach an optional bounty to my post so that more people are motivated to help look for it.",
-      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
-      "evidence": "_By definition, this `spike` is not related to any specific User Story._",
-      "source_created_at": "2026-10-13T22:29:01Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/15",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837937020",
-      "title": "Mobile: end-to-end tests with Maestro or Detox for sign-in and bounty browsing",
-      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1623",
-      "evidence": "## Summary The Google auth hook is noted as untested end-to-end. ## Where to look - `mobile/src/hooks/useGoogleAuth.ts` ## Tasks - [ ] Pick tool - [ ] Two flows ## Acceptance criteria - Runs in CI on an emulator",
-      "source_created_at": "2026-10-13T21:22:48Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/yosemite01/stellar-creator-portfolio/issues/1623",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838331595",
-      "title": "REST credits door lets any member (incl. guests) read any lane's full bilateral ledger history; MCP restricts the same read to your own lane",
-      "url": "https://github.com/Uuriko/project-room/issues/3281",
-      "evidence": "**Severity: Low-Medium** — the REST credits door lets any member (including a guest) read any lane's full ledger history; the MCP door restricts the same read to the caller's own lane. Found by D6-B (alias-door divergence hunt) against origin/main a594cbd48; proven with a local harness. ## The doors | Door | Whose ledger can be read | |---|---| | MCP `bounty_read_balances` / `bounty_read_history` | the authenticated caller's lane only (server/mcp-full-profile.mjs:460-464 passes `caller`; docs/BOUNTY-MCP-TOOLS.md:17-20 say \"read **your own**\") |",
-      "source_created_at": "2026-10-13T21:55:40Z",
-      "opp_type": "bounty_codigo",
-      "score": 32,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Uuriko/project-room/issues/3281",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838003578",
-      "title": "Closure campaign: live speed, reclaimable storage, inspection readiness",
-      "url": "https://github.com/Emaren/app-prodn/issues/539",
-      "evidence": "## October 13 evidence (public screenshots; not a new production benchmark) Speed Observatory: 27/27 cached edge hits, cached median total 63.4ms, edge speedup 4.9x, but browser /library ready 9.06s, /admin/watcher-funnel 8.08s, /rivalries warm total 1.43s; browser 19/20 valid and 15/78 explicit Ready. Edge tuning alone will not close slow app navigation. Library count climbed from 5,888 to 6,177 during Zodiac's batch activity, received /24h 308, Watcher Live filter has 1,313 matching records. Correlation is NOT proof of a causal bottleneck. So",
-      "source_created_at": "2026-10-13T21:27:58Z",
-      "opp_type": "otro",
-      "score": 31,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Emaren/app-prodn/issues/539",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838147120",
-      "title": "📋 2 open bounties right now",
-      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
-      "evidence": "Bounties that were already open when the watcher started. From now on, each new one gets its own issue. - 🔴 **$150** · [📱 Epic: BAWES Universe Mobile App (Android + iOS)](https://github.com/BAWES-Universe/workadventure-universe/issues/1) - 🔴 **$50** · [BOUNTY: integrate AWS Comprehend as a utility to redact data](https://github.com/arakoodev/EdgeChains/issues/290) cc @habibdxb01",
-      "source_created_at": "2026-10-13T21:40:05Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/habibdxb01/bounty-watcher/issues/5",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837948061",
-      "title": "[frontend] Empty-state call to action for researchers",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/182",
-      "evidence": "## Description With no open bounties, the dashboard only says \"No bounties\" and gives no next step. ## Tasks - When there are no open bounties, show a short explanation of how bounties work, with links to the tutorial, CONTRIBUTING and the GitHub issues **Relevant files:** `frontend/src/pages/BountyList.tsx` ## Acceptance criteria - [ ] Screenshot in the PR - [ ] `npm run lint`, `typecheck`, `test` and `build` pass in `frontend/` - [ ] `PROGRESS.md` entry added, and the PR description includes `Closes # ` _See [CONTRIBUTING.md](https://github.c",
-      "source_created_at": "2026-10-13T21:23:39Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/182",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837936630",
-      "title": "[contract] Add a `get_config` getter",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/173",
-      "evidence": "## Description Front ends hard-code the contract's limits (`REVIEW_WINDOW_SECS`, `MAX_CLAIMS_PER_BOUNTY`, `MAX_REF_LEN`, `MAX_BOUNTY_DURATION_SECS`), so they'll silently diverge after an upgrade. ## Tasks - Add `get_config() -> Config` returning those constants as a struct - Use it in the frontend's cancel-eligibility logic once that exists **Relevant files:** `contracts/deprader_router/src/lib.rs`, `contracts/deprader_router/src/test.rs` ## Acceptance criteria - [ ] A test asserts the getter matches the constants - [ ] `cargo fmt`, `cargo clip",
-      "source_created_at": "2026-10-13T21:22:46Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/173",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837930660",
-      "title": "[frontend] Cache contract reads between pages",
-      "url": "https://github.com/DepRadarOrg/DepRadar/issues/168",
-      "evidence": "## Description Going from the list to a bounty and back refetches everything. ## Tasks - Add a small in-memory cache with a 30s TTL in `lib/contract.ts` (or adopt TanStack Query) - Invalidate after any write action **Relevant files:** `frontend/src/lib/contract.ts` ## Acceptance criteria - [ ] Unit tests: a cache hit within the TTL, a miss after it, and invalidation - [ ] `npm run lint`, `typecheck`, `test` and `build` pass in `frontend/` - [ ] `PROGRESS.md` entry added, and the PR description includes `Closes # ` _See [CONTRIBUTING.md](https:/",
-      "source_created_at": "2026-10-13T21:22:16Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/DepRadarOrg/DepRadar/issues/168",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838270673",
-      "title": "Delete stale resources in the qa repository.",
-      "url": "https://github.com/phetsims/qa/issues/1464",
-      "evidence": "In a meeting last week (sorry I don’t recall which one) we decided to delete https://github.com/phetsims/qa/tree/main/issue-templates because they are stale. Issue templates now live in totality at https://github.com/phetsims/totality/tree/main/qa/issue-templates, and this is where they should be maintained and obtained when needed. Also consider deleting https://github.com/phetsims/qa/tree/main/documentation for similar reasons.",
-      "source_created_at": "2026-10-13T21:50:33Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/phetsims/qa/issues/1464",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838331119",
-      "title": "Operator unpublish ignored by opportunities, project-offers, and public-work tasks listings",
-      "url": "https://github.com/Uuriko/project-room/issues/3280",
-      "evidence": "**Severity: Medium** — operator unpublish is ignored by the two listing doors that advertise a room's work to strangers. Found by D6-B (alias-door divergence hunt) against origin/main a594cbd48; proven with a local harness (loopback, temp store, anonymous caller). ## The divergence `server/public-read-model.mjs:8`: \"operator unpublish hides a room or receipt from **every** public read.\" The directory door (`GET /api/public/rooms/directory`) honors it. These doors never check — neither module references `isUnpublished`/`HIDDEN_RECEIPT`/`public_u",
-      "source_created_at": "2026-10-13T21:55:37Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Uuriko/project-room/issues/3280",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838250232",
-      "title": "Server dont Start?",
-      "url": "https://github.com/addison2k/DauntlessForever/issues/1",
-      "evidence": "`Server copy started (pid 16848), map /Game/Maps/ramsgate/ramsgate_01_persistent, UDP port 8780. Waiting for it to listen (up to 240 s). Press Q in this window to stop the server at any time. 23:44:18.379 ==== d1147 server loader, milestone 2c-fix4 TEST (dxgi forwarding retries, empty audio device list, off the mouse). exe base 00007FF7246A0000, port 8780 ==== 23:44:18.379 patch LoadMap listen -> true ok 23:44:18.379 patch PreInit A: GIsClient = 0 ok 23:44:18.379 patch PreInit A: GIsServer = 1 ok 23:44:18.379 patch PreInit B: GIsClient = 0 ok 2",
-      "source_created_at": "2026-10-13T21:48:51Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/addison2k/DauntlessForever/issues/1",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838718570",
-      "title": "Central Command | Reconcile paid probes vs recurring production revenue (Oct 13)",
-      "url": "https://github.com/industrial-platform-ai/industrial-platform-agent-tools/issues/46",
-      "evidence": "## Central Command decision — 2026-10-13 (read-only production audit) **Immediate milestone:** first independently funded recurring *production* customer, rather than more catalogue surfaces or internal exercises. **Acquisition budget:** $0. No new scheduled loop or speculative production deployment. ### Evidence from Railway production, October 8–13 UTC - 118 `X402_SETTLED` log events, 7 observed payer addresses, 450,000 USDC atomic units = **$0.450 nominal settled**. Log window checked from 2026-10-06; returned events began 2026-10-08. This i",
-      "source_created_at": "2026-10-13T22:30:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/industrial-platform-ai/industrial-platform-agent-tools/issues/46",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838473886",
-      "title": "Push lead activity to SugarCRM/SuiteCRM always fails (\"EntityManager is closed\"): getLeadData() detaches the Integration/Plugin entities it means to keep",
-      "url": "https://github.com/mautic/mautic/issues/17814",
-      "evidence": "### Mautic Series 7.x series ### Mautic installed version 7.2.1 (upgraded from 6.0.9 with the official update packages) ### Way of installing Downloaded the zip package ### PHP version 8.4.26 ### What browsers are you seeing the problem on? _No response_ (console command) ### What happened? `bin/console mautic:integration:pushleadactivity -i Sugarcrm` never sends any activity to the CRM. The command finishes normally and prints `Number of contacts processed: N`, but every run logs two errors (see logs) and no activity record is created on the C",
-      "source_created_at": "2026-10-13T22:08:01Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/mautic/mautic/issues/17814",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838398231",
-      "title": "audit(contract): auditoría de TTL/storage, contabilidad de yield y brechas de invariantes (STORAGE-02, STATE-10) con correcciones",
-      "url": "https://github.com/David1984TK/Bimex/issues/409",
-      "evidence": "**Contexto:** `PERSISTENT_BUMP_AMOUNT` es ~6 meses (`lib.rs` ~122) pero `tiempo_meses` llega a 120: la `Aportacion` de un backer inactivo puede archivarse y bloquear `retirar_principal`. `ContadorEnRevision` nunca recibe `extend_ttl` (~263, 682-724). `docs/CONTRACT-INVARIANTS.md` §2.2 deja abiertos STORAGE-02 (`admin_pausar`, `admin_reanudar`, `admin_upgrade` y `admin_execute_upgrade` no extienden el TTL de instancia) y STATE-10 (`abandonar_proyecto` ~612 no llama a `verificar_no_pausado`); #394 solo cubre tests de pausa, no estas brechas. `rec",
-      "source_created_at": "2026-10-13T22:01:30Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/David1984TK/Bimex/issues/409",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5838074302",
-      "title": "Make the character screen clear and finished on desktop and phones",
-      "url": "https://github.com/arturcrmbot/crown-and-bounty/issues/299",
-      "evidence": "### The idea Artur has reviewed the design specimens from #297 and delegated the design decisions and implementation. His instruction is to fix the interface so it no longer looks slapdash, without waiting for him to supervise or choose every detail. Implement the character-screen pilot as a coherent fantasy interface, not merely the current long sheet divided into tabs. Use focused Hero, Equipment and Army views where they help, especially on phones. Give the player clear hierarchy, readable typography, restrained materials and colour roles, c",
-      "source_created_at": "2026-10-13T21:33:41Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/arturcrmbot/crown-and-bounty/issues/299",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837935773",
-      "title": "Feat: Gamification & Categorized XP System",
-      "url": "https://github.com/donetick/donetick/issues/885",
-      "evidence": "### Summary Expand Donetick’s existing point system to support **Gamification / XP Mode**, including custom **XP Categories** (e.g., *Health & Fitness*, *Learning*, *Chores*) and API endpoints to query user XP totals by type. --- ### 💡 Problem / Motivation While Donetick currently supports basic points for tasks, standard points don't fully capture different domains of life or personal growth. Categorized XP (Experience Points) turns task completion into an engaging gamified system. This helps: * **Increase Engagement:** Gamification makes cho",
-      "source_created_at": "2026-10-13T21:22:41Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/donetick/donetick/issues/885",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5837928203",
-      "title": "Admin reports: export CSV for revenue, users, bounties, disputes",
-      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1613",
-      "evidence": "## Summary Admin report routes exist; add CSV export with date ranges. ## Where to look - `app/api/admin/reports` ## Tasks - [ ] Streaming CSV - [ ] Admin auth ## Acceptance criteria - Large range doesn't OOM",
-      "source_created_at": "2026-10-13T21:22:05Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/yosemite01/stellar-creator-portfolio/issues/1613",
-      "first_seen_at": "2026-10-13T22:43:52.678Z",
-      "last_seen_at": "2026-10-13T22:43:52.678Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5835615981",
-      "title": "Microsoft Security Advisory CVE-2026-96960 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135711",
-      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in System.Security.Cryptography.Xml; System.Private.Xml. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. Signed XML fixes add input-depth and operation-count limits, prohibit DTD processing by default, validate entity references, bound encrypted-data candidate processing, and cap attributes and namespaces used by C14N transforms. ## Announcement Announcement for",
-      "source_created_at": "2026-10-13T18:30:16Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dotnet/runtime/issues/135711",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5835614767",
-      "title": "Microsoft Security Advisory CVE-2026-96959 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135710",
-      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in System.Security.Cryptography.Xml; System.Private.Xml. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. Signed XML fixes add input-depth and operation-count limits, prohibit DTD processing by default, validate entity references, bound encrypted-data candidate processing, and cap attributes and namespaces used by C14N transforms. ## Announcement Announcement for",
-      "source_created_at": "2026-10-13T18:30:11Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dotnet/runtime/issues/135710",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5835613399",
-      "title": "Microsoft Security Advisory CVE-2026-96958 | .NET and Visual Studio Denial of Service Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/135709",
-      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in System.Security.Cryptography.Xml; System.Private.Xml. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. Signed XML fixes add input-depth and operation-count limits, prohibit DTD processing by default, validate entity references, bound encrypted-data candidate processing, and cap attributes and namespaces used by C14N transforms. ## Announcement Announcement for",
-      "source_created_at": "2026-10-13T18:30:04Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dotnet/runtime/issues/135709",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5835612335",
-      "title": "Microsoft Security Advisory CVE-2026-96957 | .NET SDK Security Feature Bypass Vulnerability",
-      "url": "https://github.com/dotnet/sdk/issues/56615",
-      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in .NET SDK file-based apps. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. Signature verification for .NET file-based apps can fail to enforce the expected trust decision. ## Announcement Announcement for this issue can be found at https://github.com/dotnet/announcements/issues/487 ## CVSS Details - **Version:** 3.1 - **Severity:** High - **Score:** 8.8 - **Ve",
-      "source_created_at": "2026-10-13T18:30:00Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dotnet/sdk/issues/56615",
-      "first_seen_at": "2026-10-13T18:42:28.330Z",
-      "last_seen_at": "2026-10-13T18:42:28.330Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-23T11:36:37.582Z",
+      "generated_at": "2026-10-23T11:36:37.582Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 303
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 618
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 46,
+      "new_items": 25,
+      "seen_again": 21,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "4 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "46 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-23T04:47:07.103Z",
       "generated_at": "2026-10-23T04:47:07.103Z",
@@ -21320,67 +21381,6 @@
           "ok": true,
           "count": 25,
           "ms": 411
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 0,
-      "seen_again": 46,
-      "archive_total": 404,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15T20:43:54.429Z",
-      "generated_at": "2026-10-15T20:43:54.429Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 332
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 38
         }
       ],
       "processed": 50,
