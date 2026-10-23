@@ -71,7 +71,10 @@ class QuoteIn(BaseModel):
     @field_validator('phone')
     @classmethod
     def phone_format(cls, value: str):
-        if not re.fullmatch(r'[\d\s+()\-]{7,25}', value):
+        # Los separadores son opcionales, pero el contacto debe contener
+        # un número real. E.164 permite hasta 15 dígitos (incluido país).
+        if (not re.fullmatch(r'[\d\s+()\-]{7,25}', value) or
+                not 7 <= len(re.sub(r'\D', '', value)) <= 15):
             raise ValueError('Teléfono no válido')
         return value
 
