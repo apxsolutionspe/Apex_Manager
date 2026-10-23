@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-22T21:34:29.810Z",
+  "generated_at": "2026-10-23T04:47:07.700Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1157,
-    "descartar": 43,
+    "informativa": 1154,
+    "descartar": 46,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1887,30 +1887,6 @@
     },
     {
       "source": "github",
-      "title": "adapter:bounty-scope — Snapshot-based Bug Bounty metadata verification (HackerOne/Bugcrowd)",
-      "url": "https://github.com/kate8382/AURA/issues/87",
-      "source_created_at": "2026-10-13T17:16:51Z",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-13T18:26:40.272Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Bounty track: grow the adversarial corpus (hostile .hy cases that must be rejected or accepted, with reasons)",
       "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/6",
       "source_created_at": "2026-10-14T10:31:05Z",
@@ -3516,6 +3492,31 @@
         "payment": false
       },
       "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1643",
+      "source_created_at": "2026-10-23T03:56:52Z",
+      "first_seen_at": "2026-10-23T04:47:07.103Z",
+      "last_seen_at": "2026-10-23T04:47:07.103Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
