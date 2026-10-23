@@ -29,6 +29,11 @@ def verify_backup(path: str | Path) -> dict:
             tables = {row[0] for row in restored.execute("SELECT name FROM sqlite_master WHERE type='table'")}
             if integrity != 'ok' or not REQUIRED_TABLES.issubset(tables):
                 raise ValueError(f'Backup inválido: integridad={integrity}, faltantes={sorted(REQUIRED_TABLES - tables)}')
+            # integrity_check validates B-tree structure, not referential integrity.
+            # Reject orphaned service_jobs.quote_id before publishing a restore point.
+            fk_error = restored.execute('PRAGMA foreign_key_check').fetchone()
+            if fk_error is not None:
+                raise ValueError(f'Backup inválido: foreign_key_check falló en {fk_error[0]}')
             counts = {table: restored.execute(f'SELECT COUNT(*) FROM {table}').fetchone()[0] for table in REQUIRED_TABLES}
             return {'valid': True, 'integrity': integrity, 'counts': counts, 'bytes': path.stat().st_size}
         finally:
