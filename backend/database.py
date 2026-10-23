@@ -72,9 +72,23 @@ DEMO_ITEMS = [
 ]
 
 
+class ClosingConnection(sqlite3.Connection):
+    """Commit or roll back normally, then release the SQLite file handle.
+
+    sqlite3.Connection.__exit__ manages transactions but does not close the
+    connection. APEX uses 'with connect(path)' throughout its request paths.
+    """
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        try:
+            return super().__exit__(exc_type, exc_value, traceback)
+        finally:
+            self.close()
+
+
 def connect(path: str):
     Path(path).parent.mkdir(parents=True, exist_ok=True)
-    con = sqlite3.connect(path, timeout=10, check_same_thread=False)
+    con = sqlite3.connect(path, timeout=10, check_same_thread=False, factory=ClosingConnection)
     con.row_factory = sqlite3.Row
     con.execute("PRAGMA foreign_keys = ON")
     con.execute("PRAGMA busy_timeout = 5000")
