@@ -18,6 +18,29 @@ def hash_password(password: str, salt: bytes | None = None) -> str:
     return f"pbkdf2_sha256${ITERATIONS}${salt.hex()}${digest.hex()}"
 
 
+def valid_password_hash(stored: str) -> bool:
+    """Validate PBKDF2 hash metadata before accepting admin readiness.
+
+    This checks encoding, algorithm, work factor and salt/digest lengths;
+    only a successful password verification proves the password itself.
+    """
+    if not isinstance(stored, str):
+        return False
+    parts = stored.split('$')
+    if len(parts) != 4:
+        return False
+    algorithm, iterations, salt, digest = parts
+    if (algorithm != 'pbkdf2_sha256' or not iterations.isascii() or
+            not iterations.isdecimal() or not 1 <= len(iterations) <= 7):
+        return False
+    if not 100_000 <= int(iterations) <= 2_000_000:
+        return False
+    if len(salt) < 32 or len(salt) % 2 or len(digest) != 64:
+        return False
+    hexdigits = '0123456789abcdefABCDEF'
+    return all(char in hexdigits for char in salt + digest)
+
+
 def verify_password(password: str, stored: str) -> bool:
     try:
         algorithm, iterations, salt, digest = stored.split("$")

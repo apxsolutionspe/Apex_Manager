@@ -21,7 +21,7 @@ from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 from .database import as_dict, audit_action, connect, initialize, transaction
 from .rate_limit import SlidingWindowLimiter
-from .security import issue_token, verify_password, verify_token
+from .security import issue_token, valid_password_hash, verify_password, verify_token
 
 FRONTEND = Path(__file__).resolve().parent.parent / 'frontend'
 ROOT = Path(__file__).resolve().parent.parent
@@ -176,7 +176,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         with connect(settings.db_path) as db:
             real_products = db.execute("SELECT count(*) FROM products WHERE active=1 AND sku NOT LIKE 'DEMO-%'").fetchone()[0]
         return {
-            'admin_credentials': bool(settings.admin_hash and len(settings.session_secret) >= 32),
+            'admin_credentials': valid_password_hash(settings.admin_hash) and len(settings.session_secret) >= 32,
             'demo_disabled': not settings.demo_mode,
             'business_catalog': real_products > 0,
             'whatsapp_configured': bool(8 <= len(number) <= 15),
@@ -298,7 +298,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @app.post('/api/admin/login')
     def login(payload: LoginIn, request: Request):
         throttle(request, 'login', 8, 15 * 60)
-        if not settings.admin_hash or len(settings.session_secret) < 32:
+        if not valid_password_hash(settings.admin_hash) or len(settings.session_secret) < 32:
             raise HTTPException(503, 'Configura ADMIN_PASSWORD_HASH y SESSION_SECRET en el servidor')
         if not verify_password(payload.password, settings.admin_hash):
             raise HTTPException(401, 'Credenciales inválidas')
