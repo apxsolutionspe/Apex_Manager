@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {computeQuote, cents, quantity, percentage, pen, csvCell, quoteCsv, validateStoredQuote, MAX_LINE_ITEMS} from '../productos/cotizapro/core.mjs';
+import {computeQuote, cents, quantity, percentage, pen, csvCell, quoteCsv, printableBreakdown, validateStoredQuote, MAX_LINE_ITEMS} from '../productos/cotizapro/core.mjs';
 
 const q={id:'test',title:'Cámaras',client:'Cliente de prueba',notes:'',
   lines:[{label:'Cámaras',quantity:2,unitPrice:160},{label:'Cable',quantity:1,unitPrice:95}],
@@ -77,4 +77,33 @@ test('CSV no ejecuta fórmulas introducidas en etiquetas y rechaza montos invál
   const csv=quoteCsv({...q,lines:[{label:'=HYPERLINK("https://example.invalid")',quantity:1,unitPrice:2}]});
   assert.ok(csv.includes('"\'=HYPERLINK(""https://example.invalid"")"'));
   assert.throws(()=>quoteCsv({...q,markupPercent:101}),RangeError);
+});
+
+test('printed quote itemizes each line, labor, markup and tax without hiding costs',()=>{
+  const {rows,totals}=printableBreakdown({...q,taxPercent:18});
+  assert.deepEqual(rows.map(row=>row.amountCents),[32000,9500,22000,9525,13145]);
+  assert.equal(rows[0].qty,2);
+  assert.equal(rows[0].unitCents,16000);
+  assert.equal(rows.reduce((sum,row)=>sum+row.amountCents,0),totals.total);
+  assert.equal(totals.total,86170);
+});
+
+test('printed quote uses CSV-equivalent rounding for fractional currency values',()=>{
+  const {rows,totals}=printableBreakdown({
+    lines:[{label:'Ítem',quantity:3,unitPrice:'1.235'}],
+    hours:0,hourRate:0,extras:0,markupPercent:0,taxPercent:0
+  });
+  assert.equal(rows.length,1);
+  assert.equal(rows[0].unitCents,124);
+  assert.equal(rows[0].amountCents,372);
+  assert.equal(totals.total,372);
+});
+
+test('printed quote includes optional extras and markup once and rejects bad amounts',()=>{
+  const {rows,totals}=printableBreakdown({
+    lines:[],hours:0,hourRate:0,extras:5.25,markupPercent:10,taxPercent:0
+  });
+  assert.deepEqual(rows.map(row=>row.amountCents),[525,53]);
+  assert.equal(rows.reduce((sum,row)=>sum+row.amountCents,0),totals.total);
+  assert.throws(()=>printableBreakdown({...q,lines:[{label:'bad',quantity:1,unitPrice:-1}]}),RangeError);
 });
