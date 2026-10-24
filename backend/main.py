@@ -42,6 +42,16 @@ class Settings:
     quote_intake_enabled: bool = os.getenv('QUOTE_INTAKE_ENABLED', 'false').lower() == 'true'
 
 
+def valid_contact_phone(value: str) -> bool:
+    """Allow ASCII digits and common separators, with '+' only at the start.
+
+    Unicode digits and embedded control characters are not dialable contact
+    numbers; accepting them makes customer follow-up unreliable.
+    """
+    return (bool(re.fullmatch(r'\+?[0-9 ()-]{7,25}', value)) and
+            7 <= len(re.sub(r'[^0-9]', '', value)) <= 15)
+
+
 class CartItem(BaseModel):
     model_config = ConfigDict(extra='forbid')
     product_id: int = Field(ge=1)
@@ -74,8 +84,7 @@ class QuoteIn(BaseModel):
     def phone_format(cls, value: str):
         # Los separadores son opcionales, pero el contacto debe contener
         # un número real. E.164 permite hasta 15 dígitos (incluido país).
-        if (not re.fullmatch(r'[\d\s+()\-]{7,25}', value) or
-                not 7 <= len(re.sub(r'\D', '', value)) <= 15):
+        if not valid_contact_phone(value):
             raise ValueError('Teléfono no válido')
         return value
 
@@ -90,6 +99,14 @@ class QuoteIn(BaseModel):
 class QuoteLookupIn(BaseModel):
     code: str = Field(min_length=12, max_length=40, pattern=r'^COT-[0-9]{8}-[A-Fa-f0-9]{6}$')
     phone: str = Field(min_length=7, max_length=25)
+
+    @field_validator('phone')
+    @classmethod
+    def valid_phone(cls, value: str):
+        value = value.strip()
+        if not valid_contact_phone(value):
+            raise ValueError('Teléfono no válido')
+        return value
 
 
 class LoginIn(BaseModel):
