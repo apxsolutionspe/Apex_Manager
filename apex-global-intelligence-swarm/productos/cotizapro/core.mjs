@@ -9,7 +9,8 @@ export function quantity(value) {
 export function cents(value) {
   const n = Number(value);
   if (!Number.isFinite(n) || n < 0 || n > MAX_AMOUNT) throw new RangeError('Monto inválido');
-  return Math.round((n + Number.EPSILON) * 100);
+  // Scale epsilon with the amount to round half-cent values reliably (e.g. 10.075 → 10.08).
+  return Math.round((n + Number.EPSILON * Math.max(1, n)) * 100);
 }
 export function percentage(value) {
   const n = Number(value);
