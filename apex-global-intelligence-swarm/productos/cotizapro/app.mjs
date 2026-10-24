@@ -1,4 +1,4 @@
-import {computeQuote, pen, quoteCsv, printableBreakdown, validateStoredQuote, MAX_LINE_ITEMS} from './core.mjs';
+import {computeQuote, pen, quoteCsv, printableBreakdown, validateStoredQuote, quoteSummary, MAX_LINE_ITEMS} from './core.mjs';
 
 const $ = id => document.getElementById(id);
 const KEY = 'apx-cotizapro-quotes-v1';
@@ -128,18 +128,6 @@ function download(content,name,mime) {
   const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();
   setTimeout(()=>URL.revokeObjectURL(url),1500);
 }
-function summary(q) {
-  const total=computeQuote(q);
-  return ['Cotización: '+(q.title||'Sin título'),
-    ...(q.client?['Cliente: '+q.client]:[]),
-    ...q.lines.map(l=>l.label+': '+l.quantity+' x '+pen(Math.round(l.unitPrice*100))),
-    'Mano de obra: '+pen(total.labor), 'Otros gastos: '+pen(total.extras),
-    'Recargo: '+pen(total.markup),
-    'Impuesto opcional: '+pen(total.tax), 'TOTAL: '+pen(total.total),
-    ...(q.notes?['Condiciones: '+q.notes]:[]),
-    'Cotización referencial; no es factura ni comprobante SUNAT.'
-  ].join('\n');
-}
 $('template').addEventListener('change',e=>preset(e.target.value));
 $('addRow').addEventListener('click',()=>{
   if(lines.length>=MAX_LINE_ITEMS){status('Límite de '+MAX_LINE_ITEMS+' conceptos.',true);return;}
@@ -156,11 +144,11 @@ $('save').addEventListener('click',()=>{
 });
 $('print').addEventListener('click',()=>{try{const q=readQuote();printRows(q,computeQuote(q));window.print();}catch(e){status(e.message,true)}});
 $('whatsapp').addEventListener('click',()=>{
-  try{const message=summary(readQuote());window.open('https://wa.me/?text='+encodeURIComponent(message),'_blank','noopener,noreferrer');}
+  try{const message=quoteSummary(readQuote());window.open('https://wa.me/?text='+encodeURIComponent(message),'_blank','noopener,noreferrer');}
   catch(e){status(e.message,true)}
 });
 $('copy').addEventListener('click',async()=>{
-  try {await navigator.clipboard.writeText(summary(readQuote()));status('Resumen copiado.');}
+  try {await navigator.clipboard.writeText(quoteSummary(readQuote()));status('Resumen copiado.');}
   catch {status('El navegador no autorizó copiar; usa Compartir por WhatsApp.',true)}
 });
 $('backup').addEventListener('click',()=>{

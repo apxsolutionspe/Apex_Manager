@@ -111,3 +111,24 @@ export function printableBreakdown(quote) {
     qty:null, unitCents:null, amountCents:totals.tax});
   return {rows, totals};
 }
+
+// Keep shared WhatsApp/copy summaries aligned with the calculator, CSV and print.
+export function quoteSummary(quote) {
+  const total = computeQuote(quote);
+  return [
+    'Cotización: ' + (quote.title || 'Sin título'),
+    ...(quote.client ? ['Cliente: ' + quote.client] : []),
+    ...quote.lines.map(line => {
+      const unitCents = cents(line.unitPrice);
+      const lineCents = Math.round(quantity(line.quantity) * unitCents);
+      return line.label + ': ' + line.quantity + ' x ' + pen(unitCents) + ' = ' + pen(lineCents);
+    }),
+    'Mano de obra: ' + pen(total.labor),
+    'Otros gastos: ' + pen(total.extras),
+    'Recargo: ' + pen(total.markup),
+    'Impuesto opcional: ' + pen(total.tax),
+    'TOTAL: ' + pen(total.total),
+    ...(quote.notes ? ['Condiciones: ' + quote.notes] : []),
+    'Cotización referencial; no es factura ni comprobante SUNAT.'
+  ].join('\n');
+}

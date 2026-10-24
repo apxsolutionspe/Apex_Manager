@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {computeQuote, cents, quantity, percentage, pen, csvCell, quoteCsv, printableBreakdown, validateStoredQuote, MAX_LINE_ITEMS} from '../productos/cotizapro/core.mjs';
+import {computeQuote, cents, quantity, percentage, pen, csvCell, quoteCsv, printableBreakdown, validateStoredQuote, quoteSummary, MAX_LINE_ITEMS} from '../productos/cotizapro/core.mjs';
 
 const q={id:'test',title:'Cámaras',client:'Cliente de prueba',notes:'',
   lines:[{label:'Cámaras',quantity:2,unitPrice:160},{label:'Cable',quantity:1,unitPrice:95}],
@@ -119,4 +119,23 @@ test('printed quote includes optional extras and markup once and rejects bad amo
   assert.deepEqual(rows.map(row=>row.amountCents),[525,53]);
   assert.equal(rows.reduce((sum,row)=>sum+row.amountCents,0),totals.total);
   assert.throws(()=>printableBreakdown({...q,lines:[{label:'bad',quantity:1,unitPrice:-1}]}),RangeError);
+});
+
+test('WhatsApp/copy summary matches quote and CSV for half-cent unit prices',()=>{
+  const input={...q,lines:[{label:'Artículo',quantity:3,unitPrice:'10.075'}],
+    hours:0,hourRate:0,extras:0,markupPercent:0,taxPercent:0};
+  const message=quoteSummary(input);
+  assert.ok(message.includes('Artículo: 3 x '+pen(1008)+' = '+pen(3024)));
+  assert.ok(message.includes('TOTAL: '+pen(computeQuote(input).total)));
+  assert.ok(quoteCsv(input).includes('"Artículo","3","10.08","30.24"'));
+  assert.ok(!message.includes(pen(1007)), 'must not show pre-fix 10.07');
+});
+test('WhatsApp summary preserves totals for fractional quantities and optional taxes',()=>{
+  const input={...q,lines:[{label:'Servicio',quantity:1.5,unitPrice:'1.235'}],
+    hours:2,hourRate:10,extras:5,markupPercent:10,taxPercent:18};
+  const expected=computeQuote(input);
+  const message=quoteSummary(input);
+  assert.ok(message.includes('Servicio: 1.5 x '+pen(124)+' = '+pen(186)));
+  assert.ok(message.includes('Impuesto opcional: '+pen(expected.tax)));
+  assert.ok(message.includes('TOTAL: '+pen(expected.total)));
 });
