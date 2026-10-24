@@ -12,6 +12,13 @@ try {
   await page.locator('#total').waitFor();
   await page.waitForFunction(()=>document.querySelector('#total')?.textContent.includes('730'));
   assert.match(await page.locator('#total').innerText(),/730/);
+  // A printed quote must expose line amounts and markup, not just a grand total.
+  await page.evaluate(()=>{window.print=()=>{};});
+  await page.locator('#print').click();
+  assert.equal(await page.locator('#printedRows tr').count(),4);
+  assert.match(await page.locator('#printedRows tr').first().textContent(),/320/);
+  assert.match(await page.locator('#printedRows').textContent(),/Recargo/);
+  assert.match(await page.locator('#printedTotal').textContent(),/730/);
   await page.locator('#markupPercent').fill('0');
   await page.waitForFunction(()=>document.querySelector('#total')?.textContent.includes('635'));
   await page.locator('#title').fill('Prueba QA navegador');
