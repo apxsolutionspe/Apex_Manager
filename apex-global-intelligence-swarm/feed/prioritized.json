@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T15:56:04.031Z",
+  "generated_at": "2026-10-24T20:47:22.438Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1878,6 +1878,127 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/9",
+      "source_created_at": "2026-10-24T20:39:54Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty #743] Validate /api/upload files and reject missing or dangerous uploads",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13806",
+      "source_created_at": "2026-10-24T19:40:52Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty #743] Validate /api/users payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13802",
+      "source_created_at": "2026-10-24T19:39:29Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty #743] Validate /api/notifications payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13787",
+      "source_created_at": "2026-10-24T18:25:13Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty #743] Validate /api/messages payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13783",
+      "source_created_at": "2026-10-24T18:23:18Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[Bounty #743] Validate /api/proposals payload before persistence",
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13710",
       "source_created_at": "2026-10-24T12:04:53Z",
@@ -2596,6 +2717,30 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1312",
+      "source_created_at": "2026-10-24T20:14:02Z",
+      "first_seen_at": "2026-10-24T20:47:21.724Z",
+      "last_seen_at": "2026-10-24T20:47:21.724Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 200,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3561,144 +3706,6 @@
         "payment": false
       },
       "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
-      "url": "https://github.com/Parabola-org/parabola/issues/15",
-      "source_created_at": "2026-10-15T20:02:55Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
-      "url": "https://github.com/Parabola-org/parabola/issues/14",
-      "source_created_at": "2026-10-15T20:02:53Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-      "url": "https://github.com/Parabola-org/parabola/issues/10",
-      "source_created_at": "2026-10-15T20:02:39Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage",
-      "url": "https://github.com/Parabola-org/parabola/issues/9",
-      "source_created_at": "2026-10-15T20:02:33Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
-      "url": "https://github.com/Parabola-org/parabola/issues/8",
-      "source_created_at": "2026-10-15T20:02:25Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback",
-      "url": "https://github.com/Parabola-org/parabola/issues/7",
-      "source_created_at": "2026-10-15T20:02:18Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
       "monetary_value_received": 0,
       "verified_payment": false
     }
