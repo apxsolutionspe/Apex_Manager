@@ -20,6 +20,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 from .database import as_dict, audit_action, connect, initialize, transaction
+from .rate_limit import SlidingWindowLimiter
 from .security import issue_token, verify_password, verify_token
 
 FRONTEND = Path(__file__).resolve().parent.parent / 'frontend'
@@ -142,8 +143,9 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     initialize(settings.db_path, seed_demo=settings.demo_mode)
     app = FastAPI(title='APEX_PRIME_X API', version='0.3.0', docs_url='/api/docs', redoc_url=None)
     app.state.settings = settings
-    # Límite sencillo en memoria por proceso. En producción distribuir con Redis/WAF.
-    app.state.attempts = defaultdict(list)
+    # Limitar memoria por proceso y sincronizar peticiones concurrentes.
+    # En producción, añadir control distribuido en el proxy/WAF.
+    app.state.rate_limiter = SlidingWindowLimiter(max_keys=4096)
 
     @app.middleware('http')
     async def secure_headers(request: Request, call_next):
@@ -159,13 +161,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     def throttle(request: Request, group: str, limit: int, window: int):
         remote = request.client.host if request.client else 'unknown'
-        key = f'{group}:{remote}'
-        now = time.monotonic()
-        attempts = app.state.attempts[key]
-        app.state.attempts[key] = [v for v in attempts if now - v < window]
-        if len(app.state.attempts[key]) >= limit:
+        if not app.state.rate_limiter.allow(group, remote, limit, window):
             raise HTTPException(429, 'Demasiados intentos. Intenta más tarde.')
-        app.state.attempts[key].append(now)
 
     def admin_auth(authorization: str = Header(default='')):
         if not settings.session_secret or len(settings.session_secret) < 32:
