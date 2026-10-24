@@ -90,3 +90,23 @@ export function validateStoredQuote(x) {
   computeQuote(clean);
   return clean;
 }
+
+// Keep the printed budget auditable: the sum of visible line amounts equals
+// the same cent-based total used by the calculator and CSV export.
+export function printableBreakdown(quote) {
+  const totals = computeQuote(quote);
+  const rows = (quote.lines || []).map(line => {
+    const qty = quantity(line.quantity);
+    const unitCents = cents(line.unitPrice);
+    return {label: String(line.label ?? ''), qty, unitCents, amountCents: Math.round(qty * unitCents)};
+  });
+  const hours = quantity(quote.hours || 0);
+  if (hours > 0) rows.push({label:'Mano de obra (horas)', qty:hours,
+    unitCents:cents(quote.hourRate || 0), amountCents:totals.labor});
+  if (totals.extras) rows.push({label:'Otros gastos', qty:null, unitCents:null, amountCents:totals.extras});
+  if (totals.markup) rows.push({label:`Recargo (${percentage(quote.markupPercent || 0)}%)`,
+    qty:null, unitCents:null, amountCents:totals.markup});
+  if (totals.tax) rows.push({label:`Impuesto opcional (${percentage(quote.taxPercent || 0)}%)`,
+    qty:null, unitCents:null, amountCents:totals.tax});
+  return {rows, totals};
+}
