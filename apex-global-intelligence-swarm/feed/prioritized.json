@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T10:30:34.676Z",
+  "generated_at": "2026-10-24T10:57:02.185Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -24,7 +24,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/115",
       "source_created_at": "2026-10-24T08:36:18Z",
       "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:57:01.333Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -1878,11 +1878,11 @@
     },
     {
       "source": "github",
-      "title": "[Bounty #743] Validate /api/users payload before persistence",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13676",
-      "source_created_at": "2026-10-24T08:24:15Z",
+      "title": "[Bug bounty] XCM API /x-transfers fails for a custom origin chain: provider lookup ignores options.customChains",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2219",
+      "source_created_at": "2026-10-24T09:30:37Z",
       "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:57:01.333Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -1902,9 +1902,9 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] XCM API /x-transfers fails for a custom origin chain: provider lookup ignores options.customChains",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2219",
-      "source_created_at": "2026-10-24T09:30:37Z",
+      "title": "[Bounty #743] Validate /api/users payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13676",
+      "source_created_at": "2026-10-24T08:24:15Z",
       "first_seen_at": "2026-10-24T10:30:31.494Z",
       "last_seen_at": "2026-10-24T10:30:31.494Z",
       "status": "informativa",
@@ -2581,7 +2581,7 @@
       "url": "https://github.com/freedom-winds/BountyScout/issues/1309",
       "source_created_at": "2026-10-24T08:38:56Z",
       "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:57:01.333Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
@@ -2595,6 +2595,30 @@
         "payment": false
       },
       "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1650",
+      "source_created_at": "2026-10-24T10:32:43Z",
+      "first_seen_at": "2026-10-24T10:57:01.333Z",
+      "last_seen_at": "2026-10-24T10:57:01.333Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 200,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3676,29 +3700,6 @@
         "payment": false
       },
       "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
-      "url": "https://github.com/ASCTP/parabola/issues/27",
-      "source_created_at": "2026-10-15T19:56:11Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
       "monetary_value_received": 0,
       "verified_payment": false
     }
