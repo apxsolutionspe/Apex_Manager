@@ -39,6 +39,19 @@ test('exporta CSV escapado y protege contra fórmulas de hoja de cálculo',()=>{
   assert.match(exported,/"Total PEN"/);
   assert.match(csvCell('+SUM(1,2)'), /^"'\+SUM/);
 });
+test('half-cent prices round consistently in totals, CSV and print exports',()=>{
+  assert.equal(cents('10.075'),1008);
+  assert.equal(cents('324785.535'),32478554);
+  const input={...q,lines:[{label:'Artículo',quantity:3,unitPrice:'10.075'}],
+    hours:0,hourRate:0,extras:0,markupPercent:0,taxPercent:0};
+  const result=computeQuote(input);
+  assert.equal(result.materials,3024);
+  assert.ok(quoteCsv(input).includes('"Artículo","3","10.08","30.24"'));
+  const print=printableBreakdown(input);
+  assert.equal(print.rows[0].unitCents,1008);
+  assert.equal(print.totals.total,3024);
+});
+
 test('utiliza formato monetario PEN para mostrar precios',()=>{
   assert.match(pen(3500),/35/);
 });
