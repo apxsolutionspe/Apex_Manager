@@ -10,7 +10,8 @@ export function cents(s){
   if(s===''||s===null||s===undefined)throw Error('Precio obligatorio');
   const n=Number(s);
   if(!Number.isFinite(n)||n<0||n>1000000)throw Error('Precio inválido');
-  return Math.round((n+Number.EPSILON)*100);
+  // Scale epsilon with the amount to round half-cent values reliably (e.g. 10.075 → 10.08).
+  return Math.round((n + Number.EPSILON * Math.max(1, n)) * 100);
 }
 export function validate(x){
   if(!x||typeof x!=='object')throw Error('Datos inválidos');
