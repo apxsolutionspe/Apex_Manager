@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T06:40:35.222Z",
+  "generated_at": "2026-10-24T10:30:34.676Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,58 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1160,
-    "descartar": 40,
+    "informativa": 1162,
+    "descartar": 38,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "Claiming Bounty #1 - Contact Management Dashboard ($150)",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/115",
+      "source_created_at": "2026-10-24T08:36:18Z",
+      "first_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Claiming Bounty #6 - Meeting Scheduler ($100)",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/113",
+      "source_created_at": "2026-10-24T08:06:45Z",
+      "first_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 100,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "Claiming Bounty #29 - Onboarding Checklist ($100)",
@@ -1832,6 +1878,54 @@
     },
     {
       "source": "github",
+      "title": "[Bounty #743] Validate /api/users payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13676",
+      "source_created_at": "2026-10-24T08:24:15Z",
+      "first_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] XCM API /x-transfers fails for a custom origin chain: provider lookup ignores options.customChains",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2219",
+      "source_created_at": "2026-10-24T09:30:37Z",
+      "first_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:30:31.494Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] Medium: Real leaf Merkle path reuse in spendV3 dummy inputs & unbounded leafIndex IEEE-754 precision loss in depositV3 (paraloom-wallet)",
       "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/113",
       "source_created_at": "2026-10-24T01:02:37Z",
@@ -2483,17 +2577,16 @@
     },
     {
       "source": "github",
-      "title": "Bounty: Open the claim model — anyone can work an issue, and only the merge pays",
-      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/171",
-      "source_created_at": "2026-10-14T20:46:32Z",
-      "first_seen_at": "2026-10-14T21:40:04.890Z",
-      "last_seen_at": "2026-10-14T21:40:04.890Z",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1309",
+      "source_created_at": "2026-10-24T08:38:56Z",
+      "first_seen_at": "2026-10-24T10:30:31.494Z",
+      "last_seen_at": "2026-10-24T10:30:31.494Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2501,7 +2594,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3606,98 +3699,6 @@
         "payment": false
       },
       "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
-      "url": "https://github.com/ASCTP/parabola/issues/26",
-      "source_created_at": "2026-10-15T19:56:07Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-      "url": "https://github.com/ASCTP/parabola/issues/25",
-      "source_created_at": "2026-10-15T19:56:03Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:04:36.528Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-      "url": "https://github.com/ASCTP/parabola/issues/24",
-      "source_created_at": "2026-10-15T19:56:01Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
-      "url": "https://github.com/ASCTP/parabola/issues/22",
-      "source_created_at": "2026-10-15T19:55:56Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
       "monetary_value_received": 0,
       "verified_payment": false
     }
