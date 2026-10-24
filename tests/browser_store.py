@@ -40,7 +40,26 @@ def main():
         expect(desktop.locator('#login-screen')).to_be_visible()
         desktop.screenshot(path=str(output/'admin-login-desktop.png'), full_page=True)
         assert errors == [], f'Errores de JS: {errors}'
-        print('E2E OK: catálogo, carrito, consentimiento, registro de cotización y login renderizado; navegador Chromium')
+
+        # A browser may deny Web Storage (privacy policy or sandbox).
+        # The catalog and cart must remain functional in-memory.
+        blocked = browser.new_context(viewport={'width': 390, 'height': 844})
+        blocked.add_init_script("""Object.defineProperty(window, 'localStorage', {
+          configurable: true,
+          get() { throw new DOMException('Storage blocked', 'SecurityError'); }
+        });""")
+        blocked_page = blocked.new_page()
+        blocked_errors = []
+        blocked_page.on('pageerror', lambda error: blocked_errors.append(str(error)))
+        blocked_page.goto(BASE, wait_until='domcontentloaded', timeout=20000)
+        expect(blocked_page.locator('#catalog-grid .product-card')).to_have_count(8, timeout=15000)
+        blocked_page.locator('[data-add]').first.click()
+        blocked_page.locator('#open-cart').click()
+        expect(blocked_page.locator('#cart-items .cart-item')).to_have_count(1)
+        assert blocked_errors == [], f'Errores con almacenamiento bloqueado: {blocked_errors}'
+        blocked.close()
+
+        print('E2E OK: cotización y carrito (incluido almacenamiento bloqueado); navegador Chromium')
         browser.close()
 
 
