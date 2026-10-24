@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T04:34:34.298Z",
+  "generated_at": "2026-10-24T06:40:35.222Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,35 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1161,
-    "descartar": 39,
+    "informativa": 1160,
+    "descartar": 40,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "Claiming Bounty #29 - Onboarding Checklist ($100)",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/101",
+      "source_created_at": "2026-10-24T06:08:35Z",
+      "first_seen_at": "2026-10-24T06:40:34.450Z",
+      "last_seen_at": "2026-10-24T06:40:34.450Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 100,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "Claiming Bounty #17 - Expense Tracker ($200)",
@@ -2484,15 +2507,14 @@
     },
     {
       "source": "github",
-      "title": "[SC-30] Decentralized Bounty & GitHub Issue Micro-Payment Reward Protocol",
-      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1826",
-      "source_created_at": "2026-10-14T15:23:47Z",
-      "first_seen_at": "2026-10-14T15:46:10.743Z",
-      "last_seen_at": "2026-10-14T17:12:20.990Z",
+      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109",
+      "source_created_at": "2026-10-24T06:31:48Z",
+      "first_seen_at": "2026-10-24T06:40:34.450Z",
+      "last_seen_at": "2026-10-24T06:40:34.450Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2501,7 +2523,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 100,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3661,29 +3683,6 @@
       "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
       "url": "https://github.com/ASCTP/parabola/issues/22",
       "source_created_at": "2026-10-15T19:55:56Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
-      "url": "https://github.com/ASCTP/parabola/issues/21",
-      "source_created_at": "2026-10-15T19:55:53Z",
       "first_seen_at": "2026-10-15T20:01:27.650Z",
       "last_seen_at": "2026-10-15T20:02:16.798Z",
       "status": "informativa",
