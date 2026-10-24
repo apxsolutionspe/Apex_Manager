@@ -14,7 +14,12 @@ let cart = {};
 let lastQuote = null;
 let intakeEnabled = false;
 try { const stored = JSON.parse(localStorage.getItem('apex_cart') || '{}'); if (stored && typeof stored === 'object' && !Array.isArray(stored)) cart = stored; } catch { cart = {}; }
-const saveCart = () => { localStorage.setItem('apex_cart', JSON.stringify(cart)); updateCount(); };
+const saveCart = () => {
+  // Storage can be blocked (privacy settings, sandboxed browsers, or quota).
+  // Keep the cart usable for this page session even without persistence.
+  try { localStorage.setItem('apex_cart', JSON.stringify(cart)); } catch {}
+  updateCount();
+};
 const itemCount = () => Object.values(cart).reduce((n, q) => n + (Number.isInteger(q) ? Math.max(0, q) : 0), 0);
 const updateCount = () => { $('#cart-count').textContent = itemCount(); };
 const toast = (message) => { const t = $('#toast'); t.textContent = message; t.classList.add('show'); clearTimeout(toast.timer); toast.timer = setTimeout(() => t.classList.remove('show'), 3400); };
