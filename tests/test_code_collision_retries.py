@@ -44,8 +44,9 @@ def test_quote_retries_duplicate_generated_code(client, monkeypatch):
     http, path = client
     first = http.post("/api/quotes", json=quote_payload())
     assert first.status_code == 201
-    unique = "COT-20261024-ABCDEF"
-    stub_codes(monkeypatch, first.json()["code"], unique)
+    existing = first.json()["code"]
+    unique = existing[:-1] + ("0" if existing[-1] != "0" else "1")
+    stub_codes(monkeypatch, existing, unique)
 
     second = http.post("/api/quotes", json=quote_payload())
     assert second.status_code == 201
@@ -62,8 +63,9 @@ def test_service_job_retries_duplicate_generated_code(client, monkeypatch):
     payload = {"title": "Servicio sintetico", "customer_name": "Cliente Sintetico"}
     first = http.post("/api/admin/jobs", json=payload, headers=headers)
     assert first.status_code == 201
-    unique = "SRV-20261024-ABCDEF"
-    stub_codes(monkeypatch, first.json()["code"], unique)
+    existing = first.json()["code"]
+    unique = existing[:-1] + ("0" if existing[-1] != "0" else "1")
+    stub_codes(monkeypatch, existing, unique)
 
     second = http.post("/api/admin/jobs", json=payload, headers=headers)
     assert second.status_code == 201
