@@ -138,6 +138,24 @@ def new_code(prefix: str) -> str:
     return f'{prefix}-{time.strftime("%Y%m%d", time.gmtime())}-{secrets.token_hex(3).upper()}'
 
 
+def insert_with_code(db, prefix: str, table: str, sql: str, values: tuple):
+    """Retry only generated-code collisions, never unrelated database failures.
+
+    Both target tables have a UNIQUE constraint on code. A rare random-code
+    collision must not turn a valid customer request into a failed request.
+    """
+    for _ in range(5):
+        code = new_code(prefix)
+        try:
+            cursor = db.execute(sql, (code, *values))
+        except sqlite3.IntegrityError as exc:
+            if str(exc) != f'UNIQUE constraint failed: {table}.code':
+                raise
+        else:
+            return code, cursor
+    raise HTTPException(503, 'No se pudo generar un código único. Intenta nuevamente.')
+
+
 def create_app(settings: Settings | None = None) -> FastAPI:
     settings = settings or Settings()
     initialize(settings.db_path, seed_demo=settings.demo_mode)
@@ -257,14 +275,12 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                                 'kind': product['kind'], 'quantity': quantity, 'unit_price_cents': unit_price})
                 prices.append(None if unit_price is None else unit_price * quantity)
             total = sum(prices) if all(value is not None for value in prices) else None
-            code = new_code('COT')
-            try:
-                db.execute('''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents,consent_at,privacy_notice_version)
+            code, _ = insert_with_code(
+                db, 'COT', 'quotes',
+                '''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents,consent_at,privacy_notice_version)
                            VALUES (?,?,?,?,?,?,?,datetime('now'),?)''',
-                           (code, payload.customer_name, payload.phone, payload.email, payload.notes,
-                            json.dumps(records, ensure_ascii=False), total, settings.privacy_notice_version))
-            except sqlite3.IntegrityError:
-                raise HTTPException(503, 'Intenta nuevamente')
+                (payload.customer_name, payload.phone, payload.email, payload.notes,
+                 json.dumps(records, ensure_ascii=False), total, settings.privacy_notice_version))
         lines = [f'Hola, APEX_PRIME_X. Solicito la cotización {code}:']
         lines += [f"• {i['name']} x{i['quantity']}" for i in records]
         lines += [f'Cliente: {payload.customer_name}', f'Contacto: {payload.phone}']
@@ -383,10 +399,12 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         with transaction(settings.db_path) as db:
             if payload.quote_id and not db.execute('SELECT 1 FROM quotes WHERE id=?', (payload.quote_id,)).fetchone():
                 raise HTTPException(422, 'No existe la cotización asociada')
-            code = new_code('SRV')
-            cursor = db.execute('''INSERT INTO service_jobs
+            code, cursor = insert_with_code(
+                db, 'SRV', 'service_jobs',
+                '''INSERT INTO service_jobs
             (code,quote_id,title,customer_name,contact,notes) VALUES (?,?,?,?,?,?)''',
-            (code, payload.quote_id, payload.title.strip(), payload.customer_name.strip(), payload.contact.strip(), payload.notes.strip()))
+                (payload.quote_id, payload.title.strip(), payload.customer_name.strip(),
+                 payload.contact.strip(), payload.notes.strip()))
             row = db.execute('SELECT * FROM service_jobs WHERE id=?', (cursor.lastrowid,)).fetchone()
             audit_action(db, 'create', 'service_job', row['id'])
         return as_dict(row)
