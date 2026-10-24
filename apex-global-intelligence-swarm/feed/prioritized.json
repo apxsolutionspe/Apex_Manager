@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T03:41:32.870Z",
+  "generated_at": "2026-10-24T04:34:34.298Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1162,
-    "descartar": 38,
+    "informativa": 1161,
+    "descartar": 39,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -24,7 +24,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/95",
       "source_created_at": "2026-10-24T02:34:25Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -46,7 +46,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/93",
       "source_created_at": "2026-10-24T02:34:17Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -68,7 +68,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/91",
       "source_created_at": "2026-10-24T02:34:10Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -90,7 +90,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/89",
       "source_created_at": "2026-10-24T02:34:01Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -112,7 +112,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/87",
       "source_created_at": "2026-10-24T02:33:54Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -134,7 +134,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/85",
       "source_created_at": "2026-10-24T00:47:08Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -156,7 +156,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/83",
       "source_created_at": "2026-10-24T00:47:01Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -178,7 +178,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/81",
       "source_created_at": "2026-10-24T00:46:54Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -200,7 +200,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/79",
       "source_created_at": "2026-10-24T00:46:46Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -222,7 +222,7 @@
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/77",
       "source_created_at": "2026-10-24T00:46:38Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -235,6 +235,29 @@
         "payment": false
       },
       "published_amount_usd": 300,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Claiming Bounty #27 - Employee Directory ($150)",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/99",
+      "source_created_at": "2026-10-24T04:07:29Z",
+      "first_seen_at": "2026-10-24T04:34:33.510Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1790,7 +1813,7 @@
       "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/113",
       "source_created_at": "2026-10-24T01:02:37Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -1814,7 +1837,7 @@
       "url": "https://github.com/paraspell/xcm-tools/issues/2216",
       "source_created_at": "2026-10-24T00:37:36Z",
       "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T03:41:32.100Z",
+      "last_seen_at": "2026-10-24T04:34:33.510Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -3676,29 +3699,6 @@
         "payment": false
       },
       "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-      "url": "https://github.com/ASCTP/parabola/issues/17",
-      "source_created_at": "2026-10-15T19:55:38Z",
-      "first_seen_at": "2026-10-15T20:01:27.650Z",
-      "last_seen_at": "2026-10-15T20:02:16.798Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 90,
       "monetary_value_received": 0,
       "verified_payment": false
     }
