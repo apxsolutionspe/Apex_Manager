@@ -1,4 +1,4 @@
-import {computeQuote, pen, quoteCsv, validateStoredQuote, MAX_LINE_ITEMS} from './core.mjs';
+import {computeQuote, pen, quoteCsv, printableBreakdown, validateStoredQuote, MAX_LINE_ITEMS} from './core.mjs';
 
 const $ = id => document.getElementById(id);
 const KEY = 'apx-cotizapro-quotes-v1';
@@ -71,12 +71,17 @@ function printRows(q,total) {
   $('printedClient').textContent=q.client ? 'Cliente: '+q.client : '';
   $('printedDate').textContent='Preparado el '+new Date().toLocaleDateString('es-PE');
   const target=$('printedRows');target.replaceChildren();
-  const items=q.lines.map(l=>[l.label,l.quantity,pen(Math.round(l.unitPrice*100))]);
-  if(q.hours>0) items.push(['Mano de obra ('+q.hours+' horas)',1,pen(Math.round(q.hourRate*q.hours*100))]);
-  if(q.extras>0) items.push(['Otros gastos',1,pen(Math.round(q.extras*100))]);
-  for(const itemsRow of items){
+  const {rows}=printableBreakdown(q);
+  for(const row of rows){
     const tr=document.createElement('tr');
-    itemsRow.forEach((cell,i)=>{const td=document.createElement('td');td.textContent=String(cell);if(i===2)td.className='align-right';tr.append(td);});
+    const values=[row.label,row.qty ?? '—',
+      row.unitCents === null ? '—' : pen(row.unitCents),pen(row.amountCents)];
+    values.forEach((cell,i)=>{
+      const td=document.createElement('td');
+      td.textContent=String(cell);
+      if(i>=2)td.className='align-right';
+      tr.append(td);
+    });
     target.append(tr);
   }
   $('printedTotal').textContent='Total estimado: '+pen(total.total)+
