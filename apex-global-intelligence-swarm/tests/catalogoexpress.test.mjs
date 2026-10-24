@@ -26,6 +26,8 @@ test('normaliza WhatsApp Perú y rechaza teléfonos imposibles',()=>{
 });
 test('valida dinero no negativo, límites y máximo de artículos',()=>{
   assert.equal(cents('2.50'),250);
+  assert.equal(cents('10.075'),1008, 'half-cent rounds up at larger amounts');
+  assert.equal(cents('324785.535'),32478554, 'half-cent rounding is stable at scale');
   for(const bad of ['',null,'-1','Infinity','NaN','2000000'])
     assert.throws(()=>cents(bad));
   assert.throws(()=>validate({...example,items:[]}));
