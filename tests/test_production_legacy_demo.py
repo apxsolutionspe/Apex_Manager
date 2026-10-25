@@ -37,6 +37,9 @@ def test_production_hides_legacy_demo_products_and_rejects_demo_quotes(tmp_path)
         login = client.post("/api/admin/login", json={"password": "SyntheticTestPassword2026!"})
         assert login.status_code == 200
         headers = {"Authorization": f"Bearer {login.json()['access_token']}"}
+        # Existing DEMO records must not inflate the production dashboard.
+        assert client.get("/api/admin/summary", headers=headers).json()["active_products"] == 0
+        assert len(client.get("/api/admin/products", headers=headers).json()) == 8
         real = client.post(
             "/api/admin/products",
             headers=headers,
@@ -50,6 +53,8 @@ def test_production_hides_legacy_demo_products_and_rejects_demo_quotes(tmp_path)
             },
         )
         assert real.status_code == 201
+        assert client.get("/api/admin/summary", headers=headers).json()["active_products"] == 1
+        assert len(client.get("/api/admin/products", headers=headers).json()) == 9
         assert client.get("/api/ready").status_code == 200
 
         catalog = client.get("/api/products")
