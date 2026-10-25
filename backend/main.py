@@ -96,6 +96,10 @@ def valid_privacy_policy_url(value: str) -> bool:
                     any(not re.fullmatch(r'[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?', label)
                         for label in labels)):
                 return False
+            # RFC 2606 reserves example.com/.net/.org (and their subdomains)
+            # for documentation. A placeholder must not unlock quote intake.
+            if tuple(labels[-2:]) in {('example', 'com'), ('example', 'net'), ('example', 'org')}:
+                return False
         else:
             if not address.is_global:
                 return False
