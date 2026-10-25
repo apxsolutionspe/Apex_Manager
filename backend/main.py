@@ -371,9 +371,14 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     @app.get('/api/admin/summary', dependencies=[Depends(admin_auth)])
     def summary():
+        # Keep the commercial KPI aligned with the production catalog:
+        # migrated DEMO rows remain editable in admin but are not sellable.
+        active_products_sql = 'SELECT count(*) FROM products WHERE active=1'
+        if settings.environment == 'production':
+            active_products_sql += " AND sku NOT LIKE 'DEMO-%'"
         with connect(settings.db_path) as db:
             return {
-                'active_products': db.execute('SELECT count(*) FROM products WHERE active=1').fetchone()[0],
+                'active_products': db.execute(active_products_sql).fetchone()[0],
                 'total_quotes': db.execute('SELECT count(*) FROM quotes').fetchone()[0],
                 'pending_quotes': db.execute("SELECT count(*) FROM quotes WHERE status IN ('nuevo','contactado')").fetchone()[0],
                 'active_jobs': db.execute("SELECT count(*) FROM service_jobs WHERE status IN ('pendiente','en_proceso')").fetchone()[0],
