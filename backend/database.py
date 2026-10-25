@@ -1,6 +1,7 @@
 """Esquema SQLite, transacciones y catálogo inicial identificable como DEMO."""
 import sqlite3
 import json
+import os
 from contextlib import contextmanager
 from pathlib import Path
 
@@ -87,7 +88,17 @@ class ClosingConnection(sqlite3.Connection):
 
 
 def connect(path: str):
-    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    # SQLite otherwise creates a new database with permissions derived from
+    # the process umask (often 0644). Quotes contain customer contact details.
+    # Secure newly created files without chmod-ing existing user-owned paths.
+    if path != ':memory:':
+        Path(path).parent.mkdir(mode=0o700, parents=True, exist_ok=True)
+        try:
+            fd = os.open(path, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o600)
+        except FileExistsError:
+            pass  # Never truncate or change permissions on an existing DB.
+        else:
+            os.close(fd)
     con = sqlite3.connect(path, timeout=10, check_same_thread=False, factory=ClosingConnection)
     con.row_factory = sqlite3.Row
     con.execute("PRAGMA foreign_keys = ON")
