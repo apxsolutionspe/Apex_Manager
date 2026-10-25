@@ -66,3 +66,48 @@ def test_verify_rejects_missing_required_tables(tmp_path):
         db.execute("CREATE TABLE products (id INTEGER PRIMARY KEY)")
     with pytest.raises(ValueError, match="faltantes"):
         verify_backup(source)
+
+
+def test_backup_rejects_existing_shared_directory_without_chmod(tmp_path):
+    """A backup must never chmod an existing shared directory like /tmp."""
+    source = tmp_path / "source.sqlite3"
+    make_db(source)
+    shared = tmp_path / "shared"
+    shared.mkdir()
+    shared.chmod(0o755)
+
+    with pytest.raises(PermissionError, match="permisos inseguros"):
+        create_backup(source, shared)
+
+    assert stat.S_IMODE(shared.stat().st_mode) == 0o755
+    assert list(shared.iterdir()) == []
+
+
+def test_backup_accepts_existing_private_directory_without_changing_mode(tmp_path):
+    source = tmp_path / "source.sqlite3"
+    make_db(source)
+    private = tmp_path / "private"
+    private.mkdir()
+    private.chmod(0o700)
+
+    backup, report = create_backup(source, private)
+
+    assert report["valid"] is True
+    assert backup.parent == private
+    assert stat.S_IMODE(private.stat().st_mode) == 0o700
+    assert stat.S_IMODE(backup.stat().st_mode) == 0o600
+
+
+def test_backup_new_private_directory_does_not_chmod_parent(tmp_path):
+    source = tmp_path / "source.sqlite3"
+    make_db(source)
+    parent = tmp_path / "shared-parent"
+    parent.mkdir()
+    parent.chmod(0o755)
+
+    backup, report = create_backup(source, parent / "private-backups")
+
+    assert report["valid"] is True
+    assert backup.is_file()
+    assert stat.S_IMODE(parent.stat().st_mode) == 0o755
+    assert stat.S_IMODE(backup.parent.stat().st_mode) == 0o700
