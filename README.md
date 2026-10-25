@@ -154,7 +154,7 @@ python scripts/backup_sqlite.py create --db ./data/apex.db --directory ./backups
 python scripts/backup_sqlite.py verify --file ./backups/NOMBRE_DEL_RESPALDO.sqlite3
 ```
 
-El script genera nombres únicos y restringe permisos Unix del directorio y archivo (700/600). **No automatiza ni prueba la restauración destructiva de la base activa**; para recuperación real se requiere parar la API, conservar copia de la base original, validar el backup elegido y ejecutar un plan supervisado. Configurar una tarea programada de respaldo solo después de elegir alojamiento persistente y almacenamiento externo cifrado.
+El script genera nombres únicos y crea archivos privados (600) en un directorio privado (700). Si el directorio ya existe con permisos de grupo u otros usuarios, **rechaza el respaldo sin cambiar sus permisos**: crea uno nuevo o ajusta explícitamente los permisos a 700. Nunca apuntes `--directory` a un directorio compartido como `/tmp`. **No automatiza ni prueba la restauración destructiva de la base activa**; para recuperación real se requiere parar la API, conservar copia de la base original, validar el backup elegido y ejecutar un plan supervisado. Configurar una tarea programada de respaldo solo después de elegir alojamiento persistente y almacenamiento externo cifrado.
 
 ### Activación comercial (solo después de la aprobación)
 
