@@ -8,6 +8,7 @@ import json
 import os
 import secrets
 import sqlite3
+import stat
 import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
@@ -48,7 +49,13 @@ def create_backup(db_path: str | Path, output_dir: str | Path) -> tuple[Path, di
         raise FileNotFoundError(f'No existe la base de datos: {db_path}. No se crea una vacía.')
     output_dir = Path(output_dir).resolve()
     output_dir.mkdir(mode=0o700, parents=True, exist_ok=True)
-    os.chmod(output_dir, 0o700)
+    # Backups contain customer data: reject a shared directory instead of
+    # silently chmod-ing an existing path (which could be /tmp or a parent).
+    if stat.S_IMODE(output_dir.stat().st_mode) & 0o077:
+        raise PermissionError(
+            f'Directorio de respaldo con permisos inseguros: {output_dir}. '
+            'Crea uno privado o ajusta sus permisos a 700 antes de continuar.'
+        )
     backup_name = 'apex-' + datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S%fZ') + '-' + secrets.token_hex(4) + '.sqlite3'
     temporary = None
     try:
