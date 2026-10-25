@@ -2,6 +2,7 @@
 
 La versión de desarrollo no recibe pagos ni publica servicios externos.
 """
+import ipaddress
 import json
 import os
 import re
@@ -69,17 +70,37 @@ def valid_privacy_policy_url(value: str) -> bool:
     """Require an actionable HTTPS privacy notice before collecting customer data.
 
     urlsplit alone accepts strings such as 'https://' and malformed ports;
-    reject credentials, whitespace and backslashes as well.
+    reject credentials, whitespace, backslashes, and non-public hosts.
+    DNS resolution and policy availability still require operator review.
     """
     if (not isinstance(value, str) or not value or value != value.strip() or
             any(char.isspace() or char == '\\' for char in value)):
         return False
     try:
         parts = urlsplit(value)
-        return (parts.scheme == 'https' and bool(parts.hostname) and
-                parts.username is None and parts.password is None and
-                (parts.port is None or 1 <= parts.port <= 65535))
-    except ValueError:
+        host = parts.hostname
+        if (parts.scheme != 'https' or not host or
+                parts.username is not None or parts.password is not None or
+                (parts.port is not None and not 1 <= parts.port <= 65535)):
+            return False
+        # A loopback, private or single-label host cannot serve a public
+        # privacy notice. This is a syntactic check, not a DNS/uptime probe.
+        try:
+            address = ipaddress.ip_address(host)
+        except ValueError:
+            ascii_host = host.rstrip('.').encode('idna').decode('ascii')
+            labels = ascii_host.split('.')
+            if (len(ascii_host) > 253 or len(labels) < 2 or
+                    labels[-1] in {'localhost', 'local', 'internal', 'test', 'invalid', 'example'} or
+                    labels[-1].isdigit() or
+                    any(not re.fullmatch(r'[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?', label)
+                        for label in labels)):
+                return False
+        else:
+            if not address.is_global:
+                return False
+        return True
+    except (ValueError, UnicodeError):
         return False
 
 
