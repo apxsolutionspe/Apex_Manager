@@ -12,7 +12,7 @@ from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Literal
-from urllib.parse import quote as urlquote
+from urllib.parse import quote as urlquote, urlsplit
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Request, status
 from fastapi.responses import FileResponse, JSONResponse, RedirectResponse
@@ -62,6 +62,25 @@ def valid_contact_phone(value: str) -> bool:
     """
     return (bool(re.fullmatch(r'\+?[0-9 ()-]{7,25}', value)) and
             7 <= len(re.sub(r'[^0-9]', '', value)) <= 15)
+
+
+
+def valid_privacy_policy_url(value: str) -> bool:
+    """Require an actionable HTTPS privacy notice before collecting customer data.
+
+    urlsplit alone accepts strings such as 'https://' and malformed ports;
+    reject credentials, whitespace and backslashes as well.
+    """
+    if (not isinstance(value, str) or not value or value != value.strip() or
+            any(char.isspace() or char == '\\' for char in value)):
+        return False
+    try:
+        parts = urlsplit(value)
+        return (parts.scheme == 'https' and bool(parts.hostname) and
+                parts.username is None and parts.password is None and
+                (parts.port is None or 1 <= parts.port <= 65535))
+    except ValueError:
+        return False
 
 
 class CartItem(BaseModel):
@@ -244,7 +263,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             'business_catalog': real_products > 0,
             'whatsapp_configured': bool(8 <= len(number) <= 15),
             'privacy_notice_approved': (settings.privacy_approved and
-                settings.privacy_policy_url.startswith('https://') and
+                valid_privacy_policy_url(settings.privacy_policy_url) and
                 len(settings.privacy_notice_version.strip()) >= 3 and
                 'draft' not in settings.privacy_notice_version.lower()),
             'quote_intake_enabled': settings.quote_intake_enabled,
@@ -485,7 +504,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @app.get('/privacidad')
     def privacy_notice():
         if (settings.environment == 'production' and settings.privacy_approved and
-                settings.privacy_policy_url.startswith('https://')):
+                valid_privacy_policy_url(settings.privacy_policy_url)):
             return RedirectResponse(settings.privacy_policy_url, status_code=302)
         return FileResponse(FRONTEND / 'privacy.html')
 
