@@ -145,6 +145,22 @@ class JobIn(BaseModel):
     notes: str = Field(default='', max_length=1000)
     quote_id: int | None = Field(default=None, ge=1)
 
+    @field_validator('title')
+    @classmethod
+    def nonblank_title(cls, value: str):
+        value = value.strip()
+        if len(value) < 3:
+            raise ValueError('El título debe tener al menos 3 caracteres')
+        return value
+
+    @field_validator('customer_name')
+    @classmethod
+    def nonblank_customer_name(cls, value: str):
+        value = value.strip()
+        if len(value) < 2:
+            raise ValueError('El nombre del cliente debe tener al menos 2 caracteres')
+        return value
+
 
 class JobUpdate(BaseModel):
     status: Literal['pendiente', 'en_proceso', 'finalizado', 'cancelado']
