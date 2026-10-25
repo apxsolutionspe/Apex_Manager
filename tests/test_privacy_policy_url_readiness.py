@@ -12,13 +12,13 @@ from backend.security import hash_password
 INVALID_URLS = [
     'https://',
     'https://?notice=1',
-    'http://example.org/privacy',
-    'https://user:pass@example.org/privacy',
-    'https://example.org\n',
-    'https://example.org:invalid/privacy',
-    'https://example.org\\\\other.example',
+    'http://privacy.apex.pe/privacy',
+    'https://user:pass@privacy.apex.pe/privacy',
+    'https://privacy.apex.pe\n',
+    'https://privacy.apex.pe:invalid/privacy',
+    'https://privacy.apex.pe\\\\other.example',
     'https://[broken',
-    'https://example.org:0/privacy',
+    'https://privacy.apex.pe:0/privacy',
     'https://localhost/privacy',
     'https://app.localhost/privacy',
     'https://intranet/privacy',
@@ -28,9 +28,16 @@ INVALID_URLS = [
     'https://10.0.0.5/privacy',
     'https://example.invalid/privacy',
     'https://example..org/privacy',
-    'https://-bad.example.org/privacy',
+    'https://-bad.privacy.apex.pe/privacy',
     'https://foo.local/privacy',
     'https://127.1/privacy',
+    # RFC 2606 examples are documentation-only, not real privacy notices.
+    'https://example.com/privacy',
+    'https://example.net/privacy',
+    'https://example.org/privacy',
+    'https://www.example.org/privacy',
+    'https://sub.example.com/privacy',
+    'https://example.com./privacy',
 ]
 
 
@@ -40,9 +47,9 @@ def test_invalid_privacy_urls_fail_validation(url):
 
 
 @pytest.mark.parametrize('url', [
-    'https://example.org/privacy',
-    'https://example.org:443/privacy',
-    'https://sub.example.org/privacy?version=2',
+    'https://privacy.apex.pe/privacy',
+    'https://privacy.apex.pe:443/privacy',
+    'https://sub.privacy.apex.pe/privacy?version=2',
     'https://8.8.8.8/privacy',
     'https://www.café.pe/politica',
 ])
@@ -51,9 +58,10 @@ def test_valid_privacy_urls_are_accepted(url):
 
 
 @pytest.mark.parametrize('url', [
-    'https://', 'https://user:pass@example.org/privacy',
-    'https://example.org:invalid/privacy', 'https://localhost/privacy',
+    'https://', 'https://user:pass@privacy.apex.pe/privacy',
+    'https://privacy.apex.pe:invalid/privacy', 'https://localhost/privacy',
     'https://127.0.0.1/privacy', 'https://example.invalid/privacy',
+    'https://example.org/privacy', 'https://sub.example.com/privacy',
 ])
 def test_production_rejects_quote_intake_when_privacy_notice_is_unusable(tmp_path, url):
     settings = Settings(
