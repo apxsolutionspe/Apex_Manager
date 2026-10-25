@@ -80,6 +80,8 @@ En el navegador local:
 
 El archivo de base de datos se crea en `data/apex.db` y se excluye de Git. **No** subas `.env` a un repositorio.
 
+En sistemas POSIX, una base **nueva** se crea con permisos `0600` y su directorio final nuevo con `0700` para proteger los contactos almacenados. Por seguridad, el programa **no modifica los permisos de bases ni directorios preexistentes**: antes de usar datos reales, el operador debe verificar manualmente sus permisos y los de cualquier carpeta compartida. En Windows, revisar las ACL del directorio.
+
 ## Ejecutar pruebas
 
 ```bash
