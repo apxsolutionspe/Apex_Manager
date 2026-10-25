@@ -19,6 +19,18 @@ INVALID_URLS = [
     'https://example.org\\\\other.example',
     'https://[broken',
     'https://example.org:0/privacy',
+    'https://localhost/privacy',
+    'https://app.localhost/privacy',
+    'https://intranet/privacy',
+    'https://192.168.1.1/privacy',
+    'https://127.0.0.1/privacy',
+    'https://[::1]/privacy',
+    'https://10.0.0.5/privacy',
+    'https://example.invalid/privacy',
+    'https://example..org/privacy',
+    'https://-bad.example.org/privacy',
+    'https://foo.local/privacy',
+    'https://127.1/privacy',
 ]
 
 
@@ -31,12 +43,18 @@ def test_invalid_privacy_urls_fail_validation(url):
     'https://example.org/privacy',
     'https://example.org:443/privacy',
     'https://sub.example.org/privacy?version=2',
+    'https://8.8.8.8/privacy',
+    'https://www.café.pe/politica',
 ])
 def test_valid_privacy_urls_are_accepted(url):
     assert valid_privacy_policy_url(url)
 
 
-@pytest.mark.parametrize('url', ['https://', 'https://user:pass@example.org/privacy', 'https://example.org:invalid/privacy'])
+@pytest.mark.parametrize('url', [
+    'https://', 'https://user:pass@example.org/privacy',
+    'https://example.org:invalid/privacy', 'https://localhost/privacy',
+    'https://127.0.0.1/privacy', 'https://example.invalid/privacy',
+])
 def test_production_rejects_quote_intake_when_privacy_notice_is_unusable(tmp_path, url):
     settings = Settings(
         db_path=str(tmp_path / 'isolated.sqlite3'),
