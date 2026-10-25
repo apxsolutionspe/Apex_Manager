@@ -14,7 +14,7 @@ INVALID_URLS = [
     'https://?notice=1',
     'http://example.org/privacy',
     'https://user:pass@example.org/privacy',
-    'https://example.org\\n',
+    'https://example.org\n',
     'https://example.org:invalid/privacy',
     'https://example.org\\\\other.example',
     'https://[broken',
