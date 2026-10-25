@@ -68,7 +68,7 @@ def test_production_blocks_quotes_until_all_readiness_checks_pass(tmp_path):
         demo_mode=False,
         environment="production",
         privacy_approved=True,
-        privacy_policy_url="https://example.org/privacy-policy-synthetic",
+        privacy_policy_url="https://privacy.apex.pe/privacy-policy-synthetic",
         privacy_notice_version="2026-10-approved-test",
         quote_intake_enabled=True,
     )
