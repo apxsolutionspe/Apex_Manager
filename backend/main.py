@@ -9,7 +9,7 @@ import secrets
 import sqlite3
 import time
 from collections import defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Literal
 from urllib.parse import quote as urlquote
@@ -35,7 +35,7 @@ class Settings:
     session_secret: str = os.getenv('SESSION_SECRET', '')
     whatsapp_number: str = os.getenv('WHATSAPP_NUMBER', '')
     demo_mode: bool = os.getenv('DEMO_MODE', 'true').lower() == 'true'
-    environment: str = os.getenv('APP_ENV', 'development')
+    environment: str = field(default_factory=lambda: os.getenv('APP_ENV', 'development'))
     privacy_approved: bool = os.getenv('PRIVACY_NOTICE_APPROVED', 'false').lower() == 'true'
     privacy_policy_url: str = os.getenv('PRIVACY_POLICY_URL', '')
     privacy_notice_version: str = os.getenv('PRIVACY_NOTICE_VERSION', PRIVACY_NOTICE_VERSION)
