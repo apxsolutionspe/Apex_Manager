@@ -195,3 +195,29 @@ def test_quote_rejects_separator_only_and_overlong_phone_numbers(client, headers
     accepted = client.post('/api/quotes', json={**payload, 'phone': '+51 987 654 321'})
     assert accepted.status_code == 201
     assert len(client.get('/api/admin/quotes', headers=headers).json()) == 1
+
+
+@pytest.mark.parametrize('title,customer_name', [
+    ('   ', 'Ana'),
+    (' A ', 'Ana'),
+    ('Mantenimiento preventivo', '  '),
+    ('Mantenimiento preventivo', ' A '),
+])
+def test_jobs_reject_blank_or_too_short_required_text(client, headers, title, customer_name):
+    response = client.post('/api/admin/jobs', json={
+        'title': title, 'customer_name': customer_name
+    }, headers=headers)
+    assert response.status_code == 422
+    assert client.get('/api/admin/jobs', headers=headers).json() == []
+    assert client.get('/api/admin/audit', headers=headers).json() == []
+
+
+def test_jobs_trim_required_text_without_losing_valid_data(client, headers):
+    response = client.post('/api/admin/jobs', json={
+        'title': '  Mantenimiento preventivo  ',
+        'customer_name': '  Ana Torres  ',
+    }, headers=headers)
+    assert response.status_code == 201
+    assert response.json()['title'] == 'Mantenimiento preventivo'
+    assert response.json()['customer_name'] == 'Ana Torres'
+    assert len(client.get('/api/admin/jobs', headers=headers).json()) == 1
