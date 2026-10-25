@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-25T16:15:50.885Z",
+  "generated_at": "2026-10-25T20:49:37.706Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1626,16 +1626,18 @@
     },
     {
       "source": "github",
-      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
-      "url": "https://github.com/Parabola-org/parabola/issues/5",
-      "source_created_at": "2026-10-15T20:02:07Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1666",
+      "source_created_at": "2026-10-25T20:33:57Z",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z",
       "status": "informativa",
-      "priority": 90,
+      "priority": 85,
       "reasons": [
+        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -1643,99 +1645,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": 125,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
-      "url": "https://github.com/Parabola-org/parabola/issues/3",
-      "source_created_at": "2026-10-15T20:02:02Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
-      "url": "https://github.com/Parabola-org/parabola/issues/16",
-      "source_created_at": "2026-10-15T20:02:58Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
-      "url": "https://github.com/Parabola-org/parabola/issues/13",
-      "source_created_at": "2026-10-15T20:02:51Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
-      "url": "https://github.com/Parabola-org/parabola/issues/12",
-      "source_created_at": "2026-10-15T20:02:49Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 75,
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2653,6 +2563,29 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "omi bounty digest: 1 unclaimed of 9",
+      "url": "https://github.com/airdropia/earn-ops/issues/16",
+      "source_created_at": "2026-10-25T17:52:51Z",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3712,6 +3645,75 @@
         "payment": false
       },
       "published_amount_usd": 45,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Application: board item 31 — Real Estate Listing Portal ($350) — RedGhost123",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/44",
+      "source_created_at": "2026-10-21T02:44:10Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Application: board item 22 — Live Chat Widget ($350) — RedGhost123",
+      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/43",
+      "source_created_at": "2026-10-21T02:44:06Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
+      "source_created_at": "2026-10-25T20:39:26Z",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     }

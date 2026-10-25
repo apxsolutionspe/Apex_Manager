@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-25T16:15:49.972Z",
+  "updated_at": "2026-10-25T20:49:36.931Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "crimestoppersinternational.org/bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "ianbutterworth.github.io/18-bouncy-balls",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "rushter.com/blog/security-bb-and-scopes",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "fixbugbounty.com",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-bounty",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,412 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "phoronix.com/news/Intel-Bug-Bounty-Program-Ends",
       "first_seen_at": "2026-10-13T18:26:40.272Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50230847",
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "evidence": "",
+      "source_created_at": "2026-10-25T12:28:43Z",
+      "opp_type": "bug_bounty",
+      "score": 34,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "first_seen_at": "2026-10-25T16:15:49.972Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50172448",
+      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "evidence": "",
+      "source_created_at": "2026-10-20T20:46:55Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "first_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6029052864",
+      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
+      "evidence": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver - **Monto:** Ver enlace - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/42) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED - LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne - Lightning: chieftrait089@walletofsatoshi.com **Note:** I am a developer from Cuba. Due to the ",
+      "source_created_at": "2026-10-25T20:39:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/43",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028075606",
+      "title": "[radar] SN open bounty 2026-10-25T18:56",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1331",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1601866 Stacker_Stocks 2 266 10000 9 6.8 9274 28899 recent@Stacker_Stocks|top@Stacker_Stocks OPEN_BOUNTY,SIGNAL,SELF_POST_OPP Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats! ```",
+      "source_created_at": "2026-10-25T18:56:39Z",
+      "opp_type": "concurso",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1331",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027698649",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/15",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-25 18:15 UTC #### 1. [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1663) - **Repository:** [dev-kp-eloper/BountyScout](https://github.com/dev-kp-eloper/BountyScout) - **Comments:** 1 - **Last Updated:** 2026-10-25T18:15:27Z #### 2. [Crash in [Adventure Map] dialog (AI turn, Combat, AI vs AI) EIP: H3era hd.00443DBB. Code: C0000005](https://github.com/ERA-Projects/era-project-eng/issues/962) - **Repository:** [ERA-Projects/era-project-eng](h",
+      "source_created_at": "2026-10-25T18:15:44Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Rohank143/BountyScout/issues/15",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028994730",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1666",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-25 20:33 UTC #### 1. [[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107) - **Repository:** [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza) - **Comments:** 6 - **Last Updated:** 2026-10-25T20:28:29Z #### 2. [[Bounty #743] Validate /api/users payload before persistence](https://github.com/SecureBananaLabs/bug-bounty/issues/13676) - **Repository:** [Secu",
+      "source_created_at": "2026-10-25T20:33:57Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1666",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027961502",
+      "title": "Drop unused lesson reward fields and the stale Puzzle.theme comment",
+      "url": "https://github.com/avoidthekitchen/chess-rpg-gauntlet/issues/71",
+      "evidence": "Follow-up from the #68 review (legacy cleanup for #55). **Suggested priority: P4.** This is only tidiness, and there is no player impact. It is a quick change, so it can ride along with the dead board code issue. ## Observed (main at `7d78b93`) - #68 removed gold payouts. `AmbushDef` in `src/game/ambush.ts:17-18` still requires `reward: number` and `bonuses: { kind; gold }[]`. - `src/game/curriculum.ts:159` always sets them to `0` and `[]`. Nothing reads them. - The doc comment on `Puzzle.theme` (`src/game/puzzle.ts:10-11`) describes source fil",
+      "source_created_at": "2026-10-25T18:44:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/avoidthekitchen/chess-rpg-gauntlet/issues/71",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027621475",
+      "title": "🎯 Bounty Alert: 4 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1322",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-25 18:07 UTC #### 1. [[BOUNTY] Medium: Missing slash_validator and update_reputation instruction builders, discriminators, and derive_slashed_funds_vault in bridge::solana::instructions](https://github.com/paraloom-labs/paraloom-core/issues/1220) - **Repository:** [paraloom-labs/paraloom-core](https://github.com/paraloom-labs/paraloom-core) - **Comments:** 2 - **Last Updated:** 2026-10-25T18:07:01Z #### 2. [Crash in [Adventure Map] dialog (AI turn, Combat, AI vs AI) EIP: H3era hd.00443DBB. C",
+      "source_created_at": "2026-10-25T18:07:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1322",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027465455",
+      "title": "omi bounty digest: 1 unclaimed of 9",
+      "url": "https://github.com/airdropia/earn-ops/issues/16",
+      "evidence": "The omi bounty proposals that nobody has taken yet. Scanned 9 open proposals, 1 unclaimed. ### #13770 [Bounty] Add Uzbek (O'zbekcha) quickstart guide for omi-cli Amount: $25 Files: omi_cli/errors.py https://github.com/BasedHardware/omi/issues/13770",
+      "source_created_at": "2026-10-25T17:52:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/airdropia/earn-ops/issues/16",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027693387",
+      "title": "[Bug bounty] AssetHub multi-hop swap hardcodes a 2% haircut that contradicts user slippage",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2308",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug A multi-hop swap on AssetHub is built as two transactions in one batch. The first hop's minimum output follows the slippage the user sets. The second hop's input does not. It is always fixed at 98% of the quoted first hop output, no matter what slippage the user chose. When the user sets slippage above 2%, the two transactions contradict each other. The first hop is allowed to deliver less than the second hop demands. The second hop then cannot execute, and because both hops sit in one all-or-nothing batch",
+      "source_created_at": "2026-10-25T18:15:12Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2308",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027725340",
+      "title": "[Bug bounty] AssetHub swap ignores user slippage, execute transaction carries an unprotected destination amount",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2309",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug The swap options type requires a slippage percentage from the user, documented as \"Max slippage percentage\". On AssetHub, the function that computes the swap output never reads that field. It returns the raw price quote no matter what slippage the user sets. The same ignored value then flows into the execute-transfer path. The transaction that is actually submitted carries a destination amount equal to the raw quote, with zero slippage protection. A normal price move between quote and execution, inside the",
+      "source_created_at": "2026-10-25T18:18:23Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2309",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027569844",
+      "title": "Crash in [Adventure Map] dialog (AI turn, Combat, AI vs AI) EIP: H3era hd.00443DBB. Code: C0000005",
+      "url": "https://github.com/ERA-Projects/era-project-eng/issues/962",
+      "evidence": "Description: > #### End the turn as normal - crash happens then. Mod List: TUM Enchanted [v2.10] JS - new terrains v.1.4.1 [v1.4.1] JS - map generation fixes v.1.12 [v1.12] JS - main module v.1.21.2 [v1.21.2] JS - new objects v.1.40 [v1.40] Advanced Classes Mod 1.11 [v1.11] Stack Experience Rebalance [v0.9] Mixed Neutrals Mod [v2.3.4] Human AI [v1.17] 10SSkills [v1.0] ERA scripts [v3] Bounty Hunter [v1.2] Difficulty Mod [v1.1] Darkened Players [v1.0] WoG Graphics Fix Lite [v2.26.0] WoG Scripts [v3.9] Game Enhancement Mod [v2.255] Unleashed Edit",
+      "source_created_at": "2026-10-25T18:03:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ERA-Projects/era-project-eng/issues/962",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027254989",
+      "title": "High Profile/4:4:4 support",
+      "url": "https://github.com/AOMediaCodec/SVT-AV1/issues/2815",
+      "evidence": "_Originally created by **juliobbv** at 2024-09-22T05:53:04.514000Z (migrated from GitLab)._ Opened as [`#2211`](https://gitlab.com/AOMediaCodec/SVT-AV1/-/work_items/2211) Currently, SVT-AV1 only supports Main Profile, which uses 4:2:0 chroma subsampling mode and it's great for encoding most natural content. However, in the case of capturing screen content, or creating AVIFs from RGB sources, it's best to use 4:4:4 chroma subsampling mode to keep full color integrity of the encoded content. Right now, one has to switch to aomenc to encode in 4:4",
+      "source_created_at": "2026-10-25T17:31:48Z",
+      "opp_type": "otro",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/AOMediaCodec/SVT-AV1/issues/2815",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028529024",
+      "title": "beacon-bastion: record gold through the shared transaction ledger",
+      "url": "https://github.com/Noisemaker111/jgengine/issues/2477",
+      "evidence": "The capability ledger records this as **debt**: `beacon-bastion` has the transaction ledger domain and has not adopted the shared system. **Today:** bounty.ts and entities/towers/progression.ts add and subtract gold in session state with no record of why each amount moved. **Adopt:** `@jgengine/core/economy/transactionLedger` for kill pay, build cost, upgrade cost, sell refund and the income trickle. **Ledger:** `beacon-bastion/capabilities.json` declines `transaction-ledger` as `debt` against this issue. Adopting the shared system closes this ",
+      "source_created_at": "2026-10-25T19:45:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Noisemaker111/jgengine/issues/2477",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028113470",
+      "title": "Processes list shows a skipped command as a run's last command",
+      "url": "https://github.com/livesport/homer/issues/65",
+      "evidence": "## What happens On the Processes list, the **Last Command** column of a successful `quickstart` run reads `unexpected-answer`. The run answered **ship**: `write-report`, `ask-ship-it` and `ship` ran, and `hold` and `unexpected-answer` were skipped by their `when:` conditions. The column shows the last command in the agent file, even though it never ran. A newcomer reads \"unexpected-answer\" next to a `Finished` run as a sign that something went wrong. The same happens for any agent whose last steps are conditional. ## Proposal The Processes list",
+      "source_created_at": "2026-10-25T19:00:53Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/livesport/homer/issues/65",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027827769",
+      "title": "NPC AI: encounter tables and reputation hooks",
+      "url": "https://github.com/gregsochanik/elitey_rust/issues/230",
+      "evidence": "encounters.json replaces the weight functions with the same numbers; count and difficulty scaling (consecutive fights); standing and combat rating change who appears and how they behave; bounty hunter profile triggered by standing. Spec: features/24-encounters-npc-ai.md.",
+      "source_created_at": "2026-10-25T18:29:33Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/gregsochanik/elitey_rust/issues/230",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027827352",
+      "title": "NPC AI: flee and surrender outcomes",
+      "url": "https://github.com/gregsochanik/elitey_rust/issues/228",
+      "evidence": "EnemyFled and EnemySurrendered outcomes with settle rules (surrender counts as a kill; flee does not complete a bounty). Pirate thresholds on; combat balance re-simulated. CLI and GUI show the NPC's action. Spec: features/24-encounters-npc-ai.md.",
+      "source_created_at": "2026-10-25T18:29:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/gregsochanik/elitey_rust/issues/228",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027716931",
+      "title": "PVP variants",
+      "url": "https://github.com/denzrs/slingshot-remake/issues/135",
+      "evidence": "Investigate PvP variants that give players objectives beyond eliminating opponents. Look for ideas that create new shot-by-shot decisions while making Slingshot’s gravity-based projectile gameplay central. Some ideas * Bounty: Mark one player as the target. Eliminating them awards a bonus, then the bounty moves to another player. * Treasure Hunt: Place collectible caches around the planets. Projectiles can collect them and continue toward other targets. * Station Control: Capture a neutral station with a hit. Its controller earns points after a",
+      "source_created_at": "2026-10-25T18:17:34Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/denzrs/slingshot-remake/issues/135",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028039494",
+      "title": "Add an export/import command for a scope's memory graph",
+      "url": "https://github.com/himanshu748/hydramind/issues/22",
+      "evidence": "There is no way to back up, migrate, or share a scope's memories, edges, and trust history. **Proposal** - `hydramind-export --scope acme > acme.jsonl` and `hydramind-import acme.jsonl`. - Preserve `CONTRADICTS`, `SUPERSEDED_BY`, `DERIVED_FROM`, and immutable `TRUST_DECAY` events, including timestamps. - Import must be idempotent (re-importing the same file creates no duplicates). **Acceptance criteria** - Live round-trip test: export → import into a fresh scope → `timeline` and `explain_trust` match.",
+      "source_created_at": "2026-10-25T18:53:13Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/himanshu748/hydramind/issues/22",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028167577",
+      "title": "Microsoft Security Advisory CVE-2026-111497 | .NET Brotli Decoder Out-of-bounds Write Vulnerability",
+      "url": "https://github.com/dotnet/runtime/issues/136446",
+      "evidence": "## Executive summary A buffer overflow vulnerability exists in the Brotli decompression library used by .NET. This vulnerability may allow an unauthenticated attacker to read or corrupt process memory. This could lead to information disclosure, denial of service, or elevation of privilege. ASP.NET Core and HttpClient do not automatically decompress Brotli data in their default configurations. Applications are exposed when they enable Brotli decompression or explicitly use Brotli decompression APIs to process attacker-controlled data, as describ",
+      "source_created_at": "2026-10-25T19:06:10Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/runtime/issues/136446",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028123353",
+      "title": "identity: in-flight guard misses triage runs acting as the reviewer identity",
+      "url": "https://github.com/coe0718/diaktoros/issues/1287",
+      "evidence": "`diaktoros/cli/settings.py:1856` — `_IDENTITY_SEATS` comment claims \"shadows and triage write nothing as it\", but triage runs can act as the reviewer identity: `config.triage_login()` (diaktoros/config/__init__.py:900) falls back to the reviewer seat's login when `triage.login` is unset, and `broker.authorize_triage`/`broker.post_triage` (diaktoros/broker.py:405, 442) post labels and comments as that login. Consequently the in-flight guard in `cmd_identity` (`SELECT ... seat IN (...)` for the reviewer identity) misses in-flight ledger rows with",
+      "source_created_at": "2026-10-25T19:01:56Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/coe0718/diaktoros/issues/1287",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028010017",
+      "title": "Microsoft Security Advisory CVE-2026-70197 | .NET and Visual Studio Remote Code Execution Vulnerability | October 25, 2026 OOB update",
+      "url": "https://github.com/dotnet/runtime/issues/136445",
+      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in System.Net.Sockets. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. On Windows, reusing a `SocketAsyncEventArgs` instance across IPv4 and IPv6 datagram sockets can retain an undersized cached native address buffer, allowing an unauthenticated out-of-bounds write during `ReceiveFromAsync`. This vulnerability was disclosed in the October 13 advisory, but the fi",
+      "source_created_at": "2026-10-25T18:50:03Z",
+      "opp_type": "bug_bounty",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/runtime/issues/136445",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028000245",
+      "title": "Improve Developer Experience and Local Setup",
+      "url": "https://github.com/hastimal/open-healthcare-agentic-platform/issues/12",
+      "evidence": "## 1. Background The platform provides a one-command demonstration launcher (`scripts/run_demo.py`) and development environment powered by Python 3.12, `uv`, Docker Compose, and native Ollama. Streamlining onboarding for contributors on diverse operating systems (Linux, macOS, Windows WSL2) will accelerate community contributions. ## 2. Problem Statement First-time contributors occasionally encounter environment friction, such as Docker Desktop networking differences on Linux vs. macOS (`host.docker.internal`), missing Ollama models, or conflic",
+      "source_created_at": "2026-10-25T18:48:54Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/hastimal/open-healthcare-agentic-platform/issues/12",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028168078",
+      "title": "Microsoft Security Advisory CVE-2026-114148 | .NET Elevation of Privilege Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/495",
+      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in file ownership in Linux .NET tarball distributions, including ASP.NET Core runtime tarballs, ASP.NET Core targeting-pack tarballs, and source-built .NET tarballs. This advisory also provides guidance on updating affected installations and source-build engineering workflows. Incorrect ownership of runtime files installed from affected Linux tarballs can allow local elevation of privilege. ## Discussion Discussion for this issue can ",
+      "source_created_at": "2026-10-25T19:06:13Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/announcements/issues/495",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028167913",
+      "title": "Microsoft Security Advisory CVE-2026-111497 | .NET Brotli Decoder Out-of-bounds Write Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/494",
+      "evidence": "## Executive summary A buffer overflow vulnerability exists in the Brotli decompression library used by .NET. This vulnerability may allow an unauthenticated attacker to read or corrupt process memory. This could lead to information disclosure, denial of service, or elevation of privilege. ASP.NET Core and HttpClient do not automatically decompress Brotli data in their default configurations. Applications are exposed when they enable Brotli decompression or explicitly use Brotli decompression APIs to process attacker-controlled data, as describ",
+      "source_created_at": "2026-10-25T19:06:12Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/announcements/issues/494",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6028010333",
+      "title": "Microsoft Security Advisory CVE-2026-70197 | .NET and Visual Studio Remote Code Execution Vulnerability | October 25, 2026 OOB update",
+      "url": "https://github.com/dotnet/announcements/issues/493",
+      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in System.Net.Sockets. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. On Windows, reusing a `SocketAsyncEventArgs` instance across IPv4 and IPv6 datagram sockets can retain an undersized cached native address buffer, allowing an unauthenticated out-of-bounds write during `ReceiveFromAsync`. This vulnerability was disclosed in the October 13 advisory, but the fi",
+      "source_created_at": "2026-10-25T18:50:05Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/announcements/issues/493",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6027557102",
+      "title": "Microsoft Security Advisory CVE-2026-102870 | ASP.NET Core Remote Code Execution Vulnerability | October 25, 2026 OOB update",
+      "url": "https://github.com/dotnet/announcements/issues/492",
+      "evidence": "## Executive summary Microsoft is releasing this security advisory to provide information about a vulnerability in the Blazor WebAssembly debugger included in `Microsoft.AspNetCore.Components.WebAssembly.Server`. This advisory also provides guidance on what developers can do to update their applications to remove this vulnerability. `Microsoft.AspNetCore.Components.WebAssembly.DevServer` also bundles the affected debugger. The Blazor WebAssembly debug proxy evaluates debugger expressions by generating and compiling C# source. Certain values ori",
+      "source_created_at": "2026-10-25T18:01:49Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dotnet/announcements/issues/492",
+      "first_seen_at": "2026-10-25T20:49:36.931Z",
+      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -563,21 +968,6 @@
       "last_seen_at": "2026-10-25T16:15:49.972Z"
     },
     {
-      "source": "hackernews",
-      "external_id": "50230847",
-      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-      "evidence": "",
-      "source_created_at": "2026-10-25T12:28:43Z",
-      "opp_type": "bug_bounty",
-      "score": 34,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-      "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z"
-    },
-    {
       "source": "github",
       "external_id": "6026487394",
       "title": "Define investigation template defaults and acceptance criteria",
@@ -785,21 +1175,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T11:24:59.549Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50172448",
-      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
-      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "evidence": "",
-      "source_created_at": "2026-10-20T20:46:55Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "first_seen_at": "2026-10-20T21:36:21.115Z",
       "last_seen_at": "2026-10-25T11:24:59.549Z"
     },
     {
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/250",
       "first_seen_at": "2026-10-15T20:34:15.114Z",
       "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873544966",
-      "title": "Delivery is not a proof-carrying bundle: claim finish requires nothing; public-work checks are caller-reported (verification: 'hash_only')",
-      "url": "https://github.com/Uuriko/project-room/issues/3547",
-      "evidence": "## Gap: delivery is not a proof-carrying bundle — room-claim finish requires nothing, and public-work checks are caller-reported (`verification: 'hash_only'`) Research mapping (2026-10-15 orchestration-concepts §3.2, steal-now #6): a submission should be a bundle — artifact + reproduction/tests run + evidence + stated acceptance criteria — such that a checker can re-run rather than re-read; executable checks decide, self-reports only triage. ## Code evidence (main @ fa9f33aee, 2026-10-15) - Room work claims: `updateWork` (server/work-claims.mjs",
-      "source_created_at": "2026-10-15T20:38:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Uuriko/project-room/issues/3547",
-      "first_seen_at": "2026-10-15T20:43:17.253Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873887554",
-      "title": "Connectors: read Notion without a click, and check that edits ask first",
-      "url": "https://github.com/useagenthq/useagent/issues/153",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can search and read Notion without an approval click, and that changes still ask first. Use a Notion workspace you made for this. ## Try this 1. Make a page of notes and a database with five rows, for example a reading list with a Read or Unread column. 2. Open your account menu, then Apps, and connect No",
-      "source_created_at": "2026-10-15T21:03:06Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/153",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873886601",
-      "title": "Connectors: read Google Drive without a click, and see which actions still ask first",
-      "url": "https://github.com/useagenthq/useagent/issues/152",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what the agent can read in Google Drive without an approval click, and what asks first. Use a Drive with nothing private in it. ## Try this 1. Put a Google Doc, a Google Sheet and a PDF in your Drive, and add a comment to the Doc. 2. Open your account menu, then Apps, and connect Google Drive. 3. Ask: `List the files in",
-      "source_created_at": "2026-10-15T21:03:02Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/152",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873885653",
-      "title": "Connectors: read Google Calendar without a click, and check that booking asks first",
-      "url": "https://github.com/useagenthq/useagent/issues/151",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can read your calendar and find free time without an approval click, and that creating or changing events still asks first. Use a calendar with nothing private on it, or a new Google account. ## Try this 1. Put three or four made-up events on your calendar this week, including one all-day event and one re",
-      "source_created_at": "2026-10-15T21:02:57Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/151",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873884778",
-      "title": "Connectors: read Gmail without a click, and check that changes still ask first",
-      "url": "https://github.com/useagenthq/useagent/issues/150",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that the agent can read and search Gmail without an approval click, and that anything that changes your mailbox still asks first. Use a Gmail account with nothing private in it, or a new one you make for this. ## Try this 1. Open your account menu, then Apps, and connect Gmail. 2. Start a thread: `Find the last five ema",
-      "source_created_at": "2026-10-15T21:02:53Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/150",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873883921",
-      "title": "Bots: leave a bot's approval waiting for a day and check how it ends",
-      "url": "https://github.com/useagenthq/useagent/issues/149",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what happens when a bot asks for approval and nobody answers for more than 24 hours. You need an app the bot can write to, such as Gmail or Google Calendar (account menu, then Apps). Use a test account. ## Try this 1. Create a bot and ask it to do something that changes data: `Create a calendar event called \"Approval te",
-      "source_created_at": "2026-10-15T21:02:49Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/149",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873882992",
-      "title": "Bots: ask a bot what it did earlier, from its work log",
-      "url": "https://github.com/useagenthq/useagent/issues/148",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the bot's dated Work log, and whether the bot can answer \"what did you do last week\" from it. Spread this over a few days so there's something to look back on. ## Try this 1. Create a bot and give it a few different small jobs over two or more days: summarize a web page, list some ideas, write a small file. 2. After eac",
-      "source_created_at": "2026-10-15T21:02:45Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/148",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873882159",
-      "title": "Bots: add, edit and remove a bot's key facts",
-      "url": "https://github.com/useagenthq/useagent/issues/147",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the Key facts list on a bot's page: facts you add by hand, facts the bot saves itself, and whether the bot uses them. ## Try this 1. Create a bot and open Bot details. Find \"Key facts and work log\". 2. Add three key facts, for example \"My timezone is Europe/Berlin\", \"Reports go out on Mondays\", \"Use metric units\". 3. In",
-      "source_created_at": "2026-10-15T21:02:41Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/147",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873881346",
-      "title": "Bots: answer a bot's message with its choice buttons",
-      "url": "https://github.com/useagenthq/useagent/issues/146",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check the choices a bot can attach to a message it sends you, in the thread, in Slack and in email. ## Try this 1. Create a bot. Add a routine (Bot details, Routines, Add routine) with an instruction like: `Suggest three lunch ideas for today and send them to me as a message with one choice per idea. Ask which one I want.` 2.",
-      "source_created_at": "2026-10-15T21:02:37Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/146",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873880509",
-      "title": "Bots: check that a routine stays quiet unless it has news for you",
-      "url": "https://github.com/useagenthq/useagent/issues/145",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's scheduled routine says nothing when there's nothing new, and reaches you when there is. ## Try this 1. Create a bot. In Bot details, under Routines, choose Add routine. 2. Name it \"Quiet check\" with an instruction whose answer is usually \"nothing new\": `Check https://example.com. Tell me only if the page te",
-      "source_created_at": "2026-10-15T21:02:34Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/145",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873879662",
-      "title": "Bots: get an email when your bot is waiting on you",
-      "url": "https://github.com/useagenthq/useagent/issues/144",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's owner gets an email when the bot needs them and Slack isn't connected. Use an account that has no Slack connected. ## Try this 1. Create a bot (Bots, then New bot) and give it a job that has to wait on you: `Ask me which of three dinner recipes I want before you write the shopping list, and wait for my answ",
-      "source_created_at": "2026-10-15T21:02:30Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/144",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873878747",
-      "title": "Bots: get a Slack message when your bot is waiting on you",
-      "url": "https://github.com/useagenthq/useagent/issues/143",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot's owner gets a Slack direct message when the bot needs them: a question or an approval left waiting for a few minutes, or a run that failed. You need a Slack workspace with the UseAgent app connected from your own Slack account (account menu, then Apps). ## Try this 1. Create a bot and give it a job that has ",
-      "source_created_at": "2026-10-15T21:02:25Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/143",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873877907",
-      "title": "Bots: check that only a bot's owner can use a personal bot from Slack",
-      "url": "https://github.com/useagenthq/useagent/issues/142",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check what happens when someone other than a bot's owner tries to use it, from Slack and from the web. You need a Slack workspace with the UseAgent app connected, and a second person (a friend or teammate) who is in that Slack workspace and in your UseAgent workspace. Invite them from Settings, then Team. ## Try this 1. Creat",
-      "source_created_at": "2026-10-15T21:02:21Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/142",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873877069",
-      "title": "Bots: wake a bot from Slack by starting a message with its name",
-      "url": "https://github.com/useagenthq/useagent/issues/141",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. Check that a bot answers in Slack when a message to the UseAgent app starts with the bot's name, and that the answer comes back to the same Slack thread. You need a Slack workspace where you can add apps (a new one is fine). ## Try this 1. Open your account menu, then Apps, and connect Slack. 2. On the Bots page, create a bot",
-      "source_created_at": "2026-10-15T21:02:17Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/141",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873828922",
-      "title": "Landing hero: collaboration front door (room, real receipt, live counters, two doors)",
-      "url": "https://github.com/Uuriko/project-room/issues/3548",
-      "evidence": "Front 3 build under the owner-approved collaboration framing (2026-10-15). The product is the collaboration room for humans and agents; bounties are one bounded tool inside it — not the hero, not the metaphor. Scope: - Hero sentence: 'Put agents to work where humans can direct, review, and prove the results.' - One real receipt card (live settled work, not a mock). - Live counters computed from data, never hand-typed: results verified · receipts issued · work available now. - Two doors: 'Create a room for your team' / 'Send your agent to work'.",
-      "source_created_at": "2026-10-15T20:58:35Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Uuriko/project-room/issues/3548",
-      "first_seen_at": "2026-10-15T21:03:27.047Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873054560",
-      "title": "[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling",
-      "url": "https://github.com/Parabola-org/parabola/issues/5",
-      "evidence": "**Context** Nothing in the SDK accepts an `AbortSignal`. `pollForAttestation` (`src/iris/poll.ts:133-170`), `pollTransactionStatus` (`src/chains/stellar.ts:71-86`), and `waitForAllowance`/`retryOnTransientRpcLag` (`src/chains/stellar.ts:210-294`) all run `while` loops with fixed deadlines and no external cancellation. A service shutting down, a user navigating away from the demo, or a request-scoped timeout in a web backend cannot stop an in-flight transfer. This matters most after the burn: the README and `TransferError` docs promise the calle",
-      "source_created_at": "2026-10-15T20:02:07Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/5",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873053954",
-      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
-      "url": "https://github.com/Parabola-org/parabola/issues/4",
-      "evidence": "**Context** `checkStellarRecipientReady` in `src/chains/stellar.ts:144-177` wraps `server.getAccount(recipient)` in a bare `catch` that returns `{ exists: false, hasTrustline: false, ready: false }`. Any failure — DNS error, RPC 503, rate limit on the public mainnet endpoint (which `src/constants.ts:49-52` explicitly warns is rate-limited) — is indistinguishable from an account that genuinely was never funded. `assertStellarRecipientReady` in `src/transfer.ts:207-223` then throws \"recipient does not exist yet. It must be funded with at least th",
-      "source_created_at": "2026-10-15T20:02:04Z",
-      "opp_type": "bounty_codigo",
-      "score": 43,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/4",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873053305",
-      "title": "[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn",
-      "url": "https://github.com/Parabola-org/parabola/issues/3",
-      "evidence": "**Context** `pollForAttestation` in `src/iris/poll.ts:133-170` tolerates up to 5 consecutive failures before giving up — the right policy against a public API. But `getAttestation` (lines 102-122), used by `resolveBurn` in `src/transfer.ts:285-304`, calls `pollOnce` exactly once and throws `IrisRequestError` on the first failure. So `resolveBurn`, the SDK's read-only \"what did this burn commit to?\" helper, is strictly less reliable than the polling path for no documented reason. A single dropped connection makes a caller believe the burn is unr",
-      "source_created_at": "2026-10-15T20:02:02Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/3",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873066199",
-      "title": "[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page",
-      "url": "https://github.com/Parabola-org/parabola/issues/16",
-      "evidence": "**Context** `website/` is the project's landing page with a scripted hero animation (`website/src/hero-animation.ts`, `website/src/animations.ts`). Marketing pages built around canvas/CSS animation commonly ship without `prefers-reduced-motion` handling, keyboard-navigable CTAs, or proper document landmarks — and this page is the first impression for developers evaluating the SDK. Without seeing the rendered page the exact gaps can't be listed exhaustively, so this bounty is scoped to an audit-plus-fix pass rather than a single known bug. **Pro",
-      "source_created_at": "2026-10-15T20:02:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 50,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/16",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873067489",
-      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-      "url": "https://github.com/Parabola-org/parabola/issues/18",
-      "evidence": "**Context** `scripts/testnet-smoke.mjs` is the end-to-end testnet check (`pnpm smoke`) and one of the few signals that the SDK works against live Circle Iris and real contracts. Public testnets and faucets flake constantly — transient RPC 5xx, attestation delays just over the poll window, faucet rate limits. A smoke script with no retry or step-level reporting turns every flake into a false alarm, and a script that doesn't exit non-zero on partial failure turns real breakage into a green-looking run. **Proposed Change** Restructure the script i",
-      "source_created_at": "2026-10-15T20:03:03Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/18",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873066955",
-      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-      "url": "https://github.com/Parabola-org/parabola/issues/17",
-      "evidence": "**Context** The README documents the happy path well, and `src/errors.ts` has excellent inline rationale — but a integrator debugging a failed mainnet transfer has to assemble the recovery story by reading source. The pieces are scattered: `TransferError.burnTxHash` (recover via `completeMint`), `AttestationNotReadyError` (retryable, burn is safe), `SubmissionTimeoutError` (hash exists, outcome unknown — check the chain before retrying), `IrisRequestError` (Circle-side outage, retry), and `resolveBurn` for inspecting a burn you didn't produce. ",
-      "source_created_at": "2026-10-15T20:03:01Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/17",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873065362",
-      "title": "[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI",
-      "url": "https://github.com/Parabola-org/parabola/issues/15",
-      "evidence": "**Context** `package.json` publishes a dual CJS/ESM build (`main`/`module`/`exports`) via tsup, but declares no `sideEffects` field (bundlers must assume the SDK can have side effects and keep more than necessary), and nothing validates that the published artifact's export map, `files`, and types entries are actually coherent. `pnpm build` succeeding does not catch misconfigured `exports` paths or types that don't resolve for `moduleResolution: \"node16\"` consumers — the class of bug that only surfaces after `npm publish`. **Proposed Change** Ad",
-      "source_created_at": "2026-10-15T20:02:55Z",
-      "opp_type": "bounty_codigo",
-      "score": 44,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/15",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873064977",
-      "title": "[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash",
-      "url": "https://github.com/Parabola-org/parabola/issues/14",
-      "evidence": "**Context** `demos/wallet-transfer-demo` drives real transfers but has no path for the failure mode the SDK bends over backwards to support: the burn succeeded, then attestation or mint failed. `TransferError` carries `burnTxHash` exactly so a caller can resume with `completeMint()` (`src/errors.ts:7-30`, README recovery docs). In the demo, a post-burn failure presumably surfaces as a dead-end error toast, and the user has no way to retry the mint without re-burning — which would double-spend. **Proposed Change** Detect `TransferError` with a n",
-      "source_created_at": "2026-10-15T20:02:53Z",
-      "opp_type": "bounty_codigo",
-      "score": 42,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/14",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873064375",
-      "title": "[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot",
-      "url": "https://github.com/Parabola-org/parabola/issues/13",
-      "evidence": "**Context** `src/errors.ts` defines the SDK's entire failure taxonomy — `TransferError`, `AttestationNotReadyError`, `IrisRequestError`, `SubmissionTimeoutError` — and there is no `tests/errors.test.ts`. Nothing asserts constructor wiring (`burnTxHash` attachment, optional `code`/`status`), `instanceof` behavior after a bundling pass, or that `src/index.ts` actually exports the public API the README documents. A refactor that drops an export or renames a field currently sails through CI until a user hits it at runtime. **Proposed Change** Add `",
-      "source_created_at": "2026-10-15T20:02:51Z",
-      "opp_type": "bounty_codigo",
-      "score": 46,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/13",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873063761",
-      "title": "[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry",
-      "url": "https://github.com/Parabola-org/parabola/issues/12",
-      "evidence": "**Context** Two recovery loops in `src/chains/stellar.ts` have hard-coded timing with no caller control: `waitForAllowance` (lines 210-227) does 6 attempts × 1500ms, and `retryOnTransientRpcLag` (lines 278-294) does 3 attempts × 2000ms. A backend on a slow RPC provider may need longer; a latency-sensitive path may want faster failure. The knobs are currently compile-time constants, while every other timing concern in the SDK (`pollInterval`, `pollTimeout`) is already a documented option. **Proposed Change** Add optional fields to `TransferOptio",
-      "source_created_at": "2026-10-15T20:02:49Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Parabola-org/parabola/issues/12",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-25T20:49:36.931Z",
+      "generated_at": "2026-10-25T20:49:36.931Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 699
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 676
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 48,
+      "new_items": 25,
+      "seen_again": 23,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "2 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "48 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-25T16:15:49.972Z",
       "generated_at": "2026-10-25T16:15:49.972Z",
@@ -21327,67 +21388,6 @@
       "new_items": 25,
       "seen_again": 22,
       "archive_total": 506,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16T04:30:19.164Z",
-      "generated_at": "2026-10-16T04:30:19.164Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 3788
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 403
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 25,
-      "seen_again": 22,
-      "archive_total": 481,
       "steps": [
         {
           "agent": "Recolector",
