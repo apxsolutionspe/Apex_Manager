@@ -21,7 +21,7 @@ def configured(tmp_path, demo=True, environment='development', approved=False, w
         environment=environment,
         privacy_approved=approved,
         quote_intake_enabled=True,
-        privacy_policy_url='https://example.org/apex-policy' if approved else '',
+        privacy_policy_url='https://privacy.apex.pe/apex-policy' if approved else '',
         privacy_notice_version='2026-10-approved-v1' if approved else '2026-10-draft-1',
     )
 
@@ -138,4 +138,4 @@ def test_production_privacy_url_is_official(tmp_path):
     with TestClient(create_app(settings)) as client:
         response=client.get('/privacidad', follow_redirects=False)
         assert response.status_code==302
-        assert response.headers['location']=='https://example.org/apex-policy'
+        assert response.headers['location']=='https://privacy.apex.pe/apex-policy'
