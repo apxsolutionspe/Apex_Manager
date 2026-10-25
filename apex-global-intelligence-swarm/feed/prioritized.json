@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-24T20:47:22.438Z",
+  "generated_at": "2026-10-25T04:39:06.455Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,36 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1165,
-    "descartar": 35,
+    "informativa": 1166,
+    "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/11",
+      "source_created_at": "2026-10-25T03:57:56Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "Claiming Bounty #1 - Contact Management Dashboard ($150)",
@@ -1878,6 +1902,31 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1656",
+      "source_created_at": "2026-10-25T01:00:20Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 11 New Opportunityies found",
       "url": "https://github.com/Rohank143/BountyScout/issues/9",
       "source_created_at": "2026-10-24T20:39:54Z",
@@ -2650,15 +2699,14 @@
     },
     {
       "source": "github",
-      "title": "Implement paid bounty slots, alpha fee confirmation, and submission deadlines",
-      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2942",
-      "source_created_at": "2026-10-15T16:55:23Z",
-      "first_seen_at": "2026-10-15T16:59:40.585Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
+      "title": "[BOUNTY] Medium: Non-deterministic HashMap iteration in VoteTally::valid_voters diverges CoSignPayload quorum_validators ordering across nodes, causing settlement signature divergence and cosign_counts starvation",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1213",
+      "source_created_at": "2026-10-25T03:18:25Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -2668,21 +2716,20 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "Evaluate one scoped build-bounty pilot against an internal build",
-      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2944",
-      "source_created_at": "2026-10-15T16:55:25Z",
-      "first_seen_at": "2026-10-15T16:59:40.585Z",
-      "last_seen_at": "2026-10-15T17:28:16.618Z",
+      "title": "[BOUNTY] Medium: Unchecked and Uninitialized Validator Token ATA in paraloom-cli validator register and register_validator causes runtime CPI deserialization failure (AccountNotInitialized) and silent gas burn for new validators",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1215",
+      "source_created_at": "2026-10-25T04:24:30Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -2692,21 +2739,44 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "[intake 输入] dsh-memory 脑端只读缺陷审计（第二轮）：**4 条新立案**（证据面外键静默覆写致数据丢失 / heal 假成功写假审计行 / sleep 目录级白名单污染不可逆历史+审计判据失明+跨根错提交 / 纪律门禁对正文注入零判别力）——与第一轮 [#605](https://github.com/FuRongJun-1999/dsh-bounty/issues/605) 不重叠",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/606",
-      "source_created_at": "2026-10-15T15:27:52Z",
-      "first_seen_at": "2026-10-15T15:53:00.775Z",
-      "last_seen_at": "2026-10-15T16:42:28.425Z",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1314",
+      "source_created_at": "2026-10-25T00:49:22Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 10,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114",
+      "source_created_at": "2026-10-25T00:27:07Z",
+      "first_seen_at": "2026-10-25T04:39:05.665Z",
+      "last_seen_at": "2026-10-25T04:39:05.665Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -2716,7 +2786,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 100,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3637,75 +3707,6 @@
         "payment": false
       },
       "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts",
-      "url": "https://github.com/Parabola-org/parabola/issues/4",
-      "source_created_at": "2026-10-15T20:02:04Z",
-      "first_seen_at": "2026-10-15T20:02:16.798Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 105,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-      "url": "https://github.com/Parabola-org/parabola/issues/18",
-      "source_created_at": "2026-10-15T20:03:03Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $60] Docs: add a \"Failure modes and recovery\" guide",
-      "url": "https://github.com/Parabola-org/parabola/issues/17",
-      "source_created_at": "2026-10-15T20:03:01Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T20:52:47.191Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 60,
       "monetary_value_received": 0,
       "verified_payment": false
     }
