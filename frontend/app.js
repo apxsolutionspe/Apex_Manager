@@ -12,6 +12,7 @@ let filter = 'todos';
 let search = '';
 let cart = {};
 let lastQuote = null;
+let quoteSubmitting = false;
 let intakeEnabled = false;
 try { const stored = JSON.parse(localStorage.getItem('apex_cart') || '{}'); if (stored && typeof stored === 'object' && !Array.isArray(stored)) cart = stored; } catch { cart = {}; }
 const saveCart = () => {
@@ -73,11 +74,14 @@ $('#catalog-search').addEventListener('input', e => {search = e.target.value.tri
 document.querySelectorAll('[data-filter]').forEach(b => b.addEventListener('click', () => {filter = b.dataset.filter; document.querySelectorAll('[data-filter]').forEach(t => {t.classList.toggle('active', t === b); t.setAttribute('aria-pressed', String(t === b));}); renderCatalog();}));
 $('#quote-form').addEventListener('submit', async e => {
   e.preventDefault();
+  // A disabled button does not block programmatic or repeated submit events.
+  if (quoteSubmitting || lastQuote) return;
   const quoteForm = e.currentTarget;
   const error = $('#quote-error'); error.hidden = true;
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
   const data = Object.fromEntries(new FormData(e.currentTarget));
+  quoteSubmitting = true;
   const btn = $('#send-quote'); btn.disabled = true; btn.textContent = 'Registrando...';
   try {
     lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, consent: data.consent === 'true', items})});
@@ -86,7 +90,7 @@ $('#quote-form').addEventListener('submit', async e => {
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
     cart = {}; saveCart(); quoteForm.reset(); renderCart(); toast('Solicitud registrada correctamente');
   } catch (err) {error.textContent = err.message; error.hidden = false;}
-  finally {btn.disabled = false; btn.innerHTML = 'Registrar solicitud <span>→</span>';}
+  finally {quoteSubmitting = false; btn.disabled = false; btn.innerHTML = 'Registrar solicitud <span>→</span>';}
 });
 $('#copy-quote').addEventListener('click', async () => {try { await navigator.clipboard.writeText(lastQuote?.message || ''); toast('Solicitud copiada al portapapeles'); } catch {toast('No se pudo copiar. Selecciona el texto manualmente.'); }});
 $('#new-quote').addEventListener('click', () => {lastQuote = null; renderCart(); closeCart(); location.hash = '#catalogo';});
