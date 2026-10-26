@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-25T20:49:37.706Z",
+  "generated_at": "2026-10-26T04:44:37.956Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1168,
-    "descartar": 32,
+    "informativa": 1166,
+    "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -3604,52 +3604,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests",
-      "url": "https://github.com/Parabola-org/parabola/issues/20",
-      "source_created_at": "2026-10-15T20:03:08Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty: $45] Validate input to bytes32ToStellarAddress",
-      "url": "https://github.com/Parabola-org/parabola/issues/19",
-      "source_created_at": "2026-10-15T20:03:06Z",
-      "first_seen_at": "2026-10-15T20:03:26.347Z",
-      "last_seen_at": "2026-10-15T21:03:27.047Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 45,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Application: board item 31 — Real Estate Listing Portal ($350) — RedGhost123",
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/44",
       "source_created_at": "2026-10-21T02:44:10Z",
@@ -3696,16 +3650,65 @@
     },
     {
       "source": "github",
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/43",
-      "source_created_at": "2026-10-25T20:39:26Z",
-      "first_seen_at": "2026-10-25T20:49:36.931Z",
-      "last_seen_at": "2026-10-25T20:49:36.931Z",
+      "title": "ZecHub bounty: Arabic: native review of the ZecHub glossary and menus (0.025 ZEC)",
+      "url": "https://github.com/panoskokmotos/panoskokmotos/issues/17",
+      "source_created_at": "2026-10-26T03:26:54Z",
+      "first_seen_at": "2026-10-26T04:44:37.282Z",
+      "last_seen_at": "2026-10-26T04:44:37.282Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "ZecHub bounty: German: native review of the ZecHub glossary and menus (0.025 ZEC)",
+      "url": "https://github.com/panoskokmotos/panoskokmotos/issues/16",
+      "source_created_at": "2026-10-26T03:26:53Z",
+      "first_seen_at": "2026-10-26T04:44:37.282Z",
+      "last_seen_at": "2026-10-26T04:44:37.282Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "ZecHub bounty: French: native review of the ZecHub glossary and menus (0.025 ZEC)",
+      "url": "https://github.com/panoskokmotos/panoskokmotos/issues/15",
+      "source_created_at": "2026-10-26T03:26:52Z",
+      "first_seen_at": "2026-10-26T04:44:37.282Z",
+      "last_seen_at": "2026-10-26T04:44:37.282Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
