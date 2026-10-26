@@ -18,7 +18,7 @@ from urllib.parse import quote as urlquote, urlsplit
 from fastapi import Depends, FastAPI, Header, HTTPException, Request, status
 from fastapi.responses import FileResponse, JSONResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
-from pydantic import BaseModel, ConfigDict, Field, field_validator
+from pydantic import BaseModel, ConfigDict, Field, ValidationInfo, field_validator
 
 from .database import as_dict, audit_action, connect, initialize, transaction
 from .rate_limit import SlidingWindowLimiter
@@ -64,6 +64,11 @@ def valid_contact_phone(value: str) -> bool:
     return (bool(re.fullmatch(r'\+?[0-9 ()-]{7,25}', value)) and
             7 <= len(re.sub(r'[^0-9]', '', value)) <= 15)
 
+
+
+def valid_single_line(value: str) -> bool:
+    """Reject control characters in names and catalog labels, not freeform notes."""
+    return re.search(r'[\x00-\x1f\x7f-\x9f]', value) is None
 
 
 def valid_privacy_policy_url(value: str) -> bool:
@@ -131,8 +136,8 @@ class QuoteIn(BaseModel):
     @field_validator('customer_name')
     @classmethod
     def valid_name(cls, value: str):
-        if len(value) < 2:
-            raise ValueError('El nombre debe tener al menos 2 caracteres')
+        if len(value) < 2 or not valid_single_line(value):
+            raise ValueError('El nombre debe tener al menos 2 caracteres y una sola línea')
         return value
 
     @field_validator('phone')
@@ -184,10 +189,12 @@ class ProductIn(BaseModel):
 
     @field_validator('name', 'category')
     @classmethod
-    def not_blank(cls, value: str):
-        if len(value.strip()) < 2:
-            raise ValueError('Este campo es obligatorio')
-        return value.strip()
+    def not_blank(cls, value: str, info: ValidationInfo):
+        value = value.strip()
+        minimum = 3 if info.field_name == 'name' else 2
+        if len(value) < minimum or not valid_single_line(value):
+            raise ValueError('Nombre o categoría inválidos: longitud mínima y una sola línea')
+        return value
 
 
 class QuoteStatusIn(BaseModel):
@@ -205,16 +212,16 @@ class JobIn(BaseModel):
     @classmethod
     def nonblank_title(cls, value: str):
         value = value.strip()
-        if len(value) < 3:
-            raise ValueError('El título debe tener al menos 3 caracteres')
+        if len(value) < 3 or not valid_single_line(value):
+            raise ValueError('El título debe tener al menos 3 caracteres y una sola línea')
         return value
 
     @field_validator('customer_name')
     @classmethod
     def nonblank_customer_name(cls, value: str):
         value = value.strip()
-        if len(value) < 2:
-            raise ValueError('El nombre del cliente debe tener al menos 2 caracteres')
+        if len(value) < 2 or not valid_single_line(value):
+            raise ValueError('El nombre del cliente debe tener al menos 2 caracteres y una sola línea')
         return value
 
 
