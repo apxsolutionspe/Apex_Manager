@@ -59,6 +59,45 @@ def main():
         assert blocked_errors == [], f'Errores con almacenamiento bloqueado: {blocked_errors}'
         blocked.close()
 
+        # Public quote submission is single-flight and remains retryable after an error.
+        # Mock the write endpoint: no customer data reaches the backend.
+        quote_page = browser.new_page(viewport={'width': 390, 'height': 844})
+        quote_errors = []
+        quote_page.on('pageerror', lambda error: quote_errors.append(str(error)))
+        quote_writes = {'count': 0}
+
+        def mock_quote(route):
+            quote_writes['count'] += 1
+            status = 503 if quote_writes['count'] == 1 else 201
+            body = ('{"detail":"Fallo sintético de escritura"}' if status == 503 else
+                    '{"code":"COT-20261026-ABCDEF","whatsapp_url":null,'
+                    '"message":"Solicitud de prueba","state":"registrado"}')
+            route.fulfill(status=status, content_type='application/json', body=body)
+
+        quote_page.route('**/api/quotes', mock_quote)
+        quote_page.goto(BASE, wait_until='domcontentloaded', timeout=20000)
+        expect(quote_page.locator('#catalog-grid .product-card')).to_have_count(8)
+        quote_page.locator('[data-add]').first.click()
+        quote_page.locator('#open-cart').click()
+        quote_page.locator('#customer-name').fill('Cliente QA Sintético')
+        quote_page.locator('#customer-phone').fill('987654321')
+        quote_page.locator('input[name="consent"]').check()
+        submit_public_twice = """() => {
+          const form = document.querySelector('#quote-form');
+          for (let i = 0; i < 2; i++)
+            form.dispatchEvent(new Event('submit', {bubbles:true, cancelable:true}));
+        }"""
+        quote_page.evaluate(submit_public_twice)
+        expect(quote_page.locator('#quote-error')).to_contain_text('Fallo sintético')
+        expect(quote_page.locator('#send-quote')).to_be_enabled()
+        assert quote_writes['count'] == 1, f'Error: {quote_writes["count"]} cotizaciones duplicadas'
+        expect(quote_page.locator('#customer-name')).to_have_value('Cliente QA Sintético')
+        quote_page.evaluate(submit_public_twice)
+        expect(quote_page.locator('#quote-success')).to_be_visible()
+        assert quote_writes['count'] == 2, 'El reintento duplicó las escrituras'
+        assert quote_errors == [], f'Errores JS en cotización: {quote_errors}'
+        quote_page.close()
+
         # Admin forms must be single-flight: two submit events in one tick
         # produce one write, and a failed write must remain retryable.
         import json
