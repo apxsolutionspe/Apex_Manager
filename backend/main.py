@@ -2,6 +2,7 @@
 
 La versión de desarrollo no recibe pagos ni publica servicios externos.
 """
+import hashlib
 import ipaddress
 import json
 import os
@@ -126,6 +127,7 @@ class QuoteIn(BaseModel):
     email: str = Field(default='', max_length=160)
     notes: str = Field(default='', max_length=1000)
     items: list[CartItem] = Field(min_length=1, max_length=30)
+    request_id: str | None = Field(default=None, min_length=32, max_length=32, pattern=r'^[a-f0-9]{32}$')
     consent: Literal[True]  # No aceptar silenciosamente ni omitir la autorización.
 
     @field_validator('customer_name', 'phone', 'email', 'notes')
@@ -252,6 +254,23 @@ def insert_with_code(db, prefix: str, table: str, sql: str, values: tuple):
     raise HTTPException(503, 'No se pudo generar un código único. Intenta nuevamente.')
 
 
+def quote_response(code: str, total: int | None, records: list[dict],
+                   customer_name: str, phone: str, notes: str,
+                   whatsapp_number: str) -> dict:
+    """Rebuild the same receipt for an idempotent retry from stored snapshots."""
+    lines = [f'Hola, APEX_PRIME_X. Solicito la cotización {code}:']
+    lines += [f"• {i['name']} x{i['quantity']}" for i in records]
+    lines += [f'Cliente: {customer_name}', f'Contacto: {phone}']
+    if notes:
+        lines.append(f'Detalles: {notes}')
+    lines.append('Quedo atento/a a su propuesta. Gracias.')
+    message = '\n'.join(lines)
+    number = re.sub(r'\D', '', whatsapp_number)
+    whatsapp_url = f'https://wa.me/{number}?text={urlquote(message)}' if 8 <= len(number) <= 15 else None
+    return {'code': code, 'total_cents': total, 'whatsapp_url': whatsapp_url, 'message': message,
+            'state': 'registrado', 'notice': 'La solicitud quedó registrada. WhatsApp se abre únicamente si el cliente lo confirma.'}
+
+
 def create_app(settings: Settings | None = None) -> FastAPI:
     settings = settings or Settings()
     initialize(settings.db_path, seed_demo=settings.demo_mode)
@@ -351,7 +370,24 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 raise HTTPException(422, 'Cantidad máxima por artículo: 50')
         if len(counts) > 30:
             raise HTTPException(422, 'Demasiados artículos')
+        fingerprint = (hashlib.sha256(json.dumps(
+            payload.model_dump(exclude={'request_id'}), ensure_ascii=False,
+            sort_keys=True, separators=(',', ':')).encode('utf-8')).hexdigest()
+            if payload.request_id else None)
         with transaction(settings.db_path) as db:
+            # Lock before checking the key so concurrent requests (including
+            # requests handled by separate processes) cannot create two rows.
+            db.execute('BEGIN IMMEDIATE')
+            if payload.request_id:
+                prior = db.execute(
+                    'SELECT code,total_cents,items_json,request_fingerprint FROM quotes WHERE request_id=?',
+                    (payload.request_id,)).fetchone()
+                if prior:
+                    if prior['request_fingerprint'] != fingerprint:
+                        raise HTTPException(409, 'Identificador reutilizado con una solicitud diferente')
+                    return quote_response(
+                        prior['code'], prior['total_cents'], json.loads(prior['items_json']),
+                        payload.customer_name, payload.phone, payload.notes, settings.whatsapp_number)
             placeholders = ','.join('?' for _ in counts)
             product_sql = f'SELECT * FROM products WHERE active=1 AND id IN ({placeholders})'
             if settings.environment == 'production':
@@ -373,21 +409,13 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             total = sum(prices) if all(value is not None for value in prices) else None
             code, _ = insert_with_code(
                 db, 'COT', 'quotes',
-                '''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents,consent_at,privacy_notice_version)
-                           VALUES (?,?,?,?,?,?,?,datetime('now'),?)''',
+                '''INSERT INTO quotes (code,customer_name,phone,email,notes,items_json,total_cents,consent_at,privacy_notice_version,request_id,request_fingerprint)
+                           VALUES (?,?,?,?,?,?,?,datetime('now'),?,?,?)''',
                 (payload.customer_name, payload.phone, payload.email, payload.notes,
-                 json.dumps(records, ensure_ascii=False), total, settings.privacy_notice_version))
-        lines = [f'Hola, APEX_PRIME_X. Solicito la cotización {code}:']
-        lines += [f"• {i['name']} x{i['quantity']}" for i in records]
-        lines += [f'Cliente: {payload.customer_name}', f'Contacto: {payload.phone}']
-        if payload.notes:
-            lines.append(f'Detalles: {payload.notes}')
-        lines.append('Quedo atento/a a su propuesta. Gracias.')
-        message = '\n'.join(lines)
-        number = re.sub(r'\D', '', settings.whatsapp_number)
-        whatsapp_url = f'https://wa.me/{number}?text={urlquote(message)}' if 8 <= len(number) <= 15 else None
-        return {'code': code, 'total_cents': total, 'whatsapp_url': whatsapp_url, 'message': message,
-                'state': 'registrado', 'notice': 'La solicitud quedó registrada. WhatsApp se abre únicamente si el cliente lo confirma.'}
+                 json.dumps(records, ensure_ascii=False), total, settings.privacy_notice_version,
+                 payload.request_id, fingerprint))
+        return quote_response(code, total, records, payload.customer_name,
+                              payload.phone, payload.notes, settings.whatsapp_number)
 
     @app.post('/api/quote-status')
     def lookup_quote(payload: QuoteLookupIn, request: Request):

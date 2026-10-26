@@ -13,6 +13,7 @@ let search = '';
 let cart = {};
 let lastQuote = null;
 let quoteSubmitting = false;
+let pendingQuoteRequest = null;
 let intakeEnabled = false;
 try { const stored = JSON.parse(localStorage.getItem('apex_cart') || '{}'); if (stored && typeof stored === 'object' && !Array.isArray(stored)) cart = stored; } catch { cart = {}; }
 const saveCart = () => {
@@ -81,10 +82,25 @@ $('#quote-form').addEventListener('submit', async e => {
   const items = products.filter(p => cart[p.id] > 0).map(p => ({product_id:p.id, quantity:Math.min(50, Number(cart[p.id]))}));
   if (!items.length) {error.textContent = 'Agrega al menos un artículo.'; error.hidden = false; return;}
   const data = Object.fromEntries(new FormData(e.currentTarget));
+  const payload = {...data, consent: data.consent === 'true', items};
+  const draft = JSON.stringify(payload);
+  // Keep the same unpredictable key across a lost response or network retry.
+  // A changed form is a different request and must get a fresh key.
+  if (!pendingQuoteRequest || pendingQuoteRequest.draft !== draft) {
+    let id;
+    if (globalThis.crypto?.getRandomValues) {
+      const bytes = new Uint8Array(16);
+      crypto.getRandomValues(bytes);
+      id = Array.from(bytes, b => b.toString(16).padStart(2, '0')).join('');
+    }
+    pendingQuoteRequest = {draft, id};
+  }
+  if (pendingQuoteRequest.id) payload.request_id = pendingQuoteRequest.id;
   quoteSubmitting = true;
   const btn = $('#send-quote'); btn.disabled = true; btn.textContent = 'Registrando...';
   try {
-    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify({...data, consent: data.consent === 'true', items})});
+    lastQuote = await api('/api/quotes', {method:'POST', body:JSON.stringify(payload)});
+    pendingQuoteRequest = null;
     $('#quote-code').textContent = `Código de seguimiento: ${lastQuote.code}`;
     const link = $('#whatsapp-link'); link.hidden = !lastQuote.whatsapp_url;
     if (lastQuote.whatsapp_url) link.href = lastQuote.whatsapp_url;
