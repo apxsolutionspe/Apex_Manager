@@ -115,6 +115,14 @@ def initialize(path: str, seed_demo: bool = True):
             db.execute('ALTER TABLE quotes ADD COLUMN consent_at TEXT')
         if 'privacy_notice_version' not in columns:
             db.execute('ALTER TABLE quotes ADD COLUMN privacy_notice_version TEXT')
+        # Nullable keys preserve older API clients and existing records.
+        # SQLite serializes keyed quote submissions with BEGIN IMMEDIATE.
+        if 'request_id' not in columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN request_id TEXT')
+        if 'request_fingerprint' not in columns:
+            db.execute('ALTER TABLE quotes ADD COLUMN request_fingerprint TEXT')
+        db.execute('''CREATE UNIQUE INDEX IF NOT EXISTS idx_quotes_request_id
+                      ON quotes(request_id) WHERE request_id IS NOT NULL''')
         count = db.execute("SELECT count(*) FROM products").fetchone()[0]
         if count == 0 and seed_demo:
             db.executemany("""INSERT INTO products
