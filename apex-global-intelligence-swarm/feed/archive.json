@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-10-26T04:44:37.282Z",
+  "updated_at": "2026-10-26T12:59:12.493Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "twitter.com/rauchg/status/2106402024804020657",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "sixthtone.com/news/1019092",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -165,12 +165,12 @@
       "evidence": "",
       "source_created_at": "2026-10-19T10:46:14Z",
       "opp_type": "bounty_codigo",
-      "score": 32,
+      "score": 25,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -230,22 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "hoaspy.com",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-26T04:44:37.282Z"
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
     },
     {
       "source": "hackernews",
@@ -334,6 +319,411 @@
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "pressaudit.org/blog/datacenters",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49877422",
+      "title": "Proton Mail confirmed and paid a bounty for a spoofing bug, then left it unfixed",
+      "url": "https://github.com/alonsovidales/protonmail-sender-spoofing/",
+      "evidence": "",
+      "source_created_at": "2026-09-28T13:13:59Z",
+      "opp_type": "bounty_codigo",
+      "score": 26,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039789952",
+      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
+      "evidence": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage - **Monto:** Ver enlace - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED - LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne - Lightning: chieftrait089@walletofsatoshi.com **Note:** I am a developer from Cub",
+      "source_created_at": "2026-10-26T12:37:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/46",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039972215",
+      "title": "[radar] SN open bounty 2026-10-26T12:48",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1601866 Stacker_Stocks 2 319 10000 22 24.7 9274 28921 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats! ```",
+      "source_created_at": "2026-10-26T12:48:58Z",
+      "opp_type": "concurso",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1339",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039962974",
+      "title": "[radar] SN open bounty 2026-10-26T12:48",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1601866 Stacker_Stocks 2 319 10000 22 24.6 9274 28921 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats! ```",
+      "source_created_at": "2026-10-26T12:48:24Z",
+      "opp_type": "concurso",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1338",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040028485",
+      "title": "Retire dead paper strategies from the paper matrix",
+      "url": "https://github.com/watkast/predictionbots/issues/12",
+      "evidence": "Oct 23 audit: mm_inventory_kxhigh, oracle_lag, taker_lag, complete_set_arb and the bug-bounty research lane were losing or had zero fills for days/weeks. Research: regenerate the leaderboard and confirm; Design: which configs to drop from configs/paper_matrix.yaml and what to record in reports/voided.yaml; needs the user's go before Build. **Type:** project · **Assigned bot:** `paper` · **Priority:** P2 **Stages** - [x] Research - [ ] Design - [ ] Build - [ ] Test - [ ] Integration - [ ] QA - [ ] Launch - [ ] Live Test --- _Generated by [Claude",
+      "source_created_at": "2026-10-26T12:52:24Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/watkast/predictionbots/issues/12",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039345983",
+      "title": "[intake 输入] 【深度审计报告】dsh-unlag 1.9.137（regrevia/dsh-unlag）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1814",
+      "evidence": "【深度审计报告】dsh-unlag 1.9.137（regrevia/dsh-unlag） ## 性质声明 本件是给 **review.lingshulab.com 插件测评站** 的 intake 输入（外部贡献申报），不是悬赏：**不 /claim，不自行加 bounty 标签**。计分、档位以及是否归并，都由维护者裁定。 1. 结论 本件是给 review.lingshulab.com 插件测评站的深度审计。被测是 `dsh-unlag` 1.9.137——一个「按一下按钮就换掉插件代码、顺带重建界面」的插件。它的卖点是**不用重启、不用刷新掉会话**。 **已验：自带测试 760 条通过、7 条失败；35 个测试文件里有 6 个没跑完（退出码 1）。** 最要紧的一条是 README 与代码对不上。README 写： ~~~ 自动刷新默认关着，本插件不装任何文件监视：本插件自己永远不会去换代码。 ~~~ 但 `index.js:922` 里就有这一行： ~~~ const closer = watch(root, { recursive: true }, (_event, filename) => schedule(filename)) ~~~ `watch` 是导入进来的文",
+      "source_created_at": "2026-10-26T12:09:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1814",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039302862",
+      "title": "feat(dashboard): build interactive contributor growth and points distribution chart UI",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/42",
+      "evidence": "### 🎯 Context & Objective Design and implement an interactive charting dashboard in the web frontend displaying ecosystem contributor growth, points distribution histograms, and repository health metrics. ### 🏆 Complexity Tier & Bounty - **Tier**: High (200 pts) - **Scope**: Interactive Data Visualization & Frontend ### 📋 Scope of Work - Integrate lightweight charting library (e.g., Chart.js or SVG rendering) into `app/templates/dashboard.html`. - Render points distribution across Trivial, Medium, and High complexity tiers. - Display time-se",
+      "source_created_at": "2026-10-26T12:06:39Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/42",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039301694",
+      "title": "feat(cli): build standalone Python CLI client (dripslens-cli) for terminal search",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/41",
+      "evidence": "### 🎯 Context & Objective Build a standalone terminal CLI client (`dripslens-cli`) powered by `click` or `argparse` allowing developers to search bounties, inspect repository health, and check leaderboard standings directly from the shell. ### 🏆 Complexity Tier & Bounty - **Tier**: High (200 pts) - **Scope**: Developer Tooling & CLI Client ### 📋 Scope of Work - Implement command tree: `dripslens search`, `dripslens repos`, `dripslens issues`, and `dripslens leaderboard`. - Support JSON and formatted table terminal outputs. - Package entry po",
+      "source_created_at": "2026-10-26T12:06:34Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/41",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039300913",
+      "title": "test(integration): build async pytest suite mocking GitHub REST & Horizon APIs",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/40",
+      "evidence": "### 🎯 Context & Objective Expand integration test suite with hermetic async mock servers validating complete failure recovery, rate limit backoffs, and edge cases across GitHub REST and Horizon APIs. ### 🏆 Complexity Tier & Bounty - **Tier**: High (200 pts) - **Scope**: Comprehensive Testing Infrastructure ### 📋 Scope of Work - Create reusable test fixtures mocking external HTTP responses with `pytest-asyncio` and `unittest.mock`. - Simulate network latency, connection dropouts, malformed JSON, and persistent 429/503 cascades. - Validate tha",
+      "source_created_at": "2026-10-26T12:06:31Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/40",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039299658",
+      "title": "feat(analytics): implement contributor impact scoring and cross-repo activity engine",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/39",
+      "evidence": "### 🎯 Context & Objective Develop an advanced analytics engine to calculate multi-dimensional contributor impact scores across Drips Wave repositories based on merged PR volume, issue complexity, and review activity. ### 🏆 Complexity Tier & Bounty - **Tier**: High (200 pts) - **Scope**: Cross-Repository Analytics & Data Science ### 📋 Scope of Work - Design a weighted scoring algorithm: `Score = f(merged_prs, issue_points, review_count, repo_multiplier)`. - Build an analytics service in `app/services/` aggregating activity across multiple rep",
+      "source_created_at": "2026-10-26T12:06:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/39",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039298109",
+      "title": "feat(webhook): build event notification worker for newly approved Wave repositories",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/38",
+      "evidence": "### 🎯 Context & Objective Build an event notification worker that listens for newly approved repositories and triggers initial indexing, health scoring, and Stellar account verification. ### 🏆 Complexity Tier & Bounty - **Tier**: Medium (150 pts) - **Scope**: Event Worker & Webhook Ingestion ### 📋 Scope of Work - Create a webhook receiver endpoint `POST /webhooks/repo-registered` protected with token authentication. - Queue background task to fetch open issues, verify Stellar Horizon public key, and compute health score. - Ensure idempotency",
+      "source_created_at": "2026-10-26T12:06:20Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/38",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039296550",
+      "title": "feat(export): add CSV/JSON data export endpoint for ecosystem analytics",
+      "url": "https://github.com/HassanKorey/DripsLens/issues/37",
+      "evidence": "### 🎯 Context & Objective Create export endpoints enabling ecosystem researchers to download complete CSV and JSON snapshots of tracked repositories, bounties, and contributor rankings. ### 🏆 Complexity Tier & Bounty - **Tier**: Medium (150 pts) - **Scope**: Analytics & Data Export ### 📋 Scope of Work - Implement `GET /export/repos` and `GET /export/contributors` with format query parameter (`format=csv` or `format=json`). - Stream large dataset responses efficiently without memory bloat using StreamingResponse. - Include proper Content-Disp",
+      "source_created_at": "2026-10-26T12:06:14Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HassanKorey/DripsLens/issues/37",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040126727",
+      "title": "Add team details route and page",
+      "url": "https://github.com/mautic/mautic/issues/17949",
+      "evidence": "Expected: • a route and page show the details of a single team • the page links back to the team list Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:58:17Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17949",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040113238",
+      "title": "Add team creation route and page",
+      "url": "https://github.com/mautic/mautic/issues/17948",
+      "evidence": "Expected: • a route and page create a new team • the page saves the team and shows it in the team list Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:57:28Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17948",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040110643",
+      "title": "Add team list route and page",
+      "url": "https://github.com/mautic/mautic/issues/17947",
+      "evidence": "Expected: • a route and page list all teams • the list links each team to its details page Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:57:19Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17947",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040108054",
+      "title": "Add team card component for individual team view",
+      "url": "https://github.com/mautic/mautic/issues/17946",
+      "evidence": "Expected: • a card component shows an individual team's summary • the card links to the team's details page Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:57:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17946",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040105565",
+      "title": "Add avatar component for individual and group",
+      "url": "https://github.com/mautic/mautic/issues/17945",
+      "evidence": "Expected: • an avatar component shows an individual contact or a group • the group avatar shows the group's identity distinct from an individual avatar Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:57:01Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17945",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040009747",
+      "title": "Add data table component to the audit log view",
+      "url": "https://github.com/mautic/mautic/issues/17944",
+      "evidence": "Expected: • the audit log view uses a data table component to list the logged read access and authentication events • columns can be sorted and the table keeps its layout when the list is long Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:51:15Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17944",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6040006719",
+      "title": "Add filter panel component to the audit log view",
+      "url": "https://github.com/mautic/mautic/issues/17943",
+      "evidence": "Expected: • the audit log view uses a filter panel component to narrow the logged read access and authentication events • filters apply to the list without leaving the page Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:51:03Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17943",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039986030",
+      "title": "Add off-canvas component to the audit log details view",
+      "url": "https://github.com/mautic/mautic/issues/17942",
+      "evidence": "Expected: • the audit log view uses an off-canvas component to show the details of a logged read access or authentication event • the off-canvas opens from the audit log list without leaving the page Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:49:47Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17942",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039921224",
+      "title": "Add segmented control component to the contact-facing preference centre",
+      "url": "https://github.com/mautic/mautic/issues/17941",
+      "evidence": "Expected: • the contact-facing preference centre uses a segmented control component for its tracking choices • each segment shows one option and the selected segment is clearly marked Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:45:52Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17941",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039861168",
+      "title": "Replace thread-per-query handling with a non-blocking epoll event loop",
+      "url": "https://github.com/jadolg/elodin/issues/547",
+      "evidence": "## Summary elodin answers queries on threads: a pool of up to 128 handler threads for UDP and DoH/2, one thread per TCP, DoT and DoH/1.1 connection, and a second pool of racers. Every upstream round trip, every chain-of-trust lookup and every wait on another query's answer parks the thread that is making it. Two ceilings follow directly from that and no setting moves either very far: - **Cache misses in flight = pool width.** `MAX_DERIVED_WORKERS :: 128` (`src/config/sizing.odin:47`), so against a 20 ms upstream the server carries about 6,400 m",
+      "source_created_at": "2026-10-26T12:42:09Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/jadolg/elodin/issues/547",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039857822",
+      "title": "Add preset selection field with predefined settings groups to the Privacy centre",
+      "url": "https://github.com/mautic/mautic/issues/17940",
+      "evidence": "Expected: • the Privacy centre configuration screen has a field to select a simple preset • each preset applies a predefined group of settings at once Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:41:57Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17940",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039824769",
+      "title": "Add tabs UI component to the Privacy centre configuration screen",
+      "url": "https://github.com/mautic/mautic/issues/17939",
+      "evidence": "Expected: • the Privacy centre configuration screen uses a tabs UI component to organize its sections • each tab shows its section without leaving the screen Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:39:51Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17939",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039765070",
+      "title": "Block behavioral activity on the contact profile when tracking is off",
+      "url": "https://github.com/mautic/mautic/issues/17938",
+      "evidence": "Expected: • tracking off = behavioral activity is not recorded on the contact's profile • tracking on = behavioral activity is recorded on the contact's profile Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:36:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17938",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6039754063",
+      "title": "Make the tracking toggle optional in the preference centre",
+      "url": "https://github.com/mautic/mautic/issues/17937",
+      "evidence": "Expected: • the preference centre shows the tracking toggle as optional, so it can be hidden • when the toggle is shown, the contact can enable or disable tracking • when the toggle is hidden, the preference centre keeps the tracking choice without showing the control Care about this issue? Want to get it resolved sooner? If you are a member of Mautic , you can add some funds to the Bounties Project so that the person who completes this task can claim those funds once it is merged by a member of the core team! Read the docs here.",
+      "source_created_at": "2026-10-26T12:35:28Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/17937",
+      "first_seen_at": "2026-10-26T12:59:12.493Z",
+      "last_seen_at": "2026-10-26T12:59:12.493Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-10-26T04:44:37.282Z"
     },
@@ -711,21 +1101,6 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1805",
       "first_seen_at": "2026-10-26T04:44:37.282Z",
       "last_seen_at": "2026-10-26T04:44:37.282Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49877422",
-      "title": "Proton Mail confirmed and paid a bounty for a spoofing bug, then left it unfixed",
-      "url": "https://github.com/alonsovidales/protonmail-sender-spoofing/",
-      "evidence": "",
-      "source_created_at": "2026-09-28T13:13:59Z",
-      "opp_type": "bounty_codigo",
-      "score": 26,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/alonsovidales/protonmail-sender-spoofing",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-10-25T20:49:36.931Z"
     },
     {
       "source": "hackernews",
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/730",
       "first_seen_at": "2026-10-16T04:30:19.164Z",
       "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5878147351",
-      "title": "【贡献申报】hive-memory-bench #44（基线 53b1939）：同名异体真同名后 28 道题按语料不可答且被记主体混淆、keys_fp 不含语料与适配器（旧数据答卷与读键适配器均判同源）、c3 放行 U 形与不退化臂（24.2%）、#30 逐题闭卷剔除未实现、持久化破坏臂与干净臂共用一个库（P1×5）；已由 PR #49 修复关闭",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/729",
-      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 3/4**（状态链轨与参考 harness 第二组），5 项合在 **FuRongJun-1999/hive-memory-bench#44**，各有自含脚本与读数： - **第一项（9f31b1f／#31 修复引入）**：同名异体影子链与主链 (doc, subject, slot) 逐字相同且无区分线索——135 道同名链题中 28 道按语料逐句读与答案键相反（现值 13／状态归属 14／历史 1，占非可推现值题 13/59）；忠实读者 present 0.7797、subject_confusion 0.0926；旧树同一读法 0 道 - **第二项**：`keys_fp` 只哈希答案五字段——f4509d7 与 53b1939 指纹同为 `bda3d94b7f29526a`（语料 93/270 段已改）；旧数据上作答的三臂全判「同源且完整」进 readings、c4=True；照 README §9 自备的适配器在进程内读 `keys.json`，present／history／four_state 全 1.0，",
-      "source_created_at": "2026-10-16T04:07:18Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/729",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5878141195",
-      "title": "【贡献申报】hive-memory-bench #43（基线 53b1939）：状态链门② 破坏臂管线三处失效（calibrate 不判破坏臂、乙 bad_write 被完整语料重建抹掉、丁的下降来自判分器被剥 cid）、门② 判据零破坏也过、时点指标早晚同一列表、变更链枚举 6048 行不罚、JSON 失败仍记 _json_ok（P1×5）；已由 PR #48 修复关闭",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/728",
-      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 2/4**（状态链轨 `chain/` 第一组），5 项合在 **FuRongJun-1999/hive-memory-bench#43**，彼此独立、各有自含脚本与读数： - **第一项**：门② 破坏臂管线三处失效——`do_calibrate` 跑了破坏臂却不判（`c_damage=None`、`damage_by_arm={}`）；进程内 bm25 在 ask 时用完整语料重建，乙 `bad_write` 642/642 题检索与干净 bm25 逐字相同；丁 `bad_present` 剥的是判分器也读的材料件 cid，同一份答卷 verbatim 0.6993 → 0.0 - **第二项**：门② 判据——对照取 `SUT_ORDER` 首臂、不认 `manifest.base_arm`；不查非映射指标不降；「两两可分」在全部 18 个读数上取 L∞ ⇒ 三条零破坏的 bm25 副本 `c_damage=True`，三条全空答卷只靠 12 道 absent 题也 `c_damage=True` - **第三项*",
-      "source_created_at": "2026-10-16T04:06:41Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/728",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5878130999",
-      "title": "【贡献申报】hive-memory-bench #42（基线 53b1939）：判分器修复后的误报、漏判与入口残留——正当否定被判编造（78/78）、score_points 否认要点反得高分、hedge 降级只进不出、CLI 仍信自报 condition（13/38 张卡「不知道。」PASS）、判官一致率并集记 scope（P1×5）；已由 PR #47 修复关闭",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/726",
-      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`）第十一轮审计的 **P1 汇总 1/4**，5 项合在一个 issue 里（**FuRongJun-1999/hive-memory-bench#42**），彼此独立，各有自含复现脚本与读数： - **第一项（PR #34 回归）**：`judge.py` 禁编造轴把正当否定判成编造——「不应认为／没有理由认为／不能简单地认为／不该接受＋触发词」78/78 判编造（旧树 0/81）；「文中并没有交代…」7/7 张卡判编造（旧树 0/7）；q029 标准结论加一句「不应认为这是基因复制。」pass→fail - **第二项（#10 未闭合＋回归）**：`score_points` 的 paraphrase 命中不查否定、any_of 只看首个命中模式——q006 否认两点 0.85 pass ＞ 不提 0.5 review；117 条标准答案 11 条降分、4 条降档 - **第三项（回归）**：对冲降级（hedge）只进不出——两路判官都被调用、判词都不采信，正确答案带「也许」永远 review - **第四项（#15／#8 未闭合，CLI 入口）**",
-      "source_created_at": "2026-10-16T04:05:33Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/726",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5878126731",
-      "title": "【贡献申报】hive-memory-bench #37–#41（基线 53b1939）：PR #34 修复引入的 3 处回归与 2 处未闭合——插一个逗号即绕过禁编造轴（134/134）、卡片白名单短引文被长度门判 fail（13/13）、五类句式翻转否定豁免（各 78/78）、L2 判词指纹不含引文、harness 与判分器读写不同目录（P0×5）；已由 PR #46 修复关闭",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/725",
-      "evidence": "## 这是什么 对 `FuRongJun-1999/hive-memory-bench`（`main` HEAD `53b1939`，2026-10-14 22:58 +0800）第十一轮审计的 **5 条 P0（A 档：量具失效）**申报。5 项分开发成 5 个 issue，彼此独立，各有自含复现脚本与读数： - **FuRongJun-1999/hive-memory-bench#37**：`judge.py` `any_affirmed()`——命中在 `norm()` 上找、定位在 `_norm_keep_breaks()` 上做，找不到就 `return False` 当作「未被肯定」⇒ 字面触发词中间插一个「，」即绕过禁编造轴，134/134 放行（旧树 0/134）；端到端 131 例 fail→pass - **FuRongJun-1999/hive-memory-bench#38**：`judge.py` `MIN_QUOTE_CHARS = 8` 不认卡片白名单——13 条 primary 短引文（9 张卡）被判「引文过短」，作者标准结论＋作者白名单引文从 pass 变结构 fail（旧树 13/13 pass，新树 13/13 fail） - **FuRongJ",
-      "source_created_at": "2026-10-16T04:05:03Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/725",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5878007004",
-      "title": "🎨 生成式 UI 生态日报 2026-10-16",
-      "url": "https://github.com/linqinghao/agents-radar/issues/191",
-      "evidence": "# 生成式 UI 生态日报 2026-10-16 > Issues: 36 | PRs: 85 | 覆盖项目: 4 个 | 生成时间: 2026-10-16 03:44 UTC - [a2ui](https://github.com/a2ui-project/a2ui) - [OpenUI](https://github.com/thesysdev/openui) - [json-render](https://github.com/vercel-labs/json-render) - [CopilotKit](https://github.com/CopilotKit/CopilotKit) --- ## 横向生态对比 # 生成式 UI 生态横向对比分析报告 **报告日期：2026-10-16 | 数据窗口：过去 24 小时 | 覆盖项目：a2ui / OpenUI / json-render / CopilotKit** --- ## 1. 生态全景 生成式 UI 赛道已从单点工具竞争进入**“分层竞合”阶段**：a2ui 以协议 + 多语言 SDK 的形态占据规范层，OpenUI 与 CopilotKit 在框架/平台层各自纵深，且层间已出现事实上的依赖与谈判——**Copil",
-      "source_created_at": "2026-10-16T03:51:21Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/linqinghao/agents-radar/issues/191",
-      "first_seen_at": "2026-10-16T04:30:19.164Z",
-      "last_seen_at": "2026-10-16T04:30:19.164Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873911761",
-      "title": "Models: switch engine or model partway through a thread and see what carries over",
-      "url": "https://github.com/useagenthq/useagent/issues/177",
-      "evidence": "Check what you can change in a thread that's already going, and what the agent still knows afterwards. ## Try this 1. Start a thread on Claude Code: `Create a small to-do app in plain HTML and JavaScript.` 2. When it's done, open the model picker, switch to another model, and ask: `Add a button that clears finished items.` 3. Then try switching the engine, for example to OpenCode, and ask: `What have you built so far, and in which files?` 4. Try Chat too, and ask a question about the code. 5. Switch back to where you started and ask for one mor",
-      "source_created_at": "2026-10-15T21:04:46Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/177",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873910735",
-      "title": "Automations: ask the agent in plain words to schedule something for you",
-      "url": "https://github.com/useagenthq/useagent/issues/176",
-      "evidence": "Check whether the agent can set up a schedule from a normal request in a thread. ## Try this 1. In a normal thread, ask: `Every weekday at 8:30 my time, check the top three posts on news.ycombinator.com and give me one line on each. Set that up.` 2. See what the agent does, and whether it asks for your timezone. 3. Open Automations and find what it made. 4. In the same thread, ask it to change the schedule to Mondays only, then to stop it. ## What to look for - The agent sets up the automation, or tells you clearly how to. - What shows on the A",
-      "source_created_at": "2026-10-15T21:04:42Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/176",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873909783",
-      "title": "Automations: run a real recurring job for a week and check it stays useful",
-      "url": "https://github.com/useagenthq/useagent/issues/175",
-      "evidence": "Check whether an automation stays useful over several runs. ## Try this 1. Pick something you'd want every day or week: a digest of a topic you follow, new releases of an open-source project you use, or new posts on a blog. 2. Create it in Automations with clear instructions: what to check, what to write, how long, and \"say nothing new if nothing changed\". 3. Turn it on and let it run at least five times. 4. Read each result. Change the instructions once if something annoys you. ## What to look for - Results stay accurate and on topic, and link",
-      "source_created_at": "2026-10-15T21:04:38Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/175",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873908651",
-      "title": "Automations: edit, pause and delete one, and check what happens to its runs",
-      "url": "https://github.com/useagenthq/useagent/issues/174",
-      "evidence": "Check the full life of an automation. ## Try this 1. Create an automation (Automations, New automation) that runs every hour with a small job, and turn it on. 2. After one run, use Edit automation to change the instructions. 3. Pause it, wait past its next run time, then turn it on again. 4. Use Run now while a run is already going. 5. Delete it, then check Active runs and your sidebar. 6. Try the search box and the Active and Paused filters. ## What to look for - The new instructions apply from the next run. - A paused automation doesn't run. ",
-      "source_created_at": "2026-10-15T21:04:34Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/174",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873907599",
-      "title": "Automations: set a custom schedule and timezone, and check when it really runs",
-      "url": "https://github.com/useagenthq/useagent/issues/173",
-      "evidence": "Check custom cron schedules and timezones on automations. ## Try this 1. In Automations, choose New automation with a custom Cron expression, `*/15 * * * *` (every 15 minutes), and a small job: `Add the current time to a file called ticks.md, one line per run.` 2. Set Timezone to your own, for example Europe/London or Asia/Kolkata. Save and turn it on. 3. Make a second one with `0 9 * * 1-5` and a timezone far from yours. 4. Watch the first runs of each. 5. Try saving an invalid cron and an invalid timezone. 6. Pause or delete the 15 minute one",
-      "source_created_at": "2026-10-15T21:04:29Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/173",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873906569",
-      "title": "Automations: create one, turn it on, and check its first runs",
-      "url": "https://github.com/useagenthq/useagent/issues/172",
-      "evidence": "Check setting up a scheduled task on the Automations page. ## Try this 1. Open Automations (app.useagent.org/agent/automations) and choose New automation. 2. What should run: \"Daily weather note\". Instructions: `Find tomorrow's weather for and write a three-line note on what to wear.` Cadence: Daily. Set your Timezone. 3. Save it. Note its state, then turn it on. 4. Use Run now once. 5. Wait for its first scheduled run, then open View history. ## What to look for - It's clear that new automations start paused, and how to turn one on. - Run now ",
-      "source_created_at": "2026-10-15T21:04:25Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/172",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873905494",
-      "title": "Computer use: check that screenshots match what the agent says it did",
-      "url": "https://github.com/useagenthq/useagent/issues/171",
-      "evidence": "Check that the agent's screenshots back up what it tells you. ## Try this 1. Ask for a short web task you can check: `Go to wikipedia.org, find the article on the Eiffel Tower, scroll to the section on its height, and take a screenshot at each step.` 2. Compare each screenshot with the agent's words. 3. Ask: `Now find when it was last repainted and show me where on the page that is.` 4. Do two more short tasks of your own on other sites. ## What to look for - One screenshot per step, in order, showing what the agent says it shows. - No claims a",
-      "source_created_at": "2026-10-15T21:04:21Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/171",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873904445",
-      "title": "Computer use: edit a document in the desktop apps and export it as a PDF",
-      "url": "https://github.com/useagenthq/useagent/issues/170",
-      "evidence": "Check the agent working in the desktop apps, not just the browser. ## Try this 1. Ask: `On the desktop, open a text editor or office app, write a one-page letter to a made-up landlord about a broken heater, and save it.` 2. Follow up: `Make the subject line bold, add today's date at the top, and export it as a PDF.` 3. Follow up: `Open the PDF and take a screenshot of it.` 4. Download the files from the Files tab and open them on your own computer. ## What to look for - The agent uses the desktop apps, and you can watch it in the Browser tab. -",
-      "source_created_at": "2026-10-15T21:04:17Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/170",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873903468",
-      "title": "Computer use: get past cookie banners, pop-ups and slow pages",
-      "url": "https://github.com/useagenthq/useagent/issues/169",
-      "evidence": "Check how the agent copes with busy, real-world sites. ## Try this 1. Pick three busy sites with cookie banners or sign-up pop-ups: a news site, a recipe site and an online shop. 2. Ask for something on each that sits further down the page: `Find the ingredients list for a lasagna recipe on .`, `Find the return policy on .` 3. Ask it to take a screenshot of what it found. 4. Watch the Browser tab while it works. ## What to look for - It closes banners and pop-ups, refusing optional cookies where it can, instead of getting stuck. - It waits for ",
-      "source_created_at": "2026-10-15T21:04:13Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/169",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873902373",
-      "title": "Computer use: have the agent test a page it built at phone and desktop sizes",
-      "url": "https://github.com/useagenthq/useagent/issues/168",
-      "evidence": "Check that the agent opens and tests what it builds, instead of only describing it. ## Try this 1. Ask: `Build a one-page site for a made-up yoga studio with a class timetable and a contact form. Open it in the browser and test it.` 2. Follow up: `Check it at phone width and at desktop width. Take a screenshot of each and fix anything that breaks.` 3. Follow up: `Click every link and button and tell me what happens.` 4. Open the Browser tab and look at the page yourself. ## What to look for - The agent really opens the page and takes screenshot",
-      "source_created_at": "2026-10-15T21:04:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/168",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873901266",
-      "title": "Computer use: build a spec and price table for three products from their own pages",
-      "url": "https://github.com/useagenthq/useagent/issues/167",
-      "evidence": "Check how accurately the agent pulls numbers from real product and shop pages. ## Try this 1. Pick three similar products, for example three budget headphones or three e-readers. 2. Ask: `Open each maker's official page, then one shop page for each. Build a table with price, battery life, weight and a link for each, plus a screenshot of each page.` 3. Follow up: `Add each price in another currency, and say which shop includes shipping.` 4. Check two of the numbers yourself. ## What to look for - The numbers match the pages, and each row links t",
-      "source_created_at": "2026-10-15T21:04:05Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/167",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873900144",
-      "title": "Computer use: fill in a form with tricky fields and see how it handles errors",
-      "url": "https://github.com/useagenthq/useagent/issues/166",
-      "evidence": "Check how the agent copes with date pickers, dropdowns, uploads and validation errors. ## Try this 1. Find a public practice form made for testing, with a date picker, dropdowns, a file upload and required fields (search \"practice form for automation testing\"). 2. Ask the agent to fill it in with made-up details you give it, and stop before the final submit. 3. Give it one value the form will reject, such as a bad email or a date in the past. 4. Ask it to change one field, then submit (on the practice site only). ## What to look for - Each fiel",
-      "source_created_at": "2026-10-15T21:04:00Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/166",
-      "first_seen_at": "2026-10-15T21:04:57.107Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873925876",
-      "title": "Slack: run a task from a Slack thread and follow up there",
-      "url": "https://github.com/useagenthq/useagent/issues/190",
-      "evidence": "Check using UseAgent from Slack for normal tasks. You need a Slack workspace where you can add apps. ## Try this 1. Connect Slack (account menu, then Apps) to your workspace. 2. In a channel, mention the UseAgent app with a task: `make a CSV of the ten largest cities in Europe with their populations.` 3. Reply in the same Slack thread with a follow-up. 4. Open the thread on the web and compare. 5. Send the app a direct message with a different task. 6. Attach a file in Slack and ask about it. ## What to look for - The reply lands in the same Sl",
-      "source_created_at": "2026-10-15T21:05:41Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/190",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873924936",
-      "title": "GitHub: connect a repo and have the agent open a pull request on it",
-      "url": "https://github.com/useagenthq/useagent/issues/189",
-      "evidence": "Check connecting GitHub and getting a real change made on your own repo. Use a repo you own or your own fork, never someone else's. ## Try this 1. Connect GitHub (account menu, then Apps) and give it access to one repo of yours. 2. Start a thread and pick that repo. 3. Ask for a small real change: fix a typo in the README, add a missing test, or update a dependency. 4. Ask it to open a pull request. 5. Review the pull request on GitHub, then ask for one change from the thread. ## What to look for - Only the repos you allowed show up. - The agen",
-      "source_created_at": "2026-10-15T21:05:37Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/189",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873923902",
-      "title": "Phone: do a whole task from your phone",
-      "url": "https://github.com/useagenthq/useagent/issues/188",
-      "evidence": "Check the app on a phone from start to finish. What you find also helps #79. ## Try this 1. Open app.useagent.org in your phone's browser and sign in. 2. Start a task: `Plan a 2-day trip to Porto with a map link for each stop, as a document.` 3. Watch it work, open the Browser tab, and open the document from the Files tab. 4. Send two follow-ups, one while it's still working. 5. Open Bots and Automations and look around. 6. Rotate the phone, and try it with your phone in dark mode. ## What to look for - Anything cut off, overlapping, too small ",
-      "source_created_at": "2026-10-15T21:05:33Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/188",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873922843",
-      "title": "First run: sign up, finish a first task, and note every place you got stuck",
-      "url": "https://github.com/useagenthq/useagent/issues/187",
-      "evidence": "Check the path from opening the site to a first finished task, as someone who has never seen it. ## Try this 1. In a private window, go to app.useagent.org and sign up with your email. 2. Confirm your email and get to the home page. Time it. 3. Without reading any docs, do a first task you care about. 4. Write down every moment you weren't sure what to do, and every message you didn't understand. 5. Come back the next day and do a second task. ## What to look for - How long it took from opening the page to a finished first task. - Whether the s",
-      "source_created_at": "2026-10-15T21:05:29Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/187",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873921707",
-      "title": "First run: follow the home page tour on a new account",
-      "url": "https://github.com/useagenthq/useagent/issues/186",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. New accounts get a short tour on the home page. Check it as someone who has never used the app. ## Try this 1. Sign up with a new account and land on the home page. 2. Go through the four steps: what to type, which AI runs it, where tasks show up, and where to connect tools. 3. Do what each step says. Note which model it says",
-      "source_created_at": "2026-10-15T21:05:24Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/186",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873920659",
-      "title": "First run: check the share card after your first finished task",
-      "url": "https://github.com/useagenthq/useagent/issues/185",
-      "evidence": "This one is about the hosted app at app.useagent.org. Some of these features are on the website only and aren't in this repository's code yet, so there's nothing to change here: try it, and post what you find as a comment. After your first task finishes, the app shows a one-time card under the result. Check how it behaves. ## Try this 1. On a new account, finish a first task. 2. Look under the latest turn for the card. 3. Before you click anything, finish a second task and see whether the card shows again. 4. Try Share on X (you don't have to p",
-      "source_created_at": "2026-10-15T21:05:20Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/185",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873919659",
-      "title": "Artifacts: download all files from a thread and check they open",
-      "url": "https://github.com/useagenthq/useagent/issues/184",
-      "evidence": "Check that every file the agent makes can be downloaded and used. ## Try this 1. Run a task that makes several files: `Make a small website (HTML, CSS, one image), a README, and a CSV of sample data.` 2. Open the Artifacts page and find this thread's files. 3. Use Download all to get a ZIP. 4. Unzip it and open every file. Open the website's HTML in your browser. 5. Download one file on its own as well. ## What to look for - Every file the agent made is in the ZIP, with the right names and folders. - The website works from the unzipped files, w",
-      "source_created_at": "2026-10-15T21:05:16Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/184",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5873918469",
-      "title": "Artifacts: check spreadsheet formulas still work after edits and download",
-      "url": "https://github.com/useagenthq/useagent/issues/183",
-      "evidence": "Check that a spreadsheet the agent makes uses real formulas that keep working. ## Try this 1. Ask: `Make a monthly budget spreadsheet with income, ten expense lines, totals using formulas, and a chart.` 2. Open it from the Files tab. Click a total and check it's a formula. 3. Change one expense in the app and see if the totals update. 4. Ask the agent to add a savings column. 5. Download it and open it in Excel, Google Sheets or LibreOffice. ## What to look for - Totals are formulas, not typed-in numbers. - Edits update the totals, in the app a",
-      "source_created_at": "2026-10-15T21:05:12Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/useagenthq/useagent/issues/183",
-      "first_seen_at": "2026-10-15T21:06:54.832Z",
-      "last_seen_at": "2026-10-15T21:26:05.915Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-10-26T12:59:12.493Z",
+      "generated_at": "2026-10-26T12:59:12.493Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 402
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 527
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 47,
+      "new_items": 25,
+      "seen_again": 22,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "3 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "47 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-10-26T04:44:37.282Z",
       "generated_at": "2026-10-26T04:44:37.282Z",
@@ -21347,67 +21408,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "48 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16T16:37:52.234Z",
-      "generated_at": "2026-10-16T16:37:52.234Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 354
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 663
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 25,
-      "seen_again": 22,
-      "archive_total": 531,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",
