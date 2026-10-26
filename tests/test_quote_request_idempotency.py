@@ -4,12 +4,14 @@ Uses synthetic customer details, no external services, and a temporary DB.
 Legacy clients without request_id remain backward compatible.
 """
 from concurrent.futures import ThreadPoolExecutor
+import hashlib
+import json
 import sqlite3
 
 from fastapi.testclient import TestClient
 
 from backend.database import connect
-from backend.main import Settings, create_app
+from backend.main import QuoteIn, Settings, create_app
 
 
 def test_idempotent_quote_retry_returns_original_snapshot(tmp_path):
@@ -105,3 +107,75 @@ def test_existing_quote_table_is_migrated_without_dropping_rows(tmp_path):
         columns = {row['name'] for row in db.execute('PRAGMA table_info(quotes)')}
         assert {'request_id', 'request_fingerprint'} <= columns
         assert db.execute('SELECT code FROM quotes').fetchone()[0] == 'COT-20261026-ABCDEF'
+
+
+def test_reordered_or_split_cart_reuses_key(tmp_path):
+    """A retry must not duplicate an identical basket with different line order."""
+    path = str(tmp_path / 'cart-retries.sqlite3')
+    with TestClient(create_app(Settings(
+        db_path=path, demo_mode=True, quote_intake_enabled=True,
+    ))) as client:
+        payload = {
+            'request_id': '11111111111111111111111111111111',
+            'customer_name': 'Cliente sintético',
+            'phone': '987654321',
+            'consent': True,
+            'items': [
+                {'product_id': 2, 'quantity': 1},
+                {'product_id': 1, 'quantity': 2},
+            ],
+        }
+        original = client.post('/api/quotes', json=payload)
+        reordered = client.post('/api/quotes', json={
+            **payload, 'items': list(reversed(payload['items'])),
+        })
+        split = client.post('/api/quotes', json={
+            **payload, 'items': [
+                {'product_id': 1, 'quantity': 1},
+                {'product_id': 2, 'quantity': 1},
+                {'product_id': 1, 'quantity': 1},
+            ],
+        })
+        assert [response.status_code for response in (original, reordered, split)] == [201, 201, 201]
+        assert original.json() == reordered.json() == split.json()
+        with connect(path) as db:
+            assert db.execute('SELECT count(*) FROM quotes').fetchone()[0] == 1
+
+        different_quantity = client.post('/api/quotes', json={
+            **payload, 'items': [{'product_id': 1, 'quantity': 3},
+                                  {'product_id': 2, 'quantity': 1}],
+        })
+        assert different_quantity.status_code == 409
+        with connect(path) as db:
+            assert db.execute('SELECT count(*) FROM quotes').fetchone()[0] == 1
+
+
+def test_legacy_order_sensitive_fingerprint_is_still_accepted(tmp_path):
+    """Do not strand existing request IDs created by the earlier implementation."""
+    path = str(tmp_path / 'legacy-fingerprint.sqlite3')
+    with TestClient(create_app(Settings(
+        db_path=path, demo_mode=True, quote_intake_enabled=True,
+    ))) as client:
+        payload = {
+            'request_id': '22222222222222222222222222222222',
+            'customer_name': 'Cliente histórico',
+            'phone': '999888777',
+            'consent': True,
+            'items': [{'product_id': 2, 'quantity': 1},
+                      {'product_id': 1, 'quantity': 1}],
+        }
+        first = client.post('/api/quotes', json=payload)
+        assert first.status_code == 201
+        previous_data = QuoteIn.model_validate(payload).model_dump(exclude={'request_id'})
+        previous_fingerprint = hashlib.sha256(json.dumps(
+            previous_data, ensure_ascii=False, sort_keys=True,
+            separators=(',', ':')).encode('utf-8')).hexdigest()
+        with connect(path) as db:
+            db.execute('UPDATE quotes SET request_fingerprint=? WHERE request_id=?',
+                       (previous_fingerprint, payload['request_id']))
+            db.commit()
+        retry = client.post('/api/quotes', json=payload)
+        assert retry.status_code == 201
+        assert retry.json() == first.json()
+        with connect(path) as db:
+            assert db.execute('SELECT count(*) FROM quotes').fetchone()[0] == 1
