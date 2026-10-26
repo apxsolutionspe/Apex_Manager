@@ -370,10 +370,22 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 raise HTTPException(422, 'Cantidad máxima por artículo: 50')
         if len(counts) > 30:
             raise HTTPException(422, 'Demasiados artículos')
-        fingerprint = (hashlib.sha256(json.dumps(
-            payload.model_dump(exclude={'request_id'}), ensure_ascii=False,
-            sort_keys=True, separators=(',', ':')).encode('utf-8')).hexdigest()
-            if payload.request_id else None)
+        fingerprint = legacy_fingerprint = None
+        if payload.request_id:
+            # Earlier keyed quotes hashed the original item-list order.
+            # Preserve their exact-payload retries while new quotes use a
+            # canonical basket (order and split lines do not change intent).
+            data = payload.model_dump(exclude={'request_id'})
+            legacy_fingerprint = hashlib.sha256(json.dumps(
+                data, ensure_ascii=False, sort_keys=True,
+                separators=(',', ':')).encode('utf-8')).hexdigest()
+            data['items'] = [
+                {'product_id': product_id, 'quantity': quantity}
+                for product_id, quantity in sorted(counts.items())
+            ]
+            fingerprint = hashlib.sha256(json.dumps(
+                data, ensure_ascii=False, sort_keys=True,
+                separators=(',', ':')).encode('utf-8')).hexdigest()
         with transaction(settings.db_path) as db:
             # Lock before checking the key so concurrent requests (including
             # requests handled by separate processes) cannot create two rows.
@@ -383,7 +395,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                     'SELECT code,total_cents,items_json,request_fingerprint FROM quotes WHERE request_id=?',
                     (payload.request_id,)).fetchone()
                 if prior:
-                    if prior['request_fingerprint'] != fingerprint:
+                    if prior['request_fingerprint'] not in (fingerprint, legacy_fingerprint):
                         raise HTTPException(409, 'Identificador reutilizado con una solicitud diferente')
                     return quote_response(
                         prior['code'], prior['total_cents'], json.loads(prior['items_json']),
