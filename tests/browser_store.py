@@ -3,6 +3,7 @@
 Requiere: pip install playwright && python -m playwright install chromium.
 No utiliza credenciales ni teléfonos comerciales reales.
 """
+import json
 import os
 from pathlib import Path
 from playwright.sync_api import sync_playwright, expect
@@ -64,10 +65,11 @@ def main():
         quote_page = browser.new_page(viewport={'width': 390, 'height': 844})
         quote_errors = []
         quote_page.on('pageerror', lambda error: quote_errors.append(str(error)))
-        quote_writes = {'count': 0}
+        quote_writes = {'count': 0, 'keys': []}
 
         def mock_quote(route):
             quote_writes['count'] += 1
+            quote_writes['keys'].append(json.loads(route.request.post_data).get('request_id'))
             status = 503 if quote_writes['count'] == 1 else 201
             body = ('{"detail":"Fallo sintético de escritura"}' if status == 503 else
                     '{"code":"COT-20261026-ABCDEF","whatsapp_url":null,'
@@ -95,12 +97,12 @@ def main():
         quote_page.evaluate(submit_public_twice)
         expect(quote_page.locator('#quote-success')).to_be_visible()
         assert quote_writes['count'] == 2, 'El reintento duplicó las escrituras'
+        assert quote_writes['keys'][0] and quote_writes['keys'][0] == quote_writes['keys'][1], 'El reintento cambió el identificador'
         assert quote_errors == [], f'Errores JS en cotización: {quote_errors}'
         quote_page.close()
 
         # Admin forms must be single-flight: two submit events in one tick
         # produce one write, and a failed write must remain retryable.
-        import json
         from urllib.parse import urlsplit
 
         admin = browser.new_page(viewport={'width': 1280, 'height': 800})
