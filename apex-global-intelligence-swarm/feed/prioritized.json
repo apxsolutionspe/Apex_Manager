@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-26T12:59:13.175Z",
+  "generated_at": "2026-10-26T22:39:16.459Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1168,
-    "descartar": 32,
+    "informativa": 1167,
+    "descartar": 33,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2568,6 +2568,29 @@
     },
     {
       "source": "github",
+      "title": "[RegisterSec] UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+      "url": "https://github.com/SecOpsNews/news/issues/75624",
+      "source_created_at": "2026-10-26T21:04:25Z",
+      "first_seen_at": "2026-10-26T22:39:15.540Z",
+      "last_seen_at": "2026-10-26T22:39:15.540Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 2000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "omi bounty digest: 1 unclaimed of 9",
       "url": "https://github.com/airdropia/earn-ops/issues/16",
       "source_created_at": "2026-10-25T17:52:51Z",
@@ -3650,16 +3673,18 @@
     },
     {
       "source": "github",
-      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
-      "source_created_at": "2026-10-26T12:37:41Z",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1329",
+      "source_created_at": "2026-10-26T21:20:55Z",
+      "first_seen_at": "2026-10-26T22:39:15.540Z",
+      "last_seen_at": "2026-10-26T22:39:15.540Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3673,41 +3698,18 @@
     },
     {
       "source": "github",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
-      "source_created_at": "2026-10-26T12:48:58Z",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z",
+      "title": "🎯 Bounty Alert: 20 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/24",
+      "source_created_at": "2026-10-26T22:28:04Z",
+      "first_seen_at": "2026-10-26T22:39:15.540Z",
+      "last_seen_at": "2026-10-26T22:39:15.540Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
-      "source_created_at": "2026-10-26T12:48:24Z",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
