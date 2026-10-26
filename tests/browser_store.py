@@ -59,7 +59,74 @@ def main():
         assert blocked_errors == [], f'Errores con almacenamiento bloqueado: {blocked_errors}'
         blocked.close()
 
-        print('E2E OK: cotización y carrito (incluido almacenamiento bloqueado); navegador Chromium')
+        # Admin forms must be single-flight: two submit events in one tick
+        # produce one write, and a failed write must remain retryable.
+        import json
+        from urllib.parse import urlsplit
+
+        admin = browser.new_page(viewport={'width': 1280, 'height': 800})
+        admin_errors = []
+        admin.on('pageerror', lambda error: admin_errors.append(str(error)))
+        writes = {'jobs': 0, 'products': 0}
+
+        def mock_admin(route):
+            path = urlsplit(route.request.url).path
+            method = route.request.method
+            if path == '/api/admin/login' and method == 'POST':
+                status, payload = 200, {'access_token': 'synthetic-qa-token'}
+            elif path == '/api/admin/summary' and method == 'GET':
+                status, payload = 200, {'total_quotes': 0, 'pending_quotes': 0,
+                                        'active_jobs': 0, 'active_products': 0,
+                                        'approved_quotes': 0}
+            elif path == '/api/admin/jobs' and method == 'GET':
+                status, payload = 200, []
+            elif path == '/api/admin/jobs' and method == 'POST':
+                writes['jobs'] += 1
+                status = 503 if writes['jobs'] == 1 else 201
+                payload = {'detail': 'Fallo simulado de escritura'} if status == 503 else {'id': 1}
+            elif path == '/api/admin/products' and method == 'GET':
+                status, payload = 200, []
+            elif path == '/api/admin/products' and method == 'POST':
+                writes['products'] += 1
+                status, payload = 201, {'id': 1}
+            else:
+                raise AssertionError(f'Solicitud administrativa inesperada: {method} {path}')
+            route.fulfill(status=status, content_type='application/json', body=json.dumps(payload))
+
+        admin.route('**/api/admin/**', mock_admin)
+        admin.goto(BASE + '/admin', wait_until='domcontentloaded', timeout=15000)
+        admin.locator('#admin-password').fill('SyntheticQAOnly')
+        admin.locator('#login-button').click()
+        expect(admin.locator('#admin-shell')).to_be_visible()
+        admin.locator('[data-tab="servicios"]').click()
+        admin.locator('#open-new-job').click()
+        admin.locator('#job-form input[name="title"]').fill('Mantenimiento QA')
+        admin.locator('#job-form input[name="customer_name"]').fill('Cliente Sintético')
+        submit_twice = """selector => {
+          const form = document.querySelector(selector);
+          for (let i = 0; i < 2; i++)
+            form.dispatchEvent(new Event('submit', {bubbles:true, cancelable:true}));
+        }"""
+        admin.evaluate(submit_twice, '#job-form')
+        expect(admin.locator('#admin-toast')).to_contain_text('Fallo simulado de escritura')
+        expect(admin.locator('#job-form button[type="submit"]')).to_be_enabled()
+        assert writes['jobs'] == 1, f'Error: {writes["jobs"]} órdenes duplicadas'
+        admin.evaluate(submit_twice, '#job-form')
+        expect(admin.locator('#job-form-wrap')).to_be_hidden()
+        assert writes['jobs'] == 2, 'El reintento produjo escrituras duplicadas'
+
+        admin.locator('[data-tab="productos"]').click()
+        admin.locator('#open-new-product').click()
+        admin.locator('#product-form input[name="sku"]').fill('QA-001')
+        admin.locator('#product-form input[name="name"]').fill('Producto sintético')
+        admin.locator('#product-form input[name="category"]').fill('Pruebas')
+        admin.evaluate(submit_twice, '#product-form')
+        expect(admin.locator('#product-form-wrap')).to_be_hidden()
+        assert writes['products'] == 1, f'Error: {writes["products"]} artículos duplicados'
+        assert admin_errors == [], f'Errores de JS en administración: {admin_errors}'
+        admin.close()
+
+        print('E2E OK: carrito, cotización y envíos únicos en administración; Chromium')
         browser.close()
 
 

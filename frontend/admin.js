@@ -17,6 +17,20 @@ const request = async (path, options={})=>{
 };
 function logout(){token=''; $('#admin-shell').hidden=true; $('#login-screen').hidden=false; $('#admin-password').value='';}
 function notifyError(e){toast(e.message || 'Ha ocurrido un error.');}
+// Avoid duplicate service orders or catalog writes when a form is submitted
+// twice before the first network response. Restore the button on failures.
+const inFlightForms = new WeakSet();
+async function submitOnce(form, operation) {
+  if (inFlightForms.has(form)) return;
+  inFlightForms.add(form);
+  const submit = form.querySelector('[type="submit"]');
+  if (submit) submit.disabled = true;
+  try { await operation(); }
+  finally {
+    inFlightForms.delete(form);
+    if (submit) submit.disabled = false;
+  }
+}
 $('#logout').addEventListener('click', logout);
 $('#login-form').addEventListener('submit', async e=>{
   e.preventDefault(); $('#login-error').hidden=true;
@@ -46,13 +60,47 @@ async function loadJobs(){const jobs=await request('/api/admin/jobs');$('#job-ta
 $('#job-table').addEventListener('change',async e=>{if(!e.target.matches('[data-job-id]'))return;const s=e.target;s.disabled=true;try{await request(`/api/admin/jobs/${Number(s.dataset.jobId)}`,{method:'PATCH',body:JSON.stringify({status:s.value})});toast('Servicio actualizado.');}catch(err){notifyError(err);await loadJobs();}finally{s.disabled=false;}});
 $('#open-new-job').addEventListener('click',()=>{$('#job-form-wrap').hidden=false;$('#job-form input[name="title"]').focus();});
 $('#cancel-job').addEventListener('click',()=>{$('#job-form-wrap').hidden=true;$('#job-form').reset();});
-$('#job-form').addEventListener('submit',async e=>{e.preventDefault();const form=e.currentTarget;const values=Object.fromEntries(new FormData(form));if(!values.quote_id)delete values.quote_id;else values.quote_id=Number(values.quote_id);try{await request('/api/admin/jobs',{method:'POST',body:JSON.stringify(values)});toast('Orden de servicio creada.');form.reset();$('#job-form-wrap').hidden=true;await loadJobs();}catch(err){notifyError(err);}});
+$('#job-form').addEventListener('submit', async e => {
+  e.preventDefault();
+  const form = e.currentTarget;
+  await submitOnce(form, async () => {
+    const values = Object.fromEntries(new FormData(form));
+    if (!values.quote_id) delete values.quote_id;
+    else values.quote_id = Number(values.quote_id);
+    try {
+      await request('/api/admin/jobs', {method:'POST', body:JSON.stringify(values)});
+      toast('Orden de servicio creada.');
+      form.reset();
+      $('#job-form-wrap').hidden = true;
+      await loadJobs();
+    } catch (err) { notifyError(err); }
+  });
+});
 async function loadProducts(){products=await request('/api/admin/products');$('#product-table').innerHTML=products.length?`<table><thead><tr><th>Artículo</th><th>Tipo / categoría</th><th>Precio</th><th>Visibilidad</th><th>Acción</th></tr></thead><tbody>${products.map(p=>`<tr><td><strong>${esc(p.emoji)} ${esc(p.name)}</strong><small>SKU: ${esc(p.sku)}</small></td><td>${esc(p.kind)}<small>${esc(p.category)}</small></td><td>${esc(money(p.price_cents))}</td><td><span class="state-badge ${p.active?'active':'inactive'}">${p.active?'Activo':'Oculto'}</span></td><td><button type="button" class="edit-link" data-edit="${p.id}">Editar ↗</button></td></tr>`).join('')}</tbody></table>`:'<div class="empty-state">El catálogo aún no contiene artículos.</div>';}
 function showProduct(product){const f=$('#product-form');f.reset();for(const key of ['id','sku','name','category','description','kind','emoji'])if(product?.[key]!=null)f.elements[key].value=product[key];f.elements.price.value=product?.price_cents!=null?(product.price_cents/100).toFixed(2):'';f.elements.stock.value=product?.stock??'';f.elements.featured.checked=Boolean(product?.featured);f.elements.active.checked=product?Boolean(product.active):true;$('#product-form-title').textContent=product?'Editar artículo':'Agregar al catálogo';$('#product-form-wrap').hidden=false;f.elements.name.focus();}
 $('#open-new-product').addEventListener('click',()=>showProduct(null));
 $('#cancel-product').addEventListener('click',()=>{$('#product-form-wrap').hidden=true;$('#product-form').reset();});
 $('#product-table').addEventListener('click',e=>{const b=e.target.closest('[data-edit]');if(!b)return;const p=products.find(p=>p.id===Number(b.dataset.edit));if(p)showProduct(p);});
-$('#product-form').addEventListener('submit',async e=>{e.preventDefault();const f=e.currentTarget;const v=Object.fromEntries(new FormData(f));const id=Number(v.id);const input={sku:v.sku,name:v.name,category:v.category,description:v.description,kind:v.kind,emoji:v.emoji||'◈',featured:f.elements.featured.checked,active:f.elements.active.checked,price_cents:v.price===''?null:Math.round(Number(v.price)*100),stock:v.stock===''?null:Number(v.stock)};try{await request(id?`/api/admin/products/${id}`:'/api/admin/products',{method:id?'PUT':'POST',body:JSON.stringify(input)});toast(id?'Artículo actualizado.':'Artículo agregado.');$('#product-form-wrap').hidden=true;f.reset();await loadProducts();}catch(err){notifyError(err);}});
+$('#product-form').addEventListener('submit', async e => {
+  e.preventDefault();
+  const form = e.currentTarget;
+  await submitOnce(form, async () => {
+    const v = Object.fromEntries(new FormData(form));
+    const id = Number(v.id);
+    const input = {sku:v.sku, name:v.name, category:v.category, description:v.description,
+      kind:v.kind, emoji:v.emoji||'◈', featured:form.elements.featured.checked,
+      active:form.elements.active.checked, price_cents:v.price===''?null:Math.round(Number(v.price)*100),
+      stock:v.stock===''?null:Number(v.stock)};
+    try {
+      await request(id?`/api/admin/products/${id}`:'/api/admin/products',
+        {method:id?'PUT':'POST', body:JSON.stringify(input)});
+      toast(id?'Artículo actualizado.':'Artículo agregado.');
+      $('#product-form-wrap').hidden = true;
+      form.reset();
+      await loadProducts();
+    } catch (err) { notifyError(err); }
+  });
+});
 
 async function loadAudit(){
   const rows=await request('/api/admin/audit?limit=100');
