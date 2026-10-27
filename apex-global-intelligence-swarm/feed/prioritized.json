@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-26T22:39:16.459Z",
+  "generated_at": "2026-10-27T05:01:41.238Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,58 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1167,
-    "descartar": 33,
+    "informativa": 1166,
+    "descartar": 34,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: submitTransact casts 64-bit extAmount to JavaScript Number, causing IEEE-754 precision loss and ingress proof verification rejection (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/121",
+      "source_created_at": "2026-10-27T03:53:35Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: transfer.ts casts 64-bit note amounts to JavaScript Number, causing IEEE-754 precision loss and unspendable notes on large transfers (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/118",
+      "source_created_at": "2026-10-27T03:27:20Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "🎯 Bounty Alert: 10 New Opportunityies found",
@@ -1580,52 +1626,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty Proposal] fix(backend): enforce locks, cancel reminders, and filter soft-deleted action items ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/21841",
-      "source_created_at": "2026-10-16T11:20:07Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Proposal] fix(backend): guard soft-deleted tombstones and sync search index in conversation sync mutations ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/21838",
-      "source_created_at": "2026-10-16T11:03:37Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "🎯 Bounty Alert: 7 New Opportunityies found",
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1666",
       "source_created_at": "2026-10-25T20:33:57Z",
@@ -2563,6 +2563,75 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: depositSpl ignores confirmBySignatureStatus timeout result, causing phantom note creation and stranded tokens on dropped deposits (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/117",
+      "source_created_at": "2026-10-27T03:18:00Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] High: spendV3 and transfer omit shielded address checksum validation, allowing typo-induced unspendable note creation and fund loss (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/116",
+      "source_created_at": "2026-10-27T03:08:20Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 400,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Uncaught exception in v3NoteCommitment/v3NoteCommitmentAsset halts scanForNotes loop and drops subsequent feed notes (paraloom-wallet)",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/119",
+      "source_created_at": "2026-10-27T03:45:24Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3535,98 +3604,6 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY] Medium: prove_withdrawal_v2 and prove_transfer_v2 shift-overflow panic in leaf_index_from, silent invalid proof emission on unsatisfied v2 witnesses, and non-canonical BN254 field aliasing (paraloom-prover-wasm)",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/9",
-      "source_created_at": "2026-10-16T11:03:26Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: prove_withdrawal_v2 and prove_transfer_v2 shift-overflow panic in leaf_index_from, silent invalid proof emission on unsatisfied v2 witnesses, and non-canonical BN254 field aliasing (paraloom-prover-wasm)",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/952",
-      "source_created_at": "2026-10-16T11:03:25Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: sync_onchain_stakes strands withheld pending rounds and cleanup_timeouts evicts in-flight/settled rounds",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/951",
-      "source_created_at": "2026-10-16T10:52:36Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Proposal] fix(folders): decode folder conversations for read, filter visibility, and exclude hidden rows from counts ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/21833",
-      "source_created_at": "2026-10-16T10:51:22Z",
-      "first_seen_at": "2026-10-16T11:21:49.982Z",
-      "last_seen_at": "2026-10-16T11:21:49.982Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Application: board item 31 — Real Estate Listing Portal ($350) — RedGhost123",
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/44",
       "source_created_at": "2026-10-21T02:44:10Z",
@@ -3673,18 +3650,17 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1329",
-      "source_created_at": "2026-10-26T21:20:55Z",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z",
+      "title": "[radar] SN open bounty 2026-10-27T04:52",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
+      "source_created_at": "2026-10-27T04:52:16Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3698,18 +3674,41 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 20 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/24",
-      "source_created_at": "2026-10-26T22:28:04Z",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z",
+      "title": "Theorem bounty: Run-128 — missing non-vacuity witness for share_coordinate_corridor_equivalence & uninstantiated conjuncts in witness_C4",
+      "url": "https://github.com/jdhart81/viridis-canon/issues/165",
+      "source_created_at": "2026-10-27T04:12:52Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Theorem bounty: Run-126 — forbidden_proxy_capacity_ceiling_nonvacuity (and C1–C4 witnesses) never invoke target theorems and use degenerate I_RY = 0, δ = 0",
+      "url": "https://github.com/jdhart81/viridis-canon/issues/166",
+      "source_created_at": "2026-10-27T04:12:52Z",
+      "first_seen_at": "2026-10-27T05:01:40.415Z",
+      "last_seen_at": "2026-10-27T05:01:40.415Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
