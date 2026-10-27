@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-27T12:09:00.973Z",
+  "generated_at": "2026-10-27T17:59:27.407Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1166,
-    "descartar": 34,
+    "informativa": 1167,
+    "descartar": 33,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2472,79 +2472,6 @@
     },
     {
       "source": "github",
-      "title": "Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack",
-      "url": "https://github.com/Zenith-options/frontend/issues/263",
-      "source_created_at": "2026-10-16T19:13:48Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Question: reward requests for merged PRs under the new 5-completed-bounties rule",
-      "url": "https://github.com/ZecHub/zec-bounties/issues/421",
-      "source_created_at": "2026-10-16T21:04:48Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1263",
-      "source_created_at": "2026-10-16T19:18:15Z",
-      "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-10-16T21:06:13.451Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)",
       "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/133",
       "source_created_at": "2026-10-27T11:49:11Z",
@@ -3649,6 +3576,30 @@
     },
     {
       "source": "github",
+      "title": "[修复交付] dsh-bounty #1833 缺陷已修复并合入 main（PR #1837 已 MERGED），附证据链，提请结算",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1896",
+      "source_created_at": "2026-10-27T17:52:09Z",
+      "first_seen_at": "2026-10-27T17:59:26.644Z",
+      "last_seen_at": "2026-10-27T17:59:26.644Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[radar] SN open bounty 2026-10-27T10:25",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
       "source_created_at": "2026-10-27T10:25:03Z",
@@ -3707,6 +3658,54 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Duplicate locations inside one customAssets overlay are accepted and resolve order-dependently (first match wins)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2346",
+      "source_created_at": "2026-10-27T11:05:21Z",
+      "first_seen_at": "2026-10-27T12:09:00.238Z",
+      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Playground batch entries inherit the first item's transact/swap options, and the whole batch is built with the first item's builder config",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2345",
+      "source_created_at": "2026-10-27T11:04:15Z",
+      "first_seen_at": "2026-10-27T12:09:00.238Z",
+      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
