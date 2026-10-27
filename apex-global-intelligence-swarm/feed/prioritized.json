@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-27T17:59:27.407Z",
+  "generated_at": "2026-10-27T22:12:46.867Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1580,14 +1580,15 @@
     },
     {
       "source": "github",
-      "title": "[Bounty Proposal] Persona refresh includes paywall-locked conversation context and memory previews ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/21953",
-      "source_created_at": "2026-10-17T00:41:28Z",
-      "first_seen_at": "2026-10-17T04:23:40.294Z",
-      "last_seen_at": "2026-10-17T04:23:40.294Z",
+      "title": "[Bug bounty] Type-and-then fallback signs placeholder fee amounts when the origin has no DryRunApi — 1 whole fee token (10 for external destinations) is required and AllCounted is used",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2353",
+      "source_created_at": "2026-10-27T21:26:26Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
-      "priority": 90,
+      "priority": 85,
       "reasons": [
+        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -1597,7 +1598,31 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": 50,
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] API client leases are never released across sdk-core and swap, leaking a client per exchange candidate and one per transfer-info/fee/verify-ED call",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2350",
+      "source_created_at": "2026-10-27T21:24:12Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3507,29 +3532,6 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY] Medium: ShieldedPool::credit_commitment deduplicates by Commitment hash instead of on-chain leaf index, and decode_compiled_deposit credits gross amount instead of realized vault received delta for deposit_note_spl",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/976",
-      "source_created_at": "2026-10-17T03:48:21Z",
-      "first_seen_at": "2026-10-17T04:23:40.294Z",
-      "last_seen_at": "2026-10-17T04:23:40.294Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Application: board item 31 — Real Estate Listing Portal ($350) — RedGhost123",
       "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/44",
       "source_created_at": "2026-10-21T02:44:10Z",
@@ -3576,11 +3578,11 @@
     },
     {
       "source": "github",
-      "title": "[修复交付] dsh-bounty #1833 缺陷已修复并合入 main（PR #1837 已 MERGED），附证据链，提请结算",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1896",
-      "source_created_at": "2026-10-27T17:52:09Z",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z",
+      "title": "[Docs/Ecosystem] Security Audit Checklist & Responsible Bug Bounty Guidelines",
+      "url": "https://github.com/spoo-vault/spoovault/issues/354",
+      "source_created_at": "2026-10-27T20:38:09Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3600,11 +3602,11 @@
     },
     {
       "source": "github",
-      "title": "[radar] SN open bounty 2026-10-27T10:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
-      "source_created_at": "2026-10-27T10:25:03Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "title": "[Enhancement] Add settlement contract security bounty program",
+      "url": "https://github.com/SETTLIX/settlix-contracts/issues/623",
+      "source_created_at": "2026-10-27T20:23:47Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3624,35 +3626,11 @@
     },
     {
       "source": "github",
-      "title": "[radar] SN open bounty 2026-10-27T12:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
-      "source_created_at": "2026-10-27T12:01:01Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[GitPay Phase 01 demo] Unfunded bounty workflow",
-      "url": "https://github.com/deepakA18/gitpay-demo-http/issues/1",
-      "source_created_at": "2026-10-27T09:05:15Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/52",
+      "source_created_at": "2026-10-27T22:00:21Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3671,17 +3649,16 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] Duplicate locations inside one customAssets overlay are accepted and resolve order-dependently (first match wins)",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2346",
-      "source_created_at": "2026-10-27T11:05:21Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "title": "[Submit] Remote MCP Server: Agent Bounty Feed (io.github.dailydollar-bot/agent-bounty-feed)",
+      "url": "https://github.com/chatmcp/mcpso/issues/6253",
+      "source_created_at": "2026-10-27T22:10:50Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3695,17 +3672,43 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] Playground batch entries inherit the first item's transact/swap options, and the whole batch is built with the first item's builder config",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2345",
-      "source_created_at": "2026-10-27T11:04:15Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
+      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/28",
+      "source_created_at": "2026-10-27T19:56:35Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1683",
+      "source_created_at": "2026-10-27T19:55:04Z",
+      "first_seen_at": "2026-10-27T22:12:45.959Z",
+      "last_seen_at": "2026-10-27T22:12:45.959Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
