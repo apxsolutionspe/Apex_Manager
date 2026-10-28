@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-27T22:12:46.867Z",
+  "generated_at": "2026-10-28T05:39:51.940Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1167,
-    "descartar": 33,
+    "informativa": 1163,
+    "descartar": 37,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2497,6 +2497,73 @@
     },
     {
       "source": "github",
+      "title": "Release canary: double must multiply by two ($5 Squash bounty)",
+      "url": "https://github.com/DaltonTheDeveloper/squash-v2-canary-20261027/issues/1",
+      "source_created_at": "2026-10-28T03:57:48Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 5,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/53",
+      "source_created_at": "2026-10-28T05:03:16Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 250,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Token-input private swaps omit phantom-note reconciliation before gas spend and fail to populate native SOL round-trip reshield status",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/159",
+      "source_created_at": "2026-10-28T01:13:35Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)",
       "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/133",
       "source_created_at": "2026-10-27T11:49:11Z",
@@ -3578,105 +3645,11 @@
     },
     {
       "source": "github",
-      "title": "[Docs/Ecosystem] Security Audit Checklist & Responsible Bug Bounty Guidelines",
-      "url": "https://github.com/spoo-vault/spoovault/issues/354",
-      "source_created_at": "2026-10-27T20:38:09Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Enhancement] Add settlement contract security bounty program",
-      "url": "https://github.com/SETTLIX/settlix-contracts/issues/623",
-      "source_created_at": "2026-10-27T20:23:47Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/52",
-      "source_created_at": "2026-10-27T22:00:21Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Submit] Remote MCP Server: Agent Bounty Feed (io.github.dailydollar-bot/agent-bounty-feed)",
-      "url": "https://github.com/chatmcp/mcpso/issues/6253",
-      "source_created_at": "2026-10-27T22:10:50Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/28",
-      "source_created_at": "2026-10-27T19:56:35Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
+      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/30",
+      "source_created_at": "2026-10-28T04:53:22Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
@@ -3697,11 +3670,36 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1683",
-      "source_created_at": "2026-10-27T19:55:04Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1685",
+      "source_created_at": "2026-10-28T04:45:06Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1338",
+      "source_created_at": "2026-10-28T04:01:45Z",
+      "first_seen_at": "2026-10-28T05:39:51.090Z",
+      "last_seen_at": "2026-10-28T05:39:51.090Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
