@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-29T05:45:44.803Z",
+  "generated_at": "2026-10-29T12:58:21.503Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1161,
-    "descartar": 39,
+    "informativa": 1162,
+    "descartar": 38,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1580,6 +1580,102 @@
     },
     {
       "source": "github",
+      "title": "bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Balancing Engine",
+      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4116",
+      "source_created_at": "2026-10-29T12:14:48Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook Execution for Automated Deflection",
+      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115",
+      "source_created_at": "2026-10-29T12:14:44Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] SDK: destination paymentInfo fee (native token) is labelled with the transferred asset, so verifyEdOnDestination / getTransferInfo / getMinTransferableAmount subtract it in the wrong decimals",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2375",
+      "source_created_at": "2026-10-29T11:12:07Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] XCM API ignores disableFallback in /origin-xcm-fee (sibling of #2179)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2376",
+      "source_created_at": "2026-10-29T11:13:08Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 8 New Opportunityies found",
       "url": "https://github.com/freedom-winds/BountyScout/issues/1344",
       "source_created_at": "2026-10-29T02:05:18Z",
@@ -2522,18 +2618,16 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1612",
-      "source_created_at": "2026-10-18T10:37:00Z",
-      "first_seen_at": "2026-10-18T11:02:29.052Z",
-      "last_seen_at": "2026-10-18T11:02:29.052Z",
+      "title": "[BOUNTY] High: Soundness & Validation Gaps in Mainnet Ceremony Cutover Pipeline (zkey_json_to_arkworks, circom_reduction, and r1cs_export)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1277",
+      "source_created_at": "2026-10-29T11:53:12Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2541,7 +2635,30 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 300,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] High: Soundness & Validation Gaps in Mainnet Ceremony Cutover Pipeline (zkey_json_to_arkworks, circom_reduction, and r1cs_export)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1276",
+      "source_created_at": "2026-10-29T11:47:11Z",
+      "first_seen_at": "2026-10-29T12:58:20.708Z",
+      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 300,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3596,120 +3713,6 @@
         "payment": false
       },
       "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[TEST BOUNTY] Fix typo in README",
-      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
-      "source_created_at": "2026-10-20T20:46:34Z",
-      "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-10-20T21:36:21.115Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailschema package",
-      "url": "https://github.com/auscaster/frantic-board/issues/541",
-      "source_created_at": "2026-10-20T04:15:53Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 2,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went",
-      "url": "https://github.com/auscaster/frantic-board/issues/538",
-      "source_created_at": "2026-10-20T04:15:36Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email",
-      "url": "https://github.com/auscaster/frantic-board/issues/540",
-      "source_created_at": "2026-10-20T04:15:47Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
-      "url": "https://github.com/auscaster/frantic-board/issues/539",
-      "source_created_at": "2026-10-20T04:15:41Z",
-      "first_seen_at": "2026-10-20T04:48:15.980Z",
-      "last_seen_at": "2026-10-20T04:48:15.980Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
       "monetary_value_received": 0,
       "verified_payment": false
     }
