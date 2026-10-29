@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-28T22:33:47.013Z",
+  "generated_at": "2026-10-29T05:45:44.803Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1163,
-    "descartar": 37,
+    "informativa": 1161,
+    "descartar": 39,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1580,6 +1580,56 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1344",
+      "source_created_at": "2026-10-29T02:05:18Z",
+      "first_seen_at": "2026-10-29T05:45:44.027Z",
+      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1691",
+      "source_created_at": "2026-10-29T02:19:32Z",
+      "first_seen_at": "2026-10-29T05:45:44.027Z",
+      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 12 New Opportunityies found",
       "url": "https://github.com/freedom-winds/BountyScout/issues/1339",
       "source_created_at": "2026-10-28T10:57:49Z",
@@ -2492,6 +2542,28 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171",
+      "source_created_at": "2026-10-29T02:48:01Z",
+      "first_seen_at": "2026-10-29T05:45:44.027Z",
+      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 250,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3638,75 +3710,6 @@
         "payment": false
       },
       "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: deactivate_validator strands dual-stake SPL collateral permanently & slash_validator omits min_token_stake deactivation floor",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1129",
-      "source_created_at": "2026-10-19T22:45:47Z",
-      "first_seen_at": "2026-10-19T23:29:42.409Z",
-      "last_seen_at": "2026-10-19T23:29:42.409Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1619",
-      "source_created_at": "2026-10-19T12:33:40Z",
-      "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-10-19T13:11:29.375Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: wait_for_settlement accepts uninitialized system-owned nf_pda accounts, OnChainSubmitter discards realized post-fee balance, and quorum_available skips owner/stake checks",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1034",
-      "source_created_at": "2026-10-19T04:17:03Z",
-      "first_seen_at": "2026-10-19T04:38:29.922Z",
-      "last_seen_at": "2026-10-19T04:38:29.922Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     }
