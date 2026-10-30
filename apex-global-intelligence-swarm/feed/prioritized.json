@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-30T12:52:40.256Z",
+  "generated_at": "2026-10-30T22:17:11.414Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1581,6 +1581,30 @@
     },
     {
       "source": "github",
+      "title": "$1000 Bounty",
+      "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
+      "source_created_at": "2026-10-30T20:45:16Z",
+      "first_seen_at": "2026-10-30T22:17:10.269Z",
+      "last_seen_at": "2026-10-30T22:17:10.269Z",
+      "status": "informativa",
+      "priority": 86,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Descripción insuficiente para evaluar condiciones",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
       "url": "https://github.com/young1lin/notes/issues/2",
       "source_created_at": "2026-10-30T00:57:47Z",
@@ -2591,6 +2615,51 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4187",
+      "source_created_at": "2026-10-30T18:53:56Z",
+      "first_seen_at": "2026-10-30T22:17:10.269Z",
+      "last_seen_at": "2026-10-30T22:17:10.269Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 750,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/68",
+      "source_created_at": "2026-10-30T22:08:13Z",
+      "first_seen_at": "2026-10-30T22:17:10.269Z",
+      "last_seen_at": "2026-10-30T22:17:10.269Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 750,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3633,75 +3702,6 @@
       "source_created_at": "2026-10-22T01:07:33Z",
       "first_seen_at": "2026-10-22T01:21:14.557Z",
       "last_seen_at": "2026-10-22T01:21:14.557Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(notifications): typed request models, bounds validation, and empty admin key guard (0 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23112",
-      "source_created_at": "2026-10-21T20:02:16Z",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(perplexity-tools): validate non-empty query and guard hop-2 retry concatenation ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23120",
-      "source_created_at": "2026-10-21T20:12:28Z",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(web-tools): validate non-empty url, decode html entities, and support json-ld graph ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23124",
-      "source_created_at": "2026-10-21T20:18:21Z",
-      "first_seen_at": "2026-10-21T21:41:51.366Z",
-      "last_seen_at": "2026-10-21T21:41:51.366Z",
       "status": "informativa",
       "priority": 82,
       "reasons": [
