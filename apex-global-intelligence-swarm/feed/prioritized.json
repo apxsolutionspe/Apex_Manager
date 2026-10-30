@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-29T22:44:41.305Z",
+  "generated_at": "2026-10-30T05:45:58.916Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1162,
-    "descartar": 38,
+    "informativa": 1160,
+    "descartar": 40,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1580,6 +1580,30 @@
     },
     {
       "source": "github",
+      "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
+      "url": "https://github.com/young1lin/notes/issues/2",
+      "source_created_at": "2026-10-30T00:57:47Z",
+      "first_seen_at": "2026-10-30T05:45:58.165Z",
+      "last_seen_at": "2026-10-30T05:45:58.165Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 12 New Opportunityies found",
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1696",
       "source_created_at": "2026-10-29T21:38:42Z",
@@ -2571,15 +2595,14 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
-      "source_created_at": "2026-10-19T04:11:43Z",
-      "first_seen_at": "2026-10-19T04:38:29.922Z",
-      "last_seen_at": "2026-10-19T04:38:29.922Z",
+      "title": "Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/68",
+      "source_created_at": "2026-10-30T05:43:06Z",
+      "first_seen_at": "2026-10-30T05:45:58.165Z",
+      "last_seen_at": "2026-10-30T05:45:58.165Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -2589,55 +2612,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
-      "source_created_at": "2026-10-19T04:11:40Z",
-      "first_seen_at": "2026-10-19T04:38:29.922Z",
-      "last_seen_at": "2026-10-19T04:38:29.922Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Projections",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
-      "source_created_at": "2026-10-19T02:57:25Z",
-      "first_seen_at": "2026-10-19T04:38:29.922Z",
-      "last_seen_at": "2026-10-19T04:38:29.922Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3716,6 +3691,29 @@
         "payment": false
       },
       "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Single-spend `payload.authority` rotation evicts `cosign_counts` at `MAX_COSIGN_COUNTS` to reset `MAX_COSIGNS_PER_SETTLEMENT`, and `initiate_transact_verification` omits the `#726` `already_verified` short-circuit (enabling retry sel",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1154",
+      "source_created_at": "2026-10-21T04:26:06Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     }
