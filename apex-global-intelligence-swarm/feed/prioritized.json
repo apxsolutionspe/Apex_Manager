@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-30T05:45:58.916Z",
+  "generated_at": "2026-10-30T12:52:40.256Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,36 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1160,
-    "descartar": 40,
+    "informativa": 1159,
+    "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1699",
+      "source_created_at": "2026-10-30T08:17:30Z",
+      "first_seen_at": "2026-10-30T12:52:39.345Z",
+      "last_seen_at": "2026-10-30T12:52:39.345Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 8,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "[BOUNTY] Medium: routeSwap and swapReconcile cast 64-bit bigint amounts to JavaScript Number, causing IEEE-754 precision loss, InsufficientFunds revert on swap routing, and unverified transaction error status in landed recovery (paraloom-wallet)",
@@ -1557,29 +1581,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty proposal] fix(conversations): coerce ISO strings and naive timestamps in meeting context pack prior meetings sorting ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22499",
-      "source_created_at": "2026-10-19T13:45:57Z",
-      "first_seen_at": "2026-10-19T14:28:24.968Z",
-      "last_seen_at": "2026-10-19T14:28:24.968Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
       "url": "https://github.com/young1lin/notes/issues/2",
       "source_created_at": "2026-10-30T00:57:47Z",
@@ -2590,6 +2591,29 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/69",
+      "source_created_at": "2026-10-30T11:35:10Z",
+      "first_seen_at": "2026-10-30T12:52:39.345Z",
+      "last_seen_at": "2026-10-30T12:52:39.345Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3691,29 +3715,6 @@
         "payment": false
       },
       "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Single-spend `payload.authority` rotation evicts `cosign_counts` at `MAX_COSIGN_COUNTS` to reset `MAX_COSIGNS_PER_SETTLEMENT`, and `initiate_transact_verification` omits the `#726` `already_verified` short-circuit (enabling retry sel",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1154",
-      "source_created_at": "2026-10-21T04:26:06Z",
-      "first_seen_at": "2026-10-21T04:44:03.604Z",
-      "last_seen_at": "2026-10-21T04:44:03.604Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     }

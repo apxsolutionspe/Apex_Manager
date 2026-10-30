@@ -1,6 +1,6 @@
 {
   "schema": "apex-crypto-watch-v1",
-  "generated_at": "2026-10-30T10:10:51.281Z",
+  "generated_at": "2026-10-30T12:52:40.344Z",
   "mode": "solo_investigacion_publica",
   "statement": "No se reclaman activos perdidos o ajenos. Las oportunidades no son titularidad ni dinero cobrado.",
   "economics": {
@@ -23,7 +23,7 @@
       "provider": "Binance",
       "source_url": "https://www.binance.com/en/support/announcement/detail/5fc0f803346b4b5085b0e1c5d16d8b2c",
       "kind": "aprendizaje",
-      "observed_at": "2026-10-30T10:10:51.281Z",
+      "observed_at": "2026-10-30T12:52:40.344Z",
       "status": "plazo_por_confirmar",
       "eligibility": "Solo usuarios nuevos registrados después del 1 de octubre de 2026; KYC; quiz; 5.000 cupos mensuales.",
       "benefit_announced": "Vale de 0,00001 BTC para cada usuario que cumpla todas las condiciones, sujeto a disponibilidad.",
@@ -41,11 +41,11 @@
       "research_priority": 0,
       "research_reason": "Fuente o condiciones pendientes de verificación independiente",
       "history": {
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_por_confirmar",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       }
     },
@@ -55,7 +55,7 @@
       "provider": "Binance",
       "source_url": "https://www.binance.com/en-TR/support/announcement/detail/68a378b9faae45d9972fc2b223eaa22c",
       "kind": "educacion",
-      "observed_at": "2026-10-30T10:10:51.281Z",
+      "observed_at": "2026-10-30T12:52:40.344Z",
       "status": "plazo_finalizado",
       "eligibility": "Se requieren respuestas correctas y cuenta elegible; la recompensa básica se separa de la categoría adicional que exige operar USD 50.",
       "benefit_announced": "Participación eventual en un fondo compartido de USDC, sin importe individual garantizado.",
@@ -73,11 +73,11 @@
       "research_priority": 0,
       "research_reason": "Plazo registrado como finalizado; no recomendar cobro",
       "history": {
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_finalizado",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       }
     },
@@ -87,7 +87,7 @@
       "provider": "Binance",
       "source_url": "https://www.binance.com/en/support/announcement/detail/8fd1fe0094b34442b322c177894666bf",
       "kind": "concurso",
-      "observed_at": "2026-10-30T10:10:51.281Z",
+      "observed_at": "2026-10-30T12:52:40.344Z",
       "status": "plazo_finalizado",
       "eligibility": "Cuenta verificada, publicación auténtica en X y participación en Discord; 25 ganadores seleccionados, restricciones geográficas.",
       "benefit_announced": "20 USDC por ganador seleccionado, no reparto automático entre todos los participantes.",
@@ -105,11 +105,11 @@
       "research_priority": 0,
       "research_reason": "Plazo registrado como finalizado; no recomendar cobro",
       "history": {
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_finalizado",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       }
     }
@@ -118,6 +118,12 @@
     "description": "Aprendizaje técnico limitado: tasa histórica de coincidencias de páginas, no rendimiento de inversiones ni pagos.",
     "version": 1,
     "runs": [
+      {
+        "at": "2026-10-30T12:52:40.344Z",
+        "checked_sources": 3,
+        "matching_sources": 0,
+        "finished_by_date": 2
+      },
       {
         "at": "2026-10-30T10:10:51.281Z",
         "checked_sources": 3,
@@ -1119,40 +1125,34 @@
         "checked_sources": 3,
         "matching_sources": 0,
         "finished_by_date": 0
-      },
-      {
-        "at": "2026-10-15T20:43:26.861Z",
-        "checked_sources": 3,
-        "matching_sources": 0,
-        "finished_by_date": 0
       }
     ],
     "campaigns": [
       {
         "id": "binance-learn-btc-2026-10",
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_por_confirmar",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       },
       {
         "id": "binance-wotd-2026-10-12",
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_finalizado",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       },
       {
         "id": "binance-community-2026-10",
-        "checked_runs": 250,
+        "checked_runs": 251,
         "source_matches": 0,
         "source_match_rate_pct": 0,
         "last_status": "plazo_finalizado",
-        "last_seen_at": "2026-10-30T10:10:51.281Z",
+        "last_seen_at": "2026-10-30T12:52:40.344Z",
         "status_changed": false
       }
     ],
