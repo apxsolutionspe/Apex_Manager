@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-31T12:25:06.734Z",
+  "generated_at": "2026-10-31T21:31:31.695Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,34 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1157,
-    "descartar": 43,
+    "informativa": 1156,
+    "descartar": 44,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "Chinese documentation bounty: remaining scope, AI assistance and CNY payout",
+      "url": "https://github.com/Clawland-AI/picclaw/issues/36",
+      "source_created_at": "2026-10-31T18:38:44Z",
+      "first_seen_at": "2026-10-31T21:31:30.667Z",
+      "last_seen_at": "2026-10-31T21:31:30.667Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "🎯 Bounty Alert: 13 New Opportunityies found",
@@ -1397,52 +1419,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty proposal] fix(entity-pages): normalize mixed naive, aware, and ISO conversation timestamps ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22620",
-      "source_created_at": "2026-10-19T18:39:20Z",
-      "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T22:20:41.782Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(calendar): normalize naive start timestamps and guard malformed start dicts in multi-window sort ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22614",
-      "source_created_at": "2026-10-19T18:31:29Z",
-      "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T22:20:41.782Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -2409,17 +2385,15 @@
     },
     {
       "source": "github",
-      "title": "MCP / WebMCP edge cases: v2-era ids get calldata for a different bounty, + 19 more (report)",
-      "url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1584",
-      "source_created_at": "2026-10-19T21:21:29Z",
-      "first_seen_at": "2026-10-19T21:26:09.258Z",
-      "last_seen_at": "2026-10-19T23:29:42.409Z",
+      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/72",
+      "source_created_at": "2026-10-31T21:16:45Z",
+      "first_seen_at": "2026-10-31T21:31:30.667Z",
+      "last_seen_at": "2026-10-31T21:31:30.667Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2427,23 +2401,21 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 750,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "bounty-watch 2026-10-19: 0 new, 1 resumed, 4 watchlist changes",
-      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/142",
-      "source_created_at": "2026-10-19T22:27:36Z",
-      "first_seen_at": "2026-10-19T23:29:42.409Z",
-      "last_seen_at": "2026-10-19T23:29:42.409Z",
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191",
+      "source_created_at": "2026-10-31T18:45:12Z",
+      "first_seen_at": "2026-10-31T21:31:30.667Z",
+      "last_seen_at": "2026-10-31T21:31:30.667Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2451,24 +2423,22 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 750,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 6 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1282",
-      "source_created_at": "2026-10-19T19:00:07Z",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T22:20:41.782Z",
+      "title": "Owner decision: a third advertised private bounty paid in a sponsor's own token on Robinhood Chain",
+      "url": "https://github.com/SlopDotCash/slopdotcash/issues/1958",
+      "source_created_at": "2026-10-31T20:23:00Z",
+      "first_seen_at": "2026-10-31T21:31:30.667Z",
+      "last_seen_at": "2026-10-31T21:31:30.667Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2476,7 +2446,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 3000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3713,6 +3683,29 @@
         "payment": false
       },
       "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: Single-spend `payload.authority` rotation evicts `cosign_counts` at `MAX_COSIGN_COUNTS` to reset `MAX_COSIGNS_PER_SETTLEMENT`, and `initiate_transact_verification` omits the `#726` `already_verified` short-circuit (enabling retry sel",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1154",
+      "source_created_at": "2026-10-21T04:26:06Z",
+      "first_seen_at": "2026-10-21T04:44:03.604Z",
+      "last_seen_at": "2026-10-21T04:44:03.604Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 150,
       "monetary_value_received": 0,
       "verified_payment": false
     }
