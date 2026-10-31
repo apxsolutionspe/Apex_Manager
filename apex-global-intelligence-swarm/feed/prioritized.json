@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-10-31T05:38:10.813Z",
+  "generated_at": "2026-10-31T12:25:06.734Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1159,
-    "descartar": 41,
+    "informativa": 1157,
+    "descartar": 43,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1443,75 +1443,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty proposal] fix(conversations): normalize mixed naive, aware, and ISO timestamps in find_neighbor ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22638",
-      "source_created_at": "2026-10-19T20:35:51Z",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T22:20:41.782Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(calendar): normalize naive dateTime strings and guard None values in parse_event_times ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22636",
-      "source_created_at": "2026-10-19T20:31:53Z",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-10-19T22:20:41.782Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(memory): normalize mixed naive and aware evidence timestamps when ordering capture devices ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/22611",
-      "source_created_at": "2026-10-19T18:24:40Z",
-      "first_seen_at": "2026-10-19T18:48:56.948Z",
-      "last_seen_at": "2026-10-19T21:28:56.447Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -2546,6 +2477,51 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/70",
+      "source_created_at": "2026-10-31T11:59:16Z",
+      "first_seen_at": "2026-10-31T12:25:06.100Z",
+      "last_seen_at": "2026-10-31T12:25:06.100Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 750,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Grant Proposal: Shielded Quest 2026",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/528",
+      "source_created_at": "2026-10-31T07:20:23Z",
+      "first_seen_at": "2026-10-31T12:25:06.100Z",
+      "last_seen_at": "2026-10-31T12:25:06.100Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3699,6 +3675,29 @@
       "title": "[Bounty proposal] fix(perplexity-tools): validate non-empty query and guard hop-2 retry concatenation ($50 proposed)",
       "url": "https://github.com/BasedHardware/omi/issues/23120",
       "source_created_at": "2026-10-21T20:12:28Z",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(web-tools): validate non-empty url, decode html entities, and support json-ld graph ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23124",
+      "source_created_at": "2026-10-21T20:18:21Z",
       "first_seen_at": "2026-10-21T21:41:51.366Z",
       "last_seen_at": "2026-10-21T21:41:51.366Z",
       "status": "informativa",
