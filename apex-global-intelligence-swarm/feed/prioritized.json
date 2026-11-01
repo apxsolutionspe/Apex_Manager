@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-01T13:20:29.304Z",
+  "generated_at": "2026-11-01T22:00:00.295Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1373,29 +1373,6 @@
     },
     {
       "source": "github",
-      "title": "The x86-64 AVX2 CPU card has one recipe and no bounty row — would you open one?",
-      "url": "https://github.com/sybil-solutions/local-ai-registry/issues/335",
-      "source_created_at": "2026-10-20T09:28:08Z",
-      "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-20T11:34:23.667Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 800,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -2313,15 +2290,14 @@
     },
     {
       "source": "github",
-      "title": "Erdős 18(b): fixed-pin replay and a success-only ZZZ bounty collaboration",
-      "url": "https://github.com/JENW1N/complete-math-solutions/issues/1",
-      "source_created_at": "2026-10-20T17:15:36Z",
-      "first_seen_at": "2026-10-20T17:19:11.083Z",
-      "last_seen_at": "2026-10-20T17:48:33.059Z",
+      "title": "support: agent-6c78ab - payout pending for accepted bounty #142",
+      "url": "https://github.com/auscaster/frantic-board/issues/571",
+      "source_created_at": "2026-11-01T21:57:38Z",
+      "first_seen_at": "2026-11-01T21:59:59.318Z",
+      "last_seen_at": "2026-11-01T21:59:59.318Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
@@ -2330,21 +2306,20 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 3,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "[Documentation] Add Contribution Bounty Labels Guide",
-      "url": "https://github.com/ANYTECHS/clips-backend/issues/1232",
-      "source_created_at": "2026-10-20T09:42:22Z",
-      "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-20T11:34:23.667Z",
+      "title": "Retroactive Grant Application - Zebra High Severity Consensus Vulnerability (CVE-2026-40880)",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/74",
+      "source_created_at": "2026-11-01T20:28:45Z",
+      "first_seen_at": "2026-11-01T21:59:59.318Z",
+      "last_seen_at": "2026-11-01T21:59:59.318Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -2354,32 +2329,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1623",
-      "source_created_at": "2026-10-20T09:51:07Z",
-      "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-10-20T11:34:23.667Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3690,6 +3640,52 @@
       "title": "[Bounty proposal] fix(notifications): typed request models, bounds validation, and empty admin key guard (0 proposed)",
       "url": "https://github.com/BasedHardware/omi/issues/23112",
       "source_created_at": "2026-10-21T20:02:16Z",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(perplexity-tools): validate non-empty query and guard hop-2 retry concatenation ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23120",
+      "source_created_at": "2026-10-21T20:12:28Z",
+      "first_seen_at": "2026-10-21T21:41:51.366Z",
+      "last_seen_at": "2026-10-21T21:41:51.366Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] fix(web-tools): validate non-empty url, decode html entities, and support json-ld graph ($50 proposed)",
+      "url": "https://github.com/BasedHardware/omi/issues/23124",
+      "source_created_at": "2026-10-21T20:18:21Z",
       "first_seen_at": "2026-10-21T21:41:51.366Z",
       "last_seen_at": "2026-10-21T21:41:51.366Z",
       "status": "informativa",
