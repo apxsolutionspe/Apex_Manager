@@ -1,16 +1,16 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-11-03T03:29:31.463Z",
-  "observed_at": "2026-11-03T03:29:28.587Z",
+  "generated_at": "2026-11-03T12:00:43.371Z",
+  "observed_at": "2026-11-03T12:00:40.487Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
-    "sources_read": 15,
-    "sources_unavailable": 9,
+    "sources_read": 17,
+    "sources_unavailable": 7,
     "failure_types": {
       "access_denied": 1,
       "upstream_error": 1,
-      "network_failure": 5,
+      "network_failure": 3,
       "size_limit": 2,
       "unexpected_type": 0,
       "other": 0
@@ -42,14 +42,6 @@
       },
       {
         "source": "base-announcements",
-        "reason": "network_failure"
-      },
-      {
-        "source": "superteam-peru",
-        "reason": "network_failure"
-      },
-      {
-        "source": "superteam-earn",
         "reason": "network_failure"
       }
     ],
