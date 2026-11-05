@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-05T06:43:25.068Z",
+  "generated_at": "2026-11-05T19:56:05.125Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -917,255 +917,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty proposal] fix(gmail-tools): guard None/malformed payload parsing and clamp max_results ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23210",
-      "source_created_at": "2026-10-22T04:33:52Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(screen-activity): harden user_id extraction, malformed summary guards, and query validation ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23204",
-      "source_created_at": "2026-10-22T04:29:49Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(chart-tools): validate title/type, coerce numeric values, and guard None configurable ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23202",
-      "source_created_at": "2026-10-22T04:22:52Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(memory-tools): harden user_id extraction, coerce limit/offset, and validate search query ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23189",
-      "source_created_at": "2026-10-22T03:34:33Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(calendar-tools): harden user_id extraction, clamp max_results, and validate event title ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23187",
-      "source_created_at": "2026-10-22T03:31:35Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(apple-health-tools): guard string numeric formatting, handle None health_data, and sanitize lists ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23211",
-      "source_created_at": "2026-10-22T04:34:02Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(notification-tools): guard string hour coercion, fallback top-level config, and add database error resilience ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23205",
-      "source_created_at": "2026-10-22T04:30:16Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(file-tools): guard string end_seconds coercion, fallback top-level session config, and validate question ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23199",
-      "source_created_at": "2026-10-22T04:19:24Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(app-tools): guard null properties in parameter schemas, fallback user_id, and sanitize tool names and methods ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23196",
-      "source_created_at": "2026-10-22T04:12:02Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(gmail-tools): guard string max_results coercion, sanitize labels, and support nested MIME multipart body ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23191",
-      "source_created_at": "2026-10-22T03:56:15Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(calendar-tools): guard untitled event summary matching, coerce max_results, and validate time ranges ($50 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23184",
-      "source_created_at": "2026-10-22T03:27:33Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -1185,6 +936,78 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][Medium] XCM API: assetId accepts JSON numbers > 2^53 — silent float rounding forwards a wrong assetId to the SDK",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2433",
+      "source_created_at": "2026-11-05T18:51:15Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][High] XCM API: legacy /v1 prefix serves a stale pre-2026-08-11 build — all analyser/validation fixes unfixed there",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2430",
+      "source_created_at": "2026-11-05T18:51:06Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][High] Assets registry coverage gap: 45 parachains with live HRMP channels missing from assets.json",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2427",
+      "source_created_at": "2026-11-05T18:50:58Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2054,6 +1877,98 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
+      "source_created_at": "2026-11-05T18:17:55Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 450,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
+      "source_created_at": "2026-11-05T18:17:54Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 600,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
+      "source_created_at": "2026-11-05T18:17:53Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 600,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
+      "source_created_at": "2026-11-05T18:17:53Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 450,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3290,30 +3205,6 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1636",
-      "source_created_at": "2026-10-22T03:52:42Z",
-      "first_seen_at": "2026-10-22T04:41:56.016Z",
-      "last_seen_at": "2026-10-22T04:41:56.016Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1000,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Open paid tasks: four $1 listings on 1F916 (bugs, plan, promotion, module)",
       "url": "https://github.com/commonworld-one/commonworld/issues/212",
       "source_created_at": "2026-10-28T21:38:28Z",
@@ -3332,6 +3223,200 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Avviso alla community sui costi di bounty, sviluppo su Vercel e VPS",
+      "url": "https://github.com/MyZubster-Ecosystem/myzubster/issues/1696",
+      "source_created_at": "2026-11-05T18:11:00Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1382",
+      "source_created_at": "2026-11-05T19:29:24Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/68",
+      "source_created_at": "2026-11-05T18:35:55Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][Medium] Swap: Acala & Bifrost omit destination XCM fee from reported amountOut for non-native outputs (user overquoted)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2432",
+      "source_created_at": "2026-11-05T18:51:12Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][Medium] Playground: URL-prefilled transactOptions.call → one-click signing of hidden arbitrary inner call (+ frameable hosts)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2431",
+      "source_created_at": "2026-11-05T18:51:09Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][High] Swap: Hydration fee-estimation quote is 10^decimals oversized (raw planck string fed to human-decimal GC sdk)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2429",
+      "source_created_at": "2026-11-05T18:51:03Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][High] Swap execute-path: multi-hop want halving causes hop-2 NoDeal → funds trapped in pallet holding",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2428",
+      "source_created_at": "2026-11-05T18:51:01Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty][High] Assets registry: HOLLAR location malformed (on-chain = AccountKey20 ERC20) — XCM routing via location fails for Hydration",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2426",
+      "source_created_at": "2026-11-05T18:50:55Z",
+      "first_seen_at": "2026-11-05T19:56:04.291Z",
+      "last_seen_at": "2026-11-05T19:56:04.291Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3641,76 +3726,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "ZecHub bounty: Create 1 Motion Design Video: Zcash NU7 (0.156 ZEC)",
-      "url": "https://github.com/panoskokmotos/panoskokmotos/issues/19",
-      "source_created_at": "2026-11-02T22:59:41Z",
-      "first_seen_at": "2026-11-03T00:56:59.484Z",
-      "last_seen_at": "2026-11-03T00:56:59.484Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "NU7 motion-video bounty: AI-assisted delivery and payment-route questions",
-      "url": "https://github.com/ZecHub/zec-bounties/issues/544",
-      "source_created_at": "2026-11-03T00:41:31Z",
-      "first_seen_at": "2026-11-03T00:56:59.484Z",
-      "last_seen_at": "2026-11-03T00:56:59.484Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "A turned-in bounty can be claimed again by moving the clock a week forward and back",
-      "url": "https://github.com/faizal97/realm-of-loner/issues/435",
-      "source_created_at": "2026-11-03T00:40:06Z",
-      "first_seen_at": "2026-11-03T00:56:59.484Z",
-      "last_seen_at": "2026-11-03T00:56:59.484Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
