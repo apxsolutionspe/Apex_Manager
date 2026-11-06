@@ -1,7 +1,7 @@
 {
   "schema": "apex-project-handoff-v1",
-  "generated_at": "2026-11-05T20:42:12.200Z",
-  "research_observed_at": "2026-11-05T20:42:09.238Z",
+  "generated_at": "2026-11-06T01:36:53.987Z",
+  "research_observed_at": "2026-11-06T01:36:50.853Z",
   "project": "APEX PRIME X / Apex_Manager",
   "repository": "https://github.com/apxsolutionspe/Apex_Manager",
   "continuity_guide": "https://github.com/apxsolutionspe/Apex_Manager/blob/main/APEX_CONTINUIDAD.md",
@@ -10,8 +10,8 @@
   "state": {
     "sources_configured": 24,
     "sources_read": 17,
-    "announcements_for_review": 49,
-    "new_announcements_in_last_scan": 2,
+    "announcements_for_review": 45,
+    "new_announcements_in_last_scan": 0,
     "user_specific_eligibility_verified": 0,
     "verified_income_usd": 0
   },
