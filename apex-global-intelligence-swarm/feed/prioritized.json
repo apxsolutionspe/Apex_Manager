@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-05T19:56:05.125Z",
+  "generated_at": "2026-11-06T06:40:53.101Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1153,
-    "descartar": 47,
+    "informativa": 1154,
+    "descartar": 46,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -830,75 +830,6 @@
       "source_created_at": "2026-10-22T17:37:32Z",
       "first_seen_at": "2026-10-22T21:34:28.954Z",
       "last_seen_at": "2026-10-22T21:34:28.954Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] fix(chart-tools): harden create_chart_tool input validation, numeric coercion, and configurable resilience ( proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23287",
-      "source_created_at": "2026-10-22T11:34:38Z",
-      "first_seen_at": "2026-10-22T11:49:52.236Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Proposal] fix(preference-tools): guard None replacement, validate non-empty preference, and harden UID extraction (0 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23276",
-      "source_created_at": "2026-10-22T09:24:47Z",
-      "first_seen_at": "2026-10-22T11:49:52.236Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Proposal] fix(notification-tools): coerce string hour, validate action, and fallback top-level UID (0 proposed)",
-      "url": "https://github.com/BasedHardware/omi/issues/23273",
-      "source_created_at": "2026-10-22T09:12:11Z",
-      "first_seen_at": "2026-10-22T11:49:52.236Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z",
       "status": "informativa",
       "priority": 90,
       "reasons": [
@@ -1845,30 +1776,6 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty]",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2190",
-      "source_created_at": "2026-10-22T11:38:02Z",
-      "first_seen_at": "2026-10-22T11:49:52.236Z",
-      "last_seen_at": "2026-10-22T11:49:52.236Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -3228,6 +3135,79 @@
     },
     {
       "source": "github",
+      "title": "Test the rules that decide which bounty a pull request claims",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/17",
+      "source_created_at": "2026-11-06T06:16:21Z",
+      "first_seen_at": "2026-11-06T06:40:52.225Z",
+      "last_seen_at": "2026-11-06T06:40:52.225Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/70",
+      "source_created_at": "2026-11-06T06:23:05Z",
+      "first_seen_at": "2026-11-06T06:40:52.225Z",
+      "last_seen_at": "2026-11-06T06:40:52.225Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[R7-TC-10] [P1-Mechanics] Pirate FOB Destruction Spawns Unlootable Container (loot_container_id Missing from snap.items) & Pays Full 30M ISK Bounty to Capsules and 1-HP Taggers",
+      "url": "https://github.com/saverchenkov/EvoMu/issues/452",
+      "source_created_at": "2026-11-06T06:25:38Z",
+      "first_seen_at": "2026-11-06T06:40:52.225Z",
+      "last_seen_at": "2026-11-06T06:40:52.225Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Avviso alla community sui costi di bounty, sviluppo su Vercel e VPS",
       "url": "https://github.com/MyZubster-Ecosystem/myzubster/issues/1696",
       "source_created_at": "2026-11-05T18:11:00Z",
@@ -3726,6 +3706,29 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "ZecHub bounty: Create 1 Motion Design Video: Zcash NU7 (0.156 ZEC)",
+      "url": "https://github.com/panoskokmotos/panoskokmotos/issues/19",
+      "source_created_at": "2026-11-02T22:59:41Z",
+      "first_seen_at": "2026-11-03T00:56:59.484Z",
+      "last_seen_at": "2026-11-03T00:56:59.484Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
