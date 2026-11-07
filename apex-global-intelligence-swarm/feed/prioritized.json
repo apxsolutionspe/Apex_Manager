@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-07T05:56:29.165Z",
+  "generated_at": "2026-11-07T12:57:59.127Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1156,
-    "descartar": 44,
+    "informativa": 1159,
+    "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -3088,6 +3088,150 @@
     },
     {
       "source": "github",
+      "title": "[radar] SN open bounty 2026-11-07T12:51",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
+      "source_created_at": "2026-11-07T12:51:56Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BUG BOUNTY] Consolidated On-Chain Program, Solana Bridge & Relayer Ingress Hardening (SPL Fee Accounting, Stake Vault Mint, Authority/Reputation Bounds, Bearer Auth & Canonical PDA Verification)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1499",
+      "source_created_at": "2026-11-07T12:51:00Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] sdk-core: createCustomXcm sets isFeeTransferred = false on multi-asset (overriddenAsset) ED transfers, swapping entire fee asset via ExchangeAsset maximal: true",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2452",
+      "source_created_at": "2026-11-07T12:35:23Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Consolidated Wallet Privacy & Swap Hardening: Exact Note Envelope Bounds, 0-Value Scan Filtering, Commitment Deduplication, Swap Slippage/WSOL Recovery & Fixed-Point SOL Parsing",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/270",
+      "source_created_at": "2026-11-07T12:52:26Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Consolidated ZK Prover Hardening: Ceremony VK Pinning, Post-Prove Self-Verification, u64 Sum/Blinding Bounds, Cross-Version Pubkey Guards & Withdrawal Fee/Recipient Validation",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/59",
+      "source_created_at": "2026-11-07T12:51:42Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] verifyEdOnDestinationInternal miscalculates fee deductions for custom feeAsset and PolkadotXcm.execute transfers",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2450",
+      "source_created_at": "2026-11-07T11:07:02Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[BOUNTY] Medium: Unlock and handleCreateAccount collide on Account 0 index when stored.accounts is empty, walletStore.unlock leaves stale currentAccountIndex, and account switching leaks revealedPK and withdrawAddress across accounts",
       "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/233",
       "source_created_at": "2026-11-07T05:08:02Z",
@@ -3573,152 +3717,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[R7-TC-10] [P1-Mechanics] Pirate FOB Destruction Spawns Unlootable Container (loot_container_id Missing from snap.items) & Pays Full 30M ISK Bounty to Capsules and 1-HP Taggers",
-      "url": "https://github.com/saverchenkov/EvoMu/issues/452",
-      "source_created_at": "2026-11-06T06:25:38Z",
-      "first_seen_at": "2026-11-06T06:40:52.225Z",
-      "last_seen_at": "2026-11-06T06:40:52.225Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Avviso alla community sui costi di bounty, sviluppo su Vercel e VPS",
-      "url": "https://github.com/MyZubster-Ecosystem/myzubster/issues/1696",
-      "source_created_at": "2026-11-05T18:11:00Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1382",
-      "source_created_at": "2026-11-05T19:29:24Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/68",
-      "source_created_at": "2026-11-05T18:35:55Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty][Medium] Swap: Acala & Bifrost omit destination XCM fee from reported amountOut for non-native outputs (user overquoted)",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2432",
-      "source_created_at": "2026-11-05T18:51:12Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty][Medium] Playground: URL-prefilled transactOptions.call → one-click signing of hidden arbitrary inner call (+ frameable hosts)",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2431",
-      "source_created_at": "2026-11-05T18:51:09Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {

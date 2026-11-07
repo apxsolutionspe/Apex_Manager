@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-07T05:56:28.559Z",
+  "updated_at": "2026-11-07T12:57:58.558Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -195,12 +195,12 @@
       "evidence": "On October 26, OpenAI announced a claimed \"bare existence\" proof in Balaban&#x27;s RG programme on pure R^4—but notably stopped right before claiming the mass gap Δ > 0. It turns out there is a rigorous mathematical reason why no compute cluster can bridge that gap on flat infinite space. I wrote a 2,576-line self-contained Lean 4 script (`RoundSquare.lean`) that formally proves a negative-result resolution to the Clay Millennium Yang-Mills problem on pure R^4. In the tradition of Gödel and Turing, it proves that demanding BOTH the full Osterwa",
       "source_created_at": "2026-11-04T21:20:31Z",
       "opp_type": "otro",
-      "score": 19,
+      "score": 20,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "salary-statistics.netlify.app/us",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bathrooms.lacontroller.app",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "hackernews",
@@ -365,7 +365,397 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50399569",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "evidence": "",
+      "source_created_at": "2026-11-06T22:50:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259254925",
+      "title": "[radar] SN open bounty 2026-11-07T12:51",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1609695 Stacker_Sports 3 1120 2100 10 18.6 232181 4422 recent@Stacker_Sports|top@Stacker_Sports OPEN_BOUNTY,HOT,SELF_POST_OPP Weekly Random Sports Pick 'em 1609509 Stacker_Sports 3 747 2100 24 22.6 1448206 2750 recent@Stacker_Sports|top@Stacker_Sports OPEN_BOUNTY 🏈Sunday Leaders Bounty • 2,100 sats ```",
+      "source_created_at": "2026-11-07T12:51:56Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1357",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259246586",
+      "title": "[BUG BOUNTY] Consolidated On-Chain Program, Solana Bridge & Relayer Ingress Hardening (SPL Fee Accounting, Stake Vault Mint, Authority/Reputation Bounds, Bearer Auth & Canonical PDA Verification)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1499",
+      "evidence": "## Summary This consolidated security report and companion patch address **6 high-impact correctness, accounting, and validation vulnerabilities** across the on-chain Solana Anchor program (`programs/paraloom/src/lib.rs`), the Solana bridge client (`src/bridge/solana/`), and the relayer transact ingress client (`src/relayer/`): --- ### 1. `programs/paraloom/src/lib.rs` — `transact_spl` omits `validator_account.total_earnings` accounting - **Root Cause**: In `transact` (native SOL withdrawals, lines 625–653), the 25 bps validator withdrawal fee ",
+      "source_created_at": "2026-11-07T12:51:00Z",
+      "opp_type": "bug_bounty",
+      "score": 43,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/1499",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259108690",
+      "title": "[Bug bounty] sdk-core: createCustomXcm sets isFeeTransferred = false on multi-asset (overriddenAsset) ED transfers, swapping entire fee asset via ExchangeAsset maximal: true",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2452",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug In `@paraspell/sdk-core`, [`resolveEdDeposit`](https://github.com/paraspell/xcm-tools/blob/aab04d32ece3594f9e494337e960709c7508d19e/packages/sdk-core/src/utils/transfer/resolveEdDeposit.ts#L35-L56) explicitly supports multi-asset (`overriddenAsset` / currency array) transfers to accounts without providers (`providers === 0`) when at least one transferred asset is non-sufficient on the destination chain. However, in [`createCustomXcm`](https://github.com/paraspell/xcm-tools/blob/aab04d32ece3594f9e494337e960",
+      "source_created_at": "2026-11-07T12:35:23Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2452",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259259512",
+      "title": "[BOUNTY] Consolidated Wallet Privacy & Swap Hardening: Exact Note Envelope Bounds, 0-Value Scan Filtering, Commitment Deduplication, Swap Slippage/WSOL Recovery & Fixed-Point SOL Parsing",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/270",
+      "evidence": "## Summary This consolidated security report and companion patch address **5 high-impact privacy, note-accounting, and swap-recovery bugs** across `paraloom-wallet` (`lib/paraloom/`, `lib/storage/`, and `src/popup/`): --- ### 1. `lib/paraloom/noteCrypto.ts` & `lib/storage/session.ts` — `tryDecryptNote` Accepts Trailing Ciphertext Bytes & Unbounded 32-Byte Key Inputs - **Root Cause**: `tryDecryptNote` checked only `raw.length 0n`) in `addNote`, and harden `spendV3` / `depositV3` input validation in `transactFlow.ts`. --- ### 3. `lib/paraloom/pri",
+      "source_created_at": "2026-11-07T12:52:26Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/270",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259252705",
+      "title": "[BOUNTY] Consolidated ZK Prover Hardening: Ceremony VK Pinning, Post-Prove Self-Verification, u64 Sum/Blinding Bounds, Cross-Version Pubkey Guards & Withdrawal Fee/Recipient Validation",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/59",
+      "evidence": "## Summary This consolidated security report and companion patch address **6 critical/high-severity client-side ZK prover vulnerabilities** in `paraloom-prover-wasm` (`src/lib.rs` and `tests/v3_native_smoke.rs`): --- ### 1. Proving Key `CircomReduction` / IC Shape Validation & Ceremony v3 VK Pinning - **Root Cause**: `prove_withdrawal_v2`, `prove_transfer_v2`, and `prove_transact` deserialized `ProvingKey ` directly from untrusted `proving_key: &[u8]` bytes without rejecting trailing bytes, without verifying `pk.vk.gamma_abc_g1.len()` against t",
+      "source_created_at": "2026-11-07T12:51:42Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraloom-labs/paraloom-prover-wasm/issues/59",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6258309872",
+      "title": "[Bug bounty] verifyEdOnDestinationInternal miscalculates fee deductions for custom feeAsset and PolkadotXcm.execute transfers",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2450",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug In `@paraspell/sdk-core` (`v14.5.2`), `verifyEdOnDestinationInternal` (`packages/sdk-core/src/transfer/verify-ed/verifyEdOnDestinationInternal.ts`) computes `feeToSubtract` inconsistently with `getMinTransferableAmount` and `getTransferInfo` (`buildDestInfo`), causing both false negatives and false positives when verifying whether a transfer satisfies the destination chain's existential deposit (ED): 1. **Subtracts `destFee` from the transferred asset even when `destFeeAsset` is a separate `feeAsset`**: Wh",
+      "source_created_at": "2026-11-07T11:07:02Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2450",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6258638132",
+      "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
+      "evidence": "### Overview Add test cases in `tests/test_ledger_validator.py` covering descending sequence headers (`[{\"seq\": 15}, {\"seq\": 14}]`). ### Contribution Policy Do **not** open a Pull Request until a maintainer officially assigns you (`Assign-First`). Self-labeled decoy bounty tag without escrow bot comment.",
+      "source_created_at": "2026-11-07T11:43:32Z",
+      "opp_type": "bounty_codigo",
+      "score": 33,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259132310",
+      "title": "[High] Consolidated Payments, Converter & Periphery Security Audit: SafeSendRouter, PaymentReceiver, TokenConverter, RevenueV1/V2, NFPM & PeripheryPaymentsWithFee",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/96",
+      "evidence": "## Bug Bounty Report — Consolidated Payments, Converter & Periphery Security Audit (`SafeSendRouter.sol`, `PaymentReceiver.sol`, `TokenConverter.sol`, `RevenueV1.sol`, `RevenueV2.sol`, `NonfungiblePositionManager.sol`, `PeripheryPaymentsWithFee.sol`) - **Hunter GitHub**: `@cyczzhao-lab` (`cyczzhao@gmail.com`) - **Payout Wallet Address (EVM)**: `0xA4c86F4e9d9EC8990F843aa49470083CEce5F908` - **Target Contracts**: - `contracts/payments/SafeSendRouter.sol` - `contracts/payments/PaymentReceiver.sol` - `contracts/converter/TokenConverter.sol` - `cont",
+      "source_created_at": "2026-11-07T12:38:20Z",
+      "opp_type": "bug_bounty",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/96",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259131626",
+      "title": "[Critical/High] Consolidated dex-core Security Audit: MarginModule Liquidation/Settlement/ETH Normalization, Oracle Floor/Overflow, QuoteLib & Autolisting",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/95",
+      "evidence": "## Bug Bounty Report — Consolidated Core Protocol Security Audit (`Dex223MarginModule.sol`, `Dex223Oracle.sol`, `Dex223QuoteLib.sol`, `Autolisting.sol`) - **Hunter GitHub**: `@cyczzhao-lab` (`cyczzhao@gmail.com`) - **Payout Wallet Address (EVM)**: `0xA4c86F4e9d9EC8990F843aa49470083CEce5F908` - **Target Contracts**: - `contracts/dex-core/Dex223MarginModule.sol` - `contracts/dex-core/Dex223Oracle.sol` - `contracts/dex-core/Dex223QuoteLib.sol` - `contracts/dex-core/Autolisting.sol` - **Consolidated Severity**: **Critical / High** --- ### Executive",
+      "source_created_at": "2026-11-07T12:38:15Z",
+      "opp_type": "bug_bounty",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/95",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259278146",
+      "title": "[intake] 第三方独立复验：dsh-memory PR #818（确定性四信号重排 detrerank）——脚本守卫 基线 rc=1→修复 rc=0",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2475",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/dsh-memory` - PR：**#818** —— 确定性四信号重排（detrerank） - 合并提交：`ff65500`（父提交 `13d6783`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout ff65500` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 13d6783` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhudong\\pro",
+      "source_created_at": "2026-11-07T12:54:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2475",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259277937",
+      "title": "[intake] 第三方独立复验：dsh-memory PR #817（跨轮状态聚合 topicagg）——脚本守卫 基线 rc=1→修复 rc=0",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2473",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/dsh-memory` - PR：**#817** —— 跨轮状态聚合（topicagg） - 合并提交：`13d6783`（父提交 `7c756f9`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 13d6783` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 7c756f9` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhudong\\probes",
+      "source_created_at": "2026-11-07T12:54:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2473",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259277729",
+      "title": "[intake] 第三方独立复验：dsh-memory PR #815（search_rrf cutoff 邻近保障 recent_tail）——脚本守卫 基线 rc=1→修复 rc=0",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2471",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/dsh-memory` - PR：**#815** —— search_rrf cutoff 邻近保障（recent_tail） - 合并提交：`7c756f9`（父提交 `5166cd2`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 7c756f9` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 5166cd2` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本",
+      "source_created_at": "2026-11-07T12:54:27Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2471",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259277488",
+      "title": "[intake] 第三方独立复验：dsh-memory PR #814（禁 hive 守卫判别力增强 +238/−17）——守卫自身升级，两腿 11 断言全过",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2470",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/dsh-memory` - PR：**#814** —— md_cg 禁 hive 守卫补「相对导入按位置折算」 - 合并提交：`73069f6`（父提交 `e617018`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 73069f6` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout e617018` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhu",
+      "source_created_at": "2026-11-07T12:54:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2470",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259277301",
+      "title": "[intake] 第三方独立复验：dsh-memory PR #813（#810 cg root 参数数据面显式拒绝）——脚本守卫 基线 rc=1→修复 rc=0",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2469",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/dsh-memory` - PR：**#813** —— #810 cg 的 root 参数在数据面显式拒绝 - 合并提交：`e617018`（父提交 `129d113`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout e617018` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 129d113` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhudo",
+      "source_created_at": "2026-11-07T12:54:24Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2469",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259277108",
+      "title": "[intake] 第三方独立复验：lingshu PR #1328（批三十三 #2457 last4 门面收口）——守卫 5 条 基线 5 红→修复 5 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2468",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1328** —— #2457 last4 门面收口 - 合并提交：`d6b52e7`（父提交 `3d93bcd`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout d6b52e7` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 3d93bcd` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhudong\\probes 9",
+      "source_created_at": "2026-11-07T12:54:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2468",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259276904",
+      "title": "[intake] 第三方独立复验：lingshu PR #1326（#770 守卫裁决联动，非功能修复）——两腿 10 绿，判别力判据不适用",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2467",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1326** —— #770 守卫裁决联动（B-12 落库后情境层腿断言反转） - 合并提交：`3d93bcd`（父提交 `3d22800`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 3d93bcd` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 3d22800` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhu",
+      "source_created_at": "2026-11-07T12:54:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2467",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259276652",
+      "title": "[intake] 第三方独立复验：lingshu PR #1325（#114 B-10/11/12 裁决落地＋#206 值域闸）——守卫 6 条 基线 3 红/3 过→修复 6 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2466",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1325** —— #114 B-10/11/12 裁决落地＋#206 值域闸 - 合并提交：`3d22800`（父提交 `1736f60`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 3d22800` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 1736f60` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhu",
+      "source_created_at": "2026-11-07T12:54:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2466",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259276405",
+      "title": "[intake] 第三方独立复验：lingshu PR #1324（批三十二 voxel spawn 有限闸＋门面扫尾）——守卫 18 条 基线 7 红/11 过→修复 18 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2465",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1324** —— 批三十二（voxel spawn 有限闸＋门面扫尾＋history 恢复） - 合并提交：`1736f60`（父提交 `ebdebaf`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 1736f60` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout ebdebaf` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本",
+      "source_created_at": "2026-11-07T12:54:17Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2465",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259276124",
+      "title": "[intake] 第三方独立复验：lingshu PR #1322（批三十一 #2446 generate horizon 闸）——守卫 8 条 基线 6 红/2 过→修复 8 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2464",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1322** —— #2446 world_model.generate horizon 零类型闸 - 合并提交：`ebdebaf`（父提交 `5f5ecc0`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout ebdebaf` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 5f5ecc0` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑",
+      "source_created_at": "2026-11-07T12:54:15Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2464",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259275903",
+      "title": "[intake] 第三方独立复验：lingshu PR #1320（#1319 零边因果路径收口）——守卫 4 条 基线 2 红/2 过→修复 4 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2463",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1320** —— #1319 零边因果路径收口＋缺口如实 - 合并提交：`5f5ecc0`（父提交 `612670d`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 5f5ecc0` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout 612670d` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse HEAD` 校验实际生效的提交，避免「以为切了其实没切」的假读数。复跑脚本：`D:\\zhudong\\probe",
+      "source_created_at": "2026-11-07T12:54:14Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2463",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259275671",
+      "title": "[intake] 第三方独立复验：lingshu PR #1318（批三十 #2424 四门面错误契约）——守卫 9 条 基线 6 红/3 过→修复 9 绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2462",
+      "evidence": "## 性质声明 本件是**第三方独立复验**（intake 输入），非悬赏：不 `/claim`、不打 `bounty` 标签。 复验对象是**维护者已合入 main** 的 PR，不主张原 PR 与新缺陷，只记录**本机独立跑出的判别力读数**。 ## 复验对象 - 仓库：`FuRongJun-1999/lingshu` - PR：**#1318** —— #2424 四门面错误契约（voxel_world/scene_simulator/world_learner/curiosity_explorer） - 合并提交：`612670d`（父提交 `b8bd32b`） ## 复验方法 **两腿对照**（判别力的唯一判据）： 1. **修复后腿**：`git checkout 612670d` → 跑 PR 自带守卫 → 期望全绿； 2. **基线腿**：`git checkout b8bd32b` → 把 PR 的守卫文件**原样拷进**修复前源码树 → 再跑同一守卫 → 期望变红。 基线腿是判别力证明的关键：如果守卫在**修复前的源码**上就全绿，说明它钉不住它声称要钉的行为（守卫无判别力）——这本身是可报告的复验发现。 每次 checkout 后都 `git rev-parse",
+      "source_created_at": "2026-11-07T12:54:12Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2462",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6258741050",
+      "title": "[HIGH] Oracle._findPool() Looks Up minLiquidity by Caller-Supplied Token Addresses Instead of Pool ERC-20 Addresses, Bypassing Dust-Slice & Thin-Tier TWAP Protection for ERC-223 Assets",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/91",
+      "evidence": "## Bug Report ### Title `Oracle._findPool()` Looks Up `minLiquidity` by Caller-Supplied Token Addresses Instead of the Pool's Canonical ERC-20 Addresses, Completely Bypassing `minLiquidity` (Dust-Slice & Thin-Tier TWAP Manipulation Protection) for All ERC-223 Assets ### Researcher - **GitHub:** `@pa-khan` - **EVM Address (for bounty payout):** `0x45Ecf534fD00bb3179D34E6a3FDdE084cBfBc9Fb` ### Severity **High** (Oracle TWAP Manipulation / Margin Collateral Valuation & Liquidation Bypass for ERC-223 Assets) ### Target Contract & Commit - **Reposit",
+      "source_created_at": "2026-11-07T11:55:13Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/91",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6258919333",
+      "title": "x/agent: escrowed validation bounties — pay the validator for attested Validation-Registry work (x402 agents-paying-agents rail)",
+      "url": "https://github.com/dymensionxyz/dymension/issues/2252",
+      "evidence": "## Problem / opportunity The `x/agent` **Validation Registry** (ERC-8004 third registry, #2198) runs a request→response flow where one agent (`validator_id`) independently validates another agent's attested action. Doing the validation is real work: the validator operator runs an enclave, re-derives a nonce, and posts an enclave-signed verdict via `MsgRespondValidationAttested` (`x/agent/keeper/msg_server_validation.go` `respondValidation`). **The validator earns nothing on-chain for that work.** `RequestValidation` charges `ValidationRequestFe",
+      "source_created_at": "2026-11-07T12:14:03Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dymensionxyz/dymension/issues/2252",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6259124200",
+      "title": "[bug 报告] lingshu core（安全面）：#480 续闸 _confine_simloop_wal_path 被 \\?\\ 逐字前缀绕过——realpath 丢盘符反斜杠致前缀比较恒假，SUB 经 wm_simloop setup 即可向 MDCG_ROOT 受保护节点追加写（实测 53→211 字节），七个姊妹根闸仅此一处 fail-open",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2461",
+      "evidence": "## 对象与锚定 - **仓库**：`FuRongJun-1999/lingshu` - **锚定提交**：`upstream/main` `b8bd32b`（2026-11-07 实测） - **位置**：`lingshu/core/core.py:10176-10200`（`_confine_simloop_wal_path`，`b8d3faa`「#480 续」引入） - **落盘**：`lingshu/world/wm_simloop.py:281-295`（`_wal`，`open(self.wal_path, \"a\")` 追加写） ## 现象 `_confine_simloop_wal_path` 用 `normcase(realpath(...))` 做前缀比较，但 **`ntpath.realpath` 对输入自带的 `\\?\\` 逐字前缀不剥前缀**（CPython `had_prefix` 门控），而是把 `\\?\\C:\\...` 归一成 **`c:Users\\...`（连盘符后的反斜杠都丢了）**： ``` _norm(plain) = 'c:\\users\\86155\\appdata\\local\\temp\\mdcg_xxx' _norm(verbatim) = 'c:",
+      "source_created_at": "2026-11-07T12:37:21Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2461",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6258403804",
+      "title": "[Bug]: GitHub OAuth /auth/callback self-clobbers to /login?error=missing_token after history.replaceState, and /login ignores all ?error= query parameters",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/566",
+      "evidence": "## Description During live GitHub OAuth sign-in on `https://bounties.zechub.wiki`, two frontend auth bugs prevent completing or diagnosing GitHub OAuth logins: ### 1. `/auth/callback` redirects to `/login?error=missing_token` (`zec-bounties-frontend/app/auth/callback/page.tsx`) - **Unprotected `useEffect` re-run after `window.history.replaceState`**: In `zec-bounties-frontend/app/auth/callback/page.tsx`, `useEffect(..., [searchParams, setCurrentUser, router])` has no single-execution `useRef` guard. On the first invocation, it reads `window.loc",
+      "source_created_at": "2026-11-07T11:16:23Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ZecHub/zec-bounties/issues/566",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z"
     },
     {
       "source": "github",
@@ -469,21 +859,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/paraloom-labs/paraloom-core/issues/1458",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50399569",
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "evidence": "",
-      "source_created_at": "2026-11-06T22:50:43Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
       "last_seen_at": "2026-11-07T05:56:28.559Z"
     },
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/skull-X/Testing/issues/37",
       "first_seen_at": "2026-10-23T11:36:37.582Z",
       "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5994076990",
-      "title": "test",
-      "url": "https://github.com/skull-X/Testing/issues/36",
-      "evidence": "test",
-      "source_created_at": "2026-10-23T07:53:17Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/skull-X/Testing/issues/36",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5996712113",
-      "title": "Check child-segment access in segment dependency-tree responses",
-      "url": "https://github.com/mautic/mautic/issues/17912",
-      "evidence": "## Summary Check access to every segment included in the segment dependency-tree response, not only the requested root segment. PR #17897 adds root-segment authorization to `getSegmentDependencyTreeAction`. The review identified a potential remaining disclosure: when a user can view the root segment but cannot view a referenced child segment, the dependency tree may expose that child's name, ID, and link. Verify this path and prevent the disclosure. This work was deferred from PR #17897 at the request of @fedys. ## Required changes - Inspect ho",
-      "source_created_at": "2026-10-23T11:12:47Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/mautic/mautic/issues/17912",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5996240077",
-      "title": "Phase 3 — Outlaw Identity, character card and Guild Passport prototype",
-      "url": "https://github.com/HuRiKh4n/robinhoot-outlaw-guild/issues/4",
-      "evidence": "Implement Phase 3 on a separate feature branch; open PR, do not merge or deploy. Goal: deliver a polished, mobile-first RobinHoot Outlaw identity experience while preserving existing Next.js site and Meteor account-only connection. Requirements: 1. Dedicated My Outlaw view/page with editable name, class, species, outfit and personality, using existing creator options and visual language. Clear empty, connected and disconnected states. 2. Create an attractive responsive Character Card / Guild Passport preview with fox/outlaw design motifs, reada",
-      "source_created_at": "2026-10-23T10:36:39Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HuRiKh4n/robinhoot-outlaw-guild/issues/4",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5995462471",
-      "title": "Explorer rounds uint64 pow_nonce in block details and RAW view (Minor)",
-      "url": "https://github.com/xeprotocol/xe/issues/13",
-      "evidence": "# Explorer rounds uint64 proof-of-work nonces in detail and RAW views Suggested severity: Minor (display/data fidelity). Team determines final severity. No ledger corruption or funds impact established. Observed on 23 October 2026, testnet-0005, node UI version xe/92d83d1. ## Reproduction 1. Open https://ldn.test.network/blocks/?hash=feaebd2fefd055247d6019dd0317b32c833e715ddd3c4b33269c16917103515d 2. Read pow_nonce in the detail fields and RAW section: 810647907827518000. 3. Retrieve the original HTTP response as TEXT from https://ldn.core.test",
-      "source_created_at": "2026-10-23T09:38:20Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/xeprotocol/xe/issues/13",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5994984770",
-      "title": "Excluded crates report",
-      "url": "https://github.com/theblockcade/stellarcade/issues/1550",
-      "evidence": "# Excluded crates report Generated: 2026-10-23T09:03:15Z ## Excluded crates report | Crate | Clippy | Tests | First error | | --- | --- | --- | --- | | higher-lower | fail | pass | [1m [91merror [0m: could not compile `stellarcade-higher-lower` (lib) due to 1 previous error | | challenge-ladder | fail | pass | [1m [91merror [0m: could not compile `stellarcade-challenge-ladder` (lib) due to 4 previous errors | | merch-redemption | pass | pass | — | | profile-perks | pass | pass | — | | achievements | fail | fail | [1m [91merror[E0599] [0m [1m: n",
-      "source_created_at": "2026-10-23T09:03:17Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/theblockcade/stellarcade/issues/1550",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5994859110",
-      "title": "[tooling/autoland] run_bundle joins --slug onto the land-queue without traversal validation — out-of-queue bundles reach git apply + push-to-main",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1300",
-      "evidence": "### Revision (`git rev-parse HEAD`) `7d63d5fc25ceb525c2d0f6ec89a4ad608a6a5011` (origin/main, 2026-10-23 06:19 UTC). Also present in PR #1212's patch (its pre-validation additions do not touch the slug join). ## Summary `tools/autoland.py` is the single path to main (\"the ONLY path to main\", AUTOMATION.md). `run_bundle()` joins the caller-supplied `--slug` onto the queue root with **no dot-segment or absolute-path validation**: ```python def run_bundle(slug: str, live: bool, token_env: str) -> int: d = QUEUE / slug if not (d / \"meta.json\").is_fi",
-      "source_created_at": "2026-10-23T08:53:58Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1300",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5994237626",
-      "title": "Security hardening and pre-launch assessment",
-      "url": "https://github.com/TimerErTim/logandaim.at/issues/44",
-      "evidence": "**Spec section:** [`specs/product/betrieb.md#security-hardening`](https://github.com/TimerErTim/logandaim.at/blob/main/specs/product/betrieb.md#security-hardening) — Draft section written in the new spec; ACs are proposed, not approved. **Proposed priority:** P2 ## Outcome The deployed surface has a reviewed security baseline and an external assessment whose findings are closed before public launch. Archers' accounts and scores are not the weak point. ## Acceptance criteria Proposed, not approved. - [ ] AC-1: The API sends HSTS, a CSP without i",
-      "source_created_at": "2026-10-23T08:05:58Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/TimerErTim/logandaim.at/issues/44",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5994237018",
-      "title": "Security: Exposed PostgreSQL connection string in .env.vercel.prod",
-      "url": "https://github.com/danielshulman1/social-poster/issues/1",
-      "evidence": "Hello, I am a security researcher. I found what appears to be a live PostgreSQL connection string exposed in your public repository. Details: - Repository: danielshulman1/social-poster - File: .env.vercel.prod (line 2) - Type: PostgreSQL connection string (Supabase, with credentials) - Commit: 49027f685298a49ba56145354587cdb125e79e1d - Date: 2026-05-05 This connection string contains the database host, username, and password in plain text. Anyone with access to this repository can connect to your Supabase database and read, modify, or delete al",
-      "source_created_at": "2026-10-23T08:05:55Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/danielshulman1/social-poster/issues/1",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991885304",
-      "title": "[Security][Contract] Validate actual token receipts when funding split orders",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1276",
-      "evidence": "### Problem Split funding records the nominal pledged share after a raw token transfer. Ordinary investment and order funding instead call `measure_token_transfer`, which rejects a balance delta different from the expected amount. A supported nonstandard token that short-delivers can create split liabilities larger than collateral and expose shared campaign balances. This scenario requires such a token to be supported; it is not demonstrated for standard SAC transfers. ### Priority and verification **P1 — conditional accounting blocker.** Sourc",
-      "source_created_at": "2026-10-23T04:27:40Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1276",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991595853",
-      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1643",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-23 03:56 UTC #### 1. [Grammar Gap: spell › effect clause › Distribute three +N/+N counters among one, two, or three target creatures](https://github.com/fil-donadoni/tolaria/issues/5699) - **Repository:** [fil-donadoni/tolaria](https://github.com/fil-donadoni/tolaria) - **Comments:** 0 - **Last Updated:** 2026-10-23T03:54:05Z #### 2. [[Bounty] Help prevent data loss](https://github.com/PikaMug/Quests/issues/2201) - **Repository:** [PikaMug/Quests](https://github.com/PikaMug/Quests) - **Comme",
-      "source_created_at": "2026-10-23T03:56:52Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1643",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991884040",
-      "title": "[Security][Contract] Add a refund exit for partially funded split orders",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1273",
-      "evidence": "### Problem A split order remains Funding until every listed co-buyer contributes. If A pays its 500-token share and B never pays, A cannot confirm, open a dispute, or obtain an administrative split refund. Normal order cancellation and expiry APIs use different storage keys. Funds have no withdrawal path through the current contract APIs. ### Priority and verification **P1 — mainnet blocker.** An isolated test funded only one of two 500-token shares, advanced past ordinary order expiry, and confirmed that the order remained Funding and both di",
-      "source_created_at": "2026-10-23T04:27:32Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1273",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991678715",
-      "title": "SUGGESTIONS: helper to coordinator (standing)",
-      "url": "https://github.com/nnyycc77-ship-it/tiny-ledger/issues/53",
-      "evidence": "This is the standing inbox where helpers leave suggestions for the coordinator: process friction, tooling gaps, doc fixes, task ideas, and warnings spotted while building. It never closes. How to file one: one suggestion per comment, in this shape: SUGGESTION [PROCESS | TOOLING | DOCS | TASK IDEA | WARNING]: one line summary Evidence: the issue, PR, or file where you hit it Why: one to three lines on what improves if this changes Rules: - Suggestions never block your current task and never expand it. File and keep building. - A suggestion is no",
-      "source_created_at": "2026-10-23T04:06:01Z",
-      "opp_type": "otro",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/nnyycc77-ship-it/tiny-ledger/issues/53",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991892196",
-      "title": "[Regression][Contract][CI] Replace placeholder cost tests with measured resource budgets",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1291",
-      "evidence": "### Problem Several cost_harness tests pass by printing TODO instructions rather than invoking the named contract method. COST_BASELINE still contains placeholder rows and a stale unbounded batch-refund description. The existing investor-refund measurement can also print an invocation error and still pass. A green test cannot establish that these entrypoints fit production resource limits. ### Priority and verification **P1 — mainnet feasibility verification.** Source review at the commit linked below; no live deployment was tested. Reviewed so",
-      "source_created_at": "2026-10-23T04:28:28Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1291",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991891738",
-      "title": "[DevOps][Contract] Provide an instance-TTL keeper with expiry monitoring and recovery runbook",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1290",
-      "evidence": "### Problem The contracts expose permissionless instance-TTL bump endpoints, but no repository-supported keeper deployment/schedule was found. Production escrow's helper requests a 100,000-ledger extension, which is not a guarantee that quiet instances remain live indefinitely. This identifies missing in-repository operational support, not proof that no external operator already runs a keeper. ### Priority and verification **P2 — operational readiness.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `",
-      "source_created_at": "2026-10-23T04:28:25Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1290",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991890878",
-      "title": "[Regression][DevOps] Make atomic mainnet initialization mandatory and honor testnet opt-in",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1288",
-      "evidence": "### Problem The script resets ATOMIC_INIT=false before reading the caller's opt-in, so documented ATOMIC_INIT=true testnet behavior is lost. ATOMIC_INIT_DISABLE=true can also disable the supposedly mandatory mainnet atomic path. Fresh-versus-existing selection additionally trusts an initialized flag in the local manifest. ### Priority and verification **P1 — deployment security blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness backlo",
-      "source_created_at": "2026-10-23T04:28:19Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1288",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991891327",
-      "title": "[DevOps][Contract] Apply and verify explicit zero-fee marketplace configuration",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1289",
-      "evidence": "### Problem The deploy script defaults FEE_RATE_BPS to zero but only applies marketplace set_fee_config when it is greater than zero. Marketplace initialization does not persist FeeRateBps, so its getter falls back to DEFAULT_FEE_RATE_BPS=300. A fresh default/explicit-zero deploy can therefore charge marketplace buyers 3% while production escrow initializes with zero. ### Priority and verification **P1 — fee configuration correctness blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b",
-      "source_created_at": "2026-10-23T04:28:22Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1289",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991890440",
-      "title": "[DevOps][Contract] Verify cross-contract wiring from chain state instead of the local manifest",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1287",
-      "evidence": "### Problem Router and production-registry setter failures are tolerated, while the desired values are later written to the manifest regardless. Router verification compares that manifest value to itself, and production-registry wiring is not read back. A stale or edited local manifest can therefore stand in for evidence that on-chain links are correct. ### Priority and verification **P1 — deployment integrity blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d",
-      "source_created_at": "2026-10-23T04:28:16Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1287",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991889995",
-      "title": "[Contract] Implement on-chain campaign limits required by the staged mainnet launch",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1286",
-      "evidence": "### Problem The staged launch policy requires maximum campaign value and concurrency, with an on-chain hard cap. Current create_campaign validation checks positivity, future deadline, and supported token but has no campaign-value or active-campaign limit. A frontend-only limit cannot enforce the policy for direct callers. ### Priority and verification **P1 — exposure control blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness backlog; ",
-      "source_created_at": "2026-10-23T04:28:13Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1286",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991889460",
-      "title": "[Regression][DevOps] Seed governance voters and verify reachable quorum before handoff",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1285",
-      "evidence": "### Problem Governance initializes TotalWeight to zero. The deployment script initializes governance and hands dependent contracts to it without configuring any voter weights. A deploy can therefore be reported wired while the intended electorate cannot reach quorum for parameter changes or recovery. The closed #851 already required seeding and verification in the deploy flow. ### Priority and verification **P1 — governance liveness blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b7",
-      "source_created_at": "2026-10-23T04:28:09Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1285",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991889022",
-      "title": "[DevOps][Contract] Configure and verify guardian and attester roles during deployment",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1284",
-      "evidence": "### Problem The deployment script never calls set_guardian or set_attester. It accepts an unset guardian during verification and then reports all contracts deployed and wired. The launch runbook requires those roles; production escrow also lacks the public attester readback needed to verify its configured value. ### Priority and verification **P1 — emergency and lifecycle readiness blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness ba",
-      "source_created_at": "2026-10-23T04:28:06Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1284",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991888602",
-      "title": "[Regression][DevOps] Verify effective admin and guardian multisig before mainnet writes",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1283",
-      "evidence": "### Problem The custody and mainnet runbooks promise a pre-deployment check rejecting single-key privileged accounts, but the current script does not inspect signer weights/thresholds and defaults ADMIN to the deployer. Counting multiple signers alone would also be insufficient if one signer can meet the effective authorization threshold. ### Priority and verification **P1 — custody blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness b",
-      "source_created_at": "2026-10-23T04:28:03Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1283",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991888071",
-      "title": "[Regression][DevOps] Replace WASM verification scaffolding with real build and hash checks",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1282",
-      "evidence": "### Problem `scripts/verify-wasm.sh` prints build/comparison instructions but never executes the Docker build, calculates a resulting artifact hash, or compares it to the expected on-chain hash. Its final messages can exit successfully without verification. The supported-contract list also omits the active marketplace escrow. ### Priority and verification **P1 — release identity blocker.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness backl",
-      "source_created_at": "2026-10-23T04:28:00Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1282",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991887603",
-      "title": "[DevOps][Contract] Propagate unexpected initialization failures from deployment helpers",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1281",
-      "evidence": "### Problem `invoke_idempotent` captures `$?` after a completed `if` statement rather than in its failure branch. An unexpected invocation failure can therefore return zero, allowing deployment to continue. The identical shell control flow with a command returning failure produced a captured status of zero. ### Priority and verification **P1 — deployment correctness blocker.** Reproduced the helper's shell control-flow defect locally with a failing command; no contract deployment was performed. Reviewed source: `25d942522b76e4252752249142326a75",
-      "source_created_at": "2026-10-23T04:27:56Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1281",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991887204",
-      "title": "[Contract][Tests] Verify critical escrow calls with explicit Soroban authorization",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1280",
-      "evidence": "### Problem The main, invariant, state-machine, and split-pause fixtures use `mock_all_auths`. They exercise address-role comparisons but do not prove that absent signatures, missing attester co-signatures, or an authorization for different arguments are rejected. This is a coverage gap, not a confirmed signature bypass. ### Priority and verification **P1 — authorization assurance gap.** Source review at the commit linked below; no live deployment was tested. Reviewed source: `25d942522b76e4252752249142326a757d3d78d6`. Mainnet readiness backlog",
-      "source_created_at": "2026-10-23T04:27:54Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1280",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
-    },
-    {
-      "source": "github",
-      "external_id": "5991886752",
-      "title": "[Regression][Contract] Replace global order scans with bounded buyer-volume lookup",
-      "url": "https://github.com/Cylo-Traders/Agrocylo-Global/issues/1279",
-      "evidence": "### Problem Every non-admin milestone advance calls `get_buyer_order_volume`, which scans every ordinary order ever created, including unrelated campaigns. Authorization cost therefore grows with platform history. The closed #844 described this same remaining code path. Also preserve its non-buyer requirement for small campaign targets, where integer division can otherwise make the minimum required volume zero. Advancing a milestone still requires the configured attester co-authorization; this is not an attester bypass. ### Priority and verific",
-      "source_created_at": "2026-10-23T04:27:51Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Cylo-Traders/Agrocylo-Global/issues/1279",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-10-23T04:47:07.103Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-07T12:57:58.558Z",
+      "generated_at": "2026-11-07T12:57:58.558Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 365
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 453
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 50,
+      "new_items": 25,
+      "seen_again": 25,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "0 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "50 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-07T05:56:28.559Z",
       "generated_at": "2026-11-07T05:56:28.559Z",
@@ -21347,67 +21408,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "48 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-21T23:48:42.717Z",
-      "generated_at": "2026-10-21T23:48:42.717Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 543
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 629
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 12,
-      "seen_again": 34,
-      "archive_total": 1126,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",
