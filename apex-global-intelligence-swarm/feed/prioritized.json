@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-07T12:57:59.127Z",
+  "generated_at": "2026-11-07T21:48:42.327Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -1672,15 +1672,14 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] getBalance resolves native balance by symbol alone — 15 assets across 5 chains, and the same predicate in isSufficient misjudges transfer sufficiency",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2202",
-      "source_created_at": "2026-10-23T11:25:40Z",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z",
+      "title": "Retroactive Grant Application - Zcash Testnet Developer Suite",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/94",
+      "source_created_at": "2026-11-07T20:41:29Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -1690,21 +1689,20 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "[BOUNTY] Low: approved dApps can bypass wallet idle-lock through rejected swaps and silent reconnects",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1193",
-      "source_created_at": "2026-10-23T10:01:22Z",
-      "first_seen_at": "2026-10-23T11:36:37.582Z",
-      "last_seen_at": "2026-10-23T11:36:37.582Z",
+      "title": "[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259",
+      "source_created_at": "2026-11-07T20:24:52Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -1714,7 +1712,329 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
+      "source_created_at": "2026-11-07T20:24:52Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 450,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257",
+      "source_created_at": "2026-11-07T20:24:51Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 600,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256",
+      "source_created_at": "2026-11-07T20:24:51Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 400,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254",
+      "source_created_at": "2026-11-07T20:24:50Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 500,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255",
+      "source_created_at": "2026-11-07T20:24:50Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 550,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253",
+      "source_created_at": "2026-11-07T20:24:49Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 350,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $650] test(validator): verify path normalization for \\ancestors\\archive\\",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252",
+      "source_created_at": "2026-11-07T20:24:48Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 650,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251",
+      "source_created_at": "2026-11-07T20:24:48Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 850,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249",
+      "source_created_at": "2026-11-07T20:24:47Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 950,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $900] perf(validator): replace floor division with bitwise mask in compu",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4250",
+      "source_created_at": "2026-11-07T20:24:47Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 900,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4248",
+      "source_created_at": "2026-11-07T20:24:46Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247",
+      "source_created_at": "2026-11-07T20:24:45Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 800,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $1,200] security(validator): reject float and bool sequence inputs in co",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4246",
+      "source_created_at": "2026-11-07T20:24:45Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1200,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4245",
+      "source_created_at": "2026-11-07T20:24:44Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 1100,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3088,6 +3408,55 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1739",
+      "source_created_at": "2026-11-07T20:42:55Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Crime and bounty sync",
+      "url": "https://github.com/zDoxr/CoSync-SF/issues/18",
+      "source_created_at": "2026-11-07T20:01:06Z",
+      "first_seen_at": "2026-11-07T21:48:41.781Z",
+      "last_seen_at": "2026-11-07T21:48:41.781Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[radar] SN open bounty 2026-11-07T12:51",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
       "source_created_at": "2026-11-07T12:51:56Z",
@@ -3337,386 +3706,6 @@
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: ceremony::contribute ignores circuit/initial_srs_hash mismatch, enforce_finalize_policy uses && on delta check & omits version/zero-hash guards, CircomReduction panics on short witness/overflow, and bridge::solana::instructions o",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1460",
-      "source_created_at": "2026-11-07T05:18:19Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: start_verification & verify_transact_parts omit duplicate-nullifier, zero-mint, and canonical asset_id guards, CoordinatorRole::standby_of stalls immediately on zero threshold, and PedersenCommitment uses non-constant-time equali",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1458",
-      "source_created_at": "2026-11-07T05:13:44Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: confirmCommitmentInTree fails on uppercase hex, busy-spins on pollMs <= 0, and overshoots timeoutMs; Home.tsx float SOL parsing throws RangeError on Infinity and truncates sub-lamports to 0n; and Onboarding.tsx emits duplicate decoy ",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/238",
-      "source_created_at": "2026-11-07T05:47:32Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: deriveKeypairFromSeed silently wraps negative/float accountIndex via ToUint32, decryptWallet and decryptSeedPhrase omit secretbox/ed25519 keypair integrity checks, and deriveSpendPrivkey accepts truncated seeds",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/237",
-      "source_created_at": "2026-11-07T05:47:31Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: note_commitment, note_commitment_v2, and prove_withdrawal_v2 accept zero amounts and degenerate all-zero keys/blindings, prove_transfer_v2 accepts mismatched input path depths, and v3_merkle_path_output_proves_membership omits VK ver",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/36",
-      "source_created_at": "2026-11-07T05:40:39Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: prove_transact and prove_transfer_v2 omit u64 sum-overflow bounds on 2-note inputs/outputs, allow zero or reused blindings/privkeys on dummy notes causing NullifierAccount PDA collisions, and accept all-zero Merkle roots",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/35",
-      "source_created_at": "2026-11-07T05:40:38Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: hex32 silently trims whitespace causing cross-layer parser differentials, witness JSON structs accept unknown fields, and rng_from_entropy panics on CSPRNG failure",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/32",
-      "source_created_at": "2026-11-07T05:08:00Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] High: prove_withdrawal_v2, prove_transfer_v2, and prove_transact omit proving-key R1CS/CircomReduction compatibility checks and post-prove self-verification against pk.vk",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/31",
-      "source_created_at": "2026-11-07T05:07:59Z",
-      "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-07T05:56:28.559Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1733",
-      "source_created_at": "2026-11-06T17:50:55Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] SDK: getTransferInfo ignores the amount in xcmFee.balanceAfter on native transfers and reports sufficient: true when the fee can't be paid",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2443",
-      "source_created_at": "2026-11-06T18:40:12Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: OnChainSubmitter::new accepts trailing bytes in proving key, submit_deposit_from_fresh omits zero-amount & canonical field pre-flight checks, ProgramInterface::parse_program_version skips BridgeState discriminator verification, a",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1399",
-      "source_created_at": "2026-11-06T17:55:52Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: paraloom-ceremony-finalize omits final_srs_hash verification against ceremony_pk, try_hash_from_hex rejects 0x-prefixed digests, and emit_*_fixture binaries accept trailing key bytes & write world-readable proving keys",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1397",
-      "source_created_at": "2026-11-06T17:50:41Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: PrivateComputeJob::to_compute_job overwrites job_id with a random UUID, PrivateJobResult::from_job_result accepts Failed/TimedOut jobs, load_proving_key/load_verifying_key accept trailing bytes, and WasmEngine::execute_job wraps ",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1395",
-      "source_created_at": "2026-11-06T17:47:23Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Medium: ValidatorInfo::selection_weight truncates sub-1000 reputation to 0, ReputationTracker::persist_locked panics on missing parent directory, SlashingTracker::record grows unboundedly, and VoteTally::completion_percentage returns NaN",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1393",
-      "source_created_at": "2026-11-06T17:40:11Z",
-      "first_seen_at": "2026-11-06T19:22:59.801Z",
-      "last_seen_at": "2026-11-06T19:22:59.801Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Test the rules that decide which bounty a pull request claims",
-      "url": "https://github.com/odiseo159-beep/mergit/issues/17",
-      "source_created_at": "2026-11-06T06:16:21Z",
-      "first_seen_at": "2026-11-06T06:40:52.225Z",
-      "last_seen_at": "2026-11-06T06:40:52.225Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/70",
-      "source_created_at": "2026-11-06T06:23:05Z",
-      "first_seen_at": "2026-11-06T06:40:52.225Z",
-      "last_seen_at": "2026-11-06T06:40:52.225Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
