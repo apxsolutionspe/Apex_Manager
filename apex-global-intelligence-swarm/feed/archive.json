@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-08T13:22:05.149Z",
+  "updated_at": "2026-11-08T22:02:03.652Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -35,22 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49961574",
-      "title": "Google freezes open-source bug bounty program",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-      "evidence": "",
-      "source_created_at": "2026-10-05T07:04:23Z",
-      "opp_type": "bug_bounty",
-      "score": 21,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -225,12 +210,12 @@
       "evidence": "",
       "source_created_at": "2026-11-01T21:58:52Z",
       "opp_type": "otro",
-      "score": 25,
+      "score": 18,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "salary-statistics.netlify.app/us",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -270,12 +255,12 @@
       "evidence": "",
       "source_created_at": "2026-11-01T14:10:51Z",
       "opp_type": "otro",
-      "score": 17,
+      "score": 10,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bathrooms.lacontroller.app",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -315,12 +300,12 @@
       "evidence": "",
       "source_created_at": "2026-11-01T15:56:30Z",
       "opp_type": "otro",
-      "score": 19,
+      "score": 12,
       "link_check": "formato_url_valido",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -350,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -365,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z"
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
     },
     {
       "source": "hackernews",
@@ -380,6 +365,411 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275224549",
+      "title": "Bounty award-xp: no idempotency, non-atomic claim, dead 404 branch",
+      "url": "https://github.com/TripSit/TripBot/issues/1298",
+      "evidence": "**Where:** `src/api/v2/bounty/bounty.routes.ts` (`POST /award-xp`) 1. **No idempotency.** The handler awards XP (`awardGitHubXP`) first and only then writes `claimed_bounties`. Nothing checks whether this bounty was already claimed, so a retried webhook or a repeated call grants the XP again. There is no unique key (issue/PR id) on the request. 2. **Not atomic.** If `db.claimed_bounties.create` throws after XP was granted, the user has the XP and there is no record, and a retry grants it again. 3. **Wrong status for non-members.** `guild.member",
+      "source_created_at": "2026-11-08T20:22:13Z",
+      "opp_type": "subvencion",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TripSit/TripBot/issues/1298",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275400183",
+      "title": "[Candidate] sequester-ag/bug-bounty-triage - bug-bounty-triage",
+      "url": "https://github.com/ProSkillsMD/proskills/issues/10735",
+      "evidence": "Skill candidate filed by the ProSkills scout (deterministic, no AI). | | | |---|---| | Skill | bug-bounty-triage | | Source | https://github.com/sequester-ag/bug-bounty-triage | | SKILL.md | `SKILL.md` | | License | MIT (pass) | | Popularity | 150 stars, 23 forks, last push 2026-10-09 | | Found via | github_new_repos | > Bug bounty report triage, validation, and severity escalation. Use when the user provides a bug bounty report to validate, wants to check if a finding is submittable, needs to escalate severity for maximum payout, or says 'tria",
+      "source_created_at": "2026-11-08T20:41:20Z",
+      "opp_type": "bug_bounty",
+      "score": 47,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ProSkillsMD/proskills/issues/10735",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275937227",
+      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1396",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-08 21:40 UTC #### 1. [Flag suspicious bounty listings with a small offline classifier](https://github.com/andrewsiah/agentswarm-data-tasks/issues/3) - **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks) - **Comments:** 0 - **Last Updated:** 2026-11-08T21:34:45Z #### 2. [Email opens processed through the async `hit` transport are stored with IP 127.0.0.1; with `sync://`, Gmail/Yahoo proxy opens are dropped](https://github.com/mautic/mautic/i",
+      "source_created_at": "2026-11-08T21:40:39Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1396",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275565583",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/82",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-08 20:59 UTC #### 1. [[Medium] api: GET /frontiers does full-lattice work regardless of ?limit= and has no result cache](https://github.com/xeprotocol/xe/issues/215) - **Repository:** [xeprotocol/xe](https://github.com/xeprotocol/xe) - **Comments:** 3 - **Last Updated:** 2026-11-08T20:55:38Z #### 2. [[Candidate] sequester-ag/bug-bounty-triage - bug-bounty-triage](https://github.com/ProSkillsMD/proskills/issues/10735) - **Repository:** [ProSkillsMD/proskills](https://github.com/ProSkillsMD/pr",
+      "source_created_at": "2026-11-08T20:59:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Rohank143/BountyScout/issues/82",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275265599",
+      "title": "BountyAwards workflow awards XP for any #N mention and can pay the same bounty repeatedly",
+      "url": "https://github.com/TripSit/TripBot/issues/1309",
+      "evidence": "**Where:** `.github/workflows/BountyAwards.yml` (\"Get linked issues\" and \"Process bounty issues\" steps) The workflow decides who gets bounty XP from the PR's *text*: 1. If no closing keyword (`fixes #N`) is found, it falls back to **any** `#N` mention in the title/body, and also to timeline `cross-referenced` events. A PR that merely says \"see #496\" for an issue with a `bounty:` label awards that bounty to the PR author on merge. 2. It never checks that the issue is closed by this PR, is assigned to the author, or has not been awarded before. R",
+      "source_created_at": "2026-11-08T20:26:44Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TripSit/TripBot/issues/1309",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275084637",
+      "title": "🎯 Frantic NEW bounty #97 ($10)",
+      "url": "https://github.com/doishy-doish/escrow-radar/issues/1",
+      "evidence": "New bounty on the Frantic public board. - number: 97 - price: $10 - status: open - slots: 2/5 - posted: 2026-07-08 - board: https://gofrantic.com/v1/board Check brief for gates (gallery/MCP/Reddit/spend) before claiming. Standing: never claim without receipt in hand (one claim per person); #146-class needs gallery+MCP send; #130-class needs Reddit ferry. uid:fr:97",
+      "source_created_at": "2026-11-08T20:06:59Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/doishy-doish/escrow-radar/issues/1",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6274765142",
+      "title": "[radar] SN open bounty 2026-11-08T19:31",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1361",
+      "evidence": "New SN OPEN_BOUNTY detected: ``` 1610474 Stacker_Stocks 2 379 10000 14 7.6 9274 29419 top@Stacker_Stocks OPEN_BOUNTY,SIGNAL,SELF_POST_OPP Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #18 Win up to 40k Sats! 1610324 BooksAndArticles 2 6176 50000 26 18.8 1586396 22 recent@BooksAndArticles|top@BooksAndArticles OPEN_BOUNTY,HOT Help me design a reader contest for my Bitcoin novel (puzzle hunt?) ```",
+      "source_created_at": "2026-11-08T19:31:59Z",
+      "opp_type": "concurso",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1361",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6276011942",
+      "title": "[Follow-up] [Bounty #743] Validate /api/users payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13938",
+      "evidence": "## Problem `POST /api/users` forwards `req.body` straight into `createUser` (`apps/api/src/controllers/userController.js`) without any schema validation, and `createUser` spreads the whole payload into the record it persists (`apps/api/src/services/userService.js`). Any JSON object is therefore accepted: missing `email`/`fullName`, malformed e-mail addresses, unhashed `password` values and unknown properties (including `__proto__` style keys) all end up in the user store. Reproduced on `main` (`apps/api`): a request with `{\"email\":\"not-an-email",
+      "source_created_at": "2026-11-08T21:49:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13938",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275884689",
+      "title": "Flag suspicious bounty listings with a small offline classifier",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/3",
+      "evidence": "Implement `flag(title, body) -> bool` as an advisory filter for agentswarm.space feed hygiene. Rules are sufficient. Distinguish instructions to sync conformance payloads from an untrusted host, reveal keys, pay unlock fees or post payout addresses from ordinary tasks and safety warnings. This output requests human review; it never bans users or executes listing text. Effort: ~4 hours for an experienced developer. Full contract: `tasks/bait-listing-flagger/SPEC.md` in the pinned checker checkout. Python 3.11+ stdlib only; no installs or network",
+      "source_created_at": "2026-11-08T21:34:45Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/andrewsiah/agentswarm-data-tasks/issues/3",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275396254",
+      "title": "[Follow-up] [Bounty #743] Validate /api/users payload before persistence",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13936",
+      "evidence": "## Problem POST /api/users forwards req.body directly to createUser without schema validation. Any JSON object is accepted, including missing email/fullName, malformed email addresses, unhashed passwords, and prototype pollution fields. The in-memory user store then persists malformed user records, risking data corruption and unauthorized credential exposure. ## Requested fix Add a strict Zod schema for user creation and validate the request in userController before persistence. Require a valid RFC-compliant email, require fullName between 2 an",
+      "source_created_at": "2026-11-08T20:40:53Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13936",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275395943",
+      "title": "[Follow-up] [Bounty #743] Validate /api/upload files and reject missing or dangerous uploads",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13935",
+      "evidence": "## Problem POST /api/upload accepts empty upload requests without a file attachment and returns a 201 Created status code with \"no-file\". Furthermore, it lacks MIME type whitelisting and file extension sanitation, allowing arbitrary executable scripts (.sh, .exe, .bat, .php) and unbounded file streams that can cause denial-of-service and remote code execution vulnerabilities. ## Requested fix Harden the upload endpoint in uploadController and uploadRoutes: 1. Reject requests without an uploaded file with a 400 Bad Request error (\"No file provid",
+      "source_created_at": "2026-11-08T20:40:52Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/SecureBananaLabs/bug-bounty/issues/13935",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275186472",
+      "title": "[chore] tool-surface contract: get_brick_tools omits qualified_name, call_brick_tool arguments, bounty criteria, event-store path",
+      "url": "https://github.com/bannff/python-software-factory/issues/382",
+      "evidence": "Part of epic #387 (Companion-X blockchain / sandbox / games audit, 2026-11-08). ## Summary Driving the three bricks as an agent surfaced four separate contract problems. Each is small; together they make these bricks hard to use correctly from outside the dashboard, and they produced real misdiagnoses during the audit. ## 1. `call_brick_tool.arguments` must be a JSON *string*, and the error is opaque Schema (`tools/list` → `call_brick_tool`): `arguments: {anyOf: [string, null]}`. Passing an object returns: ``` {\"ok\": false, \"error\": \"Invalid ar",
+      "source_created_at": "2026-11-08T20:17:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bannff/python-software-factory/issues/382",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50415474",
+      "title": "Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof",
+      "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
+      "evidence": "",
+      "source_created_at": "2026-11-08T17:56:19Z",
+      "opp_type": "bounty_codigo",
+      "score": 35,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Dr-Logvinovich/round-square/blob/main/README.md",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275672428",
+      "title": "node: archiveExpiredLease destroys lease escrow with no block — clock-driven, per-node, unreplayable (Severe)",
+      "url": "https://github.com/xeprotocol/xe/issues/310",
+      "evidence": "> **Note from the reporter (2026-11-09):** I filed this publicly by mistake. The bounty desk at > https://bounty.xe.network/report is private by default and is the correct channel; I used this > public issue because it was the only submission route reachable without signing in. I am redacting > the step-by-step detail below and will file the full report through the desk. **Maintainers: > please treat the detail here as withdrawn and read the desk ticket instead.** I have asked the > desk to link this issue once filed. ## Summary (redacted) `nod",
+      "source_created_at": "2026-11-08T21:11:01Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/310",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275347704",
+      "title": "AF alert: 1 new paid opportunity(ies)",
+      "url": "https://github.com/farmmer938-lgtm/autonomous-zero-baht/issues/33",
+      "evidence": "AF self-check found work/attention needed (checked_at 2026-11-08T20:35:44.836745+00:00): **New paid opportunities:** - $10 on frantic: Your first bounty is on the house ($10 back when it clears, first five) -> https://gofrantic.com/bounties/97 _Automated by AF; K is not in the loop._",
+      "source_created_at": "2026-11-08T20:35:51Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/farmmer938-lgtm/autonomous-zero-baht/issues/33",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275343701",
+      "title": "Tests: API auth/v2, legacy calc/drug tests and the moderation, timer, XP and RPG code are not covered by Vitest",
+      "url": "https://github.com/TripSit/TripBot/issues/1323",
+      "evidence": "**State today:** `npx vitest run` passes 20 files / 238 tests, and `npx tsc --noEmit` is clean. But `vitest.config.mts` excludes (from both tests and coverage) the code where most of the defects in the recent review were found: - `src/api/v2/**` and `src/api/utils/**` (appeals, bounty, PR notify, keycloak auth, `checkAuth`), excluded as \"pre-existing failures\". See #1293, #1294, #1298, #1318. - `src/discord/tests/*.test.ts`: about 30 legacy flat tests (`calc_benzo`, `calc_dxm`, `drug`, `combo`, `crisis`, `reagents`, ...) that are not run. `calc",
+      "source_created_at": "2026-11-08T20:35:24Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TripSit/TripBot/issues/1323",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275266076",
+      "title": "Keycloak fetchAllUsers requests 100 pages for every GitHub lookup",
+      "url": "https://github.com/TripSit/TripBot/issues/1312",
+      "evidence": "**Where:** `src/global/utils/keycloak.ts:150` (`fetchAllUsers`) ```ts const maxUsers = 10000; const pageCount = Math.ceil(maxUsers / max); // 100 pages ... await Promise.all(pageBatches.map(batch => Promise.all(batch.map(page => adminClient.users.find({ first: page * max, max }))))) ``` All 100 pages are requested up front regardless of how many users exist, then trimmed afterwards. Each bounty award (`getDiscordUserByGitHub`) therefore issues ~100 admin API calls to Keycloak, mostly empty pages, and silently ignores users beyond 10 000. **Sugg",
+      "source_created_at": "2026-11-08T20:26:47Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TripSit/TripBot/issues/1312",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275003907",
+      "title": "Railway 赏金：有 2 条值得抢",
+      "url": "https://github.com/HCTDIP/corps-jobs/issues/175",
+      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-11-08 19:58Z total=29 hot=1 new=1 🆕 Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled? [+4] Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches 竞争低, 提问·配置型 ``` 详情: `reports/railway_bounty_latest.json`",
+      "source_created_at": "2026-11-08T19:58:11Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/175",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275740032",
+      "title": "[wildcard] Proof-carrying Hybrid: a tiny trusted kernel for every accepted program",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4207",
+      "evidence": "### The idea, in a paragraph Every accepted `.hy` program should carry a **machine-checkable safety certificate**. The existing Rust checker becomes a certificate *producer*, not the trusted oracle. A small, auditable Go kernel verifies the certificate against the program before `hy-emit` runs. The certificate records the sendability class of each value crossing a task/channel boundary, the loan conflicts inside each function, move linearity, and the A5/escape facts as compact proof terms. Any producer can generate it: the current Rust analysis",
+      "source_created_at": "2026-11-08T21:18:31Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/4207",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275945534",
+      "title": "DAO vote weight of a third party can be suppressed with dust XUSD receives (snapshot lookup budget is shared across assets)",
+      "url": "https://github.com/xeprotocol/xe/issues/312",
+      "evidence": "# [DRAFT — READY TO SUBMIT] DAO vote weight of a third party can be suppressed with dust XUSD receives (snapshot lookup budget is shared across assets) > **PROVENANCE (koordinator Fase 55):** temuan ini dari **Fase 53 Lane 5** > (TRIAGE-lane5.md Fase 53, \"1 VERIFIED Low — draft siap submit\"). Koordinator > penyelesaian Fase 53 tidak memasukkannya ke SYNTHESIS/GOAL.md/laporan parent — > draft ini **hilang di penyelesaian, bukan ditolak**. Koordinator Fase 55 > memverifikasi ulang dari log mentah (`dao53x-results-run-{a,b}.json` — run a/b > ident",
+      "source_created_at": "2026-11-08T21:41:36Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/312",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275781725",
+      "title": "Email opens processed through the async `hit` transport are stored with IP 127.0.0.1; with `sync://`, Gmail/Yahoo proxy opens are dropped",
+      "url": "https://github.com/mautic/mautic/issues/18104",
+      "evidence": "**Mautic Series:** 7.2.x series **Mautic installed version:** 7.2.2 **Way of installing:** Docker image (`mautic/mautic:7.2.2-apache`) **PHP version:** 8.3.36 **Browsers:** Not relevant ### What happened? With the default async hit transport (`MAUTIC_MESSENGER_DSN_HIT=doctrine://default`), every email open is saved with IP `127.0.0.1` (both `email_stats.ip_id` and `email_stats_devices.ip_id`). Clicks (`page_hits`) are saved with the real client IP. Cause: `PublicController::trackingImageAction()` dispatches `EmailHitNotification($idHash, $reque",
+      "source_created_at": "2026-11-08T21:23:14Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/mautic/mautic/issues/18104",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275223794",
+      "title": "checkAuth: Basic auth accepts base64(\"undefined:undefined\") when API credentials are unset",
+      "url": "https://github.com/TripSit/TripBot/issues/1294",
+      "evidence": "**Where:** `src/api/utils/checkAuth.ts:43`, `src/global/utils/env.config.ts:30-31`, `src/global/utils/env.validate.ts` (no `API_*` entry) ```ts const myToken = Buffer.from(`${env.API_USERNAME}:${env.API_PASSWORD}`).toString('base64'); if (authToken !== myToken) ... ``` If `API_USERNAME` and `API_PASSWORD` are unset (they come straight from `process.env` with no default or validation), the expected token becomes `base64(\"undefined:undefined\")`. Anyone sending `Authorization: Basic dW5kZWZpbmVkOnVuZGVmaW5lZA==` is authenticated. `checkAuth` guard",
+      "source_created_at": "2026-11-08T20:22:08Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TripSit/TripBot/issues/1294",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275189031",
+      "title": "[epic] Companion-X audit 2026-11-08 — blockchain / sandbox / games vs agentic-economy + RL goals",
+      "url": "https://github.com/bannff/python-software-factory/issues/387",
+      "evidence": "# Goal (as stated by the owner) - **Blockchain** → give agents an agentic economy that funds their RL. - **Sandbox** → real Docker containers to spin up isolated environments for testing (targets, agents, workloads). - **Games** → part of agentic RL (agents or trained models play games and learn over time). Also open to non-RL uses (game creation, explorable/rendered worlds). # What was tested (2026-11-08) Stack: owner launcher, API :8000 + dashboard :3000, 43 bricks / 865 tools. Method: (a) brick MCP tools exercised through `POST /mcp/` + `cal",
+      "source_created_at": "2026-11-08T20:18:16Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bannff/python-software-factory/issues/387",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275188154",
+      "title": "[chore] blockchain: ledger defaults to in-memory mock_ledger — economy not durable across restarts",
+      "url": "https://github.com/bannff/python-software-factory/issues/386",
+      "evidence": "Part of epic #387 (Companion-X blockchain / sandbox / games audit, 2026-11-08). ## Summary The blockchain brick resolves `BLOCKCHAIN_ADAPTER` with a default of `mock` (`components/blockchain/src/factory/blockchain/runtime/composition/factory.py:24`), which this stack reports as `provider: \"mock_ledger\"`. The ledger lives in process memory: wallets, transactions, blocks, bounties, escrows and supply all reset on restart. For an \"agentic economy\" the ledger is the one thing that must be durable. ## Evidence - `blockchain_health_check` → `{\"health",
+      "source_created_at": "2026-11-08T20:18:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bannff/python-software-factory/issues/386",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6275186312",
+      "title": "[bug][ui] post-mutation summaries go stale (blockchain/sandbox/games) + sandbox empty-state lies",
+      "url": "https://github.com/bannff/python-software-factory/issues/381",
+      "evidence": "Part of epic #387 (Companion-X blockchain / sandbox / games audit, 2026-11-08). ## Summary Two related UI problems found while driving the blockchain, sandbox and games pages on the live dashboard: 1. **Post-mutation summaries go stale.** The list/card that changed refreshes, but the numeric summary widgets around it keep the pre-mutation numbers until the page is reloaded or the explicit Refresh button is pressed. 2. **The sandbox empty-state renders while an environment exists.** ## Evidence (browser, live dashboard) Blockchain - Mint 5 via U",
+      "source_created_at": "2026-11-08T20:17:57Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bannff/python-software-factory/issues/381",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6274838565",
+      "title": "[Contribution] buskill",
+      "url": "https://github.com/QubesOS/qubes-issues/issues/11260",
+      "evidence": "This issue is a request to add the qubesos contrib package: buskill. I created this issue following the instructions documented here: * https://doc.qubes-os.org/en/latest/developer/general/package-contributions.html # The repo The repo (originally created by forking [qubes-skeleton](https://github.com/QubesOS-contrib/qubes-skeleton) repo) containing the package's data can be found here: * https://github.com/BusKill/buskill-qubes-contrib # Description BusKill is a dead man's switch designed to protect your computer if it is physically seized. Yo",
+      "source_created_at": "2026-11-08T19:40:06Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/QubesOS/qubes-issues/issues/11260",
+      "first_seen_at": "2026-11-08T22:02:03.652Z",
+      "last_seen_at": "2026-11-08T22:02:03.652Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49961574",
+      "title": "Google freezes open-source bug bounty program",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+      "evidence": "",
+      "source_created_at": "2026-10-05T07:04:23Z",
+      "opp_type": "bug_bounty",
+      "score": 21,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-11-08T13:22:05.149Z"
     },
     {
@@ -17616,399 +18006,70 @@
       "dedupe_key": "github.com/izrik/kitsune/issues/26",
       "first_seen_at": "2026-10-24T06:40:34.450Z",
       "last_seen_at": "2026-10-24T06:40:34.450Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009544325",
-      "title": "Add a security baseline",
-      "url": "https://github.com/izrik/plantagenet/issues/106",
-      "evidence": "## Why Three things are missing from this repo that cost nothing to have and are awkward to add in a hurry: somewhere for an outside vulnerability report to go, an automated check that its dependencies carry no published advisory, and a workflow token scoped to what CI actually does. None of them finds a bug by itself. What they do is make the next finding cheap to handle instead of expensive — a reporter who knows where to write, an advisory that shows up as a red check rather than in nobody's inbox, and a compromised action that can read the ",
-      "source_created_at": "2026-10-24T05:02:31Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/izrik/plantagenet/issues/106",
-      "first_seen_at": "2026-10-24T06:40:34.450Z",
-      "last_seen_at": "2026-10-24T06:40:34.450Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009544124",
-      "title": "Add a security baseline",
-      "url": "https://github.com/izrik/stuart/issues/52",
-      "evidence": "## Why Three things are missing from this repo that cost nothing to have and are awkward to add in a hurry: somewhere for an outside vulnerability report to go, an automated check that its dependencies carry no published advisory, and a workflow token scoped to what CI actually does. None of them finds a bug by itself. What they do is make the next finding cheap to handle instead of expensive — a reporter who knows where to write, an advisory that shows up as a red check rather than in nobody's inbox, and a compromised action that can read the ",
-      "source_created_at": "2026-10-24T05:02:29Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/izrik/stuart/issues/52",
-      "first_seen_at": "2026-10-24T06:40:34.450Z",
-      "last_seen_at": "2026-10-24T06:40:34.450Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009543171",
-      "title": "Add a security baseline",
-      "url": "https://github.com/izrik/tudor/issues/165",
-      "evidence": "## Why Three things are missing from this repo that cost nothing to have and are awkward to add in a hurry: somewhere for an outside vulnerability report to go, an automated check that its dependencies carry no published advisory, and a workflow token scoped to what CI actually does. None of them finds a bug by itself. What they do is make the next finding cheap to handle instead of expensive — a reporter who knows where to write, an advisory that shows up as a red check rather than in nobody's inbox, and a compromised action that can read the ",
-      "source_created_at": "2026-10-24T05:02:20Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/izrik/tudor/issues/165",
-      "first_seen_at": "2026-10-24T06:40:34.450Z",
-      "last_seen_at": "2026-10-24T06:40:34.450Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008839171",
-      "title": "🎯 Bounty Alert: 4 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1308",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-24 03:19 UTC #### 1. [[Isolation] 세션을 사용자별 컨테이너(Docker → gVisor/microVM)로 띄우는 방안 서베이 — 단일 컨테이너 + Landlock/uid와 비교](https://github.com/JinY0ung-Shin/oh-my-gateway/issues/248) - **Repository:** [JinY0ung-Shin/oh-my-gateway](https://github.com/JinY0ung-Shin/oh-my-gateway) - **Comments:** 7 - **Last Updated:** 2026-10-24T03:15:10Z #### 2. [[intake 输入] lingshu #905：W2 保守身份关联第一增量交付](https://github.com/FuRongJun-1999/dsh-bounty/issues/1700) - **Repository:** [FuRongJun-1999/dsh-bounty](https://gith",
-      "source_created_at": "2026-10-24T03:19:48Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1308",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008513385",
-      "title": "Claiming Bounty #17 - Expense Tracker ($200)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/95",
-      "evidence": "Claiming **Bounty #17** (Bounty #17: Expense Tracker ($200)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/17-expense-tracker/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T02:34:25Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/95",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008512221",
-      "title": "Claiming Bounty #13 - Referral Link Manager ($200)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/93",
-      "evidence": "Claiming **Bounty #13** (Bounty #13: Referral Link Manager ($200)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/13-referral-link-manager/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T02:34:17Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/93",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008511168",
-      "title": "Claiming Bounty #9 - Podcast Manager ($200)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/91",
-      "evidence": "Claiming **Bounty #9** (Bounty #9: Podcast Manager ($200)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/09-podcast-manager/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T02:34:10Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/91",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008510143",
-      "title": "Claiming Bounty #5 - Sales Forecasting Widget ($200)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/89",
-      "evidence": "Claiming **Bounty #5** (Bounty #5: Sales Forecasting Widget ($200)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/05-sales-forecasting-widget/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T02:34:01Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/89",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008509404",
-      "title": "Claiming Bounty #2 - Deal Pipeline Board ($200)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/87",
-      "evidence": "Claiming **Bounty #2** (Bounty #2: Deal Pipeline Board ($200)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/02-deal-pipeline-board/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T02:33:54Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/87",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007652142",
-      "title": "Claiming Bounty #38 - i18n Framework Setup ($250)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/85",
-      "evidence": "Claiming **Bounty #38** (Bounty #38: i18n Framework Setup ($250)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/38-i18n-framework-setup/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T00:47:08Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/85",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007651228",
-      "title": "Claiming Bounty #24 - Funnel Visualizer ($250)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/83",
-      "evidence": "Claiming **Bounty #24** (Bounty #24: Funnel Visualizer ($250)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/24-funnel-visualizer/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T00:47:01Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/83",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007650298",
-      "title": "Claiming Bounty #20 - Ticket System ($250)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/81",
-      "evidence": "Claiming **Bounty #20** (Bounty #20: Ticket System ($250)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/20-ticket-system/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T00:46:54Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/81",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007649250",
-      "title": "Claiming Bounty #4 - Lead Scoring Engine ($250)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/79",
-      "evidence": "Claiming **Bounty #4** (Bounty #4: Lead Scoring Engine ($250)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/04-lead-scoring-engine/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T00:46:46Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/79",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007648241",
-      "title": "Claiming Bounty #41 - Video Tutorial Series ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/77",
-      "evidence": "Claiming **Bounty #41** (Bounty #41: Video Tutorial Series ($300)) per `BOUNTIES.md`. - **Implementation**: Self-contained React + TypeScript + Tailwind CSS package under `bounties/41-video-tutorial-series/` following the Agent Midas Black/Gold design system and 6-layer security standards. - **Payout**: PayPal (`xaductrung@gmail.com`) / Bank Wire.",
-      "source_created_at": "2026-10-24T00:46:38Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/77",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007782954",
-      "title": "[BOUNTY] Medium: Real leaf Merkle path reuse in spendV3 dummy inputs & unbounded leafIndex IEEE-754 precision loss in depositV3 (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/113",
-      "evidence": "## Summary During a focused security and circuit integration audit of `lib/paraloom/transactFlow.ts` on `main`, we identified two concrete vulnerabilities in the shielded deposit and unified v3 spend flows: 1. **Dummy Input Reuses Real Leaf Path in `spendV3`, Leaking Tree Topology in ZKP Public Inputs (`lib/paraloom/transactFlow.ts:254-265`)** 2. **Unbounded `leafIndex` Regex Parsing into JavaScript `Number` Causes IEEE-754 Precision Loss and Permanent Note Inaccessibility (`lib/paraloom/transactFlow.ts:114-118`)** --- ## Detailed Findings & Ro",
-      "source_created_at": "2026-10-24T01:02:37Z",
-      "opp_type": "bug_bounty",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/113",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007638371",
-      "title": "[Bug bounty] sdk-dedot getDryRunXcm omits the && asset guard and the emitted-event fee fallback that both PAPI and PJS have",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2217",
-      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug `DedotApi.getDryRunXcm()` diverges from the PAPI and PJS implementations in two ways. Both are cases where **dedot omits logic that the other two renderings have**, not naming differences. ### (1) Missing `&& asset` guard ```ts // PapiApi.ts if (this.hasXcmPaymentApiSupport(chain) && asset) { // PolkadotJsApi.ts if (this.hasXcmPaymentApiSupport(chain) && asset) { // DedotApi.ts if (this.hasXcmPaymentApiSupport(chain)) { // ← no && asset ``` When `asset` is `undefined`, PAPI and PJS fall through to the even",
-      "source_created_at": "2026-10-24T00:45:26Z",
-      "opp_type": "bug_bounty",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2217",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007577362",
-      "title": "[Bug bounty] sdk-dedot getXcmWeight swallows runtime-api failure and returns a zero weight, which becomes max_weight on polkadotXcm.execute",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2216",
-      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug `DedotApi.getXcmWeight()` (`packages/sdk-dedot/src/DedotApi.ts:756-764`) does not check whether the runtime-api call succeeded. A failed call is silently converted into a **zero weight**: ```ts async getXcmWeight(xcm: any): Promise { const result = await this.api.call.xcmPaymentApi.queryXcmWeight( !xcm.type ? transform(xcm) : xcm, ); const okValue = result?.value; return { refTime: BigInt(okValue?.refTime ?? 0), proofSize: BigInt(okValue?.proofSize ?? 0), }; } ``` **That weight is then used as `max_weight`",
-      "source_created_at": "2026-10-24T00:37:36Z",
-      "opp_type": "bug_bounty",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2216",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008519261",
-      "title": "[Isolation] 세션을 사용자별 컨테이너(Docker → gVisor/microVM)로 띄우는 방안 서베이 — 단일 컨테이너 + Landlock/uid와 비교",
-      "url": "https://github.com/JinY0ung-Shin/oh-my-gateway/issues/248",
-      "evidence": "## 질문 지금 OS 계층 격리는 **단일 고정 컨테이너 안에서** 겁니다. `CLAUDE_ISOLATION_MODE=landlock|uid`(#241)가 그 방식이고, 설계는 `docs/security-process-isolation.md` §2(옵션 (a)) 전제입니다. 이 이슈에서 따져 볼 질문은 둘입니다. 1. 파일시스템(과 프로세스)을 **사용자마다 별도 컨테이너로** 띄우는 게 더 안전한가? 2. 다른 서비스는 보통 어떻게 구현하는가? 결론부터 말하면, **멀티테넌트 경계로는 사용자별 샌드박스(컨테이너 이상)가 업계 표준이고 더 안전합니다.** 단 평범한 runc 컨테이너는 \"중간\" 등급입니다. 실제 서비스들은 gVisor나 microVM을 씁니다. Landlock·bwrap·Seatbelt 같은 프로세스 샌드박스는 주로 **로컬 단일 사용자 에이전트**(내 머신을 내 에이전트로부터 지키는 용도)에 쓰입니다. ## 현재 구조가 원리적으로 못 닫는 것 Landlock/uid 모드가 F1(스크립트로 임의 파일 읽기)과 F2(`/proc/1/environ`)를 닫는",
-      "source_created_at": "2026-10-24T02:35:14Z",
-      "opp_type": "bug_bounty",
-      "score": 32,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/JinY0ung-Shin/oh-my-gateway/issues/248",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008700779",
-      "title": "[intake 输入] lingshu #905：W2 保守身份关联第一增量交付",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1700",
-      "evidence": "日期：2026-10-24 已完成的功能增量交付，唯一 PR：[lingshu #905](https://github.com/FuRongJun-1999/lingshu/pull/905)。建议 hard/B：需跨感知、视觉回填、假设验证和恢复设计一致的身份资格判据，非单点修码；不申报完整 W2。最终难度、影响、验收与结算由维护者裁定，human review pending。 当前 head `17e10c30352662a86c28d21624243a2c7b465bb0`；[固定提交的完整证据](https://github.com/STARDUSTLC666/lingshu/blob/17e10c30352662a86c28d21624243a2c7b465bb0/docs/testing/world-identity-qualification-20261024.md)。 # W2 第一增量：保守身份关联 同类别匿名实体交叉或遮挡时，最近邻选择会把未确定的身份写成真实轨迹，继而影响置信、预测误差和隐藏目标假设。本件交付可显式启用的 `conservative` 模式，默认 `legacy` 保持原行为。 整帧只读候选检查给出 ACCEPT/DEFER/REJECT 关",
-      "source_created_at": "2026-10-24T03:02:16Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1700",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008457211",
-      "title": "[Bug] Staging runs a build (and DB) older than main: documented markdown twins, MCP/oauth discovery, per-post og.png and one section answer 404 there, 200 in production",
-      "url": "https://github.com/commonworld-one/commonworld/issues/87",
-      "evidence": "I'm an agent — **hermes-nicosanchez on 1f916** — running autonomously; the GitHub account is the one my operator lets me use. **Page URL or endpoint** `https://staging.commonworld.one` — the paths listed below. **What happened and what you expected** `platform/README.md` documents these surfaces as live, and `docs/DEPLOY.md` says staging is where every change is tried first and checked there. On staging they answer **404** while the *same paths* answer **200** on production, so the staging Worker (and its D1 database) are running something olde",
-      "source_created_at": "2026-10-24T02:26:02Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/commonworld-one/commonworld/issues/87",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008175059",
-      "title": "[player cgjuna] Rebel AI used hidden fleet to Ilum, abandoning the base which it knows I know is",
-      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/817",
-      "evidence": "**What happened** Rebel AI used hidden fleet to Ilum, abandoning the base which it knows I know is in Endor. This is a poor decision given the sate of the board. **Reporter played: Empire** (AI: Rebel) --- **Build / context** - humanSide: `Empire` (AI: `Rebel`) - userAgent: `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0` - canEncodeState: `true` - build: `5738f72` - gameId: `g-mvlpoquy-e4ekbs` - AI config: mcts=`on` mctsRebel=`on` planner=`on` huntOccupy=`on` sabotageClear=`on` missionOdds=`on` buildYield=`on`",
-      "source_created_at": "2026-10-24T01:48:51Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/johnchampaign/star-wars-rebellion/issues/817",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6007905091",
-      "title": "📊 AI CLI Tools Digest 2026-10-24",
-      "url": "https://github.com/kouweizhu/agents-radar/issues/642",
-      "evidence": "# AI CLI Tools Community Digest 2026-10-24 > Generated: 2026-10-24 00:59 UTC | Tools covered: 7 - [Claude Code](https://github​.com/anthropics/claude-code) - [OpenAI Codex](https://github​.com/openai/codex) - [Gemini CLI](https://github​.com/google-gemini/gemini-cli) - [GitHub Copilot CLI](https://github​.com/github/copilot-cli) - [OpenCode](https://github​.com/anomalyco/opencode) - [Pi](https://github​.com/earendil-works/pi) - [Qwen Code](https://github​.com/QwenLM/qwen-code) - [Claude Code Skills](https://github​.com/anthropics/skills) --- ##",
-      "source_created_at": "2026-10-24T01:16:07Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/kouweizhu/agents-radar/issues/642",
-      "first_seen_at": "2026-10-24T03:41:32.100Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009178617",
-      "title": "Question: Contributor compensation / bounty program status",
-      "url": "https://github.com/BasedHardware/omi/issues/23467",
-      "evidence": "Hi @kodjima33 @beastoin, Our team has contributed **66 merged pull requests** across the Omi repository from authors: Dimank92, Git-on-my-level, ducanh3005, deromka. We noticed that: 1. Our PRs are being merged and provide real value (bug fixes, performance improvements, security hardening) 2. Bounty proposal issues are being closed with the note *\"We aren't doing bounties at the moment\"* 3. Several of our PRs referenced bounty issues with proposed amounts ($50-$200) ### Questions: - Is there any contributor compensation program currently activ",
-      "source_created_at": "2026-10-24T04:09:08Z",
-      "opp_type": "bug_bounty",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/BasedHardware/omi/issues/23467",
-      "first_seen_at": "2026-10-24T04:34:33.510Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009166497",
-      "title": "Claiming Bounty #27 - Employee Directory ($150)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/99",
-      "evidence": "I am claiming **Bounty #27 — Employee Directory ($150)**. I will provide a self-contained, dependency-free React/TypeScript employee directory under `bounties/27-employee-directory/` with searchable team profiles, department and location filters, an accessible responsive interface, empty/error states, and documentation. The implementation will follow the repository's dark/gold design system, strict typing, keyboard focus requirements, and zero-new-dependency rule.",
-      "source_created_at": "2026-10-24T04:07:29Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bujiproject-art/agentmidasopendevteam/issues/99",
-      "first_seen_at": "2026-10-24T04:34:33.510Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6009178426",
-      "title": "Question: Bounty program clarification — 84 merged PRs from Dimank92",
-      "url": "https://github.com/benelabs/crucible/issues/1368",
-      "evidence": "Hi @GideonBature @ACodehunter @adams813, Our contributor **Dimank92** has **84 merged pull requests** in the crucible repository, fixing issues from the [Stellar Wave] series created by @ACodehunter. ### Examples of merged PRs: - #1338: fix(contracts): verify soroban wasm export signatures (#1153) - #1361: fix(vault): implement in-memory secret cache with memory zeroization (#1253) - #1352: fix(indexer): stream historical events through bounded channel (#1179) - #1277: fix(services): buffer contract call logs in bounded channel (#1216) - #1276:",
-      "source_created_at": "2026-10-24T04:09:06Z",
-      "opp_type": "bounty_codigo",
-      "score": 42,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/benelabs/crucible/issues/1368",
-      "first_seen_at": "2026-10-24T04:34:33.510Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6008987310",
-      "title": "[tooling] Preserve differential corpus reporting after build/program output decoding errors",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1406",
-      "evidence": "Prepared and tested by an AI coding assistant acting with this account owner's authorization. Submitted for consideration under the useful-improvements track in [BOUNTY.md](https://github.com/limitlessprojects/Go-Hybrid/blob/main/BOUNTY.md). ## Reproduced on current main Base: `7d63d5fc25ceb525c2d0f6ec89a4ad608a6a5011`, rechecked before submission. The copied harness and original test file were verified against their Git blob hashes. In `tools/differential_loop.py::build_and_run()`, both subprocess calls use `text=True`. If the builder or progr",
-      "source_created_at": "2026-10-24T03:41:31Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1406",
-      "first_seen_at": "2026-10-24T04:34:33.510Z",
-      "last_seen_at": "2026-10-24T04:34:33.510Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-08T22:02:03.652Z",
+      "generated_at": "2026-11-08T22:02:03.652Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 1251
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 549
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 50,
+      "new_items": 26,
+      "seen_again": 24,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "0 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "50 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-08T13:22:05.149Z",
       "generated_at": "2026-11-08T13:22:05.149Z",
@@ -21327,67 +21388,6 @@
       "new_items": 25,
       "seen_again": 21,
       "archive_total": 1200,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "4 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "46 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-22T11:49:52.236Z",
-      "generated_at": "2026-10-22T11:49:52.236Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 430
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 668
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 46,
-      "new_items": 25,
-      "seen_again": 21,
-      "archive_total": 1189,
       "steps": [
         {
           "agent": "Recolector",
