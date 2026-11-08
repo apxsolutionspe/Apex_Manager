@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-07T21:48:42.327Z",
+  "generated_at": "2026-11-08T05:58:26.439Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -494,314 +494,6 @@
     },
     {
       "source": "github",
-      "title": "Claiming Bounty #34 - Healthcare Appointment System ($500)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/51",
-      "source_created_at": "2026-10-23T16:01:11Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 500,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #25 - A/B Testing Framework ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/73",
-      "source_created_at": "2026-10-23T16:43:20Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #21 - Knowledge Base Builder ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/71",
-      "source_created_at": "2026-10-23T16:43:15Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #16 - Invoice Generator ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/69",
-      "source_created_at": "2026-10-23T16:43:10Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #8 - Social Media Scheduler ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/67",
-      "source_created_at": "2026-10-23T16:43:05Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #3 - Email Campaign Builder ($300)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/65",
-      "source_created_at": "2026-10-23T16:43:00Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #31 - Real Estate Listing Portal ($350)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/63",
-      "source_created_at": "2026-10-23T16:42:55Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 350,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #22 - Live Chat Widget ($350)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/61",
-      "source_created_at": "2026-10-23T16:42:51Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 350,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #19 - Payment Gateway Manager ($400)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/59",
-      "source_created_at": "2026-10-23T16:42:46Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 400,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #15 - Team Genealogy Tree ($400)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/57",
-      "source_created_at": "2026-10-23T16:42:41Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 400,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #30 - Restaurant POS Interface ($400)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/55",
-      "source_created_at": "2026-10-23T16:01:21Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 400,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #33 - Law Firm Case Manager ($400)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/53",
-      "source_created_at": "2026-10-23T16:01:16Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 400,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #18 - Revenue Dashboard ($500)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/49",
-      "source_created_at": "2026-10-23T16:01:06Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 500,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Claiming Bounty #12 - Affiliate Dashboard Pro ($500)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/47",
-      "source_created_at": "2026-10-23T16:01:01Z",
-      "first_seen_at": "2026-10-23T17:05:21.872Z",
-      "last_seen_at": "2026-10-23T17:05:21.872Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 500,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -821,6 +513,30 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Keep parent-task IDs and funder counts in remote bounty results",
+      "url": "https://github.com/andrewsiah/agentswarm-remote/issues/1",
+      "source_created_at": "2026-11-08T03:23:55Z",
+      "first_seen_at": "2026-11-08T05:58:25.776Z",
+      "last_seen_at": "2026-11-08T05:58:25.776Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3408,6 +3124,102 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1392",
+      "source_created_at": "2026-11-08T04:29:56Z",
+      "first_seen_at": "2026-11-08T05:58:25.776Z",
+      "last_seen_at": "2026-11-08T05:58:25.776Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Playtest][Mercenary] A surrendered bounty target cannot be finished: the combat lease refuses it and the fleeing hull outruns raw fire",
+      "url": "https://github.com/barryrwilson/Rimward/issues/291",
+      "source_created_at": "2026-11-08T03:20:01Z",
+      "first_seen_at": "2026-11-08T05:58:25.776Z",
+      "last_seen_at": "2026-11-08T05:58:25.776Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty proposal] scale_causal_mask_hw_dims_softmax_in_place: mask geometry is not validated against the shard block, and the hw-dims reader wrap can read past the mask",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/64840",
+      "source_created_at": "2026-11-08T03:02:04Z",
+      "first_seen_at": "2026-11-08T05:58:25.776Z",
+      "last_seen_at": "2026-11-08T05:58:25.776Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[R9-T2-06] [P1-Persistence] 20-minute batched NPC bounty pool (`CombatRuntimeState::pending_bounty_ticks`) is ephemeral in RAM and never persisted or flushed on downtime",
+      "url": "https://github.com/saverchenkov/EvoMu/issues/544",
+      "source_created_at": "2026-11-08T05:16:35Z",
+      "first_seen_at": "2026-11-08T05:58:25.776Z",
+      "last_seen_at": "2026-11-08T05:58:25.776Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 10 New Opportunityies found",
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1739",
       "source_created_at": "2026-11-07T20:42:55Z",
@@ -3706,6 +3518,217 @@
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BUG BOUNTY] Medium: ceremony::contribute ignores circuit/initial_srs_hash mismatch, enforce_finalize_policy uses && on delta check & omits version/zero-hash guards, CircomReduction panics on short witness/overflow, and bridge::solana::instructions o",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1460",
+      "source_created_at": "2026-11-07T05:18:19Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BUG BOUNTY] Medium: start_verification & verify_transact_parts omit duplicate-nullifier, zero-mint, and canonical asset_id guards, CoordinatorRole::standby_of stalls immediately on zero threshold, and PedersenCommitment uses non-constant-time equali",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1458",
+      "source_created_at": "2026-11-07T05:13:44Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: confirmCommitmentInTree fails on uppercase hex, busy-spins on pollMs <= 0, and overshoots timeoutMs; Home.tsx float SOL parsing throws RangeError on Infinity and truncates sub-lamports to 0n; and Onboarding.tsx emits duplicate decoy ",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/238",
+      "source_created_at": "2026-11-07T05:47:32Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: deriveKeypairFromSeed silently wraps negative/float accountIndex via ToUint32, decryptWallet and decryptSeedPhrase omit secretbox/ed25519 keypair integrity checks, and deriveSpendPrivkey accepts truncated seeds",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/237",
+      "source_created_at": "2026-11-07T05:47:31Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: note_commitment, note_commitment_v2, and prove_withdrawal_v2 accept zero amounts and degenerate all-zero keys/blindings, prove_transfer_v2 accepts mismatched input path depths, and v3_merkle_path_output_proves_membership omits VK ver",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/36",
+      "source_created_at": "2026-11-07T05:40:39Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: prove_transact and prove_transfer_v2 omit u64 sum-overflow bounds on 2-note inputs/outputs, allow zero or reused blindings/privkeys on dummy notes causing NullifierAccount PDA collisions, and accept all-zero Merkle roots",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/35",
+      "source_created_at": "2026-11-07T05:40:38Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Medium: hex32 silently trims whitespace causing cross-layer parser differentials, witness JSON structs accept unknown fields, and rng_from_entropy panics on CSPRNG failure",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/32",
+      "source_created_at": "2026-11-07T05:08:00Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] High: prove_withdrawal_v2, prove_transfer_v2, and prove_transact omit proving-key R1CS/CircomReduction compatibility checks and post-prove self-verification against pk.vk",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/31",
+      "source_created_at": "2026-11-07T05:07:59Z",
+      "first_seen_at": "2026-11-07T05:56:28.559Z",
+      "last_seen_at": "2026-11-07T05:56:28.559Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1733",
+      "source_created_at": "2026-11-06T17:50:55Z",
+      "first_seen_at": "2026-11-06T19:22:59.801Z",
+      "last_seen_at": "2026-11-06T19:22:59.801Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
