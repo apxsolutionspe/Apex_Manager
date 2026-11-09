@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-09T06:23:30.376Z",
+  "generated_at": "2026-11-09T22:19:45.082Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1159,
-    "descartar": 41,
+    "informativa": 1158,
+    "descartar": 42,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -182,29 +182,6 @@
     },
     {
       "source": "github",
-      "title": "Claiming Bounty #6 - Meeting Scheduler ($100)",
-      "url": "https://github.com/bujiproject-art/agentmidasopendevteam/issues/113",
-      "source_created_at": "2026-10-24T08:06:45Z",
-      "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:30:31.494Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 100,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "$1000 Bounty",
       "url": "https://github.com/eleectrum/eleectrum.github.io/issues/1",
       "source_created_at": "2026-10-30T20:45:16Z",
@@ -224,6 +201,30 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty-hunter window: layout",
+      "url": "https://github.com/ecarlste/x4-swi-bounty-hunter/issues/88",
+      "source_created_at": "2026-11-09T21:55:21Z",
+      "first_seen_at": "2026-11-09T22:19:44.326Z",
+      "last_seen_at": "2026-11-09T22:19:44.326Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1128,54 +1129,6 @@
       "source_created_at": "2026-10-24T12:04:53Z",
       "first_seen_at": "2026-10-24T15:56:03.276Z",
       "last_seen_at": "2026-10-24T15:56:03.276Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] XCM API /x-transfers fails for a custom origin chain: provider lookup ignores options.customChains",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2219",
-      "source_created_at": "2026-10-24T09:30:37Z",
-      "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:57:01.333Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty #743] Validate /api/users payload before persistence",
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/13676",
-      "source_created_at": "2026-10-24T08:24:15Z",
-      "first_seen_at": "2026-10-24T10:30:31.494Z",
-      "last_seen_at": "2026-10-24T10:30:31.494Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2862,30 +2815,6 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1650",
-      "source_created_at": "2026-10-24T10:32:43Z",
-      "first_seen_at": "2026-10-24T10:57:01.333Z",
-      "last_seen_at": "2026-10-24T10:57:01.333Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 200,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Open paid tasks: four $1 listings on 1F916 (bugs, plan, promotion, module)",
       "url": "https://github.com/commonworld-one/commonworld/issues/212",
       "source_created_at": "2026-10-28T21:38:28Z",
@@ -2904,6 +2833,79 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1399",
+      "source_created_at": "2026-11-09T20:24:07Z",
+      "first_seen_at": "2026-11-09T22:19:44.326Z",
+      "last_seen_at": "2026-11-09T22:19:44.326Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Swap 2-transaction dryRun passes origin currencyFrom and evmSenderAddress to the exchange leg, failing with InvalidCurrencyError / InvalidAddressError",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2479",
+      "source_created_at": "2026-11-09T21:51:59Z",
+      "first_seen_at": "2026-11-09T22:19:44.326Z",
+      "last_seen_at": "2026-11-09T22:19:44.326Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Swap execute-path to Ethereum fails with NotHoldingFees / AmountTooLowError when swapping native DOT into a Snowbridge asset",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2478",
+      "source_created_at": "2026-11-09T20:56:05Z",
+      "first_seen_at": "2026-11-09T22:19:44.326Z",
+      "last_seen_at": "2026-11-09T22:19:44.326Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
