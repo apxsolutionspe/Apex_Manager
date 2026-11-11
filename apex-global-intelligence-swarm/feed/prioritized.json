@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-11T06:13:37.679Z",
+  "generated_at": "2026-11-11T14:23:04.034Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1157,
-    "descartar": 43,
+    "informativa": 1158,
+    "descartar": 42,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -130,30 +130,6 @@
         "payment": false
       },
       "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/11",
-      "source_created_at": "2026-10-25T03:57:56Z",
-      "first_seen_at": "2026-10-25T04:39:05.665Z",
-      "last_seen_at": "2026-10-25T04:39:05.665Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2439,98 +2415,6 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY] Medium: Missing slash_validator and update_reputation instruction builders, discriminators, and derive_slashed_funds_vault in bridge::solana::instructions",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1220",
-      "source_created_at": "2026-10-25T09:42:06Z",
-      "first_seen_at": "2026-10-25T11:24:59.549Z",
-      "last_seen_at": "2026-10-25T11:24:59.549Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Missing SPL asset instruction builders (deposit_note_spl, init_asset_vault, set_asset_deposit_cap, set_min_token_stake) and derive_asset_config in bridge::solana::instructions, breaking off-chain client & CLI SPL integration",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1218",
-      "source_created_at": "2026-10-25T07:23:45Z",
-      "first_seen_at": "2026-10-25T11:24:59.549Z",
-      "last_seen_at": "2026-10-25T11:24:59.549Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Non-deterministic HashMap iteration in VoteTally::valid_voters diverges CoSignPayload quorum_validators ordering across nodes, causing settlement signature divergence and cosign_counts starvation",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1213",
-      "source_created_at": "2026-10-25T03:18:25Z",
-      "first_seen_at": "2026-10-25T04:39:05.665Z",
-      "last_seen_at": "2026-10-25T04:39:05.665Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Unchecked and Uninitialized Validator Token ATA in paraloom-cli validator register and register_validator causes runtime CPI deserialization failure (AccountNotInitialized) and silent gas burn for new validators",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1215",
-      "source_created_at": "2026-10-25T04:24:30Z",
-      "first_seen_at": "2026-10-25T04:39:05.665Z",
-      "last_seen_at": "2026-10-25T04:39:05.665Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Open paid tasks: four $1 listings on 1F916 (bugs, plan, promotion, module)",
       "url": "https://github.com/commonworld-one/commonworld/issues/212",
       "source_created_at": "2026-10-28T21:38:28Z",
@@ -2549,6 +2433,30 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Candidate] null200ok/null200ok-bug-bounty-skill - null200ok-bughunter",
+      "url": "https://github.com/ProSkillsMD/proskills/issues/10949",
+      "source_created_at": "2026-11-11T12:35:59Z",
+      "first_seen_at": "2026-11-11T14:23:02.937Z",
+      "last_seen_at": "2026-11-11T14:23:02.937Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3762,6 +3670,102 @@
       "title": "[BUG BOUNTY] Consolidated On-Chain Program, Solana Bridge & Relayer Ingress Hardening (SPL Fee Accounting, Stake Vault Mint, Authority/Reputation Bounds, Bearer Auth & Canonical PDA Verification)",
       "url": "https://github.com/paraloom-labs/paraloom-core/issues/1499",
       "source_created_at": "2026-11-07T12:51:00Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] sdk-core: createCustomXcm sets isFeeTransferred = false on multi-asset (overriddenAsset) ED transfers, swapping entire fee asset via ExchangeAsset maximal: true",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2452",
+      "source_created_at": "2026-11-07T12:35:23Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Consolidated Wallet Privacy & Swap Hardening: Exact Note Envelope Bounds, 0-Value Scan Filtering, Commitment Deduplication, Swap Slippage/WSOL Recovery & Fixed-Point SOL Parsing",
+      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/270",
+      "source_created_at": "2026-11-07T12:52:26Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY] Consolidated ZK Prover Hardening: Ceremony VK Pinning, Post-Prove Self-Verification, u64 Sum/Blinding Bounds, Cross-Version Pubkey Guards & Withdrawal Fee/Recipient Validation",
+      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/59",
+      "source_created_at": "2026-11-07T12:51:42Z",
+      "first_seen_at": "2026-11-07T12:57:58.558Z",
+      "last_seen_at": "2026-11-07T12:57:58.558Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] verifyEdOnDestinationInternal miscalculates fee deductions for custom feeAsset and PolkadotXcm.execute transfers",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2450",
+      "source_created_at": "2026-11-07T11:07:02Z",
       "first_seen_at": "2026-11-07T12:57:58.558Z",
       "last_seen_at": "2026-11-07T12:57:58.558Z",
       "status": "informativa",
