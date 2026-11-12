@@ -1,14 +1,14 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-11-11T22:03:55.225Z",
-  "observed_at": "2026-11-11T22:03:51.760Z",
+  "generated_at": "2026-11-12T03:08:02.403Z",
+  "observed_at": "2026-11-12T03:08:00.203Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
-    "sources_read": 16,
-    "sources_unavailable": 8,
+    "sources_read": 15,
+    "sources_unavailable": 9,
     "failure_types": {
-      "access_denied": 1,
+      "access_denied": 2,
       "upstream_error": 1,
       "network_failure": 4,
       "size_limit": 2,
@@ -27,6 +27,10 @@
       {
         "source": "okx-help",
         "reason": "network_failure"
+      },
+      {
+        "source": "uniswap-governance",
+        "reason": "access_denied"
       },
       {
         "source": "ethereum-grants",
@@ -53,19 +57,19 @@
     "native_classifier_confirmed": true
   },
   "triage": {
-    "announcements_seen": 46,
+    "announcements_seen": 44,
     "classified": {
       "security_blocked": 0,
-      "capital_or_trading": 8,
+      "capital_or_trading": 7,
       "historical_reference": 9,
       "work_or_security_review": 12,
       "project_grant_not_passive": 4,
       "gas_fee_and_conditions_review": 0,
       "manual_participation": 5,
       "informational_not_passive": 6,
-      "unverified_no_capital_evidence": 2
+      "unverified_no_capital_evidence": 1
     },
-    "research_candidates_without_obvious_capital_keywords": 2,
+    "research_candidates_without_obvious_capital_keywords": 1,
     "independently_verified_free_rewards": 0,
     "personally_eligible_verified": 0,
     "verified_received_rewards": 0,
