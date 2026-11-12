@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-12T00:41:26.056Z",
+  "generated_at": "2026-11-12T15:11:54.828Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1158,
-    "descartar": 42,
+    "informativa": 1156,
+    "descartar": 44,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -154,6 +154,30 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] XCM API: asset-info and location endpoints return 500 instead of 400 for ambiguous plain symbols",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2503",
+      "source_created_at": "2026-11-12T12:58:33Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -836,15 +860,14 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] XCM API silently strips isFeeAsset from multi-asset currency items, causing transfers to fail with Fee asset is required",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2281",
-      "source_created_at": "2026-10-25T14:19:14Z",
-      "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-10-25T16:15:49.972Z",
+      "title": "Retroactive Grant Application - Zebra Block Suppression (Low) and IPv6 Ban Evasion Fix (Medium)",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/111",
+      "source_created_at": "2026-11-12T14:19:31Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -854,7 +877,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 50000,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2321,13 +2344,13 @@
     },
     {
       "source": "github",
-      "title": "omi bounty digest: 1 unclaimed of 9",
-      "url": "https://github.com/airdropia/earn-ops/issues/16",
-      "source_created_at": "2026-10-25T17:52:51Z",
-      "first_seen_at": "2026-10-25T20:49:36.931Z",
-      "last_seen_at": "2026-10-25T20:49:36.931Z",
+      "title": "[$2 site credit] Add a PHP example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
+      "source_created_at": "2026-11-12T13:11:22Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
       "status": "informativa",
-      "priority": 82,
+      "priority": 79,
       "reasons": [
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
@@ -2338,7 +2361,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": 25,
+      "published_amount_usd": 2,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2362,6 +2385,78 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
+      "source_created_at": "2026-11-12T13:55:20Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "CLI: rerun and test say when they aren't running the bounty's pinned judge",
+      "url": "https://github.com/Vasqq/BounTEE/issues/80",
+      "source_created_at": "2026-11-12T14:21:18Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1408",
+      "source_created_at": "2026-11-12T12:10:46Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3672,102 +3767,6 @@
       "title": "[radar] SN open bounty 2026-11-07T12:51",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
       "source_created_at": "2026-11-07T12:51:56Z",
-      "first_seen_at": "2026-11-07T12:57:58.558Z",
-      "last_seen_at": "2026-11-07T12:57:58.558Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Consolidated On-Chain Program, Solana Bridge & Relayer Ingress Hardening (SPL Fee Accounting, Stake Vault Mint, Authority/Reputation Bounds, Bearer Auth & Canonical PDA Verification)",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1499",
-      "source_created_at": "2026-11-07T12:51:00Z",
-      "first_seen_at": "2026-11-07T12:57:58.558Z",
-      "last_seen_at": "2026-11-07T12:57:58.558Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] sdk-core: createCustomXcm sets isFeeTransferred = false on multi-asset (overriddenAsset) ED transfers, swapping entire fee asset via ExchangeAsset maximal: true",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2452",
-      "source_created_at": "2026-11-07T12:35:23Z",
-      "first_seen_at": "2026-11-07T12:57:58.558Z",
-      "last_seen_at": "2026-11-07T12:57:58.558Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Consolidated Wallet Privacy & Swap Hardening: Exact Note Envelope Bounds, 0-Value Scan Filtering, Commitment Deduplication, Swap Slippage/WSOL Recovery & Fixed-Point SOL Parsing",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/270",
-      "source_created_at": "2026-11-07T12:52:26Z",
-      "first_seen_at": "2026-11-07T12:57:58.558Z",
-      "last_seen_at": "2026-11-07T12:57:58.558Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Consolidated ZK Prover Hardening: Ceremony VK Pinning, Post-Prove Self-Verification, u64 Sum/Blinding Bounds, Cross-Version Pubkey Guards & Withdrawal Fee/Recipient Validation",
-      "url": "https://github.com/paraloom-labs/paraloom-prover-wasm/issues/59",
-      "source_created_at": "2026-11-07T12:51:42Z",
       "first_seen_at": "2026-11-07T12:57:58.558Z",
       "last_seen_at": "2026-11-07T12:57:58.558Z",
       "status": "informativa",
