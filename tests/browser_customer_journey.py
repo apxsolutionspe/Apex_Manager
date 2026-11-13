@@ -55,6 +55,14 @@ def main():
                 assert page.locator("h1").count() == 1
                 document_width = page.evaluate("document.documentElement.scrollWidth")
                 viewport_width = page.evaluate("window.innerWidth")
+                if document_width > viewport_width + 2:
+                    offenders = page.evaluate("""() => Array.from(document.querySelectorAll('body *')).map(el => {
+                      const r = el.getBoundingClientRect();
+                      return {tag: el.tagName, cls: String(el.className).slice(0,70),
+                              id: el.id, left: Math.round(r.left), right: Math.round(r.right),
+                              scrollWidth: el.scrollWidth, clientWidth: el.clientWidth};
+                    }).filter(x => x.right > innerWidth + 2 && x.left >= 0).slice(0, 20)""")
+                    print("OVERFLOW", BROWSER_NAME, label, json.dumps(offenders), flush=True)
                 assert document_width <= viewport_width + 2, (
                     f"{BROWSER_NAME}/{label}: desborde horizontal {document_width} > {viewport_width}")
                 navigation_ms = page.evaluate(
