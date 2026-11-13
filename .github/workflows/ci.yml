@@ -1,7 +1,7 @@
 name: CI · APEX_PRIME_X
 on:
   push:
-    branches: [main, "feature/**"]
+    branches: [main, "feature/**", "feat/**", "chore/**"]
   pull_request:
 
 permissions:
