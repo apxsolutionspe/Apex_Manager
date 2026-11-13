@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-13T06:42:34.139Z",
+  "updated_at": "2026-11-13T19:39:48.203Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Dr-Logvinovich/round-square/blob/main/README.md",
       "first_seen_at": "2026-11-08T22:02:03.652Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
       "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bountyindex.in/mcp",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,502 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50476018",
+      "title": "Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive",
+      "url": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
+      "evidence": "",
+      "source_created_at": "2026-11-12T23:39:35Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "propublica.org/article/election-challenge-forsyth-county-georgia",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50352249",
+      "title": "Waiter Making 75K in NJ – Bergen County. Where Do I Stand?",
+      "url": "https://salary-statistics.netlify.app/us",
+      "evidence": "",
+      "source_created_at": "2026-11-03T14:13:43Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "salary-statistics.netlify.app/us",
+      "first_seen_at": "2026-11-03T23:21:29.918Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50330362",
+      "title": "Nine Killed After a Learjet Crashes in Palm Beach County, Florida",
+      "url": "https://www.cnn.com/2026/11/01/us/south-florida-plane-crash",
+      "evidence": "",
+      "source_created_at": "2026-11-01T21:58:52Z",
+      "opp_type": "otro",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
+      "first_seen_at": "2026-11-01T21:59:59.318Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50371716",
+      "title": "League City to disable Flock cameras after voters reject their use",
+      "url": "https://www.houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use/",
+      "evidence": "",
+      "source_created_at": "2026-11-04T21:20:46Z",
+      "opp_type": "otro",
+      "score": 14,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
+      "first_seen_at": "2026-11-05T06:43:24.119Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50325874",
+      "title": "LA City and LA County Bathrooms and Water Fountains",
+      "url": "https://bathrooms.lacontroller.app/",
+      "evidence": "",
+      "source_created_at": "2026-11-01T14:10:51Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "bathrooms.lacontroller.app",
+      "first_seen_at": "2026-11-01T21:59:59.318Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50156779",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com/",
+      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
+      "source_created_at": "2026-10-19T19:21:56Z",
+      "opp_type": "otro",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "dovepass.com",
+      "first_seen_at": "2026-10-19T21:02:23.479Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49960353",
+      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
+      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T03:24:38Z",
+      "opp_type": "otro",
+      "score": 7,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "49968025",
+      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
+      "evidence": "",
+      "source_created_at": "2026-10-05T17:47:45Z",
+      "opp_type": "otro",
+      "score": 2,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6377870983",
+      "title": "Retroactive Grant Application - Zakura audits and bug bounties",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/127",
+      "evidence": "### Terms and Conditions - [x] I agree to the [Grant Agreement](https://9ba4718c-5c73-47c3-a024-4fc4e5278803.usrfiles.com/ugd/9ba471_6ff6db4095fd4c4ba21babec361e927e.pdf) terms if funded - [x] I agree to [Provide KYC information](https://9ba4718c-5c73-47c3-a024-4fc4e5278803.usrfiles.com/ugd/9ba471_7d9e73d16b584a61bae92282b208efc4.pdf) if funded above $50,000 USD - [x] I agree to disclose conflicts of interest - [x] I understand that this grant program is only eligible for completed work, as it is a retroactive grant program. Applications for pl",
+      "source_created_at": "2026-11-13T18:50:13Z",
+      "opp_type": "subvencion",
+      "score": 49,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/127",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378367391",
+      "title": "v1.13.1: gate fixes from the first bounty field run",
+      "url": "https://github.com/0x41io/monomi/issues/19",
+      "evidence": "Gate fixes found by the first real bug bounty run on v1.13 (a passive run on a HackerOne program's wildcards, with the program's own scope list as `--scope`). Approved by Roi 2026-11-13. Build on branch `v1.13.1-fix`, tag `v1.13.1`. ## What the run showed - **A. An excluded host held up a lead.** A \"go around the CDN\" lead used a host the scope file excludes (also third-party hosted) as evidence. Check 1 passed because *another* host in the lead was in scope: rules use every host as supporting evidence before the gate looks at scope. - **B. Che",
+      "source_created_at": "2026-11-13T19:21:51Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/0x41io/monomi/issues/19",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378248638",
+      "title": "Replace automatic bounty placement with authored Unity markers",
+      "url": "https://github.com/jneb802/MoreWorldLocations_All/issues/158",
+      "evidence": "Replace automatic port-adjacent bounty markers with Unity-authored JVLmock_PraetorisBountyNPC placements. - MWL PR #154 at ef16942 creates a marker at a fixed 2.5 metre offset in PortBountyMarker.AddToPrefab. - PraetorisClient validates interactions against shipping-manager prefab identities and positions. - Jotunn mock replacement preserves the authored transform. Live validation of the replacement is pending. ## Context The user will place a blank prefab in each port in Unity. This replaces the temporary placement decision in #152. Companion ",
+      "source_created_at": "2026-11-13T19:14:05Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/jneb802/MoreWorldLocations_All/issues/158",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376580029",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1412",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-13 17:29 UTC #### 1. [[review] Ikalus1988/MisakaNet](https://github.com/awesome-market/awesome-opencode-market/issues/1707) - **Repository:** [awesome-market/awesome-opencode-market](https://github.com/awesome-market/awesome-opencode-market) - **Comments:** 0 - **Last Updated:** 2026-11-13T17:26:00Z #### 2. [Feedback: Why do characters look like this?](https://github.com/VlcekM/MeitouClient/issues/626) - **Repository:** [VlcekM/MeitouClient](https://github.com/VlcekM/MeitouClient) - **Commen",
+      "source_created_at": "2026-11-13T17:29:38Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1412",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378269766",
+      "title": "eBay France : Jeu vidéo - King's Bounty II - Collector Edition - A renseigner - Playstation 4",
+      "url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/110603",
+      "evidence": "![photo](https://i.ebayimg.com/images/g/0RcAAeSw5spq9xTW/s-l225.jpg) **Plateforme :** eBay France **Recherche :** édition collector **Catégorie eBay :** Jeux **Prix :** 187.00 EUR **Score de pertinence :** 7.0 **Mots-clés correspondants :** NES, PlayStation 1, PlayStation 2, PlayStation 3, lot PlayStation, édition collector **Lien de l'annonce :** https://www.ebay.fr/itm/336895720349?_skw=%C3%A9dition+collector&hash=item4e708cbb9d:g:0RcAAeSw5spq9xTW --- Choisis une étiquette ci-contre pour valider cette annonce : très-intéressant, intéressant, ",
+      "source_created_at": "2026-11-13T19:15:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Aur-Dev-re/veille-jeux-retro/issues/110603",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376960662",
+      "title": "Map image in Milestone Event and Bounty",
+      "url": "https://github.com/germanalvarez15/nfsmw-vita/issues/154",
+      "evidence": "Every Blacklist racer has these two entries, yet the starting position is always displayed the same way. In reality, the starting point for speed camera challenges should be distinct—positioned closer to the actual speed-tracking location. The same applies to earning reputation (rep): there are numerous spawn points that immediately trigger a police pursuit, but the map shows the exact same location for all of them. It’s a minor detail, but it would be a nice improvement to have it fixed. Here is an example from this video: https://youtu.be/3eq",
+      "source_created_at": "2026-11-13T17:53:29Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/germanalvarez15/nfsmw-vita/issues/154",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376697850",
+      "title": "[Bug bounty] Bifrost routed transfer can exceed the swap’s minimum output",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2510",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug In `@paraspell/swap` 14.5.3, a routed Bifrost swap can accept less output than its quote while the following XCM transfer still requests the full quoted amount. [`BifrostExchange.swapCurrency`](https://github.com/paraspell/xcm-tools/blob/b582284ac8d14bbdf59a914353438d50e6713693/packages/swap/src/exchanges/Bifrost/BifrostExchange.ts#L70-L107) passes `allowedSlippage` to `SwapRouter.swapCallParameters`. The locked `@crypto-dex-sdk/parachains-bifrost` 0.1.5 implementation uses `trade.minimumAmountOut(options.",
+      "source_created_at": "2026-11-13T17:36:55Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2510",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376666940",
+      "title": "[Bug bounty] SDK (PAPI): sends funds to a different account when a 0x recipient has the wrong length",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2509",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug On a non-EVM destination, `@paraspell/sdk` (PAPI) accepts a `0x` recipient of any length. If it is longer than 32 bytes, the call is built with only the first 32 bytes as the `AccountId32`, so the transfer goes to an account the user never typed. No error or warning is raised, and `dryRun()` reports success on both origin and destination. Two ordinary mistakes trigger it: - A 33-byte compressed public key (`0x02…` or `0x03…`, the shape ECDSA wallets and tools print). The funds go to `0x02` + the first 31 b",
+      "source_created_at": "2026-11-13T17:34:59Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2509",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376647612",
+      "title": "[Bug bounty] Higher-limit form accepts an email list and sends confirmation to multiple recipients",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2508",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug In XCM API 14.5.3, a caller with a valid API key and a successful reCAPTCHA can put a comma-separated address list in the higher-limit form's `email` field. The API passes that string directly to Nodemailer's `to` field, which treats it as multiple recipients. One form submission can therefore send ParaSpell's confirmation message to several unrelated addresses. The DTO declares `email` as an unrestricted string and has no single-address validator ([`HigherRequestLimitDto.ts:1-7`](https://github.com/parasp",
+      "source_created_at": "2026-11-13T17:33:47Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2508",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378507588",
+      "title": "feat(security): audit the package's own skills, agents and configuration against the OWASP Agentic Skills Top 10",
+      "url": "https://github.com/pekral/ai-olympus/issues/472",
+      "evidence": "## Problem The security skills (`security-review`, `security-audit`, `security-bounty-hunter`, `laravel-*`) target application code. Nothing audits this package's own agent surface — `skills/**`, `agents/**`, `rules/**`, `codex/**`, `.claude/settings*`, hooks, `.mcp.json` — against the OWASP Agentic Skills Top 10. The invisible-character rule (`rules/security/backend.md` #714) covers database fields only, and the malicious-code indicators (#549) target application code and Dockerfiles. ## Requested behaviour A new skill `agentic-skills-audit` (",
+      "source_created_at": "2026-11-13T19:30:39Z",
+      "opp_type": "bug_bounty",
+      "score": 32,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/pekral/ai-olympus/issues/472",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378064613",
+      "title": "lingshu 自主发现：get_nodes_by_tag(\"ops\", limit=\"x\") 把 str 直接当 SQL LIMIT，抛不可读 （PR #1415）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2666",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1415** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（5 断言/1 变异） | | 影响等级建议 | **C** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `get_nodes_by_tag(\"ops\", limit=\"x\")` -> `IntegrityError: datatype mismatch`；`2.5` 同。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_get_nodes_by_tag_limit_type_guard.py # 通过 5 / 失败 0 python -X utf8 tests/test_issue_get_nodes_by_tag_limit_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 3 / 失败 2；manifest 指纹同步 ```",
+      "source_created_at": "2026-11-13T19:02:36Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2666",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378062376",
+      "title": "lingshu 自主发现：increment_access_many([None]) **静默成功**（近因计数静默漏写）；increment_a（PR #1414）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2665",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1414** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（4 断言/1 变异） | | 影响等级建议 | **B** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `increment_access_many([None])` -> `None`（无异常）；`(123)` -> `'int' object is not iterable`。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_increment_many_type_guard.py # 通过 4 / 失败 0 python -X utf8 tests/test_issue_increment_many_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 2 / 失败 2；manifest 指纹同步 ``` ## 诚实边界（四态",
+      "source_created_at": "2026-11-13T19:02:27Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2665",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378045121",
+      "title": "lingshu 自主发现：expand_query_terms(123) / (None) 直接走到 \"x in query\"，抛不可读 Type（PR #1413）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2664",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1413** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（4 断言/1 变异） | | 影响等级建议 | **C** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `expand_query_terms(123)` -> `TypeError: argument of type 'int' is not iterable`；`None` 同。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_expand_terms_query_type_guard.py # 通过 4 / 失败 0 python -X utf8 tests/test_issue_expand_terms_query_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 2 / 失败 2；manifest 指纹同步 ``` #",
+      "source_created_at": "2026-11-13T19:01:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2664",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378042707",
+      "title": "lingshu 自主发现：char_bigram_jaccard(\"abc\", None) 把 None 当空串**静默返回 0.0**（把调用错（PR #1412）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2663",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1412** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（4 断言/1 变异） | | 影响等级建议 | **B** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `char_bigram_jaccard(\"abc\", None)` -> `0.0`；`(123, \"abc\")` -> `AttributeError: 'int' object has no attribute 'split'`。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_jaccard_arg_type_guard.py # 通过 4 / 失败 0 python -X utf8 tests/test_issue_jaccard_arg_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 2 / 失败 2；manif",
+      "source_created_at": "2026-11-13T19:01:12Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2663",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378021822",
+      "title": "lingshu 自主发现：append_skill_procedure(123, \"s\") 把非字符串 skill_id 静默接受（返回 None（PR #1411）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2662",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1411** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（4 断言/1 变异） | | 影响等级建议 | **B** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `append_skill_procedure(123, \"s\")` -> `None`（无异常）。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_append_skill_procedure_type_guard.py # 通过 4 / 失败 0 python -X utf8 tests/test_issue_append_skill_procedure_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 2 / 失败 2；manifest 指纹同步 ``` ## 诚实边界（四态） - **已验**：4 断言、通过 2 / ",
+      "source_created_at": "2026-11-13T18:59:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2662",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378019154",
+      "title": "lingshu 自主发现：update_skill_confidence(\"x\", \"y\") 两个参数都非法却**静默返回 None**（技能置信（PR #1410）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2661",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1410** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（5 断言/1 变异） | | 影响等级建议 | **B** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `update_skill_confidence(\"x\", \"y\")` -> `None`（无异常）；`(123, 0.1)` 同。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_update_skill_confidence_type_guard.py # 通过 5 / 失败 0 python -X utf8 tests/test_issue_update_skill_confidence_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 3 / 失败 2；manifest 指纹同步 ``` ## 诚实边界（四态） - *",
+      "source_created_at": "2026-11-13T18:59:39Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2661",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378011032",
+      "title": "lingshu 自主发现：get_recent_context(\"x\") 把 str 直接当 SQL LIMIT 参数，抛不可读 Integrit（PR #1409）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2660",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1409** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（5 断言/1 变异） | | 影响等级建议 | **C** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `get_recent_context(\"x\")` -> `IntegrityError: datatype mismatch`；`2.5` 同。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_recent_context_limit_type_guard.py # 通过 5 / 失败 0 python -X utf8 tests/test_issue_recent_context_limit_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 3 / 失败 2；manifest 指纹同步 ``` ## 诚实边界（四态） - ",
+      "source_created_at": "2026-11-13T18:59:08Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2660",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378008680",
+      "title": "lingshu 自主发现：search_skills(123) / (None) 把非字符串 query 直接落到 .strip()，抛不可读 A（PR #1408）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2658",
+      "evidence": "| 项 | 值 | |---|---| | PR | **FuRongJun-1999/lingshu#1408** | | 目标 project | **`lingshu`** | | 难度自申请 | **easy**（4 断言/1 变异） | | 影响等级建议 | **C** | 本件为 intake 输入（非悬赏，不 /claim、不自行加 bounty 标签）。**自主发现**，无对应公开 issue。 ## 缺陷（改前实测，基线 `51feb92`） ``` `search_skills(123)` -> `AttributeError: 'int' object has no attribute 'strip'`；`None` 同。 ``` ## 修法与读数 ``` python -X utf8 tests/test_issue_search_skills_query_type_guard.py # 通过 4 / 失败 0 python -X utf8 tests/test_issue_search_skills_query_type_guard.py --mutate # 1 条变异各自恰好命中 # 基线对照：通过 2 / 失败 2；manifest 指纹同步 ``` ",
+      "source_created_at": "2026-11-13T18:58:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2658",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6378427624",
+      "title": "docs: fix llms-full.txt broken links and split MiCAR white paper",
+      "url": "https://github.com/warden-protocol/wardenprotocol/issues/1924",
+      "evidence": "## TL;DR Fixes the broken links that llms-full.txt carries and splits the 54K-character MiCAR white paper page into two pages. ## What is changing Node endpoint hosts are shown as plain hostnames, two outdated external links are replaced, and the MiCAR white paper v1.1 is published as two pages. ## Why The AgentReady audit (13 Nov 2026) found about 15 links in llms-full.txt that do not resolve, and one page above 50K characters of Markdown, which agents truncate. ## List of additions/changes - Endpoint hosts (evm, evm-ws, rpc, api, grpc, mainne",
+      "source_created_at": "2026-11-13T19:25:36Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/warden-protocol/wardenprotocol/issues/1924",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376387106",
+      "title": "Расширение читов",
+      "url": "https://github.com/Desm0nt/diablo3-port/issues/21",
+      "evidence": "Нашёл читы ещё, суть в том, что хочется добавление читов на разблокировку всех скинов (косметики), так же всех крыльев. читы [Diablo III: Eternal Collection v2.7.7.92380 TID: 01001B300B9BE000 BID: 2607A74F5DF7754C] [解锁赛季道具掉落权] 04000000 00492F60 14000005 04000000 00897988 52800020 04000000 0089798C 1400001A [快速返回城镇和凯恩鉴定书] 04000000 009E3350 52800018 [库存展示测试装饰道具] 04000000 005000E4 3100081F [掉落任何物品（牧牛法杖等）] 04000000 00504D78 12800000 [随时更换技能和装备] 04000000 003695BC 52800000 04000000 00524B54 D503201F 04000000 00524CE8 14000023 04000000 00524D74 528000",
+      "source_created_at": "2026-11-13T17:18:31Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Desm0nt/diablo3-port/issues/21",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6377848253",
+      "title": "第三方独立复验：dsh-memory PR #910（test：#773 sessionPrivate 端到端验收——落盘+四条读路径隔离+定点变异E7可红）——脚本守卫11项 两腿同绿（test-only单）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2657",
+      "evidence": "# 第三方独立复验：dsh-memory PR #910（test：#773 sessionPrivate 端到端验收——落盘 + 四条读路径隔离 + 定点变异可红 + 守卫新增） ## 结论 **判定：端到端守卫真实落地**。落点为 `2e632b3`（PR #910，2026-11-13T01:24Z 合并，维护者本人提交，**纯 test-only**——唯一文件为新增守卫 `md_cg/test_issue773_session_private_e2e.py` +130/-0，无源码改动）。背景（引自 PR 自述）：#772 复核指出既有守卫只覆盖「插件侧把 sensitivity 放进 remember extra」，没有一条断言「服务端落盘的 frontmatter 真的是 private、且别的会话真的读不到」——本守卫就是那条端到端夹具（真 `MdCGSecure` + 临时根 + KEK + 两枚不同 session 的 principal）。 **判别证据（test-only 单口径）**：修复腿（tarball `2e632b3`）**11 PASS / 0 FAIL / REAL_EXIT=0**；基线腿（tarball `1044af0` = merge 第",
+      "source_created_at": "2026-11-13T18:48:46Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2657",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6377713866",
+      "title": "第三方独立复验：dsh-memory PR #905（test：补 #789 撞车守卫——B6 端口字面量假红两侧钉住）——test-only单 守卫6项两腿同绿（判别力在断言构造三面）",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2656",
+      "evidence": "# 第三方独立复验：dsh-memory PR #905（test：补 #789 撞车守卫——B6 端口字面量假红两侧钉住 + 守卫新增） ## 结论 **判定：守卫真实落地且判据两侧均钉住（test-only 单——交付物即守卫本身）**。落点为 `17148d8`（PR #905，2026-11-12T14:02Z 合并，维护者本人提交，**纯 test-only**——无源码改动，唯一文件为新增守卫 `md_cg/test_issue789_port_collision.py` +84/-0）。背景（引自 PR 性质声明·事实核对）：#789 B6 的假红形态（端口字面量与时间戳尾数撞车）的判据修复**已经先前落地**（`_log_plaintext_leaked` 在 `md_cg/test_b3_merge_keeps_content.py:214`，含诊断注释），但缺一条能证明「旧形态会红、新形态不红、真泄漏仍被抓」的独立守卫——issue 因此一直开着。本 PR 补这条守卫。 **判别证据（test-only 单口径：守卫即交付物）**：修复腿（tarball `17148d8`）**6 PASS / 0 FAIL / REAL_EXIT=0**；基线腿（tarball",
+      "source_created_at": "2026-11-13T18:40:05Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2656",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6377280380",
+      "title": "第三方独立复验：dsh-memory PR #918（feat(routing)：#607 繁简折叠表接真源——OpenCC 字典 vendored 四件齐备）——脚本守卫10项 基线1红→修复10绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2653",
+      "evidence": "# 第三方独立复验：dsh-memory PR #918（feat(routing)：#607 繁简折叠表接真源——四件齐备 + 守卫 10 项） ## 结论 **判定：新功能真实落地**。落点为 `b0e44c2`（PR #918，2026-11-13T13:57Z 合并，维护者本人提交，feat——#607 繁简折叠四件齐备）。四件：① 真实映射表 vendored——OpenCC `TSCharacters.txt` 官方字典 4148 条原样入 `md_cg/data/opencc/`（+5062 行）+ `trad_to_simp.json` +3207 行 + `PROVENANCE.json`（溯源件）；② `md_cg/routing.py` +50/-8 接真源；③ 构表脚本 `scripts/build_trad_to_simp.py` +89/-0；④ 守卫 `md_cg/test_issue607_trad_fold_table.py`（脚本式，10 项）。`WORKSPACE_INDEX.md` +7/-7。 **判别证据（双腿）**：修复腿（tarball `b0e44c2`）**10 PASS / 0 FAIL / REAL_EXIT=0（「全部通过」）",
+      "source_created_at": "2026-11-13T18:13:22Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2653",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376469407",
+      "title": "第三方独立复验：dsh-memory PR #912（feat(hooks)：#739 注入面逐轮去重/增量 deltaBlock）——TS守卫 inject 4绿+context 14绿 基线新面SyntaxError",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2647",
+      "evidence": "# 第三方独立复验：dsh-memory PR #912（feat(hooks)：#739 注入面逐轮去重/增量——deltaBlock 增量键 + 守卫扩展） ## 结论 **判定：新功能真实落地，既有面零回归（可测范围内）**。落点为 `a855619`（PR #912，2026-11-13T02:32Z 合并，维护者本人提交，feat——#739 注入面去重的增量迭代：上一件 #797 做「会话内同条最多 2 次」，本件做**逐轮增量**——新增 `deltaBlock` 导出，只注本轮新增、不重贴全量）。`src/hooks.ts` +68/-8；守卫三件：`test/inject-dedupe-739.test.ts` +24/-1（deltaBlock 新面 4 test）、`test/context-window.test.ts` +10/-4（回归适配）、`test/recall-stability.test.ts` +12/-5（适配）。 **判别证据（双腿）**： - **inject-dedupe-739（本 PR 新面）**：修复腿 **4 pass / 0 fail**（deltaBlock 导出存在、增量语义钉死）；基线腿 **导入期失败**——`Synt",
+      "source_created_at": "2026-11-13T17:23:13Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2647",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6376183944",
+      "title": "第三方独立复验：dsh-memory PR #911（fix(dossier)：#909 经历/家庭去重键排除证据键）——脚本守卫6项 基线3红/3过→修复6绿",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2646",
+      "evidence": "# 第三方独立复验：dsh-memory PR #911（fix(dossier)：#909 经历/家庭去重键排除证据键 + 守卫新增） ## 结论 **判定：修复真实、有效**。落点为 `2fcd6d8`（PR #911，2026-11-13T01:52Z 合并，维护者本人提交，修 #909）。`md_cg/dossier.py` +6/-1：经历/家庭去重键排除证据键——修前去重键含摘录（证据），摘录不同但业务字段相同的同一条经历被重复列出；修后按业务字段去重。另随附守卫 `md_cg/test_issue909_dossier_dedupe.py`（93 行，脚本式，6 项）。 **判别证据（双腿，行为级红）**：修复腿（tarball `2fcd6d8`）**6 PASS / 0 FAIL / REAL_EXIT=0（「全部通过」）**；基线腿（tarball `2e632b3` = merge 第一父提交，拷入守卫）**3 FAIL / 3 PASS / REAL_EXIT=1**： ``` FAIL D2 摘录不同、业务字段相同 ⇒ 仍一条（本件靶心） ['- 示例工坊 | 学徒', '- 示例工坊 | 学徒'] FAIL D2b 渲染内容正确 ['- 示例工坊 | 学徒",
+      "source_created_at": "2026-11-13T17:07:07Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2646",
+      "first_seen_at": "2026-11-13T19:39:48.203Z",
+      "last_seen_at": "2026-11-13T19:39:48.203Z"
     },
     {
       "source": "hackernews",
@@ -714,36 +1209,6 @@
     },
     {
       "source": "hackernews",
-      "external_id": "50476018",
-      "title": "Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive",
-      "url": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
-      "evidence": "",
-      "source_created_at": "2026-11-12T23:39:35Z",
-      "opp_type": "otro",
-      "score": 24,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "propublica.org/article/election-challenge-forsyth-county-georgia",
-      "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50352249",
-      "title": "Waiter Making 75K in NJ – Bergen County. Where Do I Stand?",
-      "url": "https://salary-statistics.netlify.app/us",
-      "evidence": "",
-      "source_created_at": "2026-11-03T14:13:43Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "salary-statistics.netlify.app/us",
-      "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z"
-    },
-    {
-      "source": "hackernews",
       "external_id": "50424404",
       "title": "19 years old college student wins court election to one of the largest county",
       "url": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
@@ -755,66 +1220,6 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
       "first_seen_at": "2026-11-09T22:19:44.326Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50330362",
-      "title": "Nine Killed After a Learjet Crashes in Palm Beach County, Florida",
-      "url": "https://www.cnn.com/2026/11/01/us/south-florida-plane-crash",
-      "evidence": "",
-      "source_created_at": "2026-11-01T21:58:52Z",
-      "opp_type": "otro",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
-      "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50371716",
-      "title": "League City to disable Flock cameras after voters reject their use",
-      "url": "https://www.houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use/",
-      "evidence": "",
-      "source_created_at": "2026-11-04T21:20:46Z",
-      "opp_type": "otro",
-      "score": 14,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
-      "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50325874",
-      "title": "LA City and LA County Bathrooms and Water Fountains",
-      "url": "https://bathrooms.lacontroller.app/",
-      "evidence": "",
-      "source_created_at": "2026-11-01T14:10:51Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "bathrooms.lacontroller.app",
-      "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50156779",
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com/",
-      "evidence": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or count",
-      "source_created_at": "2026-10-19T19:21:56Z",
-      "opp_type": "otro",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "dovepass.com",
-      "first_seen_at": "2026-10-19T21:02:23.479Z",
       "last_seen_at": "2026-11-12T23:37:31.145Z"
     },
     {
@@ -3534,21 +3939,6 @@
     },
     {
       "source": "hackernews",
-      "external_id": "49960353",
-      "title": "Florida county discovers mysterious Flock cameras with no obvious owner",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T03:24:38Z",
-      "opp_type": "otro",
-      "score": 7,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-09T22:19:44.326Z"
-    },
-    {
-      "source": "hackernews",
       "external_id": "49946213",
       "title": "Show HN: I indexed court dockets and county liens for every US HOA",
       "url": "https://hoaspy.com/",
@@ -3966,21 +4356,6 @@
       "dedupe_key": "github.com/andrewsiah/agentswarm-examples/issues/11",
       "first_seen_at": "2026-11-09T22:19:44.326Z",
       "last_seen_at": "2026-11-09T22:19:44.326Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "49968025",
-      "title": "NASA insourcing triggers Amentum layoffs at Kennedy Space Center",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007/",
-      "evidence": "",
-      "source_created_at": "2026-10-05T17:47:45Z",
-      "opp_type": "otro",
-      "score": 2,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "floridatoday.com/story/tech/science/space/2026/10/05/artemis-contractor-cuts-kennedy-space-center-jobs-amid-nasa-insourcing-drive-brevard-county-florida/92102511007",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-09T06:23:29.758Z"
     },
     {
       "source": "github",
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/48",
       "first_seen_at": "2026-10-26T22:39:15.540Z",
       "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048765035",
-      "title": "[修复交付] dsh-bounty #1794–#1800 报告的七处缺陷已由本人修复并合入 lingshu main，附证据链，提请结算",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1830",
-      "evidence": "## 对象与锚定 - 报告：dsh-bounty #1794 / #1795 / #1796 / #1797 / #1798 / #1799 / #1800（2026-10-25 已结算为缺陷报告） - 交付人：@zhtty67-rgb（报告人＝修复人，fork zhtty67-rgb/lingshu 提交） - lingshu main 锚定：e83529c（Merge PR #1008），七处修复与守卫均已在其祖先链上 ## 证据链（逐件：报告 issue → 交付 PR → 合并入口 → main 守卫） | 报告 | 交付 PR | 合并入口 | main 守卫（tests/） | |---|---|---|---| | #1794 事务纪律 | #987 | 合成支 #1000（MERGED，维护者批注「全部原改动与署名保留」） | test_bounty1794_tx_discipline_gaps.py | | #1795 limit 语义 | #988 | 合成支 #1001（MERGED） | test_bounty1795_search_limit_semantics.py | | #1796 缩约否定 | #989 | **#989 直接 MERGED**（me",
-      "source_created_at": "2026-10-26T21:47:57Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1830",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048491273",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1675",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-26 21:28 UTC #### 1. [[find opt-out] SalesTech, LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/410) - **Repository:** [lizTheDeveloper/privacy-the-game](https://github.com/lizTheDeveloper/privacy-the-game) - **Comments:** 2 - **Last Updated:** 2026-10-26T21:25:05Z #### 2. [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1329) - **Repository:** [freedom-winds/BountyScout](https://github.com/fre",
-      "source_created_at": "2026-10-26T21:28:16Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1675",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048325190",
-      "title": "xe repo faucet documentation still states the old grant terms (1,000 XE, 24 hour window, XUSD) after the faucet changed to 1 XE per grant",
-      "url": "https://github.com/xeprotocol/xe/issues/82",
-      "evidence": "Suggested severity tier: Minor (650 XE) Area: documentation, xe repository README and CLI help text Repository state checked: xeprotocol/xe HEAD 9787859 (release: testnet-0005 recovery phrase v2) ## Summary The faucet grant changed twice on 23 October 2026. The current grant is 1 XE, with at most 5 grants per account in any 15 minutes. The README and the CLI help text in this repository still describe the terms from before those changes. The README states a grant of 1,000 XE per address per rolling 24 hours, and the CLI help states that the fau",
-      "source_created_at": "2026-10-26T21:17:09Z",
-      "opp_type": "subvencion",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/xeprotocol/xe/issues/82",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048133736",
-      "title": "[RegisterSec] UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
-      "url": "https://github.com/SecOpsNews/news/issues/75624",
-      "evidence": "A UK-based developer and pentester has claimed a $2,000 Bitcoin prize for demonstrating the exploitability of the PHP2Shell vulnerabilities that melted the internet last week. Jaydip Modhwadia, 26, otherwise known as “Killa,” claimed the prize set by James Pavur, who launched the \"Steal My Bitcoin\" site on October 24. Pavur launched the CTF (capture the flag) challenge to prove that the PHP2Shell exploit was not as easy as those in the cybersecurity community claimed it to be, promising to award $2,000 in Bitcoin to anyone who could achieve Rem",
-      "source_created_at": "2026-10-26T21:04:25Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SecOpsNews/news/issues/75624",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6047762828",
-      "title": "[Bug] Cyber Safeguard False Positive Blocks Authorized Bug Bounty Testing",
-      "url": "https://github.com/anthropics/claude-code/issues/105287",
-      "evidence": "**Bug Description** False positive from the real-time cyber safeguard classifier ([cyber]). Request ID: req_011CgRUnn7i597AbuY5tPaBv Model: claude-opus-5-5 Context: Authorized bug bounty testing on a Bugcrowd program (SAP). All testing is in-scope and uses only my own two isolated test tenants (A and B) that I provisioned myself — no third-party or real-victim accounts involved. I was analyzing cross-tenant isolation on a shared CI/CD build plane, which is explicitly the program's crown-jewel target. The classifier stopped a legitimate security",
-      "source_created_at": "2026-10-26T20:39:25Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/anthropics/claude-code/issues/105287",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6047525444",
-      "title": "Bounty $[750] Improve Qwen3-TTS Code Predictor Accuracy",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/62571",
-      "evidence": "📝 Background The Qwen3-TTS code predictor produces logits for 15 codebook heads during decoding. Improving accuracy while preserving inference throughput benefits end-to-end Qwen3-TTS quality without changing model weights. 🎯 What Success Looks Like - The Qwen3-TTS end-to-end test passes for the 0.6B and 1.7B models on Wormhole N150 and Blackhole P100a. - Top-1 and top-5 accuracy meet or exceed the applicable lower bounds in models/demos/audio/qwen3_tts/tests/e2e/model_targets.yaml for each tested configuration. - The following PCC tests pass",
-      "source_created_at": "2026-10-26T20:23:13Z",
-      "opp_type": "bounty_codigo",
-      "score": 44,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tenstorrent/tt-metal/issues/62571",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6049286905",
-      "title": "[bounty] Run-123: C1 maps KL decomposition to a definitional ledger identity",
-      "url": "https://github.com/jdhart81/viridis-canon/issues/149",
-      "evidence": "### Run Run-123 ### Theorem or witness name Viridis.Run123.kl_chain_rule_habitable_partition ### Category Misstated (the Lean statement does not match the paper's claim) ### Your argument Source comparison at commit 26c97dea3e239aef1b13610bd0fd251b84bc8bfb. This is a possible formal-coverage mismatch, not a claim that the KL chain rule or the Lean theorem is false. The [hash-bound C1 inventory](https://github.com/jdhart81/viridis-canon/blob/26c97dea3e239aef1b13610bd0fd251b84bc8bfb/certificates/Run-123/SEALED_CLAIM_INVENTORY.json) maps the decom",
-      "source_created_at": "2026-10-26T22:27:21Z",
-      "opp_type": "bounty_codigo",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/jdhart81/viridis-canon/issues/149",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048015415",
-      "title": "CENTRAL COMMAND: One release train — website, Wolo recovery/custody, real estate health, context autopilot (Oct 26)",
-      "url": "https://github.com/Emaren/app-prodn/issues/934",
-      "evidence": "# AoE2WAR unified production release train — 2026-10-26 **Single controlling mission:** move the certified website/Kingdom Index to verified production first, recover authenticated HD Wolo funding through genuine custody and state proofs, and get Doctor / General Inspections / Kingdom Intelligence genuinely healthy. **Source CI, clean Git and archived context are separate facts from live deployment.** This issue is a living coordination ledger, not an activation permit. Owner authorizes engineering and bounded preparation; current independent s",
-      "source_created_at": "2026-10-26T20:56:27Z",
-      "opp_type": "subvencion",
-      "score": 39,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Emaren/app-prodn/issues/934",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6049370233",
-      "title": "[tooling] Job runner timeout returns while a spawned child continues writing",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1944",
-      "evidence": "AI-authored and locally tested report for the useful-improvements track in BOUNTY.md. No independent human technical review or reward is claimed. Revision: 1f0ff978f4deff78c77bca96db0e3e46f32de71b (remote main rechecked before preparing this report). Environment actually tested: Windows, CPython 3.12.14. I have not run this on the Linux/Kaggle workers or observed production damage. tools/runner/runner.py::run_cmd uses subprocess.run(timeout=...) and returns exit 124 after a timeout. This terminates the immediate subprocess but does not terminat",
-      "source_created_at": "2026-10-26T22:34:14Z",
-      "opp_type": "bounty_codigo",
-      "score": 35,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1944",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6049042833",
-      "title": "Limitar a 50 o ouro ganho por partida",
-      "url": "https://github.com/Warlock-Domain/warlock/issues/420",
-      "evidence": "### What Put a cap of 50 on the gold a player can earn in a match. ### Why Suggested by Reinaldo: a ceiling on gold keeps matches from snowballing and keeps builds closer to each other late in the match. ### How I picture it How gold works today (`src/shared/constants.ts` on `master`): - Start with 30 (`START_GOLD`) and +10 every round (`ROUND_GOLD`). - Extra: kill +5, round win +10, most damage in the round +10, assist +2, chest piles 3 to 5, comeback bonus for whoever is behind, bounty for killing the leader (up to 10). - The room option \"Gol",
-      "source_created_at": "2026-10-26T22:09:00Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Warlock-Domain/warlock/issues/420",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048896015",
-      "title": "Starting numbers for jumpers, brutes and perching",
-      "url": "https://github.com/vandelay87/pile-up/issues/238",
-      "evidence": "## Question What are the starting numbers for v5's new enemies, and which existing numbers do they retune? - The jumper: its speed, its reach and its cooldown, taking the feel prototype's verdict as the starting point. - The brute: its damage factor against structures, HP, speed, mass and bounty. - The waves: the waves jumpers and brutes first appear in (about 8 and 12), the jumper's share of the wave and any cap, and the brute's count steps. - Perching: how many perched enemies each footprint cell holds, on buildings and on the base. - Any bui",
-      "source_created_at": "2026-10-26T21:57:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/vandelay87/pile-up/issues/238",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048759452",
-      "title": "[wildcard] Fuel-metered compute capsules with a closed call graph and a non-renewable budget",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1942",
-      "evidence": "### The idea, in a paragraph Add an opt-in **compute capsule** with a non-renewable, per-invocation fuel budget. Lower its closed call graph to an explicit control-flow machine emitted in Go: one dispatcher, explicit bounded call frames, and a checked debit before each admitted transition. Every transition costs at least one unit; variable-size primitives charge before doing their work. Exhaustion exits the capsule and cannot be caught inside it to reset the budget. Start with fixed-width scalars, bounded byte vectors and pure functions. Reject",
-      "source_created_at": "2026-10-26T21:47:33Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1942",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6047233282",
-      "title": "[wildcard] Cap-clipped reslices that survive strings: a checker-planned clip with one-eval bounds",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/1927",
-      "evidence": "### The idea, in a paragraph Every 2-index Hybrid slice silently inherits Go's capacity rule (`cap = cap(base) - lo`), which is how make-cap and foreign slices leak spare capacity into \"safe\" code. The obvious fix — lower every `s[lo:hi]` to `s[lo:hi:hi]` — is unimplementable as a syntactic rule: Hybrid strings are sliceable (`check_slice_kind` admits `OpKind::Str`, `compiler/crates/hy-check/src/buildable.rs:3365`) and Go forbids 3-index string slices, so `tests/checker-corpus/14-a7-use-after-consuming.hy:52` would fail. What survives is a **ch",
-      "source_created_at": "2026-10-26T20:04:09Z",
-      "opp_type": "otro",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/1927",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6046797063",
-      "title": "enforce SSH user certificate type during PAM authentication",
-      "url": "https://github.com/theparanoids/pam-ysshca/issues/346",
-      "evidence": "Security-related issue: enforce user-certificate type in the PAM certificate-validation flow. In the current `main` branch, `pam/crypto.go`'s `getValidCertificates()` converts SSH-agent identities to `*ssh.Certificate`, checks the signing CA and accepted principals, and calls `ssh.CertChecker.CheckCert()`, but does not explicitly require `cert.CertType == ssh.UserCert` before accepting the certificate. This may allow an SSH host certificate to be considered as a user credential when its signing CA is configured as trusted and the certificate co",
-      "source_created_at": "2026-10-26T19:34:43Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/theparanoids/pam-ysshca/issues/346",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6049279858",
-      "title": "Cannot join tau-testnet-v2 from main: published genesis.json does not match the bootnode's block 0 (+ two sync bugs)",
-      "url": "https://github.com/IDNI/tau-testnet/issues/78",
-      "evidence": "Hi, I run a read-only node (mining off) built from `main` @ `99a9e92` to follow the public `tau-testnet-v2` network via the bootnode `12D3KooWDpWEYxBy8y84AssrPSLaq9DxC7Lncmn5wERJnAWZFnYC` (`/ip4/34.251.82.246/tcp/4001`). It feeds **[tauhud.com](https://tauhud.com)**, a public live dashboard of the testnet. The site is ready to show the live chain, and the genesis mismatch below is the only thing still stopping it, so if you could publish the current `genesis.json` soon, that alone would unblock us. Three things stop a fresh node from syncing: #",
-      "source_created_at": "2026-10-26T22:26:46Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/IDNI/tau-testnet/issues/78",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6049040929",
-      "title": "[DBIP] Record scoped HTTP response compression for API offers",
-      "url": "https://github.com/Chain-Love/chain-love/issues/4889",
-      "evidence": "### Proposal type Add column. ### Affected scope (files/folders/chains) `references/offers/apis.csv`, corresponding API listings, API column definitions, and the versioned `apis` JSON schema. No other category or existing cell is changed by this proposal. ### Motivation / problem statement API consumers selecting a transport cannot distinguish documented HTTP response compression from uncompressed responses or WebSocket compression. This affects large block downloads: Alchemy's [Solana getBlock support article](https://support.alchemy.com/artic",
-      "source_created_at": "2026-10-26T22:08:53Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Chain-Love/chain-love/issues/4889",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048982917",
-      "title": "Release 2026-10-26",
-      "url": "https://github.com/ROAM-game-org/road-machiners/issues/1169",
-      "evidence": "The factory cut branch release/2026-10-26 from dev. Features: - #477 Fix Chaos Highway hauler wobbling while accelerating - #159 When moving backwards I cant accelerate - #499 Fix apparently floating armor panels on some trucks - #486 TypeError: Failed to fetch - #497 Error: You cannot see that target - #501 Add trader escort contracts with fair regroup and failure rules - #503 Make Old Ibo’s hull tone dialogue clear and answer its question - #504 Make Guild couriers travel in pairs as Old Ibo says - #505 Add paid roadside rescue contracts for ",
-      "source_created_at": "2026-10-26T22:04:39Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ROAM-game-org/road-machiners/issues/1169",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048923609",
-      "title": "Review findings left open by node #1034: Draw the interceptor from the authored Lance model, with the game's distance l…",
-      "url": "https://github.com/jcfischer/seelite/issues/1092",
-      "evidence": "## Deliverable Each finding the last sage round raised on PR #1078 is fixed in a merged change, or declined on this node with a reason. ## Split out of review Split out of node #1034 (PR #1078), raised in review and deliberately not done. Sage round 2 at `f96aed60` found 0 blocker(s), 0 major(s) and 17 nit(s); the PR merged with them. Ranger filed this node; the review below is sage's text, as it was posted. - Spawning node: node #1034 (Draw the interceptor from the authored Lance model, with the game's distance levels) - PR #1078: https://gith",
-      "source_created_at": "2026-10-26T22:00:03Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/jcfischer/seelite/issues/1092",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048922845",
-      "title": "Atlas: triage external link failures (117 errors on 73 cards)",
-      "url": "https://github.com/commonworld-one/commonworld/issues/167",
-      "evidence": "## What The `links-external` job of **Quality (links + Lighthouse)** on `main` (run https://github.com/commonworld-one/commonworld/actions/runs/40407169350, commit 26c6754) passes, but its summary lists **117 link errors on 73 Atlas pages** (unique URLs: about 80). The job marks them as tracked and non-blocking. This issue is the triage, so the list means something again. ## Two kinds of errors **1. Expected answers, not broken links (about 38 URLs).** Atlas cards link to agent API endpoints that are alive but do not answer a plain GET: - `402 ",
-      "source_created_at": "2026-10-26T21:59:59Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/commonworld-one/commonworld/issues/167",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6048794029",
-      "title": "[player hnejdu] Stolen Intel should have discarded Daring Rescue, but it does not appear in the",
-      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/821",
-      "evidence": "**What happened** Stolen Intel should have discarded Daring Rescue, but it does not appear in the Rebel's discard pile. **Reporter played: Empire** (AI: Rebel) --- **Build / context** - humanSide: `Empire` (AI: `Rebel`) - userAgent: `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0` - canEncodeState: `true` - build: `0aa3e64` - gameId: `g-mvpqv8bu-73t7dq` - AI config: mcts=`on` mctsRebel=`on` planner=`on` huntOccupy=`on` sabotageClear=`on` missionOdds=`on` buildYield=`on` - timestamp: `2026-10-26T21:50:06.794Z` -",
-      "source_created_at": "2026-10-26T21:50:07Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/johnchampaign/star-wars-rebellion/issues/821",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6047856444",
-      "title": "Railway 赏金：有 5 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/128",
-      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-26 20:45Z total=29 hot=3 new=2 🆕 Cloud PDF reads fail after bucket credential change; SSH host-key verification needed 🆕 iOS clients lose the connection right after upload; backend completes every request (edge lax1, sinc [+4] Cloud PDF reads fail after bucket credential change; SSH host-key verification needed 竞争低, 提问·配置型 [+4] iOS clients lose the connection right after upload; backend completes every request (edg 竞争低, 提问·配置型 [+4] Worker-only CLI scale with unrelated staged changes 竞争低, 提问·配置型 ``` 详情: ",
-      "source_created_at": "2026-10-26T20:45:51Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/128",
-      "first_seen_at": "2026-10-26T22:39:15.540Z",
-      "last_seen_at": "2026-10-26T22:39:15.540Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6039789952",
-      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
-      "evidence": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage - **Monto:** Ver enlace - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED - LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne - Lightning: chieftrait089@walletofsatoshi.com **Note:** I am a developer from Cub",
-      "source_created_at": "2026-10-26T12:37:41Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/46",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6039972215",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
-      "evidence": "New SN OPEN_BOUNTY detected: ``` 1601866 Stacker_Stocks 2 319 10000 22 24.7 9274 28921 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats! ```",
-      "source_created_at": "2026-10-26T12:48:58Z",
-      "opp_type": "concurso",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1339",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6039962974",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
-      "evidence": "New SN OPEN_BOUNTY detected: ``` 1601866 Stacker_Stocks 2 319 10000 22 24.6 9274 28921 recent@Stacker_Stocks OPEN_BOUNTY Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats! ```",
-      "source_created_at": "2026-10-26T12:48:24Z",
-      "opp_type": "concurso",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1338",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6040028485",
-      "title": "Retire dead paper strategies from the paper matrix",
-      "url": "https://github.com/watkast/predictionbots/issues/12",
-      "evidence": "Oct 23 audit: mm_inventory_kxhigh, oracle_lag, taker_lag, complete_set_arb and the bug-bounty research lane were losing or had zero fills for days/weeks. Research: regenerate the leaderboard and confirm; Design: which configs to drop from configs/paper_matrix.yaml and what to record in reports/voided.yaml; needs the user's go before Build. **Type:** project · **Assigned bot:** `paper` · **Priority:** P2 **Stages** - [x] Research - [ ] Design - [ ] Build - [ ] Test - [ ] Integration - [ ] QA - [ ] Launch - [ ] Live Test --- _Generated by [Claude",
-      "source_created_at": "2026-10-26T12:52:24Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/watkast/predictionbots/issues/12",
-      "first_seen_at": "2026-10-26T12:59:12.493Z",
-      "last_seen_at": "2026-10-26T12:59:12.493Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-13T19:39:48.203Z",
+      "generated_at": "2026-11-13T19:39:48.203Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 334
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 480
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 49,
+      "new_items": 25,
+      "seen_again": 24,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "1 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "49 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-13T06:42:34.139Z",
       "generated_at": "2026-11-13T06:42:34.139Z",
@@ -21326,67 +21387,6 @@
       "unique_in_cycle": 48,
       "new_items": 25,
       "seen_again": 23,
-      "archive_total": 1200,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "2 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "48 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24T10:57:01.333Z",
-      "generated_at": "2026-10-24T10:57:01.333Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 563
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 751
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 48,
-      "new_items": 6,
-      "seen_again": 42,
       "archive_total": 1200,
       "steps": [
         {
