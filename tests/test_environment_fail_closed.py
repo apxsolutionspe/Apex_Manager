@@ -44,3 +44,36 @@ def test_development_variants_and_env_var_are_normalized(monkeypatch):
     assert Settings(environment=' DEVELOPMENT ').environment == 'development'
     monkeypatch.setenv('APP_ENV', ' Production ')
     assert Settings().environment == 'production'
+
+
+def test_settings_read_runtime_environment_on_each_construction(monkeypatch, tmp_path):
+    """Los ajustes nuevos deben captar el entorno actual, no el de importación."""
+    db_path = str(tmp_path / 'fresh.sqlite3')
+    monkeypatch.setenv('DB_PATH', db_path)
+    monkeypatch.setenv('ADMIN_PASSWORD_HASH', 'test-hash-from-environment')
+    monkeypatch.setenv('SESSION_SECRET', 'test-session-secret-from-environment')
+    monkeypatch.setenv('WHATSAPP_NUMBER', '51911111111')
+    monkeypatch.setenv('DEMO_MODE', 'false')
+    monkeypatch.setenv('PRIVACY_NOTICE_APPROVED', 'true')
+    monkeypatch.setenv('PRIVACY_POLICY_URL', 'https://privacy.apex.pe/politica')
+    monkeypatch.setenv('PRIVACY_NOTICE_VERSION', '2026-11-approved-v1')
+    monkeypatch.setenv('QUOTE_INTAKE_ENABLED', 'true')
+
+    first = Settings()
+    assert first.db_path == db_path
+    assert first.admin_hash == 'test-hash-from-environment'
+    assert first.session_secret == 'test-session-secret-from-environment'
+    assert first.whatsapp_number == '51911111111'
+    assert first.demo_mode is False
+    assert first.privacy_approved is True
+    assert first.privacy_policy_url == 'https://privacy.apex.pe/politica'
+    assert first.privacy_notice_version == '2026-11-approved-v1'
+    assert first.quote_intake_enabled is True
+
+    monkeypatch.setenv('WHATSAPP_NUMBER', '')
+    monkeypatch.setenv('QUOTE_INTAKE_ENABLED', 'false')
+    second = Settings()
+    assert second.whatsapp_number == ''
+    assert second.quote_intake_enabled is False
+    assert first.whatsapp_number == '51911111111'
+    assert first.quote_intake_enabled is True
