@@ -32,16 +32,16 @@ PRIVACY_NOTICE_VERSION = '2026-10-draft-1'
 
 @dataclass
 class Settings:
-    db_path: str = os.getenv('DB_PATH', str(ROOT / 'data' / 'apex.db'))
-    admin_hash: str = os.getenv('ADMIN_PASSWORD_HASH', '')
-    session_secret: str = os.getenv('SESSION_SECRET', '')
-    whatsapp_number: str = os.getenv('WHATSAPP_NUMBER', '')
-    demo_mode: bool = os.getenv('DEMO_MODE', 'true').lower() == 'true'
+    db_path: str = field(default_factory=lambda: os.getenv('DB_PATH', str(ROOT / 'data' / 'apex.db')))
+    admin_hash: str = field(default_factory=lambda: os.getenv('ADMIN_PASSWORD_HASH', ''))
+    session_secret: str = field(default_factory=lambda: os.getenv('SESSION_SECRET', ''))
+    whatsapp_number: str = field(default_factory=lambda: os.getenv('WHATSAPP_NUMBER', ''))
+    demo_mode: bool = field(default_factory=lambda: os.getenv('DEMO_MODE', 'true').lower() == 'true')
     environment: str = field(default_factory=lambda: os.getenv('APP_ENV', 'development'))
-    privacy_approved: bool = os.getenv('PRIVACY_NOTICE_APPROVED', 'false').lower() == 'true'
-    privacy_policy_url: str = os.getenv('PRIVACY_POLICY_URL', '')
-    privacy_notice_version: str = os.getenv('PRIVACY_NOTICE_VERSION', PRIVACY_NOTICE_VERSION)
-    quote_intake_enabled: bool = os.getenv('QUOTE_INTAKE_ENABLED', 'false').lower() == 'true'
+    privacy_approved: bool = field(default_factory=lambda: os.getenv('PRIVACY_NOTICE_APPROVED', 'false').lower() == 'true')
+    privacy_policy_url: str = field(default_factory=lambda: os.getenv('PRIVACY_POLICY_URL', ''))
+    privacy_notice_version: str = field(default_factory=lambda: os.getenv('PRIVACY_NOTICE_VERSION', PRIVACY_NOTICE_VERSION))
+    quote_intake_enabled: bool = field(default_factory=lambda: os.getenv('QUOTE_INTAKE_ENABLED', 'false').lower() == 'true')
 
     def __post_init__(self):
         """Normalize APP_ENV and reject unknown values before serving requests.
