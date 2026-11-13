@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-12T23:37:31.924Z",
+  "generated_at": "2026-11-13T06:42:34.940Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1155,
-    "descartar": 45,
+    "informativa": 1154,
+    "descartar": 46,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -154,6 +154,30 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug] API Error: safeguards flagged session with [cyber] block on authorized bug bounty work",
+      "url": "https://github.com/anthropics/claude-code/issues/109460",
+      "source_created_at": "2026-11-13T04:39:01Z",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T06:42:34.139Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2412,6 +2436,104 @@
     },
     {
       "source": "github",
+      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/100",
+      "source_created_at": "2026-11-13T05:52:25Z",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T06:42:34.139Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1758",
+      "source_created_at": "2026-11-13T05:44:37Z",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T06:42:34.139Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "triage the non-blocking findings from the review of glunk-works/bounty-infra#202 at 9e54011ce424",
+      "url": "https://github.com/glunk-works/bounty-infra/issues/203",
+      "source_created_at": "2026-11-13T05:40:41Z",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T06:42:34.139Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Submission: widespread — verified-work bounty markets",
+      "url": "https://github.com/cline/mcp-marketplace/issues/3757",
+      "source_created_at": "2026-11-13T04:56:25Z",
+      "first_seen_at": "2026-11-13T06:42:34.139Z",
+      "last_seen_at": "2026-11-13T06:42:34.139Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🎯 Bounty Alert: 8 New Opportunityies found",
       "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1757",
       "source_created_at": "2026-11-12T23:29:04Z",
@@ -3648,127 +3770,6 @@
       "source_created_at": "2026-11-08T20:17:58Z",
       "first_seen_at": "2026-11-08T22:02:03.652Z",
       "last_seen_at": "2026-11-08T22:02:03.652Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[radar] SN open bounty 2026-11-08T13:13",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
-      "source_created_at": "2026-11-08T13:13:53Z",
-      "first_seen_at": "2026-11-08T13:22:05.149Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1393",
-      "source_created_at": "2026-11-08T11:41:22Z",
-      "first_seen_at": "2026-11-08T13:22:05.149Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] transact_spl settles withdrawals without updating total_withdrawn",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1546",
-      "source_created_at": "2026-11-08T12:50:31Z",
-      "first_seen_at": "2026-11-08T13:22:05.149Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] Sharded softmax uses Float16_b sum scaler when fp32_dest_acc_en=true (inconsistent with interleaved)",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/64878",
-      "source_created_at": "2026-11-08T11:41:00Z",
-      "first_seen_at": "2026-11-08T13:22:05.149Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty proposal] GeneralCLarge softmax factory uses bfloat8_b intermediates (inconsistent with GeneralW/GeneralH)",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/64877",
-      "source_created_at": "2026-11-08T11:40:50Z",
-      "first_seen_at": "2026-11-08T13:22:05.149Z",
-      "last_seen_at": "2026-11-08T13:22:05.149Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
