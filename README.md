@@ -72,6 +72,40 @@ Rellena también `WHATSAPP_NUMBER=51XXXXXXXXX` con un teléfono **oficial y auto
 bash scripts/start_local.sh
 ```
 
+### Windows 10/11 · PowerShell (sin Bash ni Codex)
+
+En la raíz del repositorio, con **Python 3.12 o superior**, ejecuta:
+
+```powershell
+py -3.12 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+if (-not (Test-Path .env)) { Copy-Item .env.example .env }
+.\.venv\Scripts\python.exe scripts/hash_password.py
+.\.venv\Scripts\python.exe -c "import secrets; print(secrets.token_urlsafe(48))"
+```
+
+Edita `.env` y pega el resultado del hash en `ADMIN_PASSWORD_HASH` (entre comillas simples),
+y el secreto aleatorio en `SESSION_SECRET`. Mantén `APP_ENV=development` y
+`QUOTE_INTAKE_ENABLED=false` para trabajar sin recopilar datos reales de clientes.
+No incluyas `.env` en commits ni compartas sus valores.
+
+Verifica la configuración local **sin abrir el servidor ni crear una base de datos**:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/start_local.py --check
+```
+
+Cuando la comprobación termine correctamente, inicia la aplicación:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/start_local.py
+```
+
+El lanzador solo escucha en `127.0.0.1`, nunca habilita `APP_ENV=production` y
+no ejecuta comandos presentes en `.env`. Detén el servidor con `Ctrl+C`.
+Esto permite **pruebas locales**; no sustituye las autorizaciones de privacidad,
+pruebas de extremo a extremo, HTTPS, backups y demás requisitos de `docs/CHECKLIST_PRODUCCION.md`.
+
 En el navegador local:
 
 - `http://127.0.0.1:8000/` — catálogo comercial.
