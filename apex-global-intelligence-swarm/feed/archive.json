@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-14T17:59:19.549Z",
+  "updated_at": "2026-11-14T22:22:23.612Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/microg/GmsCore/issues/2994",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
       "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Dr-Logvinovich/round-square/blob/main/README.md",
       "first_seen_at": "2026-11-08T22:02:03.652Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
       "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "propublica.org/article/election-challenge-forsyth-county-georgia",
       "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "salary-statistics.netlify.app/us",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bathrooms.lacontroller.app",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
       "first_seen_at": "2026-11-09T22:19:44.326Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -365,7 +365,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "hackernews",
@@ -380,7 +380,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393862771",
+      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1416",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-14 17:54 UTC #### 1. [Lifesteal: Audit Server Performance, Database Bottlenecks, Memory Usage, and Runtime Stability](https://github.com/LiamBMX/joshymc-plugin/issues/1539) - **Repository:** [LiamBMX/joshymc-plugin](https://github.com/LiamBMX/joshymc-plugin) - **Comments:** 0 - **Last Updated:** 2026-11-14T17:45:19Z #### 2. [feat(eval): claim bounty: a queue of claims for workers to disprove](https://github.com/Egoushka/chargehand/issues/787) - **Repository:** [Egoushka/chargehand](https://g",
+      "source_created_at": "2026-11-14T17:54:40Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1416",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393515515",
+      "title": "BOTW - Bounty of the Week",
+      "url": "https://github.com/chazlander/TrueshotLodge/issues/3",
+      "evidence": "Figure out a reward system to encourage gathering these creatures.",
+      "source_created_at": "2026-11-14T17:24:43Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/chazlander/TrueshotLodge/issues/3",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393587019",
+      "title": "test: cover watchtower_counter_evidence and its bounty split",
+      "url": "https://github.com/accensa/accensa-contracts/issues/1008",
+      "evidence": "> [!IMPORTANT] > **System Directive: Mandatory Context Review** > Before proposing a solution or writing code, you MUST parse and strictly adhere to the constraints defined in the following state documents: > - [README.md](https://github.com/accensa/accensa-contracts/blob/main/README.md) > - [CONTRIBUTING.md](https://github.com/accensa/accensa-contracts/blob/main/CONTRIBUTING.md) > - [SECURITY.md](https://github.com/accensa/accensa-contracts/blob/main/SECURITY.md) > > **Operating Constraints:** Do not extrapolate beyond the specified scope or r",
+      "source_created_at": "2026-11-14T17:30:51Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/accensa/accensa-contracts/issues/1008",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393753754",
+      "title": "Lifesteal: Audit Server Performance, Database Bottlenecks, Memory Usage, and Runtime Stability",
+      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1539",
+      "evidence": "@claude # JoshyMC Lifesteal — Performance and Stability Audit PRIORITY: P2 — MEDIUM TYPE: STRICTLY READ-ONLY AUDIT SCOPE: Lifesteal only PARALLEL-SAFE: YES ## OBJECTIVE Conduct a comprehensive performance and runtime stability audit of JoshyMC Lifesteal. This task must safely run alongside: 1. Heart System Remediation V2. 2. Progression Remediation V2. Both are active implementation tasks. DO NOT modify production code, configuration, tests, database schemas, or documentation. DO NOT create a branch, commit, or PR. Deliver all findings as GitHu",
+      "source_created_at": "2026-11-14T17:45:10Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/LiamBMX/joshymc-plugin/issues/1539",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393156566",
+      "title": "Feedback: Training Gear",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/697",
+      "evidence": "Training gear does not display any information in the side panel | Meitou version | Platform | Data files | |---|---|---| | `v0.19.0` (`bc1b62959`) | win | 817 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. `[1]----------[UI, Graphics, Performance]----------.mod` 1. `[1.1]--------------------(UI).mod` 1. `Transparent UI.mod` 1. `Transparent Map Icons + UIScreenshots.mod` 1. `PoliticalMapRedux + PreciseReliefMap.mod` 1. `Kenshi Community Loading Screens.mod` 1. `Kenshi_rewritten.mod` 1. `FlavorText+.mod`",
+      "source_created_at": "2026-11-14T16:54:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/697",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6396469949",
+      "title": "🎯 Bounty Alert: 3 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1417",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-14 21:58 UTC #### 1. [Game crash with only the mod's DMM support bundle and no mod log](https://github.com/shin2344234/bounty-teleportation/issues/3) - **Repository:** [shin2344234/bounty-teleportation](https://github.com/shin2344234/bounty-teleportation) - **Comments:** 0 - **Last Updated:** 2026-11-14T21:51:23Z #### 2. [DecodeVote panics on a crafted vote encoding: uint16 length wraparound at core/encoding.go:699](https://github.com/xeprotocol/xe/issues/563) - **Repository:** [xeprotocol/x",
+      "source_created_at": "2026-11-14T21:58:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1417",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6396033565",
+      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/106",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-14 21:13 UTC #### 1. [🎯 Bounty Alert: 5 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1765) - **Repository:** [dev-kp-eloper/BountyScout](https://github.com/dev-kp-eloper/BountyScout) - **Comments:** 0 - **Last Updated:** 2026-11-14T21:10:36Z #### 2. [[COMMUNITY/DOCS] Make security reporting policy concise and contributor-friendly](https://github.com/Vezryn-LLC/graph-community/issues/43) - **Repository:** [Vezryn-LLC/graph-community](https://github.com/Vezryn",
+      "source_created_at": "2026-11-14T21:13:23Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Rohank143/BountyScout/issues/106",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6396006531",
+      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1765",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-14 21:10 UTC #### 1. [[COMMUNITY/DOCS] Make security reporting policy concise and contributor-friendly](https://github.com/Vezryn-LLC/graph-community/issues/43) - **Repository:** [Vezryn-LLC/graph-community](https://github.com/Vezryn-LLC/graph-community) - **Comments:** 0 - **Last Updated:** 2026-11-14T21:01:31Z #### 2. [[Track 1 Bug Bounty] Multi-Step Cascade Unwind Stale Store Reads, Missing SwapBlock Credential Verification, Renewed Lease Reputation Drop, and BadgerStore Pending/CAS Desyn",
+      "source_created_at": "2026-11-14T21:10:36Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1765",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395592832",
+      "title": "[Parser] Betclic 2025+ client: shared knockouts and re-entry in tournaments",
+      "url": "https://github.com/jejellyroll-fr/fpdb-3/issues/810",
+      "evidence": "## Context #804 asked for knockout rewards and re-entry in the Betclic 2025+ client's tournaments. #807 covered progressive knockouts (`Tournament Type: SKO`), including repeated knockouts, from a real 29-hand export. Two cases remain, and neither appears in any export seen so far: - **Shared knockouts**: several players busting one opponent in the same hand (split pot). The line format is unknown: the only one seen is the single-winner form `X wins €0.10 for eliminating Y (x0.4), X own bounty increases from €0.50 to €0.60`. - **Re-entry**: the",
+      "source_created_at": "2026-11-14T20:31:33Z",
+      "opp_type": "bounty_codigo",
+      "score": 35,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/jejellyroll-fr/fpdb-3/issues/810",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393981546",
+      "title": "Lifesteal: Audit Banking, PvP Coin Stealing, Bounties, and Economy Transaction Integrity",
+      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1545",
+      "evidence": "@claude # JoshyMC Lifesteal — Economy, Banking & Bounty Security Audit PRIORITY: P1/P2 TYPE: STRICTLY READ-ONLY AUDIT SCOPE: Lifesteal only ## OBJECTIVE Perform a comprehensive security and integrity audit of the Lifesteal economy, including: - Player coin balances. - Protected banking. - PvP coin stealing. - Deposits and withdrawals. - Bounties. - Bounty claims and payouts. - Economy-related player commands. - Administrative economy controls. - Alt-account exploitation. - Disconnect and restart persistence. This audit must run safely alongside",
+      "source_created_at": "2026-11-14T18:04:56Z",
+      "opp_type": "bug_bounty",
+      "score": 34,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/LiamBMX/joshymc-plugin/issues/1545",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6396665621",
+      "title": "Port 211: Stale stop sweep: the economy group S-250 .. S-260 against main (S-252 names the UpgradeCenter as not ported)",
+      "url": "https://github.com/Gleb302596555/openbfme-godot/issues/493",
+      "evidence": "## Problem Stops are written when a port leaves something out, but later ports often do it without closing the row. Example: **S-252 says the UpgradeCenter is not ported, while `engine/src/Common/Upgrade.h` has `UpgradeCenter`.** This task checks the economy group S-250 .. S-260 (TerrainResourceManager, ScoreKeeper, Upgrades, attribute modifiers, game context, GameData, experience / defection, death / bounty, OCL units, live playable count, SalvageCrateCollide) against today's main and the RW addresses each row names. ## Known For each row: rea",
+      "source_created_at": "2026-11-14T22:17:30Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Gleb302596555/openbfme-godot/issues/493",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395672353",
+      "title": "Cards: Foundations red (59 cards)",
+      "url": "https://github.com/cantrip-rs/cantrip-rs/issues/3048",
+      "evidence": "The red block of the Foundations set issue #2987: these 59 cards, built and reviewed as one pull request. - Axgard Cavalry - Battle-Rattle Shaman - Battlesong Berserker - Brass's Bounty - Carnelian Orb of Dragonkind - Chandra, Flameshaper - Courageous Goblin - Crackling Cyclops - Crash Through - Dragon Fodder - Dragonlord's Servant - Dragon Mage - Dragonmaster Outcast - Dragon Trainer - Drakuseth, Maw of Flames - Dropkick Bomber - Electroduplicate - Etali, Primal Storm - Fiery Annihilation - Firebrand Archer - Firespitter Whelp - Flamewake Phoe",
+      "source_created_at": "2026-11-14T20:38:49Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/cantrip-rs/cantrip-rs/issues/3048",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6393516115",
+      "title": "Agent Coordination Board",
+      "url": "https://github.com/Youseph-Elkhouly/Bountic/issues/1",
+      "evidence": "Shared communication channel for platform, engine, and payments coding agents.",
+      "source_created_at": "2026-11-14T17:24:47Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Youseph-Elkhouly/Bountic/issues/1",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6394019189",
+      "title": "hyb generate: recursive walk enters testdata, _-prefixed dirs and nested modules, so a fixture there aborts the whole run",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4475",
+      "evidence": "Tooling defect (Low tier). main b1627e83b437bfc948292f17a8ce4183cef23130. `hyb generate .` is documented as the `go:generate` shape (README \"Adding Hybrid to an EXISTING go.mod project\"). Its walk skips `.`-dirs, `vendor` and `hybridrt` (the Go ./... exclusions), but not the rest of Go's list: `testdata`, `_`-prefixed dirs, nested modules. $ mkdir -p p/testdata && cd p $ printf 'module example.com/p\\n\\ngo 1.26\\n' > go.mod; printf 'package p\\n' > p.go $ printf 'fn add(a int, b int) int { return a + b }\\n' > calc.hy $ printf 'fn bad() {\\n x := \\n",
+      "source_created_at": "2026-11-14T18:08:08Z",
+      "opp_type": "otro",
+      "score": 28,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/4475",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395892722",
+      "title": "20 Ah Tattu 4.0 pack: review Tattu bridge version 2 and confirm the 20 Ah capacity failsafe values",
+      "url": "https://github.com/Arrow-air/project-quiver/issues/286",
+      "evidence": "## Summary The 20 Ah Tattu 4.0 pack went on the Houston unit on 2026-11-12. It does not report as DroneCAN, so Bat2 read 0 V and `PreArm: Battery 2 unhealthy` blocked arming. On 2026-11-14 we installed your `tattu_bridge.py` on the RPi and Bat2 came up. Two things need your review: the bridge leaves the Bat2 capacity failsafes inactive, and the 20 Ah capacity values need your confirmation as a follow-up to #248. Guide changes are in PR #232 (Initial Configuration Guide §7, §7.2, §7.3.1). ## What we found **The two packs speak different protocol",
+      "source_created_at": "2026-11-14T20:59:42Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Arrow-air/project-quiver/issues/286",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395503337",
+      "title": "Injection Scanner",
+      "url": "https://github.com/PortSwigger/extension-portal/issues/593",
+      "evidence": "### Extension URL https://github.com/q3alique/burp-injection-scanner ### Version number 0.1.0 ### Select additional compatible products and features - [x] Community - [ ] DAST - [ ] Burp AI ### Author display name Jose Antonio Alique ### Contact details (optional) q3alique@gmail.com ### Discord username (optional) _No response_ ### I confirm that the following is true: - [x] I have permission from all relevant persons to submit this extension to the BApp Store for public use, under the [terms and conditions of the EULA](https://portswigger.net/",
+      "source_created_at": "2026-11-14T20:23:27Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/PortSwigger/extension-portal/issues/593",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6394890445",
+      "title": "DecodeVote panics on a crafted vote encoding: uint16 length wraparound at core/encoding.go:699",
+      "url": "https://github.com/xeprotocol/xe/issues/563",
+      "evidence": "**Severity: Minor** (XE tier ceiling 650 XE). No CVSS vector is asserted: there is no attacker-reachable trigger at HEAD (see §5), so a CVSS score would imply an exploitability the evidence does not support. See §7 for the severity reasoning. **Target:** `github.com/xeprotocol/xe` @ `89a542ea51d38375299aee54c6c99102e9bfa666` (\"release: testnet-0005 quorum withhold fix\", 2026-11-10). Go 1.25.4. ## 1. Impact (read this first) `core.DecodeVote` — the exported decoder for the canonical binary vote encoding — **panics** (`runtime error: slice bounds",
+      "source_created_at": "2026-11-14T19:23:02Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/563",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6396189376",
+      "title": "RMT Task 040 — Free security hardening and independent community-review preparation",
+      "url": "https://github.com/LandoCrissian/robinhood-meme-terminal/issues/609",
+      "evidence": "# RMT Task 040 — Zero-cost security hardening and community-review package ## Owner decision **Zero budget.** No paid audit, subscriptions, credits, bounties, hosting upgrades, paid API providers or external purchases. Owner approves free/open-source analysis and preparing a public reviewer package only. **Do not publish sensitive data or solicit/contact third parties without a separate owner approval.** Do not represent automated testing as an independent audit. ## Starting point - Base draft PR #608, commit `485fd17bf0c1daa9f69194d51f304d0680",
+      "source_created_at": "2026-11-14T21:29:20Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/LandoCrissian/robinhood-meme-terminal/issues/609",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395912763",
+      "title": "[COMMUNITY/DOCS] Make security reporting policy concise and contributor-friendly",
+      "url": "https://github.com/Vezryn-LLC/graph-community/issues/43",
+      "evidence": "## Outcome Polish Graph Community's public `SECURITY.md` into a concise, welcoming and actionable security reporting policy without weakening operator responsibility or inventing security commitments. **Origin: Atlas · Vezryn Strategy & Coordination.** Review of the current public [SECURITY.md](https://github.com/Vezryn-LLC/graph-community/blob/main/SECURITY.md). This is a public-facing editorial/documentation improvement, **not** a report of a vulnerability. ### Implement - Remove the founder's personal verification narrative (external iCloud ",
+      "source_created_at": "2026-11-14T21:01:31Z",
+      "opp_type": "bug_bounty",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Vezryn-LLC/graph-community/issues/43",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395867811",
+      "title": "Fold the match key into a shared secret-key holder",
+      "url": "https://github.com/alleycatassetacquisitions/pdn/issues/465",
+      "evidence": "`MatchKey` (`src/pdn/wireless/match-packet.hpp:17`) is a bare `std::array ` whose lifecycle is hand-rolled in `MatchManager`: a separate held flag (`ActiveMatchState::matchKeyIsHeld`, `src/pdn/game/match-manager.hpp:90`), `wipePendingMatchKey` (`src/pdn/game/match-manager.cpp:219-224`) and manual `secureWipe` calls in the destructor, `clearCurrentMatch`, `initializeMatch` and `pairInitiationWithKey` (`match-manager.cpp:146,177,259,262,268,931`), plus local copies that each need wiping. `RecordKey` (`lib/core/include/game/record-key.hpp:13`) alr",
+      "source_created_at": "2026-11-14T20:57:15Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/alleycatassetacquisitions/pdn/issues/465",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395665967",
+      "title": "Cards: Foundations green (56 cards)",
+      "url": "https://github.com/cantrip-rs/cantrip-rs/issues/3047",
+      "evidence": "The green block of the Foundations set issue #2987: these 56 cards, built and reviewed as one pull request. - Affectionate Indrik - Aggressive Mammoth - Ambush Wolf - Apothecary Stomper - Beast-Kin Ranger - Biogenic Upgrade - Bite Down - Blanchwood Armor - Cackling Prowler - Circuitous Route - Druid of the Cowl - Dwynen, Gilt-Leaf Daen - Dwynen's Elite - Eager Trufflesnout - Elfsworn Giant - Elvish Archdruid - Elvish Regrower - Felling Blow - Fierce Empath - Fynn, the Fangbearer - Garruk's Uprising - Genesis Wave - Ghalta, Primal Hunger - Gnarl",
+      "source_created_at": "2026-11-14T20:38:13Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/cantrip-rs/cantrip-rs/issues/3047",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6395103598",
+      "title": "Feedback: Combat",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/705",
+      "evidence": "In Heft, large groups of soliders often cluster in one point when taking ok enemies, rather than staying a few meters away. Also noticed this in several other places when one group outnumbers another. | Meitou version | Platform | Data files | |---|---|---| | `v0.19.0` (`bc1b62959`) | win | 817 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. `[1]----------[UI, Graphics, Performance]----------.mod` 1. `[1.1]--------------------(UI).mod` 1. `Transparent UI.mod` 1. `Transparent Map Icons + UIScreenshots.mod",
+      "source_created_at": "2026-11-14T19:44:08Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/705",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6394298815",
+      "title": "上游运维、后端杂项与 i18n 移植评估",
+      "url": "https://github.com/TokenNotIncluded/lmm-api/issues/989",
+      "evidence": "## 合并范围 本 Issue 合并 4 个同类型工作项，统一安排实现与验收。原 Issue 的关闭仅用于去重，**不代表问题已修复、已验收或放弃处理**；原始讨论保留在各链接中。 ## 子项清单 - [ ] #821 — [upstream-port][evaluate] 渠道级「跳过上游 TLS 校验」开关 - [ ] #823 — [upstream-port][evaluate] 上游大型 i18n：前端控制台消息与后端 AI 客户端错误翻译 (#7712) - [ ] #824 — [upstream-port][backend] 后端杂项：参数覆盖正则、缓存 token 细分、countTokens 路由、ETag、日志敏感字段、状态采样 - [ ] #926 — [upstream-port] 性能监控过载哨兵改用容器 cgroup 口径，并加连续采样与新鲜度判定（new-api #7317 / 09109ec3） ## 统一验收边界 - [ ] 在当前 `lmm-api-source` 固定源码逐项重新确认适用范围；历史单体证据不能直接当作当前实现的失败或通过证明。 - [ ] 每个子项保留独立的行为回归与结果，不因合并跟踪而减少原验收条件。 - [ ] 分别记录开发",
+      "source_created_at": "2026-11-14T18:31:06Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TokenNotIncluded/lmm-api/issues/989",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6394284483",
+      "title": "上游 Relay/Responses 移植与跟踪",
+      "url": "https://github.com/TokenNotIncluded/lmm-api/issues/986",
+      "evidence": "## 合并范围 本 Issue 合并 8 个同类型工作项，统一安排实现与验收。原 Issue 的关闭仅用于去重，**不代表问题已修复、已验收或放弃处理**；原始讨论保留在各链接中。 ## 子项清单 - [ ] #369 — track upstream: align OpenAI tool-call history when converting to Gemini - [ ] #816 — [upstream-port][backend] relayconvert：Responses 输入/流式转换小修 + Responses WS 关闭帧 - [ ] #819 — [upstream-port][evaluate] relayconvert 大批次：Responses 自定义工具、tool-output 媒体、有损转换与转换流失败计费 - [ ] #822 — [upstream-port][evaluate] 计费口径：联网搜索按次计费、Gemini Grounding 计费与 tokenkit 计数模块 - [ ] #910 — [upstream-port][backend] Claude 流式终态保留显式零用量与仅缓存计费（new-api 1b63c28d / #7816",
+      "source_created_at": "2026-11-14T18:30:03Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/TokenNotIncluded/lmm-api/issues/986",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6394282669",
+      "title": "Railway 赏金：有 7 条值得抢",
+      "url": "https://github.com/HCTDIP/corps-jobs/issues/192",
+      "evidence": "云端雷达发现可抢条目。 ``` [railway-radar] 2026-11-14 18:29Z total=28 hot=4 new=3 🆕 Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0 🆕 Mongo iac helper bug 🆕 HTTPS connection to goszakupki.by times out from Railway [+4] Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0 竞争低, 提问·配置型 [+4] Read-only source snapshot export for a CLI deployment 竞争低, 提问·配置型 [+4] Console ancestor executable marked deleted: supported path with safety guard intact 竞争低, 提问·配置型 [+4] Hobby PostgreSQL: Secure Backu",
+      "source_created_at": "2026-11-14T18:29:55Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/HCTDIP/corps-jobs/issues/192",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z"
     },
     {
       "source": "github",
@@ -409,36 +784,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/LadderMine/yieldladder/issues/158",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6393862771",
-      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1416",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-14 17:54 UTC #### 1. [Lifesteal: Audit Server Performance, Database Bottlenecks, Memory Usage, and Runtime Stability](https://github.com/LiamBMX/joshymc-plugin/issues/1539) - **Repository:** [LiamBMX/joshymc-plugin](https://github.com/LiamBMX/joshymc-plugin) - **Comments:** 0 - **Last Updated:** 2026-11-14T17:45:19Z #### 2. [feat(eval): claim bounty: a queue of claims for workers to disprove](https://github.com/Egoushka/chargehand/issues/787) - **Repository:** [Egoushka/chargehand](https://g",
-      "source_created_at": "2026-11-14T17:54:40Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1416",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6393515515",
-      "title": "BOTW - Bounty of the Week",
-      "url": "https://github.com/chazlander/TrueshotLodge/issues/3",
-      "evidence": "Figure out a reward system to encourage gathering these creatures.",
-      "source_created_at": "2026-11-14T17:24:43Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/chazlander/TrueshotLodge/issues/3",
       "first_seen_at": "2026-11-14T17:59:19.549Z",
       "last_seen_at": "2026-11-14T17:59:19.549Z"
     },
@@ -529,21 +874,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/shin2344234/bounty-teleportation/issues/11",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6393587019",
-      "title": "test: cover watchtower_counter_evidence and its bounty split",
-      "url": "https://github.com/accensa/accensa-contracts/issues/1008",
-      "evidence": "> [!IMPORTANT] > **System Directive: Mandatory Context Review** > Before proposing a solution or writing code, you MUST parse and strictly adhere to the constraints defined in the following state documents: > - [README.md](https://github.com/accensa/accensa-contracts/blob/main/README.md) > - [CONTRIBUTING.md](https://github.com/accensa/accensa-contracts/blob/main/CONTRIBUTING.md) > - [SECURITY.md](https://github.com/accensa/accensa-contracts/blob/main/SECURITY.md) > > **Operating Constraints:** Do not extrapolate beyond the specified scope or r",
-      "source_created_at": "2026-11-14T17:30:51Z",
-      "opp_type": "bug_bounty",
-      "score": 40,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/accensa/accensa-contracts/issues/1008",
       "first_seen_at": "2026-11-14T17:59:19.549Z",
       "last_seen_at": "2026-11-14T17:59:19.549Z"
     },
@@ -649,36 +979,6 @@
       "link_check": "issue_abierto_segun_api",
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/heavenskybird/stripunion/issues/199",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6393753754",
-      "title": "Lifesteal: Audit Server Performance, Database Bottlenecks, Memory Usage, and Runtime Stability",
-      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1539",
-      "evidence": "@claude # JoshyMC Lifesteal — Performance and Stability Audit PRIORITY: P2 — MEDIUM TYPE: STRICTLY READ-ONLY AUDIT SCOPE: Lifesteal only PARALLEL-SAFE: YES ## OBJECTIVE Conduct a comprehensive performance and runtime stability audit of JoshyMC Lifesteal. This task must safely run alongside: 1. Heart System Remediation V2. 2. Progression Remediation V2. Both are active implementation tasks. DO NOT modify production code, configuration, tests, database schemas, or documentation. DO NOT create a branch, commit, or PR. Deliver all findings as GitHu",
-      "source_created_at": "2026-11-14T17:45:10Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/LiamBMX/joshymc-plugin/issues/1539",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6393156566",
-      "title": "Feedback: Training Gear",
-      "url": "https://github.com/VlcekM/MeitouClient/issues/697",
-      "evidence": "Training gear does not display any information in the side panel | Meitou version | Platform | Data files | |---|---|---| | `v0.19.0` (`bc1b62959`) | win | 817 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. `[1]----------[UI, Graphics, Performance]----------.mod` 1. `[1.1]--------------------(UI).mod` 1. `Transparent UI.mod` 1. `Transparent Map Icons + UIScreenshots.mod` 1. `PoliticalMapRedux + PreciseReliefMap.mod` 1. `Kenshi Community Loading Screens.mod` 1. `Kenshi_rewritten.mod` 1. `FlavorText+.mod`",
-      "source_created_at": "2026-11-14T16:54:50Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/697",
       "first_seen_at": "2026-11-14T17:59:19.549Z",
       "last_seen_at": "2026-11-14T17:59:19.549Z"
     },
@@ -17706,309 +18006,70 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1888",
       "first_seen_at": "2026-10-27T17:59:26.644Z",
       "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064717589",
-      "title": "[插件测评] dsh-a2a@0.7.2 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1887",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1052`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1052 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-a2a@0.7.2` > **判定：还说不准** ｜ 批次：wb-batch01（WorkBuddy 标准测评，2026-10-26） ｜ 测评日期：2026-10-26 > > 读数：48/48；+75pp；CI [37.5, 100]；半宽 31.25pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独",
-      "source_created_at": "2026-10-27T17:50:22Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1887",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064714915",
-      "title": "[插件测评] dsh-interview@0.5.1 — 还说不准",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1886",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1051`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1051 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**还说不准** --- ## DSH 插件测评 · `dsh-interview@0.5.1` > **判定：还说不准** ｜ 批次：wb-batch01（WorkBuddy 标准测评，2026-10-26） ｜ 测评日期：2026-10-26 > > 读数：48/48；+12.5pp；CI [0, 37.5]；半宽 18.75pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10",
-      "source_created_at": "2026-10-27T17:50:11Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1886",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064713404",
-      "title": "[插件测评] @michengai/dsh-agency-agents@1.2.13 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1885",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1040`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1040 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `@michengai/dsh-agency-agents@1.2.13` > **判定：还说不准** ｜ 批次：batch-04（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+62.5pp；CI [25,87.5]；半宽 31.25pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立",
-      "source_created_at": "2026-10-27T17:50:05Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1885",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064712021",
-      "title": "[插件测评] dsh-industry-research@0.3.23 — 还说不准",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1884",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1039`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1039 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**还说不准** --- ## DSH 插件测评 · `dsh-industry-research@0.3.23` > **判定：还说不准** ｜ 批次：batch-04（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+12.5pp；CI [0,37.5]；半宽 18.75pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插",
-      "source_created_at": "2026-10-27T17:49:59Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1884",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064710502",
-      "title": "[插件测评] dsh-plugin-guide@0.3.39 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1883",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1038`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1038 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-plugin-guide@0.3.39` > **判定：还说不准** ｜ 批次：batch-04（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+37.5pp；CI [12.5,75]；半宽 31.25pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B",
-      "source_created_at": "2026-10-27T17:49:53Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1883",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064709204",
-      "title": "[插件测评] dsh-taskboard@0.9.5 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1882",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1037`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1037 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-taskboard@0.9.5` > **判定：还说不准** ｜ 批次：batch-04（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+75pp；CI [37.5,100]；半宽 31.25pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B0（不装）",
-      "source_created_at": "2026-10-27T17:49:48Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1882",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064707796",
-      "title": "[插件测评] dsh-research-report@0.3.30 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1881",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1036`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1036 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-research-report@0.3.30` > **判定：还说不准** ｜ 批次：batch-04（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+75pp；CI [37.5,100]；半宽 31.25pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与",
-      "source_created_at": "2026-10-27T17:49:42Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1881",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064706496",
-      "title": "[插件测评] dsh-pdf-mineru@0.2.1 — 没法测",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1880",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1035`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1035 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**没法测** --- ## DSH 插件测评 · `dsh-pdf-mineru@0.2.1` > **判定：没法测** ｜ 批次：batch-03（标准测评） ｜ 测评日期：2026-10-25 > > 读数：MinerU provider 不可用（本地无服务/云 404/无 API key）；6 探针，不硬跑 48 > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）",
-      "source_created_at": "2026-10-27T17:49:37Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1880",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064705072",
-      "title": "[插件测评] dsh-session-workbench@1.0.3 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1879",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1034`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1034 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-session-workbench@1.0.3` > **判定：还说不准** ｜ 批次：batch-03（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+87.5pp；CI [62.5,100]；半宽 18.75pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插",
-      "source_created_at": "2026-10-27T17:49:31Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1879",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064703597",
-      "title": "[插件测评] dsh-office-tools@1.0.6 — 没啥差别（产物口径）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1878",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1033`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1033 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**没啥差别（产物口径）** --- ## DSH 插件测评 · `dsh-office-tools@1.0.6` > **判定：没啥差别（产物口径）** ｜ 批次：batch-03（标准测评） ｜ 测评日期：2026-10-25 > > 读数：产物口径 +0pp；工具合同口径 +100pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B0（不装）同题面、同工作",
-      "source_created_at": "2026-10-27T17:49:25Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1878",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064702168",
-      "title": "[插件测评] @fylar/dsh-fylar-office-editor@0.1.6 — 真有用（UI-only）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1877",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1032`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1032 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**真有用（UI-only）** --- ## DSH 插件测评 · `@fylar/dsh-fylar-office-editor@0.1.6` > **判定：真有用（UI-only）** ｜ 批次：batch-03（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+100pp；CI [100,100]；半宽 0pp（仅 DOM 层 Office 编辑器/预览，不外推到 AI 编辑能力） > > 环境：DSH 0.2.1-r",
-      "source_created_at": "2026-10-27T17:49:19Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1877",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064700848",
-      "title": "[插件测评] dsh-auto-review@0.13.8 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1876",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1031`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1031 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-auto-review@0.13.8` > **判定：真有用** ｜ 批次：batch-03（标准测评） ｜ 测评日期：2026-10-25 > > 读数：48/48；+100pp；CI [100,100]；半宽 0pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B0（不装）同题面、同工作区、同模型",
-      "source_created_at": "2026-10-27T17:49:14Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1876",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064699075",
-      "title": "[插件测评] @anionex/dsh-turn-rewind@0.3.10 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1875",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1030`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1030 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `@anionex/dsh-turn-rewind@0.3.10` > **判定：真有用** ｜ 批次：batch-02（eval-new5 标准测评） ｜ 测评日期：2026-10-24 > > 读数：48/48；+100pp；CI [100,100]；半宽 0pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与",
-      "source_created_at": "2026-10-27T17:49:07Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1875",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064696277",
-      "title": "[插件测评] dsh-filesnap@0.4.2 — 没法测",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1874",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1029`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1029 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**没法测** --- ## DSH 插件测评 · `dsh-filesnap@0.4.2` > **判定：没法测** ｜ 批次：batch-02（eval-new5 标准测评） ｜ 测评日期：2026-10-24 > > 读数：0/48（命令路径 fork 失败；UI 路径 restore incomplete） > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B",
-      "source_created_at": "2026-10-27T17:48:55Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1874",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064694836",
-      "title": "[插件测评] dsh-usage-stats@0.1.16（lanlandeli） — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1873",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1028`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1028 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-usage-stats@0.1.16` > **判定：真有用** ｜ 批次：batch-02（eval-new5 标准测评） ｜ 测评日期：2026-10-24 > > 读数：48/48；+100pp；CI [100,100]；半宽 0pp > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；单环境、无独立复核；P（装插件）与 B0（不装）同题",
-      "source_created_at": "2026-10-27T17:48:49Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1873",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6064693326",
-      "title": "[插件测评] dsh-undo-savepoint@0.5.0 — 真有用",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1872",
-      "evidence": "> **历史迁移条目**：本条原发布于 `FuRongJun-1999/lingshu#1027`（旧仓，2026-10-27 已按项目方要求关闭、不再维护），现迁至 `FuRongJun-1999/dsh-bounty`。 > > 下方正文（含其内嵌 marker 与「判定」字样）为原报告原文，一字未改，保留当时现场的判定；本条标题与引用块中的「最终判定」采用最新口径。 > > 如该条目做过 v2.0 复算，复核记录原样附在文末，以文末为准。 > > 原条目：https://github.com/FuRongJun-1999/lingshu/issues/1027 ｜ 迁移日期：2026-10-28 ｜ 标准：v1.0 + v2.0 复算 ｜ 最终判定：**真有用** --- ## DSH 插件测评 · `dsh-undo-savepoint@0.5.0` > **判定：还说不准** ｜ 批次：batch-02（eval-new5 标准测评） ｜ 测评日期：2026-10-24 > > 读数：原 48/48 +87.5pp、半宽 18.75；补充 16 场景 +87.5pp、半宽 15.63（仍不达标） > > 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / ",
-      "source_created_at": "2026-10-27T17:48:43Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/1872",
-      "first_seen_at": "2026-10-27T17:59:26.644Z",
-      "last_seen_at": "2026-10-27T17:59:26.644Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6057331751",
-      "title": "[radar] SN open bounty 2026-10-27T10:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
-      "evidence": "New SN OPEN_BOUNTY detected: ``` 1602563 Construction_and_Engineering 2 141 5000 1 20.2 9274 28955 top@Construction_and_Engineering OPEN_BOUNTY,LOW_COMP Show Your Build Weekly #7: Post Your Proof-of-Work 🔨 ```",
-      "source_created_at": "2026-10-27T10:25:03Z",
-      "opp_type": "bounty_codigo",
-      "score": 48,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1343",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6058587895",
-      "title": "[BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/133",
-      "evidence": "# [BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet) ### Target Information - **Repository**: `paraloom-labs/paraloom-wallet` - **File**: `lib/paraloom/bridge.ts` (lines 85–115 & 375–395) - **Component**: Native SOL Bridge Ingress Instruction Builder - **Severity**: Medium ($150 USDC) - **Settlement Wallet**: `0x3a5E08708dd1CF22AAe94f913Ab69b17b80a3dC5` (Base / EVM USDC)",
-      "source_created_at": "2026-10-27T11:49:11Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/133",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6057432618",
-      "title": "[BOUNTY] Medium: transfer.ts prematurely marks input notes spent on queue acceptance without settlement confirmation and ignores root skew between input Merkle paths (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/128",
-      "evidence": "# [BOUNTY] Medium: transfer.ts prematurely marks input notes spent on queue acceptance without settlement confirmation and ignores root skew between input Merkle paths (paraloom-wallet) ### Target Information - **Repository**: `paraloom-labs/paraloom-wallet` - **File**: `lib/paraloom/transfer.ts` (lines 74–94, 132–165) - **Component**: Client Transfer Ingress Flow & Note State Management - **Severity**: Medium ($150 USDC) - **Settlement Wallet**: `0x3a5E08708dd1CF22AAe94f913Ab69b17b80a3dC5` (Base / EVM USDC) --- ### Summary In `lib/paraloom/tra",
-      "source_created_at": "2026-10-27T10:31:43Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/paraloom-labs/paraloom-wallet/issues/128",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6058761459",
-      "title": "[radar] SN open bounty 2026-10-27T12:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
-      "evidence": "New SN OPEN_BOUNTY detected: ``` 1602563 Construction_and_Engineering 2 141 5000 1 21.8 9274 28961 top@Construction_and_Engineering OPEN_BOUNTY,LOW_COMP Show Your Build Weekly #7: Post Your Proof-of-Work 🔨 ```",
-      "source_created_at": "2026-10-27T12:01:01Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/relayhop/sn-monetization-runtime/issues/1344",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-14T22:22:23.612Z",
+      "generated_at": "2026-11-14T22:22:23.612Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 435
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 644
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 50,
+      "new_items": 20,
+      "seen_again": 30,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "0 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "50 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-14T17:59:19.549Z",
       "generated_at": "2026-11-14T17:59:19.549Z",
@@ -21320,67 +21381,6 @@
           "ok": true,
           "count": 25,
           "ms": 631
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 25,
-      "seen_again": 22,
-      "archive_total": 1200,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-25T04:39:05.665Z",
-      "generated_at": "2026-10-25T04:39:05.665Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 449
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 670
         }
       ],
       "processed": 50,

@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-14T17:59:20.346Z",
+  "generated_at": "2026-11-14T22:22:24.394Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -94,7 +94,7 @@
       "url": "https://github.com/freedom-winds/BountyScout/issues/1416",
       "source_created_at": "2026-11-14T17:54:40Z",
       "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2280,52 +2280,6 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY] Medium: buildDepositInstruction omits merkle_tree PDA account and uses obsolete DEPOSIT_DISCRIMINATOR, causing 100% on-chain InstructionFallbackNotFound or AccountNotEnoughKeys reverts on SOL deposits (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/133",
-      "source_created_at": "2026-10-27T11:49:11Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: transfer.ts prematurely marks input notes spent on queue acceptance without settlement confirmation and ignores root skew between input Merkle paths (paraloom-wallet)",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/128",
-      "source_created_at": "2026-10-27T10:31:43Z",
-      "first_seen_at": "2026-10-27T12:09:00.238Z",
-      "last_seen_at": "2026-10-27T12:09:00.238Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[$2 site credit] Add a PHP example that lists open bounties",
       "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
       "source_created_at": "2026-11-12T13:11:22Z",
@@ -2367,6 +2321,105 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "test: cover watchtower_counter_evidence and its bounty split",
+      "url": "https://github.com/accensa/accensa-contracts/issues/1008",
+      "source_created_at": "2026-11-14T17:30:51Z",
+      "first_seen_at": "2026-11-14T17:59:19.549Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 3 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1417",
+      "source_created_at": "2026-11-14T21:58:23Z",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/106",
+      "source_created_at": "2026-11-14T21:13:23Z",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1765",
+      "source_created_at": "2026-11-14T21:10:36Z",
+      "first_seen_at": "2026-11-14T22:22:23.612Z",
+      "last_seen_at": "2026-11-14T22:22:23.612Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2520,30 +2573,6 @@
       "title": "Carry a bounty while riding special mounts such as the wyvern or bear",
       "url": "https://github.com/shin2344234/bounty-teleportation/issues/11",
       "source_created_at": "2026-11-14T15:54:47Z",
-      "first_seen_at": "2026-11-14T17:59:19.549Z",
-      "last_seen_at": "2026-11-14T17:59:19.549Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "test: cover watchtower_counter_evidence and its bounty split",
-      "url": "https://github.com/accensa/accensa-contracts/issues/1008",
-      "source_created_at": "2026-11-14T17:30:51Z",
       "first_seen_at": "2026-11-14T17:59:19.549Z",
       "last_seen_at": "2026-11-14T17:59:19.549Z",
       "status": "informativa",
@@ -3750,30 +3779,6 @@
       "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
       "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/75",
       "source_created_at": "2026-11-11T04:42:49Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_a927a86220f541859f39 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/74",
-      "source_created_at": "2026-11-11T04:42:43Z",
       "first_seen_at": "2026-11-11T06:13:37.126Z",
       "last_seen_at": "2026-11-11T06:13:37.126Z",
       "status": "informativa",
