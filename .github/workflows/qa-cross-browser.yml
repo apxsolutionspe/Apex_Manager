@@ -1,0 +1,84 @@
+name: QA integral · cliente y navegadores
+on:
+  push:
+    branches: [main, "feature/**", "feat/**"]
+    paths:
+      - 'backend/**'
+      - 'frontend/**'
+      - 'tests/browser_customer_journey.py'
+      - '.github/workflows/qa-cross-browser.yml'
+  pull_request:
+    paths:
+      - 'backend/**'
+      - 'frontend/**'
+      - 'tests/browser_customer_journey.py'
+      - '.github/workflows/qa-cross-browser.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: qa-customer-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  customer-journey:
+    name: Compra asistida (sin pago) · ${{ matrix.browser }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: [chromium, firefox, webkit]
+    env:
+      QA_BASE_URL: http://127.0.0.1:8765
+      QA_BROWSER: ${{ matrix.browser }}
+      QA_ADMIN_PASSWORD: QA-only-not-a-real-secret-2026
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Dependencias y navegador
+        run: |
+          python -m pip install -r requirements-dev.txt playwright
+          python -m playwright install --with-deps ${{ matrix.browser }}
+      - name: Credenciales de prueba efímeras sin datos reales
+        run: |
+          python - <<'PY' >> "$GITHUB_ENV"
+          import secrets
+          from backend.security import hash_password
+          print('ADMIN_PASSWORD_HASH=' + hash_password('QA-only-not-a-real-secret-2026'))
+          print('SESSION_SECRET=' + secrets.token_urlsafe(48))
+          PY
+      - name: Iniciar backend sintético aislado y comprobar salud
+        env:
+          DB_PATH: ${{ runner.temp }}/apex-customer-qa.sqlite3
+          DEMO_MODE: 'true'
+          QUOTE_INTAKE_ENABLED: 'true'
+          APP_ENV: development
+          PRIVACY_NOTICE_APPROVED: 'false'
+        run: |
+          python -m uvicorn backend.main:app --host 127.0.0.1 --port 8765 > /tmp/apex-customer-qa.log 2>&1 &
+          for attempt in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:8765/api/health > /dev/null; then break; fi
+            sleep 1
+          done
+          curl --fail http://127.0.0.1:8765/api/health
+      - name: Flujos usuario, seguridad, pantallas y latencia local
+        env:
+          DB_PATH: ${{ runner.temp }}/apex-customer-qa.sqlite3
+          DEMO_MODE: 'true'
+          QUOTE_INTAKE_ENABLED: 'true'
+          APP_ENV: development
+        run: python tests/browser_customer_journey.py
+      - name: Evidencias por navegador
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apex-customer-qa-${{ matrix.browser }}
+          path: qa-artifacts/customer-${{ matrix.browser }}-*
+          retention-days: 7
+          if-no-files-found: warn
