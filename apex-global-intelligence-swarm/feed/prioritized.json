@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-14T22:22:24.394Z",
+  "generated_at": "2026-11-15T06:27:17.890Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,35 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1155,
-    "descartar": 45,
+    "informativa": 1156,
+    "descartar": 44,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "[bounty] bug-report: formatter changes literal tabs inside strings, changing program output",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/50",
+      "source_created_at": "2026-11-15T06:23:05Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 10,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "Chinese documentation bounty: remaining scope, AI assistance and CNY payout",
@@ -85,6 +108,54 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5004",
+      "source_created_at": "2026-11-15T06:23:07Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4999",
+      "source_created_at": "2026-11-15T06:22:48Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -866,30 +937,6 @@
       "title": "[Bug bounty] Type-and-then fallback signs placeholder fee amounts when the origin has no DryRunApi — 1 whole fee token (10 for external destinations) is required and AllCounted is used",
       "url": "https://github.com/paraspell/xcm-tools/issues/2353",
       "source_created_at": "2026-10-27T21:26:26Z",
-      "first_seen_at": "2026-10-27T22:12:45.959Z",
-      "last_seen_at": "2026-10-27T22:12:45.959Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] API client leases are never released across sdk-core and swap, leaking a client per exchange candidate and one per transfer-info/fee/verify-ED call",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2350",
-      "source_created_at": "2026-10-27T21:24:12Z",
       "first_seen_at": "2026-10-27T22:12:45.959Z",
       "last_seen_at": "2026-10-27T22:12:45.959Z",
       "status": "informativa",
@@ -2326,6 +2373,198 @@
     },
     {
       "source": "github",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5005",
+      "source_created_at": "2026-11-15T06:23:21Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5003",
+      "source_created_at": "2026-11-15T06:23:05Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5002",
+      "source_created_at": "2026-11-15T06:23:03Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5001",
+      "source_created_at": "2026-11-15T06:22:53Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5000",
+      "source_created_at": "2026-11-15T06:22:52Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4998",
+      "source_created_at": "2026-11-15T06:22:46Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 7 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4997",
+      "source_created_at": "2026-11-15T06:22:42Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 7 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4996",
+      "source_created_at": "2026-11-15T06:22:41Z",
+      "first_seen_at": "2026-11-15T06:27:17.320Z",
+      "last_seen_at": "2026-11-15T06:27:17.320Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "test: cover watchtower_counter_evidence and its bounty split",
       "url": "https://github.com/accensa/accensa-contracts/issues/1008",
       "source_created_at": "2026-11-14T17:30:51Z",
@@ -3539,246 +3778,6 @@
       "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
       "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/70",
       "source_created_at": "2026-11-11T04:43:56Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/69",
-      "source_created_at": "2026-11-11T04:43:51Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/68",
-      "source_created_at": "2026-11-11T04:43:45Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/67",
-      "source_created_at": "2026-11-11T04:43:40Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/66",
-      "source_created_at": "2026-11-11T04:43:34Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/65",
-      "source_created_at": "2026-11-11T04:43:29Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/79",
-      "source_created_at": "2026-11-11T04:43:11Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/78",
-      "source_created_at": "2026-11-11T04:43:05Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_e29a886e7d6b41cd8a30 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/77",
-      "source_created_at": "2026-11-11T04:43:00Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_d09fd4a3b8384d3fb825 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/76",
-      "source_created_at": "2026-11-11T04:42:54Z",
-      "first_seen_at": "2026-11-11T06:13:37.126Z",
-      "last_seen_at": "2026-11-11T06:13:37.126Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/75",
-      "source_created_at": "2026-11-11T04:42:49Z",
       "first_seen_at": "2026-11-11T06:13:37.126Z",
       "last_seen_at": "2026-11-11T06:13:37.126Z",
       "status": "informativa",
