@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-15T18:50:07.159Z",
+  "generated_at": "2026-11-16T06:25:22.944Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -951,6 +951,52 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] stdlib.run_length tutorial",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/106",
+      "source_created_at": "2026-11-16T06:14:53Z",
+      "first_seen_at": "2026-11-16T06:25:22.224Z",
+      "last_seen_at": "2026-11-16T06:25:22.224Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "BOUNTY: integrate the RAEN Compliance Feed (signed $0.01 x402 certificates) into your indexer/crawler",
+      "url": "https://github.com/bshelby88/raen-bounties/issues/21",
+      "source_created_at": "2026-11-16T05:41:10Z",
+      "first_seen_at": "2026-11-16T06:25:22.224Z",
+      "last_seen_at": "2026-11-16T06:25:22.224Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 0.01,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2304,96 +2350,6 @@
     },
     {
       "source": "github",
-      "title": "[HackerNews] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "url": "https://github.com/SecOpsNews/news/issues/75727",
-      "source_created_at": "2026-10-28T08:41:44Z",
-      "first_seen_at": "2026-10-28T12:51:47.269Z",
-      "last_seen_at": "2026-10-28T12:51:47.269Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 1,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Release canary: double must multiply by two ($5 Squash bounty)",
-      "url": "https://github.com/DaltonTheDeveloper/squash-v2-canary-20261027/issues/1",
-      "source_created_at": "2026-10-28T03:57:48Z",
-      "first_seen_at": "2026-10-28T05:39:51.090Z",
-      "last_seen_at": "2026-10-28T05:39:51.090Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 5,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/53",
-      "source_created_at": "2026-10-28T05:03:16Z",
-      "first_seen_at": "2026-10-28T05:39:51.090Z",
-      "last_seen_at": "2026-10-28T05:39:51.090Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 250,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] Medium: Token-input private swaps omit phantom-note reconciliation before gas spend and fail to populate native SOL round-trip reshield status",
-      "url": "https://github.com/paraloom-labs/paraloom-wallet/issues/159",
-      "source_created_at": "2026-10-28T01:13:35Z",
-      "first_seen_at": "2026-10-28T05:39:51.090Z",
-      "last_seen_at": "2026-10-28T05:39:51.090Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[$2 site credit] Add a PHP example that lists open bounties",
       "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
       "source_created_at": "2026-11-12T13:11:22Z",
@@ -2435,6 +2391,30 @@
         "payment": false
       },
       "published_amount_usd": 1,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Low] Report sponsor effectively chooses whether and when its own price is accepted (101 wei settler bounty)",
+      "url": "https://github.com/AugurProject/zoltar/issues/1252",
+      "source_created_at": "2026-11-16T05:31:41Z",
+      "first_seen_at": "2026-11-16T06:25:22.224Z",
+      "last_seen_at": "2026-11-16T06:25:22.224Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3780,6 +3760,30 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "CLI: rerun and test say when they aren't running the bounty's pinned judge",
+      "url": "https://github.com/Vasqq/BounTEE/issues/80",
+      "source_created_at": "2026-11-12T14:21:18Z",
+      "first_seen_at": "2026-11-12T15:11:53.628Z",
+      "last_seen_at": "2026-11-12T15:11:53.628Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
