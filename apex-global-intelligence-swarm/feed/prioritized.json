@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-16T22:00:09.485Z",
+  "generated_at": "2026-11-17T07:52:39.750Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1156,
-    "descartar": 44,
+    "informativa": 1159,
+    "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -130,6 +130,54 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] XCM API: unlimited non-expiring API-key minting defeats the rate-limit model and grows the database without bound",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2557",
+      "source_created_at": "2026-11-17T06:55:35Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] SDK/API: location-form recipient bypasses all address validation — arbitrary fund-redirection beneficiary",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2556",
+      "source_created_at": "2026-11-17T06:52:30Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -950,6 +998,75 @@
         "payment": false
       },
       "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Grant Application - MORE-ZEC: Shielded Settlement Rails for the Agent Economy",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/574",
+      "source_created_at": "2026-11-17T06:46:21Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 50000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] stdlib.deque tutorial",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/150",
+      "source_created_at": "2026-11-17T07:35:38Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] stdlib.bitops tutorial",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/147",
+      "source_created_at": "2026-11-17T06:29:26Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2259,51 +2376,6 @@
     },
     {
       "source": "github",
-      "title": "💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/56",
-      "source_created_at": "2026-10-28T20:10:07Z",
-      "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-10-28T22:33:46.077Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 250,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Support: NVIDIA GeForce RTX 5060 Laptop GPU 8 GB (Blackwell) + $50 bounty request",
-      "url": "https://github.com/sybil-solutions/local-ai-registry/issues/370",
-      "source_created_at": "2026-10-28T18:46:47Z",
-      "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-10-28T22:33:46.077Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[$2 site credit] Add a PHP example that lists open bounties",
       "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
       "source_created_at": "2026-11-12T13:11:22Z",
@@ -2322,6 +2394,77 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] stdlib.heap tutorial",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/152",
+      "source_created_at": "2026-11-17T07:39:01Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Supply chain: shipped RPC endpoint list generated from mutable upstream branches with no pin or chain verification",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2559",
+      "source_created_at": "2026-11-17T06:58:47Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] CI: production deploy runs unpinned git pull of mutable main on a self-hosted runner (CI gate bypass)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2558",
+      "source_created_at": "2026-11-17T06:57:21Z",
+      "first_seen_at": "2026-11-17T07:52:38.912Z",
+      "last_seen_at": "2026-11-17T07:52:38.912Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3643,153 +3786,6 @@
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1757",
-      "source_created_at": "2026-11-12T23:29:04Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/99",
-      "source_created_at": "2026-11-12T23:30:55Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[radar] SN open bounty 2026-11-12T22:24",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1373",
-      "source_created_at": "2026-11-12T22:24:07Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "bounty: award/refund signing, recovery export, mandates and evaluation cancel do not do what doc/bounty-rpc.md promises",
-      "url": "https://github.com/btxchain/btx/issues/596",
-      "source_created_at": "2026-11-12T21:56:57Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[radar] SN open bounty 2026-11-12T21:16",
-      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1226",
-      "source_created_at": "2026-11-12T21:16:24Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1409",
-      "source_created_at": "2026-11-12T20:38:22Z",
-      "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-12T23:37:31.145Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
