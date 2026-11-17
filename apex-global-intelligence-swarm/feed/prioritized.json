@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-17T07:52:39.750Z",
+  "generated_at": "2026-11-17T20:54:07.550Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1159,
-    "descartar": 41,
+    "informativa": 1154,
+    "descartar": 46,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -130,6 +130,54 @@
         "payment": false
       },
       "published_amount_usd": 1000,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] /risk 500 on 1 daily return: reproducible fix + 4 regression tests",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/22",
+      "source_created_at": "2026-11-17T20:29:57Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] Finite positive weights overflow normalization into zero weights",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/14",
+      "source_created_at": "2026-11-17T19:39:19Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -929,15 +977,14 @@
     },
     {
       "source": "github",
-      "title": "[Bug bounty] XCM API ignores disableFallback in /origin-xcm-fee (sibling of #2179)",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2376",
-      "source_created_at": "2026-10-29T11:13:08Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "title": "[bounty] qgram tutorial for typo-tolerant search",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/176",
+      "source_created_at": "2026-11-17T20:44:44Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -947,24 +994,22 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 25,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1344",
-      "source_created_at": "2026-10-29T02:05:18Z",
-      "first_seen_at": "2026-10-29T05:45:44.027Z",
-      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "title": "[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370",
+      "source_created_at": "2026-11-17T19:54:34Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -972,24 +1017,22 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 450,
       "monetary_value_received": 0,
       "verified_payment": false
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1691",
-      "source_created_at": "2026-10-29T02:19:32Z",
-      "first_seen_at": "2026-10-29T05:45:44.027Z",
-      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "title": "[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369",
+      "source_created_at": "2026-11-17T19:54:33Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -997,7 +1040,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 600,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2354,13 +2397,13 @@
     },
     {
       "source": "github",
-      "title": "[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171",
-      "source_created_at": "2026-10-29T02:48:01Z",
-      "first_seen_at": "2026-10-29T05:45:44.027Z",
-      "last_seen_at": "2026-10-29T05:45:44.027Z",
+      "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/11",
+      "source_created_at": "2026-11-17T19:05:25Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
       "status": "informativa",
-      "priority": 82,
+      "priority": 79,
       "reasons": [
         "Sin enlace a bases de recompensa en el registro",
         "No cumple los criterios mínimos para priorización"
@@ -2370,7 +2413,73 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": 250,
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[API Integration] On-Chain Base Wallet Risk Sentinel & Stress-Test Auditor for AUREN /risk",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/20",
+      "source_created_at": "2026-11-17T20:02:31Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[API Integration] Autonomous Risk Guard & Portfolio De-Escalation Agent for AUREN /risk (Slot #5)",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/17",
+      "source_created_at": "2026-11-17T19:51:05Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[API Integration] MCP server for AUREN /risk (stdio tools + live demo)",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/15",
+      "source_created_at": "2026-11-17T19:41:43Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2394,6 +2503,103 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1428",
+      "source_created_at": "2026-11-17T20:28:08Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-11-17T20:02",
+      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1244",
+      "source_created_at": "2026-11-17T20:02:51Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Maths bounty] Reordering identical portfolio weights changes the risk score from 20 (Low) to 35 (Medium)",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/16",
+      "source_created_at": "2026-11-17T19:48:52Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] Sector-concentration rule groups by risk group, not industry: 100% semiconductor book scores 35 (Medium) and takes a -25% chip shock",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/12",
+      "source_created_at": "2026-11-17T19:07:24Z",
+      "first_seen_at": "2026-11-17T20:54:06.877Z",
+      "last_seen_at": "2026-11-17T20:54:06.877Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3561,225 +3767,6 @@
       "source_created_at": "2026-11-13T19:14:05Z",
       "first_seen_at": "2026-11-13T19:39:48.203Z",
       "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1412",
-      "source_created_at": "2026-11-13T17:29:38Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "eBay France : Jeu vidéo - King's Bounty II - Collector Edition - A renseigner - Playstation 4",
-      "url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/110603",
-      "source_created_at": "2026-11-13T19:15:29Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Map image in Milestone Event and Bounty",
-      "url": "https://github.com/germanalvarez15/nfsmw-vita/issues/154",
-      "source_created_at": "2026-11-13T17:53:29Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Bifrost routed transfer can exceed the swap’s minimum output",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2510",
-      "source_created_at": "2026-11-13T17:36:55Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] SDK (PAPI): sends funds to a different account when a 0x recipient has the wrong length",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2509",
-      "source_created_at": "2026-11-13T17:34:59Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/100",
-      "source_created_at": "2026-11-13T05:52:25Z",
-      "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 17 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1758",
-      "source_created_at": "2026-11-13T05:44:37Z",
-      "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "triage the non-blocking findings from the review of glunk-works/bounty-infra#202 at 9e54011ce424",
-      "url": "https://github.com/glunk-works/bounty-infra/issues/203",
-      "source_created_at": "2026-11-13T05:40:41Z",
-      "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Submission: widespread — verified-work bounty markets",
-      "url": "https://github.com/cline/mcp-marketplace/issues/3757",
-      "source_created_at": "2026-11-13T04:56:25Z",
-      "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-13T06:42:34.139Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
