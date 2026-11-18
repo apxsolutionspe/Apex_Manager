@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-18T07:25:25.829Z",
+  "generated_at": "2026-11-18T20:29:10.937Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1155,
-    "descartar": 45,
+    "informativa": 1156,
+    "descartar": 44,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -880,18 +880,16 @@
     },
     {
       "source": "github",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1696",
-      "source_created_at": "2026-10-29T21:38:42Z",
-      "first_seen_at": "2026-10-29T22:44:40.509Z",
-      "last_seen_at": "2026-10-29T22:44:40.509Z",
+      "title": "[bounty] stdlib.merkle tutorial",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/198",
+      "source_created_at": "2026-11-18T20:21:27Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -899,7 +897,30 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "DAO proposal #335 filed for the omni.bridge replay — 10% bounty ($200k) to execute",
+      "url": "https://github.com/frolvanya/omni-rebalancer/issues/2",
+      "source_created_at": "2026-11-18T19:49:38Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 82,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 200,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2256,52 +2277,6 @@
     },
     {
       "source": "github",
-      "title": "Conflicting Security Policies: No Bug Bounty vs. Advertised Rewards ($50k)",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/issues/1232",
-      "source_created_at": "2026-10-29T20:18:07Z",
-      "first_seen_at": "2026-10-29T22:44:40.509Z",
-      "last_seen_at": "2026-10-29T22:44:40.509Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Grant Application - Zynova: Online Zcash Privacy Education and Adoption Programme",
-      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/522",
-      "source_created_at": "2026-10-29T20:24:47Z",
-      "first_seen_at": "2026-10-29T22:44:40.509Z",
-      "last_seen_at": "2026-10-29T22:44:40.509Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50000,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
       "url": "https://github.com/Ayush441-python/AUREN/issues/11",
       "source_created_at": "2026-11-17T19:05:25Z",
@@ -2408,6 +2383,151 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Test stored `Bounty` fields after funding",
+      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/80",
+      "source_created_at": "2026-11-18T20:06:57Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Let a maintainer revoke `relayer_allowed` on an open bounty",
+      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/73",
+      "source_created_at": "2026-11-18T19:59:30Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1431",
+      "source_created_at": "2026-11-18T19:58:52Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Create the four missing bounty repositories",
+      "url": "https://github.com/wallyben/makefun-token-radar/issues/1",
+      "source_created_at": "2026-11-18T18:55:39Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Index the bounty text search",
+      "url": "https://github.com/Soroban-escrow/escrow-app/issues/110",
+      "source_created_at": "2026-11-18T20:23:50Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Test that the admin cannot move bounty funds directly",
+      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/82",
+      "source_created_at": "2026-11-18T20:09:06Z",
+      "first_seen_at": "2026-11-18T20:29:09.957Z",
+      "last_seen_at": "2026-11-18T20:29:09.957Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3655,126 +3775,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Swap execute-path: ExchangeAsset sets maximal: false without separate feeAsset, permanently trapping unspent input funds in PolkadotXcm.AssetTrap",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2521",
-      "source_created_at": "2026-11-14T03:58:08Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] AssetHubExchange.swapCurrency deducts toDestFeeCurrencyTo from amountOut for non-native target assets",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2528",
-      "source_created_at": "2026-11-14T04:22:56Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] verifyEdOnDestinationInternal ignores originFee for single-asset PolkadotXcm.execute transfers",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2527",
-      "source_created_at": "2026-11-14T04:22:54Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] getXcmFee / getTransferInfo double-counts edDeposit when buildTx() already embeds ED swap instructions",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2526",
-      "source_created_at": "2026-11-14T04:22:53Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Execute-path transfer: createDirectExecuteXcm omits depositFeeAsset, permanently trapping leftover feeAsset in PolkadotXcm.AssetTrap",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2525",
-      "source_created_at": "2026-11-14T04:22:51Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
