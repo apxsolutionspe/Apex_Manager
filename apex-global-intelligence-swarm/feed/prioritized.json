@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-17T20:54:07.550Z",
+  "generated_at": "2026-11-18T07:25:25.829Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1154,
-    "descartar": 46,
+    "informativa": 1155,
+    "descartar": 45,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -905,15 +905,14 @@
     },
     {
       "source": "github",
-      "title": "bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Balancing Engine",
-      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4116",
-      "source_created_at": "2026-10-29T12:14:48Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
+      "title": "[BOUNTY: 2,500 EQX] Connect On-Chain AMM DEX (dex.rs) & Dividend Pool UI for Micro-LP Farmers",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/3",
+      "source_created_at": "2026-11-18T06:22:39Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
       "status": "informativa",
-      "priority": 85,
+      "priority": 82,
       "reasons": [
-        "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
@@ -923,55 +922,7 @@
         "ownership": false,
         "payment": false
       },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook Execution for Automated Deflection",
-      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115",
-      "source_created_at": "2026-10-29T12:14:44Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] SDK: destination paymentInfo fee (native token) is labelled with the transferred asset, so verifyEdOnDestination / getTransferInfo / getMinTransferableAmount subtract it in the wrong decimals",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2375",
-      "source_created_at": "2026-10-29T11:12:07Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
+      "published_amount_usd": 20,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2351,52 +2302,6 @@
     },
     {
       "source": "github",
-      "title": "[BOUNTY] High: Soundness & Validation Gaps in Mainnet Ceremony Cutover Pipeline (zkey_json_to_arkworks, circom_reduction, and r1cs_export)",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1277",
-      "source_created_at": "2026-10-29T11:53:12Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[BOUNTY] High: Soundness & Validation Gaps in Mainnet Ceremony Cutover Pipeline (zkey_json_to_arkworks, circom_reduction, and r1cs_export)",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1276",
-      "source_created_at": "2026-10-29T11:47:11Z",
-      "first_seen_at": "2026-10-29T12:58:20.708Z",
-      "last_seen_at": "2026-10-29T12:58:20.708Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 300,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
       "url": "https://github.com/Ayush441-python/AUREN/issues/11",
       "source_created_at": "2026-11-17T19:05:25Z",
@@ -2503,6 +2408,222 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY: 3,000 EQX] Implement Air-Gapped Offline QR Transaction Signing in Flutter Mobile Wallet",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/4",
+      "source_created_at": "2026-11-18T06:23:19Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY: 1,500 EQX] Build Mobile QR Scanner & Audio Alert for Merchant POS Mode",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/2",
+      "source_created_at": "2026-11-18T06:21:34Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-11-18T04:09",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1411",
+      "source_created_at": "2026-11-18T04:09:32Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-11-18T07:06",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1413",
+      "source_created_at": "2026-11-18T07:06:56Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bug bounty: both documented private reporting channels are broken (GitHub PVR not enabled, security email domain does not resolve)",
+      "url": "https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/1395",
+      "source_created_at": "2026-11-18T06:58:55Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "bug bounty program",
+      "url": "https://github.com/23andMe/Yamale/issues/296",
+      "source_created_at": "2026-11-18T05:48:03Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Gate the abilities in a Spacecraft's last station striation on its threshold (Debris Field Crusher, H.M.S. Bounty, Infinite Guideline Station)",
+      "url": "https://github.com/parun-mtg/parun/issues/8576",
+      "source_created_at": "2026-11-18T04:26:33Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[BOUNTY: 1,000 EQX] Public Testnet Node Runner & ASERT PoW Stress-Test Challenge (Chain ID: 9333)",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/1",
+      "source_created_at": "2026-11-18T06:14:26Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] Timestamp delta-of-delta decoding adds or drops a sample on short columns",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/184",
+      "source_created_at": "2026-11-18T05:48:28Z",
+      "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-18T07:25:24.971Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3648,125 +3769,6 @@
       "source_created_at": "2026-11-14T04:22:51Z",
       "first_seen_at": "2026-11-14T06:19:30.342Z",
       "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] XCM SDK (Dedot version): Builder.dryRun() fails with opaque \"[object ErrorEvent]\" on BifrostPolkadot → Hydration while the PAPI version returns the structured dry-run verdict for the identical call",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2523",
-      "source_created_at": "2026-11-14T04:09:13Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] sign-and-submit returns 500 on every transfer and leaks the raw dispatch error struct — signAndSubmit lacks the error normalisation its sibling performs",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2519",
-      "source_created_at": "2026-11-14T02:54:23Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] xcm-analyser accepts wrong-length hex for AccountId32 / AccountKey20 junctions",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2518",
-      "source_created_at": "2026-11-14T02:47:50Z",
-      "first_seen_at": "2026-11-14T06:19:30.342Z",
-      "last_seen_at": "2026-11-14T06:19:30.342Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "v1.13.1: gate fixes from the first bounty field run",
-      "url": "https://github.com/0x41io/monomi/issues/19",
-      "source_created_at": "2026-11-13T19:21:51Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Replace automatic bounty placement with authored Unity markers",
-      "url": "https://github.com/jneb802/MoreWorldLocations_All/issues/158",
-      "source_created_at": "2026-11-13T19:14:05Z",
-      "first_seen_at": "2026-11-13T19:39:48.203Z",
-      "last_seen_at": "2026-11-13T19:39:48.203Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
