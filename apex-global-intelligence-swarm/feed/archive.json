@@ -1,27 +1,12 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-18T20:29:09.957Z",
+  "updated_at": "2026-11-19T07:22:36.020Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
   },
   "description": "Historial limitado de señales públicas no verificadas, no saldos ni activos adquiridos.",
   "items": [
-    {
-      "source": "hackernews",
-      "external_id": "50066063",
-      "title": "When to Use Vulnerability Assessments, Pentesting, Red Teams, and Bug Bounties",
-      "url": "https://danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
-      "evidence": "",
-      "source_created_at": "2026-10-13T03:02:55Z",
-      "opp_type": "bug_bounty",
-      "score": 3,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
-      "first_seen_at": "2026-10-13T17:27:00.159Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
-    },
     {
       "source": "hackernews",
       "external_id": "50122920",
@@ -35,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "words.filippo.io/seeds-solved",
       "first_seen_at": "2026-10-16T21:06:13.451Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "canaryguard-402.onrender.com/bounty.html",
       "first_seen_at": "2026-10-19T13:11:29.375Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Dr-Logvinovich/round-square/blob/main/README.md",
       "first_seen_at": "2026-11-08T22:02:03.652Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "propublica.org/article/election-challenge-forsyth-county-georgia",
       "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bathrooms.lacontroller.app",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "thebanner.com/education/k-12-schools/county-schools-artificial-intelligence-453DCFYJL5CDBAM4AY3NYY4ILU",
       "first_seen_at": "2026-11-15T18:50:06.556Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
       "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "salary-statistics.netlify.app/us",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-18T20:29:09.957Z"
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
     },
     {
       "source": "hackernews",
@@ -290,6 +275,501 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bloomberg.com/news/articles/2026-11-18/south-korea-proposes-75-000-bounties-to-catch-ai-exam-cheats",
       "first_seen_at": "2026-11-18T07:25:24.971Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50424404",
+      "title": "19 years old college student wins court election to one of the largest county",
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
+      "evidence": "",
+      "source_created_at": "2026-11-09T11:59:28Z",
+      "opp_type": "otro",
+      "score": 10,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
+      "first_seen_at": "2026-11-09T22:19:44.326Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50326801",
+      "title": "California county deploys autonomous 500-gallon foam drones to fight wildfires",
+      "url": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+      "evidence": "",
+      "source_created_at": "2026-11-01T15:56:30Z",
+      "opp_type": "otro",
+      "score": 12,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+      "first_seen_at": "2026-11-01T21:59:59.318Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50172448",
+      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "evidence": "",
+      "source_created_at": "2026-10-20T20:46:55Z",
+      "opp_type": "otro",
+      "score": 18,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+      "first_seen_at": "2026-10-20T21:36:21.115Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50202599",
+      "title": "Amazon won't build data centers in Loudoun County in deal with local leaders",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders/",
+      "evidence": "",
+      "source_created_at": "2026-10-22T23:36:50Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
+      "first_seen_at": "2026-10-23T04:47:07.103Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50163743",
+      "title": "Show HN: Family quality-of-life score for every US county (108 indicators)",
+      "url": "https://tryanalisa.com/explore",
+      "evidence": "",
+      "source_created_at": "2026-10-20T10:05:58Z",
+      "opp_type": "otro",
+      "score": 13,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "tryanalisa.com/explore",
+      "first_seen_at": "2026-10-20T11:34:23.667Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50359259",
+      "title": "NTSB Officials Offer New Details on Deadly Palm Beach County Jet Crash [video]",
+      "url": "https://www.youtube.com/watch?v=Da4AfZxmScU",
+      "evidence": "",
+      "source_created_at": "2026-11-03T22:40:05Z",
+      "opp_type": "otro",
+      "score": 11,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
+      "first_seen_at": "2026-11-03T23:21:29.918Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483970459",
+      "title": "Build on-chain work-proof verifier with challenger bounty flow",
+      "url": "https://github.com/Smartdevs17/agenticpay/issues/1329",
+      "evidence": "## Context This capability is core product surface for this repo. Shipping it fills a user-visible gap users currently cannot route around. ## Current Limitation The functionality named in the title is either absent or so partially implemented that consumers must work around it. The workaround is lossy or risky enough to justify the dedicated issue. ## Expected Outcome - Ship a focused, production-ready implementation that addresses the issue in one wave. - Cover the happy path and the realistic failure modes with tests. - Leave the repo readab",
+      "source_created_at": "2026-11-19T06:39:23Z",
+      "opp_type": "bounty_codigo",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Smartdevs17/agenticpay/issues/1329",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483090468",
+      "title": "SBB-2026-495 [TEST] Verify Testnet deployment configuration from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1964",
+      "evidence": "## Context `Testnet deployment configuration` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Add deterministic fixtures for contract ID, network passphrase, and arbiter address and mainnet passphrase paired with a testnet contract ID. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Tests assert startup fails before signing or moving funds",
+      "source_created_at": "2026-11-19T05:30:06Z",
+      "opp_type": "subvencion",
+      "score": 39,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1964",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483099185",
+      "title": "SBB-2026-500 [TEST] Verify Webhook secret rotation from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1969",
+      "evidence": "## Context `Webhook secret rotation` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `docs/` and follow the actual implementation and tests. - Add deterministic fixtures for a transition where old and new secrets overlap and a delivery signed with a revoked secret. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Tests assert bounded rotation window and verifiable signatures without live funds. - Add",
+      "source_created_at": "2026-11-19T05:30:54Z",
+      "opp_type": "subvencion",
+      "score": 38,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1969",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483094842",
+      "title": "SBB-2026-497 [RELIABILITY] Make Webhook secret rotation reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1966",
+      "evidence": "## Context `Webhook secret rotation` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `docs/` and follow the actual implementation and tests. - Handle a delivery signed with a revoked secret with a clear stop and recovery path. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Repeated runs preserve bounded rotation window and verifiable signatures. - Add or update focused tests and documentation for o",
+      "source_created_at": "2026-11-19T05:30:29Z",
+      "opp_type": "subvencion",
+      "score": 38,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1966",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483098081",
+      "title": "SBB-2026-499 [DOCS] Explain Webhook secret rotation outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1968",
+      "evidence": "## Context `Webhook secret rotation` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `docs/` and follow the actual implementation and tests. - Document how to inspect and resolve a delivery signed with a revoked secret. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - The runbook explains bounded rotation window and verifiable signatures and observable failure signals. - Add or update focused tests a",
+      "source_created_at": "2026-11-19T05:30:48Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1968",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483096977",
+      "title": "SBB-2026-498 [CONFIG] Validate Webhook secret rotation setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1967",
+      "evidence": "## Context `Webhook secret rotation` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `docs/` and follow the actual implementation and tests. - Validate network, identity, and environment inputs relevant to a transition where old and new secrets overlap. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Invalid setup fails before signing or transferring tokens. - Add or update focused tests and documen",
+      "source_created_at": "2026-11-19T05:30:41Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1967",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483092694",
+      "title": "SBB-2026-496 [TOOLING] Define Webhook secret rotation inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1965",
+      "evidence": "## Context `Webhook secret rotation` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `docs/` and follow the actual implementation and tests. - Document the expected result for a transition where old and new secrets overlap. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - A maintainer can reproduce bounded rotation window and verifiable signatures from a clean checkout. - Add or update focused tests ",
+      "source_created_at": "2026-11-19T05:30:18Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1965",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483088374",
+      "title": "SBB-2026-494 [DOCS] Explain Testnet deployment configuration outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1963",
+      "evidence": "## Context `Testnet deployment configuration` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Document how to inspect and resolve mainnet passphrase paired with a testnet contract ID. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - The runbook explains startup fails before signing or moving funds and observable failure signals. - Add or up",
+      "source_created_at": "2026-11-19T05:29:54Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1963",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483086161",
+      "title": "SBB-2026-493 [CONFIG] Validate Testnet deployment configuration setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1962",
+      "evidence": "## Context `Testnet deployment configuration` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Validate network, identity, and environment inputs relevant to contract ID, network passphrase, and arbiter address. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Invalid setup fails before signing or transferring tokens. - Add or update focused",
+      "source_created_at": "2026-11-19T05:29:43Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1962",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483084028",
+      "title": "SBB-2026-492 [RELIABILITY] Make Testnet deployment configuration reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1961",
+      "evidence": "## Context `Testnet deployment configuration` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Handle mainnet passphrase paired with a testnet contract ID with a clear stop and recovery path. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Repeated runs preserve startup fails before signing or moving funds. - Add or update focused tests and",
+      "source_created_at": "2026-11-19T05:29:31Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1961",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483082851",
+      "title": "SBB-2026-491 [TOOLING] Define Testnet deployment configuration inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1960",
+      "evidence": "## Context `Testnet deployment configuration` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Document the expected result for contract ID, network passphrase, and arbiter address. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - A maintainer can reproduce startup fails before signing or moving funds from a clean checkout. - Add or update f",
+      "source_created_at": "2026-11-19T05:29:24Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1960",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483081699",
+      "title": "SBB-2026-490 [TEST] Verify Local test data seeding from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1959",
+      "evidence": "## Context `Local test data seeding` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Add deterministic fixtures for open, reserved, submitted, disputed, and refunded fixtures and seed rerun after partial JSON output. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Tests assert deterministic IDs and valid status histories without live funds",
+      "source_created_at": "2026-11-19T05:29:18Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1959",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483080545",
+      "title": "SBB-2026-489 [DOCS] Explain Local test data seeding outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1958",
+      "evidence": "## Context `Local test data seeding` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Document how to inspect and resolve seed rerun after partial JSON output. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - The runbook explains deterministic IDs and valid status histories and observable failure signals. - Add or update focused tests and do",
+      "source_created_at": "2026-11-19T05:29:11Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1958",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483079394",
+      "title": "SBB-2026-488 [CONFIG] Validate Local test data seeding setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1957",
+      "evidence": "## Context `Local test data seeding` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Validate network, identity, and environment inputs relevant to open, reserved, submitted, disputed, and refunded fixtures. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Invalid setup fails before signing or transferring tokens. - Add or update focused te",
+      "source_created_at": "2026-11-19T05:29:05Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1957",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483078265",
+      "title": "SBB-2026-487 [RELIABILITY] Make Local test data seeding reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1956",
+      "evidence": "## Context `Local test data seeding` is part of Stellar Bounty Board's funding, reservation, submission, or payout flow. Confirm existing behavior and linked work first. ## Scope - Start in `scripts/` and follow the actual implementation and tests. - Handle seed rerun after partial JSON output with a clear stop and recovery path. - Preserve unrelated behavior and do not use live funds in tests. ## Acceptance criteria - Repeated runs preserve deterministic IDs and valid status histories. - Add or update focused tests and documentation for observ",
+      "source_created_at": "2026-11-19T05:28:59Z",
+      "opp_type": "subvencion",
+      "score": 37,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/ritik4ever/stellar-bounty-board/issues/1956",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6484441857",
+      "title": "[Medium] statechain replay() applies stored blocks without ValidateOp/validateTransition — an op the live path rejects is admitted on restart",
+      "url": "https://github.com/xeprotocol/xe/issues/849",
+      "evidence": "# [Medium] statechain `replay()` applies stored blocks without `ValidateOp`/`validateTransition` — an op the live path rejects is admitted on restart **Track:** XE Bounty — statechain / node lifecycle **Repo / HEAD:** `xeprotocol/xe` @ `2c5ed5a` (live testnet-0006 build; `master` @ `89a542e` verified same code path). Local `MemStore` harness, no testnet contact. **Suggested tier:** Medium (ceiling 2,500 XE) — \"Validation gaps\" per `/scope`. Open to a Minor assessment if the desk judges the trigger narrow; the reasoning is at the end. --- ## Sum",
+      "source_created_at": "2026-11-19T07:13:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/849",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483888497",
+      "title": "Caretaker finding: Fast follower of print line-factory-baked-demo-qxi: GitHub issue 8thligh",
+      "url": "https://github.com/8thlight/lantern-line-factory-baked-demo/issues/36",
+      "evidence": "Fast follower of print line-factory-baked-demo-qxi: GitHub issue 8thligh Abandoned in a row: 1 for train-wreck; 34 model call(s), $0.00 metered, across those prints of this ask. Print line-factory-baked-demo-qxi was retired by the fail-forward skill, so it delivered nothing: this follower carries the print's work in full (the operator, 2026-10-15: \"it may retire a print\"). Why: train-wreck: main@62a48eb resolves cleanly with bounty beside health and gold paid per dead ghost (75/79 green), but the locked reproducer test/gold.test.js assumes one-",
+      "source_created_at": "2026-11-19T06:32:58Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/8thlight/lantern-line-factory-baked-demo/issues/36",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483187084",
+      "title": "[BUG] [Info] TESTING_GUIDE references scripts and files that do not exist",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/158",
+      "evidence": "## Bug Description **What did you find?** The official testing guide (`TESTING_GUIDE.md`) presents commands and files a researcher is expected to run — but the artifacts do not exist in either repository. ## Where is it? - Repo: `rroland10/dex223-bug-bounty`, file `TESTING_GUIDE.md` - `TESTING_GUIDE.md:85` (\"Web Application Scanner\"): `python scripts/web_scanner.py` - `TESTING_GUIDE.md:94` (\"Custom API tests\"): `python scripts/api_tests.py` - `TESTING_GUIDE.md:91` (\"Postman collection\"): `dex223-api-tests.postman_collection.json` (\"Import: …\") ",
+      "source_created_at": "2026-11-19T05:38:26Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/158",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483182581",
+      "title": "[BUG] [Info] The Nov 18 doc-fix round (#144–#147) missed .github/ — the removed contradictions survive in the templates",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/157",
+      "evidence": "## Bug Description **What did you find?** The November 18 documentation fix round (#144–#147) fixed the contradictions in the 7 main program documents — but it missed `.github/` entirely. `.github/README.md` and the bug-report template still carry the exact contradictions #144–#147 claimed to have removed, on the very page every reporter lands on when filing. ## Where is it? - Repo: `rroland10/dex223-bug-bounty`, files `.github/README.md` and `.github/ISSUE_TEMPLATE/bug-report.md` - `.github/README.md:49` (+ `bug-report.md:58`): \"Security Notes",
+      "source_created_at": "2026-11-19T05:38:02Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/rroland10/dex223-bug-bounty/issues/157",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6484355784",
+      "title": "[wildcard] Measure Spike 6's claimed rustc-translation loss: a CI-only shadow-Rust oracle for Tier-0 ownership (W-023's missing half)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4586",
+      "evidence": "### The idea, in a paragraph Spike 6 decided that delegating ownership checking to rustc is too lossy, and kept rustc as an optional CI-only shadow oracle (SPEC §14.5 / O16, `spikes/spike6-ownership/RESULTS.md:256-261`). That loss was never measured: the same results file says the Rust encodings were \"rule-traced; not compiled\" (`RESULTS.md:317-318`), and nothing under `tools/` or CI runs rustc except as a version probe. I propose to **measure the loss**. Build a small shadow-Rust translator for the Rust-expressible core of Tier-0, run it again",
+      "source_created_at": "2026-11-19T07:07:37Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/4586",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483942085",
+      "title": "7.42: removed items (Helm of the Overlord, Khanda) still in hero item builds",
+      "url": "https://github.com/anggara-ts/OpenHyperAI-too/issues/105",
+      "evidence": "**Source:** patch 7.42 review (live 2026-11-18), Valve patch notes feed (`patchnotes` datafeed): \"Item removed from the game\" for Helm of the Overlord, Angel's Demise (shown in game as Khanda) and Javelin. **Priority: P1 critical, top priority today.** The patch is live; five heroes still list items that no longer exist, so their buy lists can stall or end early. **Rule decided by the maintainer:** remove the dead item from the builds. Also do not buy ingredients that only existed to upgrade to it. A finished item that is useful on its own stay",
+      "source_created_at": "2026-11-19T06:37:09Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/anggara-ts/OpenHyperAI-too/issues/105",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6484224683",
+      "title": "[Minor] Malicious sync peer can suppress chosen accounts from a victim's sync frontier via unverified `Rejected[]`",
+      "url": "https://github.com/xeprotocol/xe/issues/842",
+      "evidence": "## Suggested severity: Minor **Minor, honestly:** the effect is per-peer only — the victim can still sync the suppressed accounts from other peers and via gossip, so this is a targeted degradation, not a network-wide stall. The worst case is a victim peered only with (or mainly reliant on) the attacker, where chosen account activity is hidden from it. The trigger costs only 3 sync rounds and no stake, key, or special position. ## Summary `net/sync.go` `findMissingBlocksPaginated` puts any account name into `SyncResponse.Rejected` with no verifi",
+      "source_created_at": "2026-11-19T06:57:55Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/842",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6484199143",
+      "title": "[High] Degenerate all-zero ed25519 public key: keyless representative can finalize conflicting blocks (signature forged by grinding, no private key)",
+      "url": "https://github.com/xeprotocol/xe/issues/841",
+      "evidence": "## Suggested severity: High (conditional — see caveat) **High, with an explicit precondition that triage should weigh:** the conflicting-finalization outcome below requires vote weight to have been delegated to the all-zero-key account. That delegation is unilateral — any stakeholder can delegate their own stake to that account without any consent, signature, or key from the \"representative\" — but if triage considers that precondition too weak, a downgrade to Medium is reasonable and I will not dispute it. The underlying defect (a degenerate pu",
+      "source_created_at": "2026-11-19T06:56:04Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/841",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483903083",
+      "title": "Feedback: Status indicator constantly flickering",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1060",
+      "evidence": "In slave camps, where your hunger is constantly flickering between 99 and 100, the status indicator constantly flickers between starving, and normal (or starving and wounded, in my instance). if starving was set to happen at 100 instead of 99, that could be a fix to the issue. | Meitou version | Platform | Data files | |---|---|---| | `v0.22.1` (`9ee4074bb`) | linux | 45 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]----------[UI, Graphics, Performance]----------.mod`](https://steamcommunity.com/s",
+      "source_created_at": "2026-11-19T06:34:07Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1060",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6483869423",
+      "title": "Feedback: Rebirth characters have \"Moving\" goal instead of \"Worker\" and are constantly walking around.",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1059",
+      "evidence": "In rebirth (and possibly other slave labor camps), i noticed slaves seem to be constantly having the 'moving' goal, and are endlessly walking, while only a few actually work. my save, currently, the character is about to walk into the same spot someone else is working at, which multiple characters do, and constantly just walk, without doing anything. | Meitou version | Platform | Data files | |---|---|---| | `v0.22.1` (`9ee4074bb`) | linux | 45 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]-------",
+      "source_created_at": "2026-11-19T06:31:26Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1059",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50555181",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "evidence": "",
+      "source_created_at": "2026-11-19T02:06:29Z",
+      "opp_type": "otro",
+      "score": 21,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z"
+    },
+    {
+      "source": "hackernews",
+      "external_id": "50066063",
+      "title": "When to Use Vulnerability Assessments, Pentesting, Red Teams, and Bug Bounties",
+      "url": "https://danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
+      "evidence": "",
+      "source_created_at": "2026-10-13T03:02:55Z",
+      "opp_type": "bug_bounty",
+      "score": 3,
+      "link_check": "formato_url_valido",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-team-bug-bounties",
+      "first_seen_at": "2026-10-13T17:27:00.159Z",
       "last_seen_at": "2026-11-18T20:29:09.957Z"
     },
     {
@@ -756,96 +1236,6 @@
       "dedupe_key": "github.com/FuRongJun-1999/dsh-bounty/issues/2746",
       "first_seen_at": "2026-11-18T20:29:09.957Z",
       "last_seen_at": "2026-11-18T20:29:09.957Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50424404",
-      "title": "19 years old college student wins court election to one of the largest county",
-      "url": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
-      "evidence": "",
-      "source_created_at": "2026-11-09T11:59:28Z",
-      "opp_type": "otro",
-      "score": 10,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
-      "first_seen_at": "2026-11-09T22:19:44.326Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50326801",
-      "title": "California county deploys autonomous 500-gallon foam drones to fight wildfires",
-      "url": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
-      "evidence": "",
-      "source_created_at": "2026-11-01T15:56:30Z",
-      "opp_type": "otro",
-      "score": 12,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
-      "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50172448",
-      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
-      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "evidence": "",
-      "source_created_at": "2026-10-20T20:46:55Z",
-      "opp_type": "otro",
-      "score": 18,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50202599",
-      "title": "Amazon won't build data centers in Loudoun County in deal with local leaders",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders/",
-      "evidence": "",
-      "source_created_at": "2026-10-22T23:36:50Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
-      "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50163743",
-      "title": "Show HN: Family quality-of-life score for every US county (108 indicators)",
-      "url": "https://tryanalisa.com/explore",
-      "evidence": "",
-      "source_created_at": "2026-10-20T10:05:58Z",
-      "opp_type": "otro",
-      "score": 13,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "tryanalisa.com/explore",
-      "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
-    },
-    {
-      "source": "hackernews",
-      "external_id": "50359259",
-      "title": "NTSB Officials Offer New Details on Deadly Palm Beach County Jet Crash [video]",
-      "url": "https://www.youtube.com/watch?v=Da4AfZxmScU",
-      "evidence": "",
-      "source_created_at": "2026-11-03T22:40:05Z",
-      "opp_type": "otro",
-      "score": 11,
-      "link_check": "formato_url_valido",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
-      "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-18T07:25:24.971Z"
     },
     {
       "source": "github",
@@ -17616,399 +18006,70 @@
       "dedupe_key": "github.com/anthropics/claude-code/issues/106181",
       "first_seen_at": "2026-10-30T12:52:39.345Z",
       "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116260002",
-      "title": "💡 Bounty Platform for Prometheus",
-      "url": "https://github.com/WyattLeoz/cs467-a3-prometheus-triage/issues/147",
-      "evidence": "Hi Prometheus team! 👋 I wanted to share **Roxonn** - a decentralized bounty platform to help accelerate development. **What is Roxonn?** ✅ Fund GitHub issues with crypto bounties (XDC, USDC, ROXN) ✅ Notify 300+ developers ✅ Auto-pay when PRs merge ✅ Zero crypto setup needed **Flow:** 1. Register repo (GitHub App) 2. Fund pool with USDC 3. Assign bounties 4. PR → payment automatic **Benefits:** - Developer network - **0.5% platform fee** - Transparent blockchain Learn: **https://roxonn.com** *Sharing a resource!*",
-      "source_created_at": "2026-10-30T09:05:46Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/WyattLeoz/cs467-a3-prometheus-triage/issues/147",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6115659394",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1699",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-30 08:17 UTC #### 1. [axios-0.25.0.tgz: 33 vulnerabilities (highest severity is: 9.3)](https://github.com/AlaoddineYaden/react-fastapi-glasses-website/issues/19) - **Repository:** [AlaoddineYaden/react-fastapi-glasses-website](https://github.com/AlaoddineYaden/react-fastapi-glasses-website) - **Comments:** 0 - **Last Updated:** 2026-10-30T08:16:34Z #### 2. [[ Bounty $8k ] [ SDK ] Fix session token in localStorage with no expiry check](https://github.com/ClankerNation/OpenAgents/issues/25) - ",
-      "source_created_at": "2026-10-30T08:17:30Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1699",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6115482058",
-      "title": "🎯 Bounty Alert: 9 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1353",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-30 08:03 UTC #### 1. [[每日信息流] 2026-10-30](https://github.com/ruohong2018/ruohong2018.github.io/issues/1360) - **Repository:** [ruohong2018/ruohong2018.github.io](https://github.com/ruohong2018/ruohong2018.github.io) - **Comments:** 0 - **Last Updated:** 2026-10-30T08:00:11Z #### 2. [[每日信息流] 2026-10-30](https://github.com/chainreactors/picker/issues/1410) - **Repository:** [chainreactors/picker](https://github.com/chainreactors/picker) - **Comments:** 0 - **Last Updated:** 2026-10-30T07:57:47",
-      "source_created_at": "2026-10-30T08:03:16Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1353",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6117026433",
-      "title": "Confirm community scope; Slop artifact review remains incomplete",
-      "url": "https://github.com/alextitonis/fly.ai/issues/39",
-      "evidence": "Slopbot is installed for this repository. The latest Slop security scan completed with an **incomplete** result, so the [community project](https://slop.cash/projects/fly-ai) remains paused. The monthly pool is **zero**; this is not a new bounty or a promise of payment. The scan has not completed analysis of 12 committed artifacts: six WebAssembly example binaries and six connectome data files. At the reviewed commit `c14cdad7f55b61a8a10d665dddd03e5cd5c2acdb`, the example source and [build instructions](https://github.com/alextitonis/fly.ai/blo",
-      "source_created_at": "2026-10-30T10:02:56Z",
-      "opp_type": "bug_bounty",
-      "score": 33,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/alextitonis/fly.ai/issues/39",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116789635",
-      "title": "Research: a paid listing for fixes, not only for finding bugs",
-      "url": "https://github.com/commonworld-one/commonworld/issues/263",
-      "evidence": "Our first bug bounty (1F916 listing 60) paid points for finding bugs: a confirmed bug, reported in your own issue. It worked well, and it also showed something we did not plan for: fixing is a separate kind of work, and it deserves its own place. During listing 60, @arturbarszcz78 sent 13 pull requests that fixed bugs other hunters had found. All 13 are merged and live. Under the listing rules they earn no points, because that listing counts finds, and the finders keep their points. We think both kinds of work matter. Idea to explore (research,",
-      "source_created_at": "2026-10-30T09:45:27Z",
-      "opp_type": "bug_bounty",
-      "score": 32,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/commonworld-one/commonworld/issues/263",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6118807250",
-      "title": "Mercenary goal cannot start at rank zero",
-      "url": "https://github.com/dseelinger/d47/issues/1929",
-      "evidence": "A Goals story that lists `rank.soldier` never draws a Mercenary chapter for a Commander below Soldier rank 2. `GoalClimb.Next` (`src/D47.Core/Goals/GoalClimb.cs`) takes the unfinished arc with the lowest fraction, and `Step` returns null when no drawable row `Earns` that ladder. For `\"Soldier\"`, `Earns` accepts only the on-foot combat mission families (`SoldierMissions`), and `ChapterActivities.Mission` gates every one of them on `ActivityGate.SoldierDanger`, which `ChapterActivities.Held` grants only at `SoldierRankNeeded` (2). At rank 0 or 1 ",
-      "source_created_at": "2026-10-30T12:12:05Z",
-      "opp_type": "subvencion",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dseelinger/d47/issues/1929",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6118622345",
-      "title": "Security report: tari-ootle walletd: failed network submission in transaction_requests.submit releases the Submitting claim after persisting the sealed transaction as New and linking input locks, enabling background auto-submission of an unlinked tra",
-      "url": "https://github.com/tari-project/special_contributions/issues/385",
-      "evidence": "Retro bounty for @Brayaniglesias08 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-f9r4-8p8x-4478](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-f9r4-8p8x-4478). The report showed that walletd: failed network submission in transaction_requests.submit releases the Submitting claim after persisting the sealed transaction as New and linking input locks, enabling background auto-submission of an unlinked transaction and double-sealing on retry. The reporter did not touch any sha",
-      "source_created_at": "2026-10-30T11:58:59Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tari-project/special_contributions/issues/385",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6117407374",
-      "title": "Security report: tari-ootle unbacked Validator Fee Minting (Token Supply Inflation) and Permanent Cross-Shard Deadlock When Switching a Multishard Transaction to fee_intent_only (GHSA-5g43-f93x-5x7q)",
-      "url": "https://github.com/tari-project/special_contributions/issues/382",
-      "evidence": "Retro bounty for @Brayaniglesias08 for reporting a security vulnerability in `tari-ootle` through GitHub Security Advisories: [GHSA-5g43-f93x-5x7q](https://github.com/tari-project/tari-ootle/security/advisories/GHSA-5g43-f93x-5x7q). The report showed that unbacked Validator Fee Minting (Token Supply Inflation) and Permanent Cross-Shard Deadlock When Switching a Multishard Transaction to fee_intent_only. The reporter did not touch any shared network. The fix was implemented separately by @sdbondi in tari-project/tari-ootle#3191. **No code work i",
-      "source_created_at": "2026-10-30T10:30:53Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tari-project/special_contributions/issues/382",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6117351686",
-      "title": "Contribution: fix(wallet): verify indexer epoch, checkpoint layout, and substate reads at sign-act points (tari-project/tari-ootle#3189)",
-      "url": "https://github.com/tari-project/special_contributions/issues/381",
-      "evidence": "Bounty for @Brayaniglesias08 for contributing [tari-project/tari-ootle#3189](https://github.com/tari-project/tari-ootle/pull/3189): fix(wallet): verify indexer epoch, checkpoint layout, and substate reads at sign-act points. **No further code work is required here.** ## Done when @Brayaniglesias08 opens a PR in this repo that follows the pattern of earlier merged PRs, with `Fixes #381` in the description and their XTM payout address on its own line. ## Claim PR checklist The claim PR is checked against this list; anything missing is pointed out",
-      "source_created_at": "2026-10-30T10:26:39Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tari-project/special_contributions/issues/381",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6117165247",
-      "title": "Security report: tari-ootle f1: Wallet trusts unauthenticated indexer REST responses at sign-act points (ISSUE-2808)",
-      "url": "https://github.com/tari-project/special_contributions/issues/379",
-      "evidence": "Retro bounty for @Yzgaming005 for reporting a security weakness in `tari-ootle` in a GitHub issue: https://github.com/tari-project/tari-ootle/issues/2808. The report showed that f1: Wallet trusts unauthenticated indexer REST responses at sign-act points. The reporter did not touch any shared network. The fix was implemented separately in several PRs relating to wallet lightclient proof verification. ## Done when @Yzgaming005 opens a PR in this repo that follows the pattern of earlier merged PRs, with `Fixes #379` in the description and their XT",
-      "source_created_at": "2026-10-30T10:12:59Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/tari-project/special_contributions/issues/379",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6118714178",
-      "title": "Design record: the Infinite Dungeon suite plan (migrated from docs/DEVELOPMENT_PLAN.md)",
-      "url": "https://github.com/HexaHexes/infinite-dungeon/issues/180",
-      "evidence": "# infinite-dungeon Development Plan This is the living source of truth for the mod's design. It records every decision made during planning so nothing is lost between sessions. Phases check off as they land; design changes update this issue in the same PR that implements them. ## 1. Identity and conventions - Repository: `HexaHexes/infinite-dungeon`, created from `HexaHexes/neoforge-mod-template`. - Mod id: `infinite_dungeon`. Package: `org.bitwisemadness.infinitedungeon`. Jar: `infinite-dungeon- .jar`. - Minecraft 1.21.1, NeoForge 21.1.259, JD",
-      "source_created_at": "2026-10-30T12:05:38Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HexaHexes/infinite-dungeon/issues/180",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116069470",
-      "title": "Alerts > Notifications: traces-stream alert link opens the Logs page instead of the Traces page",
-      "url": "https://github.com/openobserve/openobserve/issues/16079",
-      "evidence": "### Bug Description Alerts > Notifications: the link in a traces alert notification opens the wrong page. This is a checklist of the problems found. - [ ] **`P1` · The \"view alert\" link in a traces-stream alert notification opens the Logs page instead of the Traces page.** When an alert on a traces stream fires, the link in the notification (including the prebuilt Slack template's button) lands in the Logs explorer pointed at a traces stream, with the alert's full SQL pre-filled, instead of the Traces page for that stream and time range. 🔧 Tec",
-      "source_created_at": "2026-10-30T08:50:45Z",
-      "opp_type": "otro",
-      "score": 28,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/openobserve/openobserve/issues/16079",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116620892",
-      "title": "[Bug] Safety Classifier Interrupts Authorized Defensive Security Test Generation",
-      "url": "https://github.com/anthropics/claude-code/issues/106169",
-      "evidence": "**Bug Description** Repeated safety-classifier interruptions during an authorized defensive security audit of my own application, Pen2Pitch. I am using Cloudflare’s security-audit-skill. Testing is restricted to a local Linux VM using Apple container 1.6.1, with dummy accounts and data, external networking disabled, no production credentials, read-only source, and resource limits. Four interruptions occurred while generating isolation checks or local security test files concerning access control, notifications after access revocation, and email",
-      "source_created_at": "2026-10-30T09:32:40Z",
-      "opp_type": "bug_bounty",
-      "score": 27,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/anthropics/claude-code/issues/106169",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6118949369",
-      "title": "Wallet Journal: filter to one counterparty from a journal line",
-      "url": "https://github.com/shawndibble/neocom-desk/issues/5602",
-      "evidence": "> _This was generated by AI during /add-missing-features._ ## TL;DR Wallet Journal gets a counterparty filter: click a name on a journal line to see every line with that party. Expansion of the existing Journal. ## Agent Brief **Category:** enhancement **Summary:** Filter the Journal to one counterparty, set by clicking their name on a line. **Prior art:** RIFT's Wallet Insights ranks counterparties by income, expense and balance. Each row has a View all button that sets party, direction and ref type on the Transactions tab. The drill from a to",
-      "source_created_at": "2026-10-30T12:21:44Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/shawndibble/neocom-desk/issues/5602",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6117658482",
-      "title": "Release 2026-10-30",
-      "url": "https://github.com/ROAM-game-org/road-machiners/issues/1280",
-      "evidence": "The factory cut branch release/2026-10-30 from dev. Features: - #477 Fix Chaos Highway hauler wobbling while accelerating - #159 When moving backwards I cant accelerate - #499 Fix apparently floating armor panels on some trucks - #486 TypeError: Failed to fetch - #497 Error: You cannot see that target - #501 Add trader escort contracts with fair regroup and failure rules - #503 Make Old Ibo’s hull tone dialogue clear and answer its question - #504 Make Guild couriers travel in pairs as Old Ibo says - #505 Add paid roadside rescue contracts for ",
-      "source_created_at": "2026-10-30T10:49:44Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ROAM-game-org/road-machiners/issues/1280",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116781603",
-      "title": "fix(glossary): ignore fenced examples when importing review kits",
-      "url": "https://github.com/ZecHub/zechub/issues/2565",
-      "evidence": "AI-assisted contribution proposal for the translation review-kit importer. I reproduced a narrow correctness bug in `translation/glossary/lib/review-kit.mjs` (blob `d86e973ace6ca152f0e4bb32ecd7400d7f2dc37e`): `parseKit` treats a Markdown review table inside a fenced code example as a real reviewer table. Through the actual `importKit` path, a fenced example alone can create a glossary term with `status: \"approved\"`. I have prepared a focused fix that skips backtick and tilde fenced blocks, plus 14 regression checks. Against the unchanged code, ",
-      "source_created_at": "2026-10-30T09:44:51Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ZecHub/zechub/issues/2565",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6116728704",
-      "title": "[code-review] test(types): add missing test for ErrorCodeInOtherWorkspace + InOtherWorkspaceMeta",
-      "url": "https://github.com/inference-sh/sdk-js/issues/688",
-      "evidence": "## What was missing The commit `f0d38b5` (\"types: regenerate (in_other_workspace error code and meta)\") added `ErrorCodeInOtherWorkspace` and `InOtherWorkspaceMeta` to `src/types.ts` but omitted the corresponding test file in `src/types/`. ## Why it matters Every prior types-regen follows this convention — each new `ErrorCode` constant gets a paired `src/types/*.test.ts` that verifies: 1. The constant has the correct string value 2. It is re-exported from the main barrel (`src/index.ts`) Existing examples: `impersonation-error-code.test.ts`, `b",
-      "source_created_at": "2026-10-30T09:40:50Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/inference-sh/sdk-js/issues/688",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6115486445",
-      "title": "[每日信息流] 2026-10-30",
-      "url": "https://github.com/Tyaoo/picker/issues/1557",
-      "evidence": "# 每日安全资讯（2026-10-30） - SecWiki News - [ ] [SecWiki News 2026-10-29 Review](http://www.sec-wiki.com/?2026-10-29) - Toooold - [ ] [Fantastic Neurons and Where to Find Them](https://toooold.com/2026/10/29/neuron_steering.html) - Verne in GitHub - [ ] [Aside AI 浏览器介绍：既能自己干活，也能接入 Agent](https://blog.einverne.info/post/2026/10/aside-ai-browser.html) - Shell is Only the Beginning - [ ] [Session security, token protection, continuous access evaluation, and measuring what users ACTUALLY sign in with](https://www.darkoperator.com/blog/2026/10/29/w5qsv497",
-      "source_created_at": "2026-10-30T08:03:38Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Tyaoo/picker/issues/1557",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6115445642",
-      "title": "[每日信息流] 2026-10-30",
-      "url": "https://github.com/Minkinx/sec-picker/issues/175",
-      "evidence": "# 每日安全资讯（2026-10-30） - Toooold - [ ] [Fantastic Neurons and Where to Find Them](https://toooold.com/2026/10/29/neuron_steering.html) - SecWiki News - [ ] [SecWiki News 2026-10-29 Review](http://www.sec-wiki.com/?2026-10-29) - Armin Ronacher's Thoughts and Writings - [ ] [Custom Voices With Qwen3-TTS](https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/) - Verne in GitHub - [ ] [Aside AI 浏览器介绍：既能自己干活，也能接入 Agent](https://blog.einverne.info/post/2026/10/aside-ai-browser.html) - Shell is Only the Beginning - [ ] [Session security, token protect",
-      "source_created_at": "2026-10-30T08:00:18Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Minkinx/sec-picker/issues/175",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6111543868",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1351",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-30 01:32 UTC #### 1. [[F6-10][P18] Security process: security.txt and disclosure policy, incident response runbook, operator access controls, penetration test scope and remediation tracking](https://github.com/arif-rachim/renox.rs/issues/121) - **Repository:** [arif-rachim/renox.rs](https://github.com/arif-rachim/renox.rs) - **Comments:** 1 - **Last Updated:** 2026-10-30T01:30:18Z #### 2. [More LLM voices that share one memory](https://github.com/wr-max52/dune-game/issues/188) - **Repository",
-      "source_created_at": "2026-10-30T01:32:42Z",
-      "opp_type": "bug_bounty",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1351",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6111046916",
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [le",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/65",
-      "evidence": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea - **Monto:** Ver enlace - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/64) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED - LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne - Lightning: chieftrait089@walletofsatoshi.com **Note:** I am a developer from Cuba. Due to the e",
-      "source_created_at": "2026-10-30T00:42:47Z",
-      "opp_type": "bounty_codigo",
-      "score": 47,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/65",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6113918433",
-      "title": "Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
-      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/68",
-      "evidence": "### Terms and Conditions - [x] I agree to the [Grant Agreement](https://9ba4718c-5c73-47c3-a024-4fc4e5278803.usrfiles.com/ugd/9ba471_6ff6db4095fd4c4ba21babec361e927e.pdf) terms if funded - [x] I agree to [Provide KYC information](https://9ba4718c-5c73-47c3-a024-4fc4e5278803.usrfiles.com/ugd/9ba471_7d9e73d16b584a61bae92282b208efc4.pdf) if funded above $50,000 USD - [x] I agree to disclose conflicts of interest - [x] I understand that this grant program is only eligible for completed work, as it is a retroactive grant program. Applications for pl",
-      "source_created_at": "2026-10-30T05:43:06Z",
-      "opp_type": "subvencion",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/68",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6113550706",
-      "title": "🎯 Bounty Alert: 7 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/41",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-30 05:03 UTC #### 1. [[BOUNTY] Medium: transact_ingress submit_handler admits oversized proofs, fee-overflow amounts, and zero recipients, causing consensus DoS and on-chain settlement aborts (paraloom-core)](https://github.com/paraloom-labs/paraloom-core/issues/1247) - **Repository:** [paraloom-labs/paraloom-core](https://github.com/paraloom-labs/paraloom-core) - **Comments:** 6 - **Last Updated:** 2026-10-30T04:54:46Z #### 2. [[F6-05] F6 gate review: a node is killed and tenants recover wi",
-      "source_created_at": "2026-10-30T05:03:36Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Rohank143/BountyScout/issues/41",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6111631521",
-      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1697",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-30 01:41 UTC #### 1. [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1351) - **Repository:** [freedom-winds/BountyScout](https://github.com/freedom-winds/BountyScout) - **Comments:** 1 - **Last Updated:** 2026-10-30T01:39:00Z #### 2. [[F6-05] F6 gate review: a node is killed and tenants recover within their tier's RPO/RTO (B18); internal penetration test findings closed; UAE PDPL DPA drafted](https://github.com/arif-rachim/renox.rs/issues/79)",
-      "source_created_at": "2026-10-30T01:41:44Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1697",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6111193159",
-      "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
-      "url": "https://github.com/young1lin/notes/issues/2",
-      "evidence": "Public submission artifact for https://github.com/dailydollar-bot/agent-bounty-feed/issues/3 (option a/b support material). **Live guide:** https://telegra.ph/Agent-Bounty-Feed-5-minute-agent-earn-guide-MCP--earn-now-10-30 ## Run ```bash python3 abf_client.py earn-now --limit 5 python3 abf_client.py stats python3 abf_client.py list --limit 3 python3 abf_client.py feed --limit 5 ``` Zero dependencies beyond Python 3.9+. Endpoints covered: free MCP `https://agent-bounty-feed.dailydollar.workers.dev/mcp`, `curl …/earn-now`, and `feed.json`. Client",
-      "source_created_at": "2026-10-30T00:57:47Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/young1lin/notes/issues/2",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6110072313",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/39",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-29 23:09 UTC #### 1. [[BOUNTY] Port RustChain Miner to 68K Macintosh](https://github.com/Scottcjn/rustchain-bounties/issues/23) - **Repository:** [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) - **Comments:** 13 - **Last Updated:** 2026-10-29T23:08:59Z #### 2. [Start here: give your coding agent a failure memory (MCP, 60 seconds)](https://github.com/Ikalus1988/MisakaNet/issues/1258) - **Repository:** [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNe",
-      "source_created_at": "2026-10-29T23:09:11Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Rohank143/BountyScout/issues/39",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-19T07:22:36.020Z",
+      "generated_at": "2026-11-19T07:22:36.020Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 511
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 463
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 50,
+      "new_items": 26,
+      "seen_again": 24,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "0 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "50 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-18T20:29:09.957Z",
       "generated_at": "2026-11-18T20:29:09.957Z",
@@ -21320,67 +21381,6 @@
           "ok": true,
           "count": 25,
           "ms": 655
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 48,
-      "new_items": 25,
-      "seen_again": 23,
-      "archive_total": 1200,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "2 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "48 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27T17:59:26.644Z",
-      "generated_at": "2026-10-27T17:59:26.644Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 375
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 618
         }
       ],
       "processed": 50,

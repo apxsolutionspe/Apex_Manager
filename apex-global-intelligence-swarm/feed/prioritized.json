@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-18T20:29:10.937Z",
+  "generated_at": "2026-11-19T07:22:36.605Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1156,
-    "descartar": 44,
+    "informativa": 1157,
+    "descartar": 43,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -82,30 +82,6 @@
         "payment": false
       },
       "published_amount_usd": 150,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1699",
-      "source_created_at": "2026-10-30T08:17:30Z",
-      "first_seen_at": "2026-10-30T12:52:39.345Z",
-      "last_seen_at": "2026-10-30T12:52:39.345Z",
-      "status": "informativa",
-      "priority": 90,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 8,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -843,30 +819,6 @@
       "reasons": [
         "No aparece un importe publicado en el anuncio",
         "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Agent Bounty Feed: 5-minute agent earn guide + abf_client.py",
-      "url": "https://github.com/young1lin/notes/issues/2",
-      "source_created_at": "2026-10-30T00:57:47Z",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
@@ -2254,29 +2206,6 @@
     },
     {
       "source": "github",
-      "title": "Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
-      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/68",
-      "source_created_at": "2026-10-30T05:43:06Z",
-      "first_seen_at": "2026-10-30T05:45:58.165Z",
-      "last_seen_at": "2026-10-30T05:45:58.165Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 50000,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
       "url": "https://github.com/Ayush441-python/AUREN/issues/11",
       "source_created_at": "2026-11-17T19:05:25Z",
@@ -2383,6 +2312,30 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Build on-chain work-proof verifier with challenger bounty flow",
+      "url": "https://github.com/Smartdevs17/agenticpay/issues/1329",
+      "source_created_at": "2026-11-19T06:39:23Z",
+      "first_seen_at": "2026-11-19T07:22:36.020Z",
+      "last_seen_at": "2026-11-19T07:22:36.020Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3775,6 +3728,54 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Swap execute-path: ExchangeAsset sets maximal: false without separate feeAsset, permanently trapping unspent input funds in PolkadotXcm.AssetTrap",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2521",
+      "source_created_at": "2026-11-14T03:58:08Z",
+      "first_seen_at": "2026-11-14T06:19:30.342Z",
+      "last_seen_at": "2026-11-14T06:19:30.342Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] AssetHubExchange.swapCurrency deducts toDestFeeCurrencyTo from amountOut for non-native target assets",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2528",
+      "source_created_at": "2026-11-14T04:22:56Z",
+      "first_seen_at": "2026-11-14T06:19:30.342Z",
+      "last_seen_at": "2026-11-14T06:19:30.342Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
