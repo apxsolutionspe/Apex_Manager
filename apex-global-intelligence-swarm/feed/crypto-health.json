@@ -1,16 +1,16 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-11-19T03:38:45.353Z",
-  "observed_at": "2026-11-19T03:38:35.220Z",
+  "generated_at": "2026-11-19T13:26:13.799Z",
+  "observed_at": "2026-11-19T13:26:11.821Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
-    "sources_read": 15,
-    "sources_unavailable": 9,
+    "sources_read": 16,
+    "sources_unavailable": 8,
     "failure_types": {
       "access_denied": 1,
       "upstream_error": 1,
-      "network_failure": 5,
+      "network_failure": 4,
       "size_limit": 2,
       "unexpected_type": 0,
       "other": 0
@@ -45,10 +45,6 @@
         "reason": "network_failure"
       },
       {
-        "source": "hackenproof-bounties",
-        "reason": "network_failure"
-      },
-      {
         "source": "galxe-quests",
         "reason": "network_failure"
       }
@@ -57,7 +53,7 @@
     "native_classifier_confirmed": true
   },
   "triage": {
-    "announcements_seen": 40,
+    "announcements_seen": 39,
     "classified": {
       "security_blocked": 0,
       "capital_or_trading": 6,
@@ -66,7 +62,7 @@
       "project_grant_not_passive": 4,
       "gas_fee_and_conditions_review": 0,
       "manual_participation": 5,
-      "informational_not_passive": 4,
+      "informational_not_passive": 3,
       "unverified_no_capital_evidence": 1
     },
     "research_candidates_without_obvious_capital_keywords": 1,
