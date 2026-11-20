@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-20T07:12:36.616Z",
+  "generated_at": "2026-11-20T20:14:15.383Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,58 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1156,
-    "descartar": 44,
+    "informativa": 1158,
+    "descartar": 42,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1788",
+      "source_created_at": "2026-11-20T19:45:42Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 20,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] Port a Python weighted interval scheduler to Lateralus",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/256",
+      "source_created_at": "2026-11-20T19:30:05Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "[Maths Bounty] Exactly 30% annualized volatility adds 20 risk points (50 Medium → 70 High)",
@@ -104,6 +150,55 @@
         "payment": false
       },
       "published_amount_usd": 150,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/130",
+      "source_created_at": "2026-11-20T19:48:52Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty: Public swap dashboard",
+      "url": "https://github.com/StoaDex/Stoa/issues/18",
+      "source_created_at": "2026-11-20T19:01:29Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2302,28 +2397,6 @@
     },
     {
       "source": "github",
-      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/69",
-      "source_created_at": "2026-10-31T04:58:34Z",
-      "first_seen_at": "2026-10-31T05:38:10.027Z",
-      "last_seen_at": "2026-10-31T05:38:10.027Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 750,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
       "url": "https://github.com/Ayush441-python/AUREN/issues/11",
       "source_created_at": "2026-11-17T19:05:25Z",
@@ -2430,6 +2503,151 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Dashboard bounty entry: Routed Activity with complete-history and pricing coverage",
+      "url": "https://github.com/StoaDex/Stoa/issues/17",
+      "source_created_at": "2026-11-20T18:12:41Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1438",
+      "source_created_at": "2026-11-20T18:18:49Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Bounty: Public Stoa swap dashboard on Robinhood Chain",
+      "url": "https://github.com/StoaDex/Stoa/issues/16",
+      "source_created_at": "2026-11-20T17:52:15Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Enhancement] Replayer: Improve decision analysis panel for Cash Games, MTT, ICM and Bounty",
+      "url": "https://github.com/jejellyroll-fr/fpdb-3/issues/872",
+      "source_created_at": "2026-11-20T17:35:44Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[P2/P3][Combat/Death] Unify self-destruct detonation paths, fix orphaned non-listed ship-cargo flags, post-tx reward hooks, O(N) death/threat scans, and NPC wreck/weapon hygiene",
+      "url": "https://github.com/saverchenkov/EvoMu/issues/1510",
+      "source_created_at": "2026-11-20T18:44:43Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] Swap: auto-selection in selectBestExchangeCommon aborts on the first exchange with duplicate symbol instead of skipping to valid exchanges",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2589",
+      "source_created_at": "2026-11-20T17:45:19Z",
+      "first_seen_at": "2026-11-20T20:14:14.548Z",
+      "last_seen_at": "2026-11-20T20:14:14.548Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3549,222 +3767,6 @@
       "source_created_at": "2026-11-15T17:42:01Z",
       "first_seen_at": "2026-11-15T18:50:06.556Z",
       "last_seen_at": "2026-11-15T18:50:06.556Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bounty submission: `--verdict` prints ALL PROOFS CHECK for a file with a definition of type `Empty` (2.0.32)",
-      "url": "https://github.com/bendlang/bend/issues/2168",
-      "source_created_at": "2026-11-15T17:12:07Z",
-      "first_seen_at": "2026-11-15T18:50:06.556Z",
-      "last_seen_at": "2026-11-15T18:50:06.556Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5005",
-      "source_created_at": "2026-11-15T06:23:21Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5003",
-      "source_created_at": "2026-11-15T06:23:05Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5002",
-      "source_created_at": "2026-11-15T06:23:03Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5001",
-      "source_created_at": "2026-11-15T06:22:53Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5000",
-      "source_created_at": "2026-11-15T06:22:52Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4998",
-      "source_created_at": "2026-11-15T06:22:46Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 7 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4997",
-      "source_created_at": "2026-11-15T06:22:42Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 7 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4996",
-      "source_created_at": "2026-11-15T06:22:41Z",
-      "first_seen_at": "2026-11-15T06:27:17.320Z",
-      "last_seen_at": "2026-11-15T06:27:17.320Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
