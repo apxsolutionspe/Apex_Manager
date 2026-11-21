@@ -1,6 +1,6 @@
 {
   "schema": "apex-public-archive-v1",
-  "updated_at": "2026-11-21T07:03:49.203Z",
+  "updated_at": "2026-11-21T19:13:20.825Z",
   "retention": {
     "max_items": 1200,
     "max_runs": 56
@@ -20,7 +20,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
       "first_seen_at": "2026-10-23T21:23:22.494Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -35,7 +35,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
       "first_seen_at": "2026-10-25T16:15:49.972Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -50,7 +50,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
       "first_seen_at": "2026-10-28T22:33:46.077Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -65,7 +65,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "news.ycombinator.com/item?id=50353629",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -80,7 +80,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -95,7 +95,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "first_seen_at": "2026-11-07T05:56:28.559Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -110,7 +110,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "github.com/Dr-Logvinovich/round-square/blob/main/README.md",
       "first_seen_at": "2026-11-08T22:02:03.652Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -125,7 +125,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "propublica.org/article/election-challenge-forsyth-county-georgia",
       "first_seen_at": "2026-11-13T06:42:34.139Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -140,7 +140,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "cnn.com/2026/11/01/us/south-florida-plane-crash",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -155,7 +155,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use",
       "first_seen_at": "2026-11-05T06:43:24.119Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -170,7 +170,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bathrooms.lacontroller.app",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -185,7 +185,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "dovepass.com",
       "first_seen_at": "2026-10-19T21:02:23.479Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -200,7 +200,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "thebanner.com/education/k-12-schools/county-schools-artificial-intelligence-453DCFYJL5CDBAM4AY3NYY4ILU",
       "first_seen_at": "2026-11-15T18:50:06.556Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -215,7 +215,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "bloomberg.com/news/articles/2026-11-18/south-korea-proposes-75-000-bounties-to-catch-ai-exam-cheats",
       "first_seen_at": "2026-11-18T07:25:24.971Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -230,7 +230,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "kpbs.org/news/environment/2026/11/18/san-diego-countys-latest-recruits-to-its-fire-fighting-ranks-hundreds-of-hungry-goats",
       "first_seen_at": "2026-11-19T20:33:54.737Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -245,7 +245,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
       "first_seen_at": "2026-11-09T22:19:44.326Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -260,7 +260,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
       "first_seen_at": "2026-11-01T21:59:59.318Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -275,7 +275,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
       "first_seen_at": "2026-10-20T21:36:21.115Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -290,7 +290,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "washingtonpost.com/dc-md-va/2026/10/22/amazon-wont-build-data-centers-loudoun-county-deal-with-local-leaders",
       "first_seen_at": "2026-10-23T04:47:07.103Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -305,7 +305,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tryanalisa.com/explore",
       "first_seen_at": "2026-10-20T11:34:23.667Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -320,7 +320,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "youtube.com/watch?v=Da4AfZxmScU",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -335,7 +335,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
       "first_seen_at": "2026-11-19T07:22:36.020Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -350,7 +350,7 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
       "first_seen_at": "2026-11-12T23:37:31.145Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "hackernews",
@@ -365,7 +365,382 @@
       "legitimacy": "señal_no_verificada",
       "dedupe_key": "salary-statistics.netlify.app/us",
       "first_seen_at": "2026-11-03T23:21:29.918Z",
-      "last_seen_at": "2026-11-21T07:03:49.203Z"
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532827921",
+      "title": "[v3][security] Bug bounty scope and `security.txt` for v3",
+      "url": "https://github.com/Calebux/SYNCRO/issues/1880",
+      "evidence": "## Context Before mainnet, researchers need a clear scope, safe-harbour terms, and a reporting channel. ## Scope - Write `SECURITY.md` with the v3 scope (contracts, gateway, SDK), the out-of-scope list, severity guidelines, and a response SLA. - Serve `/.well-known/security.txt` from the gateway and the console. - Decide on the bounty platform and the reward table. ## Acceptance criteria - [ ] `SECURITY.md` and `security.txt` are live. - [ ] The scope is reviewed against the threat model (#1508).",
+      "source_created_at": "2026-11-21T18:36:35Z",
+      "opp_type": "bug_bounty",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Calebux/SYNCRO/issues/1880",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6531948638",
+      "title": "Cash-bounty research: Erdős151 clique-transversal conjecture",
+      "url": "https://github.com/1337isnot1337/solved-conjectures/issues/228",
+      "evidence": "Reserved full Erdős151, with work restricted to research/bounty-lean-2026-11-21/clique-transversal/. This is part of campaign #223 and is distinct from #71 (Erdős611). Target: for every graph G on n vertices, τ(G) ≤ n − H(n), where τ(G) meets every inclusion-maximal clique of size at least two, and H(n) is the minimum independence number among triangle-free n-vertex graphs. A single exact graph violating this inequality would refute the universal conjecture; positive finite cases will not be counted as a resolution. The live Conjectures.io targ",
+      "source_created_at": "2026-11-21T17:14:21Z",
+      "opp_type": "bounty_codigo",
+      "score": 50,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/1337isnot1337/solved-conjectures/issues/228",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532576171",
+      "title": "Bounty: Swap widget for $FORKAST on forkast site",
+      "url": "https://github.com/StoaDex/Stoa/issues/30",
+      "evidence": "Hi Stoa team — submitting my entry for the swap-widget bounty. **Token:** FORKAST — a prediction market for crypto and esports, on Robinhood Chain **Contract:** 0x19D2b46b0A4D357140407D96baa207d3207Ae247 **Live site with the widget:** https://afifm561.github.io/forkast/ **Site code (open source):** https://github.com/afifm561/forkast The Stoa swap widget is live on the site's Buy section. It quotes ETH → FORKAST live (verified: real Uniswap route, ~0.07% price impact on 0.001 ETH) and every swap names my address as referrer: `ref=0x1b9cA7b297a7",
+      "source_created_at": "2026-11-21T18:11:35Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/StoaDex/Stoa/issues/30",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532567088",
+      "title": "[Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
+      "evidence": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Fractal-Neurons/pacta/issues/159 ### 漏洞描述 / Description [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses · Ethereum & Base) # Wave 4 — $2.00 USDC Control-Plane Watch Bounty (10 Open Awards on Base) **Pool:** **10 awards of $2.00 USDC** on Base (`$20.00 USDC` held on-chain in Pacta's bounty wallet `0xcA4E2ff22B69A7284210c47BdeE21Aac1269da09`). **Closes when all 10 awards are won, or on Sunday 29 November 2026 at 23:59 UTC, whichever comes first.** ",
+      "source_created_at": "2026-11-21T18:10:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532567199",
+      "title": "[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
+      "evidence": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Fractal-Neurons/pacta/issues/158 ### 漏洞描述 / Description [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethereum & Base) # Wave 4 — $1.00 USDC Observed Catalogue Bounty **Pool:** **24 awards of $1.00 USDC** on Base (`$24.00 USDC` held on-chain in Pacta's bounty wallet `0xcA4E2ff22B69A7284210c47BdeE21Aac1269da09`). More slots may be added and will be announced on this issue. **Closes when all open slots are filled, or on Sunday 29 November 2026 at 23:",
+      "source_created_at": "2026-11-21T18:10:41Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532139885",
+      "title": "[bounty] stdlib.stomp tutorial: inspect an ASCII SEND frame without a broker",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/361",
+      "evidence": "### Component Documentation ### Problem or motivation I would like to reserve the recurring $25 single-stdlib tutorial bounty from BOUNTIES.md for `stdlib/stomp.ltl`, if this topic remains available. Disclosure: I am Codex, an AI coding assistant acting with authorization from @yj2142012-spec. I reviewed the current source and issue/PR listings; no tutorial or executable checks have been produced or run yet. ### Proposed solution An original tutorial in the existing blog format plus a runnable, offline `.ltl` example: build an ASCII STOMP SEND ",
+      "source_created_at": "2026-11-21T17:32:00Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bad-antics/lateralus-lang/issues/361",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532131935",
+      "title": "Feedback: Bounty Collector",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1162",
+      "evidence": "Bounty Collector not always present in police headquarters or jails to recieve bounties. | Meitou version | Platform | Data files | |---|---|---| | `v0.22.2-nightly.20261121.2` (`c2615db7d`) | win | 834 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]----------[UI, Graphics, Performance]----------.mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2862389603) 1. [`[1.1]--------------------(UI).mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2989326725) 1. [`Transparent UI.mod`",
+      "source_created_at": "2026-11-21T17:31:15Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1162",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532098447",
+      "title": "[Bug Bounty] Canonical ticker aliases silently overwrite API weights before validation",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/172",
+      "evidence": "Prepared and tested by Codex on behalf of `yj2142012-spec`, for consideration under the published **Bug Bounty** tier. No independent human review, award, or payment is claimed. This is a local parsing/validation report, not an API Integration slot claim. ### Observed At [`4b7f74b3908c766b4743646f2cb0b1f9cf13a7a0`](https://github.com/Ayush441-python/AUREN/blob/4b7f74b3908c766b4743646f2cb0b1f9cf13a7a0/api.py), `_normalize_and_validate_weights()` normalizes keys using `strip().upper()` in a dictionary comprehension. Distinct JSON keys can become ",
+      "source_created_at": "2026-11-21T17:27:57Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Ayush441-python/AUREN/issues/172",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6531932930",
+      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/133",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-21 17:12 UTC #### 1. [Sun's prime–Pell-number representation conjecture](https://github.com/1337isnot1337/solved-conjectures/issues/226) - **Repository:** [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures) - **Comments:** 3 - **Last Updated:** 2026-11-21T17:12:40Z #### 2. [sentence-transformers-2.2.2.tar.gz: 152 vulnerabilities (highest severity is: 9.4) [main]](https://github.com/GSS-JonnyKung/AI_Sample01/issues/3) - **Repository:** [GSS-JonnyKung/AI_Sam",
+      "source_created_at": "2026-11-21T17:13:00Z",
+      "opp_type": "bug_bounty",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/Rohank143/BountyScout/issues/133",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6531909896",
+      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1791",
+      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-21 17:11 UTC #### 1. [Sun's prime–Pell-number representation conjecture](https://github.com/1337isnot1337/solved-conjectures/issues/226) - **Repository:** [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures) - **Comments:** 2 - **Last Updated:** 2026-11-21T17:10:42Z #### 2. [Paid mathematical problems with Lean permitted](https://github.com/1337isnot1337/solved-conjectures/issues/223) - **Repository:** [1337isnot1337/solved-conjectures](https://github.com/1",
+      "source_created_at": "2026-11-21T17:11:02Z",
+      "opp_type": "bounty_codigo",
+      "score": 45,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1791",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532571721",
+      "title": "[Bug bounty] Plain native symbol throws DuplicateAssetError on AssetHubPolkadot, AssetHubKusama and AssetHubWestend (squatted trust-backed assets pass the AssetHub fetcher filter)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2602",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug On 3 of the 4 Asset Hubs, selecting the chain's **own native asset by plain symbol** fails. This also breaks the first example in `packages/sdk/README.md` (AssetHubPolkadot → Polkadot, `{ symbol: 'DOT', amount: '1' }`), which is probably the most common transfer users try first: ``` DuplicateAssetError: Multiple matches found for symbol DOT. Please specify with Native() or Foreign() selector. ``` Affected: `DOT` on AssetHubPolkadot, `KSM` on AssetHubKusama, `WND` on AssetHubWestend. AssetHubPaseo (`PAS`) r",
+      "source_created_at": "2026-11-21T18:11:08Z",
+      "opp_type": "bug_bounty",
+      "score": 42,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2602",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532618403",
+      "title": "[Bug bounty] Docs: @paraspell/sdk README documents removed/renamed APIs (Override, SUPPORTED_PALLETS, getPalletIndex, Moonbeam) and a custom-chain example that does not parse",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2603",
+      "evidence": "# 🐞 Bug Report ## 🔍 Describe the Bug Several code snippets in `packages/sdk/README.md` (PAPI SDK) at `a5d0219` don't match the published API. A user copying them gets import errors, `undefined`, or a syntax error: 1. **`Override()` was removed in v14 but is still documented.** The README shows `{location: Override('Custom Location'), amount}` as a currency option at lines 143, 182, 215, 234, 238, 262, 289 and 407, and `send-xcm.html` on the docs site presents it as the \"advanced override of asset registry\". The v13 → v14 migration guide says ",
+      "source_created_at": "2026-11-21T18:15:35Z",
+      "opp_type": "bug_bounty",
+      "score": 40,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/paraspell/xcm-tools/issues/2603",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532375489",
+      "title": "Sun’s disjoint cosets conjecture",
+      "url": "https://github.com/1337isnot1337/solved-conjectures/issues/231",
+      "evidence": "Sun offers $200 to the first solver of the following problem. If k left cosets of finite-index subgroups are pairwise disjoint, must some two indices have greatest common divisor at least k? The reduction to finite groups preserves both indices and disjointness. [Sponsor's question and prize](https://mathoverflow.net/questions/316709/a-challenging-problem-on-disjoint-cosets) I am testing a composition-series argument that removes primes private to one coset. It gives an infinite family of solvable groups and index patterns on which the exact co",
+      "source_created_at": "2026-11-21T17:52:38Z",
+      "opp_type": "concurso",
+      "score": 36,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/1337isnot1337/solved-conjectures/issues/231",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532021161",
+      "title": "Research: Shallit #14 divisibility in automatic relations (£50)",
+      "url": "https://github.com/1337isnot1337/solved-conjectures/issues/229",
+      "evidence": "## Target and reward Shallit's Open Problem 14 asks whether there is an algorithm which, given a base `k >= 2` and a DFA over paired base-k digits, decides whether the accepted relation contains `(p,q)` with `p | q`. The finite representations are synchronous, with leading zero padding allowed. Zero-divisor conventions can be handled separately by a regular check. The sponsor's [2014 BCTCS slides, page 40](https://cs.uwaterloo.ca/~shallit/Talks/bc4.pdf) state a personal **£50** offer. His [2013 Fields slides](https://cs.uwaterloo.ca/~shallit/Fi",
+      "source_created_at": "2026-11-21T17:20:34Z",
+      "opp_type": "bounty_codigo",
+      "score": 36,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/1337isnot1337/solved-conjectures/issues/229",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6533146392",
+      "title": "[demand] high-priority 2026-11-21T19:04",
+      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1258",
+      "evidence": "Demand-side radar 高優先訊號: ``` 6 sn/bitcoin 2.0 - OPEN_NEED,LOW_COMP https://stacker.news/items/1618725 I'm looking for testers so I can get Bitcoin Quest on the Google Play store. 5 github 0.9 $1.00 OPEN_ISSUE,LOW_COMP https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381 [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe 5 github 0.9 $2.00 OPEN_ISSUE,LOW_COMP https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380 [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (56",
+      "source_created_at": "2026-11-21T19:04:48Z",
+      "opp_type": "bounty_codigo",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/relayhop/ClaudeEarnSelf-runtime/issues/1258",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532940096",
+      "title": "[Security Audit] 3 High + 2 Medium Vulnerabilities — Fund Drain, Permanent DoS, Stale Reserve Oracle",
+      "url": "https://github.com/isisgroup78-prog/bnb-dex-amm/issues/2",
+      "evidence": "# [Security Audit] Critical & High Vulnerabilities in bnb-dex-amm — Authorized Bug Bounty Review ## Summary An independent security audit of the `bnb-dex-amm` repository identified **3 High**, **2 Medium**, and **1 Low** severity vulnerabilities. The codebase is a custom UniswapV2-style AMM for BNB Chain and contains multiple critical logic errors that enable fund loss, permanent DoS, and oracle manipulation. --- ## H-01: `removeLiquidity()` Burns Router's LP Balance — Any LP Holder Can Drain Other Users' Tokens **Severity:** HIGH — Direct fund",
+      "source_created_at": "2026-11-21T18:47:39Z",
+      "opp_type": "bug_bounty",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/isisgroup78-prog/bnb-dex-amm/issues/2",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6531851922",
+      "title": "Sun's prime–Pell-number representation conjecture",
+      "url": "https://github.com/1337isnot1337/solved-conjectures/issues/226",
+      "evidence": "Research reservation under #223 for Conjecture 1.7 in Zhi-Wei Sun, Mixed sums of primes and other terms, arXiv:0901.3075v3 (2009), page 4: every integer n>5 is an odd prime plus P_s+2P_t, where P_0=0, P_1=1, P_(j+1)=2P_j+P_(j-1), and both Pell numbers may be required positive. The original Remark 1.8 offers $100 for the first explicit counterexample the author can recheck, or $1,000 for the first positive solution published in a well-known mathematical journal. Primary source: https://arxiv.org/pdf/0901.3075. The author's OEIS entry https://oei",
+      "source_created_at": "2026-11-21T17:05:54Z",
+      "opp_type": "otro",
+      "score": 30,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/1337isnot1337/solved-conjectures/issues/226",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532573033",
+      "title": "Erdős 389: adjacent-product divisibility and carry obstruction",
+      "url": "https://github.com/1337isnot1337/solved-conjectures/issues/232",
+      "evidence": "Paid-target research under #223. The full statement asks whether every n >= 1 admits k >= 1 with n(n+1)...(n+k-1) dividing (n+k)...(n+2k-1). [Original problem](https://www.erdosproblems.com/389); the [Conjectures.io pool history](https://conjectures.io/problems/changes) admits task fc-v2-erdos389-erdos-389-842151f82cf67b7061d4a96c-formalized. We derived and independently reviewed an exact remaining carry criterion after a CRT congruence removes all small-prime obstructions. With s=n-1 and t=s+k, the quotient is s!(2t-s)!/(t!)^2. Large-prime fac",
+      "source_created_at": "2026-11-21T18:11:16Z",
+      "opp_type": "otro",
+      "score": 29,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/1337isnot1337/solved-conjectures/issues/232",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532471357",
+      "title": "[RFC]: First-class disk-backed offload for one-shot components (first consumer: MiniMax-H3 text encoder)",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/10913",
+      "evidence": "## Motivation ### The gap in one sentence The disk layer of distributed layerwise offload (DLO) exists and works, but it is **not a component-agnostic first-class capability**: it is hard-wired to the DiT. A component that runs **once per prompt** (\"one-shot\") has no way to declare a `backing` dimension, so a text encoder can only pin its entire weight set into host RAM. ### Why this matters now On a 16GB VRAM / 20GB RAM workstation (a common personal machine, including under WSL), the DiT of MiniMax-H3 (61.7GB) already runs via rank-local chec",
+      "source_created_at": "2026-11-21T18:01:23Z",
+      "opp_type": "otro",
+      "score": 27,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/vllm-project/vllm-omni/issues/10913",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532935661",
+      "title": "Feedback: City Farms",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1166",
+      "evidence": "Farms in cities (Heft) after harvesting the crop stay in a permanent \"No water\" state unless the game is imported again. | Meitou version | Platform | Data files | |---|---|---| | `v0.22.2-nightly.20261121.2` (`c2615db7d`) | win | 834 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]----------[UI, Graphics, Performance]----------.mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2862389603) 1. [`[1.1]--------------------(UI).mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2989",
+      "source_created_at": "2026-11-21T18:47:15Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1166",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532902068",
+      "title": "C/WASM backends: integer division truncates, VM floors (negative operands)",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/407",
+      "evidence": "## Summary While fixing the Python-backend float-division bug (PR #404) and auditing the other backends, I found a semantic divergence for **negative** integer operands: - **VM** (`lateralus_lang/vm/vm.py`, `Op.DIV`): `a // b` — Python floor division → `-7 / 2 == -4` - **C backend** (`codegen/c.py`): emits C `/` on `int64_t` → truncation → `-7 / 2 == -3` - **WASM backend** (`codegen/wasm.py`): emits `i64.div_s` → truncation → `-7 / 2 == -3` Positive operands agree everywhere (`7 / 2 == 3`). ## Reproduction ```bash ltlc c test.ltl # emits: int64",
+      "source_created_at": "2026-11-21T18:44:03Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/bad-antics/lateralus-lang/issues/407",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532168764",
+      "title": "cmd/xe: generateSSHKey still writes (and reads) the raw lease seed through a planted symlink (CWE-59) — sibling path left unfixed by PR #1004",
+      "url": "https://github.com/xeprotocol/xe/issues/1072",
+      "evidence": "## Title [Minor] `generateSSHKey` (cmd/xe/main.go:1590-1598) writes the raw Ed25519 seed to `sshKeyPath()` via plain `os.WriteFile` — a planted symlink redirects the seed write, and a read-back through the same link adopts an attacker-chosen seed (CWE-59) ## Severity Minor (same tier as #998 — the site PR #1004 fixes — arguably worse, since the payload here is the raw seed, which is strictly more sensitive than the derived OpenSSH PEM) ## Summary PR #1004 adds a `writeFileNoFollow` guard for `convertKeyToOpenSSH`'s OpenSSH PEM write (cmd/xe/mai",
+      "source_created_at": "2026-11-21T17:34:38Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/1072",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532156039",
+      "title": "Feedback: Character Editor",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1163",
+      "evidence": "Suggestion: A way to select and edit an NPC character's face/body/stats | Meitou version | Platform | Data files | |---|---|---| | `v0.22.2-nightly.20261121.2` (`c2615db7d`) | win | 834 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]----------[UI, Graphics, Performance]----------.mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2862389603) 1. [`[1.1]--------------------(UI).mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=2989326725) 1. [`Transparent UI.mod`](https://steamco",
+      "source_created_at": "2026-11-21T17:33:28Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1163",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6532013413",
+      "title": "[Low] Switching wallets mid-send/receive attributes the completed transfer to the wrong wallet — success banner + activity log land under wallet B while wallet A signed",
+      "url": "https://github.com/xeprotocol/xe/issues/1069",
+      "evidence": "# [Low] Switching wallets mid-send/receive attributes the completed transfer to the wrong wallet - **Repo pin:** `xeprotocol/xe` @ `8cc209d65c16089158da8fabd392628b71fe0711` (\"release: testnet-0006 build\"). - **Date verified:** 2026-11-22 ~00:30 WIB. - **Signature:** `web-ui-switch-mid-send-wrong-wallet-attribution` - **Severity suggestion:** Low — CVSS 3.1 2.8 (`CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:L/A:N`). No funds go to the wrong place and no secret leaks; the defect is a wrong-wallet confirmation plus a permanently misattributed activity ",
+      "source_created_at": "2026-11-21T17:19:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/xeprotocol/xe/issues/1069",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
+    },
+    {
+      "source": "github",
+      "external_id": "6531840916",
+      "title": "Feedback: Farm Plot Movement",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1160",
+      "evidence": "Using left click to move around in farm fields eg. wheat, cactus does not work, you can only farm the plot. I think normally, left clicking inside the farm plot allows you to also move your character around inside the farm plot | Meitou version | Platform | Data files | |---|---|---| | `v0.22.2-nightly.20261121.2` (`c2615db7d`) | win | 834 | Load order 1. `gamedata.base` 1. `Newwworld.mod` 1. `Dialogue.mod` 1. `rebirth.mod` 1. [`[1]----------[UI, Graphics, Performance]----------.mod`](https://steamcommunity.com/sharedfiles/filedetails/?id=28623",
+      "source_created_at": "2026-11-21T17:04:50Z",
+      "opp_type": "otro",
+      "score": 25,
+      "link_check": "issue_abierto_segun_api",
+      "legitimacy": "señal_no_verificada",
+      "dedupe_key": "github.com/VlcekM/MeitouClient/issues/1160",
+      "first_seen_at": "2026-11-21T19:13:20.825Z",
+      "last_seen_at": "2026-11-21T19:13:20.825Z"
     },
     {
       "source": "github",
@@ -17631,384 +18006,70 @@
       "dedupe_key": "github.com/dev-kp-eloper/BountyScout/issues/1711",
       "first_seen_at": "2026-11-01T05:59:55.208Z",
       "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142103037",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1365",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-11-01 01:50 UTC #### 1. [Tundra Album: Spectacular Adventures / Bounty Hunter missing piece images](https://github.com/GamerdexApp/whiteout-survival-tracker/issues/26) - **Repository:** [GamerdexApp/whiteout-survival-tracker](https://github.com/GamerdexApp/whiteout-survival-tracker) - **Comments:** 1 - **Last Updated:** 2026-11-01T01:49:56Z #### 2. [Support: NVIDIA GeForce RTX 5060 Laptop GPU 8 GB (Blackwell) + $50 bounty request](https://github.com/sybil-solutions/local-ai-registry/issues/370)",
-      "source_created_at": "2026-11-01T01:50:52Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/freedom-winds/BountyScout/issues/1365",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141680936",
-      "title": "Spiefs don't get wasp protection with Wasp Grenades",
-      "url": "https://github.com/goonstation/goonstation/issues/28212",
-      "evidence": "### Labels [BUG][MAJOR] ### Description When a Spy Thief claims a bounty with the reward of a Wasp Grenade pouch, they don't get any protection against the wasps, making it almost always backfire ### Steps to reproduce 1. Be a spief 2. Claim a bounty for wasp nades 3. No implant? 4. Throw grenade 5. Die by wasp 6. FUCK ### Expected Behavior claiming the bounty should give you the antiwasp implant, either inside the pouch or dropped on the floor ### Additional Information & Screenshots Reported by: rubicubie Client version: 516.1667 On server: G",
-      "source_created_at": "2026-11-01T00:55:10Z",
-      "opp_type": "bounty_codigo",
-      "score": 35,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/goonstation/goonstation/issues/28212",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142838818",
-      "title": "RETALLY: reconcile initial 205 open PRs, preserve evidence and protected merges",
-      "url": "https://github.com/P00NSMASHER/github-value-hunt-ledger/issues/901",
-      "evidence": "# Protected RETALLY backlog consolidation **Baseline:** 205 open PRs initially found in P00NSMASHER/github-value-hunt-ledger at audit start on October 31, 2026. **Live audit refresh:** 131 owner-authored and 72 automatically generated, **203 open now**; background activity may change these counts. This issue records the exact initial inventory and the live subset below. **Safe rules:** never bulk-merge financial code, customers' evidence, stacked research, or draft implementations; preserve original commits, actual cash/noncash distinctions, in",
-      "source_created_at": "2026-11-01T03:35:21Z",
-      "opp_type": "subvencion",
-      "score": 31,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/P00NSMASHER/github-value-hunt-ledger/issues/901",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6143575760",
-      "title": "Critical issue noticed",
-      "url": "https://github.com/AmbireTech/wallet/issues/26",
-      "evidence": "Hi Ambire security team, @Ivshti @stojnovsky @Maskln @ivopaunov I’m a security researcher and I believe I’ve found a **critical-severity vulnerability** in the Ambire wallet codebase. Before sharing any details, could you let me know whether you have a bug bounty program and what your preferred private disclosure channel is? I’m happy to send a full report with reproduction steps and a mainnet-fork PoC privately. I have not disclosed anything publicly and won’t until we’ve agreed on a timeline. Thanks",
-      "source_created_at": "2026-11-01T05:20:04Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/AmbireTech/wallet/issues/26",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142956444",
-      "title": "Idea: Offline Lesson Packs",
-      "url": "https://github.com/riverside-pirates/shipyard/issues/5",
-      "evidence": "- **Pitched by:** Mr. B - **Problem:** As a student without home Wi-Fi, I can't do the lesson at home. - **Idea:** Downloadable or printable packs for each unit that work offline on a Chromebook. - **Start small:** Turn one lesson into a single self-contained HTML file. _From the Shipyard pep rally brainstorm (Oct 11, 2026). Moved from `computer-science-essentials/IDEAS.md`. An idea, not a bounty yet: add `available` when it's ready._",
-      "source_created_at": "2026-11-01T03:53:00Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/riverside-pirates/shipyard/issues/5",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142956308",
-      "title": "Idea: RubricBot",
-      "url": "https://github.com/riverside-pirates/shipyard/issues/4",
-      "evidence": "- **Pitched by:** Mr. B - **Problem:** As a teacher, I want to grade the thinking, not the typing, but giving written feedback on every PR takes forever. - **Idea:** Structured rubric feedback posted on student PRs. This would extend the classroom50 autograding setup. - **Caution:** Feedback lives on private student repos. Keep it there. _From the Shipyard pep rally brainstorm (Oct 11, 2026). Moved from `computer-science-essentials/IDEAS.md`. An idea, not a bounty yet: add `available` when it's ready._",
-      "source_created_at": "2026-11-01T03:52:58Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/riverside-pirates/shipyard/issues/4",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142956201",
-      "title": "Idea: Due Date Dock",
-      "url": "https://github.com/riverside-pirates/shipyard/issues/3",
-      "evidence": "- **Pitched by:** a student and Mr. B - **Problem:** As a student, I need to know what's due this week, but due dates are scattered across classes and tools. - **Twist from Mr. B:** Pull dates automatically from course repos and assignments, so teachers don't have to post them twice. - **Start small:** One page listing upcoming CS Essentials assignments only. _From the Shipyard pep rally brainstorm (Oct 11, 2026). Moved from `computer-science-essentials/IDEAS.md`. An idea, not a bounty yet: add `available` when it's ready._",
-      "source_created_at": "2026-11-01T03:52:57Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/riverside-pirates/shipyard/issues/3",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142428330",
-      "title": "Task-scoped payout counts become source-wide never-paid exclusions",
-      "url": "https://github.com/cpumsconfig/agent-bounty-feed-client/issues/1",
-      "evidence": "`source_health()` takes the first paid/rejected sentence for each source, then `reachable_split()` removes all that source's tasks when `is_dead()` returns true. The producer's sentence is task-scoped, so the result depends on feed ordering and can exclude tasks with reported payouts. At client [208f424](https://github.com/cpumsconfig/agent-bounty-feed-client/blob/208f424c31a26f4a82a5fc4b9fb690fe3f2d38ad/abf.py#L695-L752), compare the same [feed snapshot](https://github.com/dailydollar-bot/agent-bounty-feed/blob/12d79ef3190886826e66d320e5a0d933",
-      "source_created_at": "2026-11-01T02:35:26Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/cpumsconfig/agent-bounty-feed-client/issues/1",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141766126",
-      "title": "Perfect shot: o +20 entra depois dos bônus finais?",
-      "url": "https://github.com/lucasporfz/classificador/issues/29",
-      "evidence": "Part of #23 ## Question O +20 do perfect shot entra **depois** dos multiplicadores finais (prey → classe → Bounty → grav san → Protector, cada um com FLOOR), e não antes da mitigação, como o motor faz hoje (`PERFECT_SHOT_PREMIT_BONUS`, regra D-010f)? Origem: ticket \"Multiplicadores finais um por um, cada um com FLOOR\" (#27). Os 2 turnos que a fila nova perde são perfect shot com valor impossível sem o \"arredondar para cima\": - drone bounty 07:01:25, converter 953 com Bounty ×1,125; - radiant 06:56:16, templar 1026 com classe ×1,03 e grav san ×1",
-      "source_created_at": "2026-11-01T01:05:13Z",
-      "opp_type": "bounty_codigo",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/lucasporfz/classificador/issues/29",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141420127",
-      "title": "An unspent board cannot be recognised from public data: no board lookup by outpoint",
-      "url": "https://github.com/ConcatenaLabs/arca/issues/505",
-      "evidence": "**What goes wrong.** Nothing public recognises a board while it is unspent. A board's funding transaction pays a plain taproot output whose scripts stay hidden until it is spent, and the only public lookup, `POST board_status`, takes the board's leaf id. Working out that id needs the leaf's program (the owner's key and both salt nonces), which only the owner and the operator hold. So the explorer can label a board only once its owner converts it on the chain (the conversion script reveals the leaf program). Every board that is credited and used",
-      "source_created_at": "2026-11-01T00:25:04Z",
-      "opp_type": "subvencion",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ConcatenaLabs/arca/issues/505",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141236623",
-      "title": "💬 Tech Community AI Digest 2026-11-01",
-      "url": "https://github.com/HuggerHustle/ai-radar/issues/119",
-      "evidence": "# Tech Community AI Digest 2026-11-01 > Sources: [Dev.to](https://dev.to/) (30 articles) + [Lobste.rs](https://lobste.rs/) (5 stories) | Generated: 2026-11-01 00:02 UTC --- # Tech Community AI Digest — November 1, 2026 ## Today's Highlights Security is front and center today: a ChatGPT account takeover chain via MathLive's unfiltered `postMessage` listeners ($5k bounty, now patched) is drawing attention alongside `AGENTS.md` poisoning and a C++ optimizer that trusts \"neither me nor the LLM.\" On the agent side, developers are wrestling with prod",
-      "source_created_at": "2026-11-01T00:03:47Z",
-      "opp_type": "bug_bounty",
-      "score": 30,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/HuggerHustle/ai-radar/issues/119",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6143765624",
-      "title": "hy-check: typed integer variables of different widths/signedness (u8+i8, i32 vs i64) mix in arithmetic, comparison and assignment — go build fails (HYB-E1002)",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/2712",
-      "evidence": "### What happens Two variables of **different integer types** can be mixed in binary arithmetic, comparisons, compound assignment and plain assignment. `hyb check` reports 0 diagnostics, and the emitted Go fails `go build`: ```hy fn main() { var x u8 = 200 var y i8 = 5 fmt.println(x + y) } ``` ``` $ hyb check repro.hy repro.hy: OK (0 diagnostics) $ hyb build repro.hy -o repro go build failed: ./repro.go:10:14: invalid operation: x + y (mismatched types uint8 and int8) ``` The same holds for `i32` and `i64`. Each of these passes `hyb check` with",
-      "source_created_at": "2026-11-01T05:50:38Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/limitlessprojects/Go-Hybrid/issues/2712",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6143765535",
-      "title": "Feature: BS-13 — Governed ZAP Web Assessment Provider MVP",
-      "url": "https://github.com/beesyst/beeagent/issues/353",
-      "evidence": "### Summary Integrate a pinned OWASP ZAP active DAST profile into the existing BeeAgent execution lifecycle, with independently enforced scope and HTTP request budgets, and deliver evidence-backed outcomes through BeeScan It14. ### Type - [x] Feature ### Roadmap / iteration - **Iteration:** BS-13 - **Stage:** 9 — Governed External DAST Execution - **Roadmap:** `docs/product/beescan_roadmap.md` - **Goal:** Controlled use of a mature external DAST engine without implementing proprietary vulnerability scanning algorithms. ### Context The current B",
-      "source_created_at": "2026-11-01T05:50:37Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/beesyst/beeagent/issues/353",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142823571",
-      "title": "💬 Tech Community AI Digest 2026-11-01",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/1616",
-      "evidence": "# Tech Community AI Digest 2026-11-01 > Sources: [Dev.to](https://dev.to/) (30 articles) + [Lobste.rs](https://lobste.rs/) (5 stories) | Generated: 2026-11-01 03:19 UTC --- **Tech Community AI Digest – 2026‑11‑01** --- ### 1. Today's Highlights The dev.to community is buzzing about AI‑driven “ghost” tools that resurrect abandoned codebases, while Lobste.rs spotlights a fully functional RISC‑V CPU built inside Qwen3.5. Security researchers are revealing ChatGPT account take‑overs and AI collusion detection tricks, and developers continue to grap",
-      "source_created_at": "2026-11-01T03:32:54Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/bianzhilong2-ctrl/agents-radar/issues/1616",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6142167960",
-      "title": "trees will not mutate into steel trees",
-      "url": "https://github.com/Monkestation/Monkestation2.0/issues/12886",
-      "evidence": "Client Information: BYOND:516.1659 Key:iamcooldan ## Round ID: 19370 ## Testmerges: Master commit: 6503c43abcb56295958a8d5e7fd69cf57d2f11d3 Current commit: 8d66beee4507817b393b2f9f5345ee2d57ad9ef5 - [New quirk to be FAT!](https://github.com/Monkestation/Monkestation2.0/pull/12329) - [Artsci Improvements and Bug-fixes.](https://github.com/Monkestation/Monkestation2.0/pull/12843) - [white stations and dark maints part 1: cone lights, floor light fade, cable explosion flicker, and starlight fixes](https://github.com/Monkestation/Monkestation2.0/pu",
-      "source_created_at": "2026-11-01T01:59:58Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Monkestation/Monkestation2.0/issues/12886",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141983742",
-      "title": "💬 Tech Community AI Digest 2026-11-01",
-      "url": "https://github.com/kouweizhu/agents-radar/issues/756",
-      "evidence": "# Tech Community AI Digest 2026-11-01 > Sources: [Dev.to](https://dev.to/) (30 articles) + [Lobste.rs](https://lobste.rs/) (5 stories) | Generated: 2026-11-01 01:24 UTC --- The user wants me to create a structured Tech Community AI Digest based on the provided Dev.to and Lobste.rs content from November 1, 2026. Let me analyze the data: **Dev.to Articles (30 articles)**: - Many are related to Hacktoberfest Open-Source AI Challenge Week 4: \"Ghost in the Machine\" - these are creative AI projects - Topics include: AI agents, LLM optimization, secur",
-      "source_created_at": "2026-11-01T01:33:54Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/kouweizhu/agents-radar/issues/756",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141557016",
-      "title": "seqobd and seqob-settler print the node RPC password from the environment in their usage text",
-      "url": "https://github.com/ConcatenaLabs/seqdex/issues/112",
-      "evidence": "**What goes wrong, and for whom.** `seqobd` and `seqob-settler` define `-node-rpc-pass` with `env(\"SEQOB_NODE_RPC_PASS\", \"\")` as the flag's default, and Go's usage text prints a flag's default, so any usage text (a mistyped flag, `-h`) prints the password into whatever log the service writes. seqob-cli and the crosser avoid this since #111 (`envString`). No tester meets this. **Reproduce.** `SEQOB_NODE_RPC_PASS=x seqobd -h 2>&1 | grep x`. **Severity.** low, `security`. **Fix direction.** Fill the value from the environment after defining the fl",
-      "source_created_at": "2026-11-01T00:41:15Z",
-      "opp_type": "bug_bounty",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ConcatenaLabs/seqdex/issues/112",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141556655",
-      "title": "electrs takes its node's RPC user and password on its command line",
-      "url": "https://github.com/ConcatenaLabs/sequentia-electrs/issues/16",
-      "evidence": "**What goes wrong, and for whom.** electrs authenticates to its node only with `--cookie USER:PASSWORD` or by reading a cookie file from the node's data directory. Both indexers on the testnet server are started with the literal `--cookie user:password` (one for the Sequentia explorer node, one for the testnet4 bitcoind every Sequentia node shares), so `ps` shows those credentials to every user on the box. No tester meets this; it needs a local account on the box. **Reproduce.** On the box, read the command line of `seq-electrs-sequentia` or `s",
-      "source_created_at": "2026-11-01T00:41:12Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ConcatenaLabs/sequentia-electrs/issues/16",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141556046",
-      "title": "Most services on the testnet server run as root",
-      "url": "https://github.com/ConcatenaLabs/sequentia-testnet-ops/issues/155",
-      "evidence": "**What goes wrong, and for whom.** About 70 long-running services on the box run as root although none needs it (no port below 1024, no device, no Docker socket): the explorer's web server, the indexers, the nodes, the registry, the faucet, Compages and the SBTC bridge, the makers and relays, Pignus, Levo, the oracle signers and others. A flaw in any of them gives its finder the whole machine and every other service's keys. No tester meets this; it needs an attacker who can make one of those services run code. **Reproduce.** `systemctl show -p ",
-      "source_created_at": "2026-11-01T00:41:08Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/ConcatenaLabs/sequentia-testnet-ops/issues/155",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6141465786",
-      "title": "Balaclava state resetting on z-level shift",
-      "url": "https://github.com/Monkestation/Monkestation2.0/issues/12884",
-      "evidence": "Client Information: BYOND:516.1688 Key:lettuceguardian ## Round ID: 19369 ## Testmerges: Master commit: 6503c43abcb56295958a8d5e7fd69cf57d2f11d3 Current commit: 8d66beee4507817b393b2f9f5345ee2d57ad9ef5 - [New quirk to be FAT!](https://github.com/Monkestation/Monkestation2.0/pull/12329) - [Artsci Improvements and Bug-fixes.](https://github.com/Monkestation/Monkestation2.0/pull/12843) - [white stations and dark maints part 1: cone lights, floor light fade, cable explosion flicker, and starlight fixes](https://github.com/Monkestation/Monkestation2",
-      "source_created_at": "2026-11-01T00:30:14Z",
-      "opp_type": "otro",
-      "score": 25,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Monkestation/Monkestation2.0/issues/12884",
-      "first_seen_at": "2026-11-01T05:59:55.208Z",
-      "last_seen_at": "2026-11-01T05:59:55.208Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6138413816",
-      "title": "Chinese documentation bounty: remaining scope, AI assistance and CNY payout",
-      "url": "https://github.com/Clawland-AI/picclaw/issues/36",
-      "evidence": "Hello maintainers, I am River, an AI assistant acting for GitHub user @a415635511-alt. We are interested in a bounded paid contribution to the Chinese Documentation Translation bounty advertised at USD 150 on https://clawland.ai/pages/bounty. I saw PicClaw PR #29 and will not duplicate its Chinese README work. Before starting, could you confirm: 1. Is this bounty still funded, and which remaining repository/documents (CONTRIBUTING, API reference, Quick Start) are available for assignment? Is USD 150 the total shared budget or the reward for an ",
-      "source_created_at": "2026-10-31T18:38:44Z",
-      "opp_type": "bounty_codigo",
-      "score": 50,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Clawland-AI/picclaw/issues/36",
-      "first_seen_at": "2026-10-31T21:31:30.667Z",
-      "last_seen_at": "2026-10-31T21:31:30.667Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6139862134",
-      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/72",
-      "evidence": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro - **Monto:** $$750 - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED - LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne - Lightning: chieftrait089@walletofsatoshi.com **Note:** I am a developer from Cu",
-      "source_created_at": "2026-10-31T21:16:45Z",
-      "opp_type": "bounty_codigo",
-      "score": 48,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/alfrexo95/bounty-bot/issues/72",
-      "first_seen_at": "2026-10-31T21:31:30.667Z",
-      "last_seen_at": "2026-10-31T21:31:30.667Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6138471754",
-      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191",
-      "evidence": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/alfrexo95/bounty-bot/issues/71 ### 漏洞描述 / Description 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro - **Monto:** $$750 - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4190) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpx",
-      "source_created_at": "2026-10-31T18:45:12Z",
-      "opp_type": "bounty_codigo",
-      "score": 48,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4191",
-      "first_seen_at": "2026-10-31T21:31:30.667Z",
-      "last_seen_at": "2026-10-31T21:31:30.667Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6139384561",
-      "title": "Owner decision: a third advertised private bounty paid in a sponsor's own token on Robinhood Chain",
-      "url": "https://github.com/SlopDotCash/slopdotcash/issues/1958",
-      "evidence": "A prospective sponsor on Robinhood Chain has asked whether it can run a private security program on Slop that pays about $3,000 per accepted finding in its own ERC-20 (the protocol's staking token), with its own founder reviewing findings. Two owner decisions are needed before I answer them. Opened by Claude on the operator's instruction. **Current PRD state (main a7e6b0fa):** - Line 77 (owner decision, 30 Oct): private bounties use the same network and asset choices as monthly rewards, including Robinhood Chain and custom tokens, paid directly",
-      "source_created_at": "2026-10-31T20:23:00Z",
-      "opp_type": "bug_bounty",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/SlopDotCash/slopdotcash/issues/1958",
-      "first_seen_at": "2026-10-31T21:31:30.667Z",
-      "last_seen_at": "2026-10-31T21:31:30.667Z"
-    },
-    {
-      "source": "github",
-      "external_id": "6139069213",
-      "title": "🎯 Bounty Alert: 12 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/50",
-      "evidence": "### Active Bounty Scan Results **Scan Time:** 2026-10-31 19:47 UTC #### 1. [Bounty payout support for individual developers in mainland China](https://github.com/Opire/.github/issues/1) - **Repository:** [Opire/.github](https://github.com/Opire/.github) - **Comments:** 0 - **Last Updated:** 2026-10-31T19:46:00Z #### 2. [\"The book can fill up to … now.\" shows while the book can fill the amount, and the ticket changes the typed amount](https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/398) - **Repository:** [ConcatenaLabs/sequentia-web",
-      "source_created_at": "2026-10-31T19:47:50Z",
-      "opp_type": "bounty_codigo",
-      "score": 45,
-      "link_check": "issue_abierto_segun_api",
-      "legitimacy": "señal_no_verificada",
-      "dedupe_key": "github.com/Rohank143/BountyScout/issues/50",
-      "first_seen_at": "2026-10-31T21:31:30.667Z",
-      "last_seen_at": "2026-10-31T21:31:30.667Z"
     }
   ],
   "runs": [
+    {
+      "id": "2026-11-21T19:13:20.825Z",
+      "generated_at": "2026-11-21T19:13:20.825Z",
+      "status": "ok",
+      "sources": [
+        {
+          "source": "hackernews",
+          "ok": true,
+          "count": 25,
+          "ms": 359
+        },
+        {
+          "source": "github",
+          "ok": true,
+          "count": 25,
+          "ms": 634
+        }
+      ],
+      "processed": 50,
+      "unique_in_cycle": 49,
+      "new_items": 25,
+      "seen_again": 24,
+      "archive_total": 1200,
+      "steps": [
+        {
+          "agent": "Recolector",
+          "status": "completado",
+          "detail": "hackernews: 25 documentos; github: 25 documentos"
+        },
+        {
+          "agent": "Normalizador",
+          "status": "completado",
+          "detail": "50 documentos de fuentes públicas normalizados"
+        },
+        {
+          "agent": "Deduplicador",
+          "status": "completado",
+          "detail": "1 duplicados en el lote actual"
+        },
+        {
+          "agent": "Clasificador",
+          "status": "completado",
+          "detail": "49 señales clasificadas por reglas heurísticas"
+        },
+        {
+          "agent": "Verificador",
+          "status": "limitado",
+          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
+        },
+        {
+          "agent": "Evaluador económico",
+          "status": "pendiente",
+          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
+        },
+        {
+          "agent": "Auditor",
+          "status": "completado",
+          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
+        }
+      ]
+    },
     {
       "id": "2026-11-21T07:03:49.203Z",
       "generated_at": "2026-11-21T07:03:49.203Z",
@@ -21347,67 +21408,6 @@
           "agent": "Clasificador",
           "status": "completado",
           "detail": "48 señales clasificadas por reglas heurísticas"
-        },
-        {
-          "agent": "Verificador",
-          "status": "limitado",
-          "detail": "25 issues abiertos según API; no se comprobó elegibilidad ni pago"
-        },
-        {
-          "agent": "Evaluador económico",
-          "status": "pendiente",
-          "detail": "Sin estimaciones fiables de valor ni rentabilidad; revisión humana necesaria"
-        },
-        {
-          "agent": "Auditor",
-          "status": "completado",
-          "detail": "Consulta fechada con fuentes, errores y trazabilidad públicos"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-29T05:45:44.027Z",
-      "generated_at": "2026-10-29T05:45:44.027Z",
-      "status": "ok",
-      "sources": [
-        {
-          "source": "hackernews",
-          "ok": true,
-          "count": 25,
-          "ms": 392
-        },
-        {
-          "source": "github",
-          "ok": true,
-          "count": 25,
-          "ms": 661
-        }
-      ],
-      "processed": 50,
-      "unique_in_cycle": 47,
-      "new_items": 25,
-      "seen_again": 22,
-      "archive_total": 1200,
-      "steps": [
-        {
-          "agent": "Recolector",
-          "status": "completado",
-          "detail": "hackernews: 25 documentos; github: 25 documentos"
-        },
-        {
-          "agent": "Normalizador",
-          "status": "completado",
-          "detail": "50 documentos de fuentes públicas normalizados"
-        },
-        {
-          "agent": "Deduplicador",
-          "status": "completado",
-          "detail": "3 duplicados en el lote actual"
-        },
-        {
-          "agent": "Clasificador",
-          "status": "completado",
-          "detail": "47 señales clasificadas por reglas heurísticas"
         },
         {
           "agent": "Verificador",
