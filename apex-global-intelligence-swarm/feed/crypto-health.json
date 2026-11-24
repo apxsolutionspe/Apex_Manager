@@ -1,7 +1,7 @@
 {
   "schema": "apex-crypto-health-v1",
-  "generated_at": "2026-11-23T13:06:40.335Z",
-  "observed_at": "2026-11-23T13:06:38.912Z",
+  "generated_at": "2026-11-24T00:59:39.070Z",
+  "observed_at": "2026-11-24T00:59:36.999Z",
   "automation": "bounded scheduled public-source monitoring; not unrestricted browsing",
   "health": {
     "sources_configured": 24,
@@ -53,12 +53,12 @@
     "native_classifier_confirmed": true
   },
   "triage": {
-    "announcements_seen": 38,
+    "announcements_seen": 39,
     "classified": {
       "security_blocked": 0,
       "capital_or_trading": 5,
       "historical_reference": 9,
-      "work_or_security_review": 11,
+      "work_or_security_review": 12,
       "project_grant_not_passive": 5,
       "gas_fee_and_conditions_review": 0,
       "manual_participation": 4,
