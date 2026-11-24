@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-24T09:52:17.979Z",
+  "generated_at": "2026-11-24T22:24:34.470Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,58 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1159,
-    "descartar": 41,
+    "informativa": 1158,
+    "descartar": 42,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
+      "source_created_at": "2026-11-24T22:11:26Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 250,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
+      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
+      "source_created_at": "2026-11-24T22:11:25Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 125,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "[API Integration Bounty] GOAT Sovereign Agent Live /risk Integration Demo (5 USDC)",
@@ -173,6 +219,75 @@
         "payment": false
       },
       "published_amount_usd": 10,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper & Implied-FDV Ranker (t=22)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/7",
+      "source_created_at": "2026-11-24T21:45:36Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.10 SOL Zero-Gas] Grounded Passage Citation Verifier & Abstention DPO Pair Synthesizer (t=21)",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/6",
+      "source_created_at": "2026-11-24T21:45:35Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fiber Interrupt Checkpointing",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/2",
+      "source_created_at": "2026-11-24T20:30:24Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -1217,30 +1332,6 @@
       "source_created_at": "2026-11-05T18:50:58Z",
       "first_seen_at": "2026-11-05T19:56:04.291Z",
       "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Research Sprint] OpenAI agent-safety evidence, bounty eligibility and OSS credibility",
-      "url": "https://github.com/kOs-tile/kavi-capability-compiler/issues/106",
-      "source_created_at": "2026-11-02T22:12:25Z",
-      "first_seen_at": "2026-11-03T00:56:59.484Z",
-      "last_seen_at": "2026-11-03T00:56:59.484Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2593,6 +2684,29 @@
     },
     {
       "source": "github",
+      "title": "Build make.fun entry: one-line excuse program (Node/TypeScript, no dependencies)",
+      "url": "https://github.com/zymphoto/makefun-excuse-agent-loses/issues/1",
+      "source_created_at": "2026-11-24T19:51:25Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 79,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 5,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "[API Integration] Standalone CLI client for AUREN /risk (two-portfolio comparison, reproducible offline demo)",
       "url": "https://github.com/Ayush441-python/AUREN/issues/11",
       "source_created_at": "2026-11-17T19:05:25Z",
@@ -2699,6 +2813,144 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
+      "url": "https://github.com/incidere/vloop-free-openai-mcp/issues/1",
+      "source_created_at": "2026-11-24T20:30:28Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.08 SOL Zero-Gas] Fix Infinite Async Stream batchWithin(K, D) Timer Starvation Under Backpressure",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/3",
+      "source_created_at": "2026-11-24T20:30:25Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
+      "url": "https://github.com/incidere/solana-agent-bounties/issues/1",
+      "source_created_at": "2026-11-24T20:30:22Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Web3] Bounty (2): Research how other swap boxes handle l",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/104",
+      "source_created_at": "2026-11-24T19:48:34Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Web3] [Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/103",
+      "source_created_at": "2026-11-24T19:48:33Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🪙 [Web3] [Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/102",
+      "source_created_at": "2026-11-24T19:48:31Z",
+      "first_seen_at": "2026-11-24T22:24:33.703Z",
+      "last_seen_at": "2026-11-24T22:24:33.703Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3507,270 +3759,6 @@
       "source_created_at": "2026-11-22T06:06:35Z",
       "first_seen_at": "2026-11-22T06:45:00.294Z",
       "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] findAssetInfo throws InvalidCurrencyError for unmatched ForeignAbstract and skips duplicate-alias check",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2614",
-      "source_created_at": "2026-11-22T06:12:04Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] findEthAssetBySymbol silently picks the first of two distinct XRT contracts on Ethereum, no duplicate guard",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2613",
-      "source_created_at": "2026-11-22T05:34:21Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Dedot getXcmWeight silently returns zero weight on failure, execute calls with max_weight 0",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2612",
-      "source_created_at": "2026-11-22T05:32:38Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Hydration counts the destination-leg fee twice, input side and output side",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2611",
-      "source_created_at": "2026-11-22T05:31:50Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Acala swapCurrency returns a negative amountOut instead of throwing, destination receives dust",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2610",
-      "source_created_at": "2026-11-22T05:31:04Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Ethereum and EthereumTestnet have no native asset, findNativeAssetInfoOrThrow and getFeeAssets throw for a supported chain",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2609",
-      "source_created_at": "2026-11-22T05:30:16Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Duplicate assetIds on BifrostPolkadot and Jamton, findAssetInfoById throws for the chains' most common assets",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2608",
-      "source_created_at": "2026-11-22T05:29:12Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] computeAllFees uses destination fee without checking its asset, native-denominated fee spent as fee-asset units",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2607",
-      "source_created_at": "2026-11-22T05:28:14Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] getMinTransferableAmount ignores dust balances, returns a minimum below the real ED requirement",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2606",
-      "source_created_at": "2026-11-22T05:27:20Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty] Dedot BridgeHub exec-fee fallback never triggers, AssetNotFound compared as string against enum object",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2605",
-      "source_created_at": "2026-11-22T05:26:26Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[v3][security] Bug bounty scope and `security.txt` for v3",
-      "url": "https://github.com/Calebux/SYNCRO/issues/1880",
-      "source_created_at": "2026-11-21T18:36:35Z",
-      "first_seen_at": "2026-11-21T19:13:20.825Z",
-      "last_seen_at": "2026-11-21T19:13:20.825Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
