@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-25T08:29:39.588Z",
+  "generated_at": "2026-11-25T21:39:55.533Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1159,
-    "descartar": 41,
+    "informativa": 1160,
+    "descartar": 40,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -2889,6 +2889,127 @@
     },
     {
       "source": "github",
+      "title": "Feedback: bounty left to die by gaurds",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1437",
+      "source_created_at": "2026-11-25T20:46:51Z",
+      "first_seen_at": "2026-11-25T21:39:54.541Z",
+      "last_seen_at": "2026-11-25T21:39:54.541Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1454",
+      "source_created_at": "2026-11-25T19:45:00Z",
+      "first_seen_at": "2026-11-25T21:39:54.541Z",
+      "last_seen_at": "2026-11-25T21:39:54.541Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake 输入] dsh-bounty PR #2864：修复 evidence_check 清单路径穿越与 bytes 校验、账本非法日历日期崩溃及月度总表净零贡献者漏行",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2869",
+      "source_created_at": "2026-11-25T18:58:54Z",
+      "first_seen_at": "2026-11-25T21:39:54.541Z",
+      "last_seen_at": "2026-11-25T21:39:54.541Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[intake 输入] dsh-bounty PR #2863（Refs #31, #644, #2438）：修复 bounty_board 真模式丢弃 extra_events、PR 链接域欺骗、/bid 缺 pr_meta、rescore 及去重漏洞",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2868",
+      "source_created_at": "2026-11-25T18:58:48Z",
+      "first_seen_at": "2026-11-25T21:39:54.541Z",
+      "last_seen_at": "2026-11-25T21:39:54.541Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Flaky: S23 market acceptance bounty step can time out when the patrol kills the hunter",
+      "url": "https://github.com/Thiesi/Karst41/issues/279",
+      "source_created_at": "2026-11-25T20:26:55Z",
+      "first_seen_at": "2026-11-25T21:39:54.541Z",
+      "last_seen_at": "2026-11-25T21:39:54.541Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "Datamine competing bounty entries: what can Tally steal?",
       "url": "https://github.com/sectersion/tally/issues/117",
       "source_created_at": "2026-11-25T04:45:17Z",
@@ -3644,126 +3765,6 @@
         "Sin enlace a bases de recompensa en el registro",
         "Sin descripción explícita de condiciones de pago",
         "Noticia o recopilación, no una oferta directa",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/palindromic_tree.ltl - Rubinchik-Shur Palindromic Tree (PAM) & Linear O(n) Palindrome Indexing",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/716",
-      "source_created_at": "2026-11-22T18:10:46Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/z_algorithm.ltl - Gusfield's Linear O(n) Z-Algorithm & Prefix Box String Matching",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/712",
-      "source_created_at": "2026-11-22T18:06:41Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/splay_tree.ltl - Sleator-Tarjan Self-Adjusting Splay Tree & Amortized O(log n) Access Locality",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/709",
-      "source_created_at": "2026-11-22T18:01:54Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/dancing_links.ltl - Knuth's Dancing Links (DLX), Toroidal Cross-Lists & Exact Cover Algorithm X",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/706",
-      "source_created_at": "2026-11-22T17:57:42Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/suffix_automaton.ltl - Suffix Automaton (SAM) & Linear O(n) String Substring Indexing",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/704",
-      "source_created_at": "2026-11-22T17:53:26Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
         "No cumple los criterios mínimos para priorización"
       ],
       "checks": {
