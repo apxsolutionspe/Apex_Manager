@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-24T22:24:34.470Z",
+  "generated_at": "2026-11-25T08:29:39.588Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,12 +12,35 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1158,
-    "descartar": 42,
+    "informativa": 1159,
+    "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
   "items": [
+    {
+      "source": "github",
+      "title": "[bounty] Port a Python perimeter-bounded Pythagorean triple counter to Lateralus",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/979",
+      "source_created_at": "2026-11-25T04:57:58Z",
+      "first_seen_at": "2026-11-25T08:29:38.794Z",
+      "last_seen_at": "2026-11-25T08:29:38.794Z",
+      "status": "informativa",
+      "priority": 90,
+      "reasons": [
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": 25,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
     {
       "source": "github",
       "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
@@ -219,6 +242,54 @@
         "payment": false
       },
       "published_amount_usd": 10,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Add a wallet funding preview before posting a USDC bounty",
+      "url": "https://github.com/kryptoholik1/ARC_Circle/issues/1",
+      "source_created_at": "2026-11-25T06:01:13Z",
+      "first_seen_at": "2026-11-25T08:29:38.794Z",
+      "last_seen_at": "2026-11-25T08:29:38.794Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] Proofs & API labels reference and retained analyses as live snapshots",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/311",
+      "source_created_at": "2026-11-25T03:12:17Z",
+      "first_seen_at": "2026-11-25T08:29:38.794Z",
+      "last_seen_at": "2026-11-25T08:29:38.794Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2818,6 +2889,54 @@
     },
     {
       "source": "github",
+      "title": "Datamine competing bounty entries: what can Tally steal?",
+      "url": "https://github.com/sectersion/tally/issues/117",
+      "source_created_at": "2026-11-25T04:45:17Z",
+      "first_seen_at": "2026-11-25T08:29:38.794Z",
+      "last_seen_at": "2026-11-25T08:29:38.794Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] NYSE:SUI is silently priced as Sui crypto, collapsing a two-instrument portfolio into one",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/315",
+      "source_created_at": "2026-11-25T07:53:50Z",
+      "first_seen_at": "2026-11-25T08:29:38.794Z",
+      "last_seen_at": "2026-11-25T08:29:38.794Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly & Rug-Pull Radar Scorer",
       "url": "https://github.com/incidere/vloop-free-openai-mcp/issues/1",
       "source_created_at": "2026-11-24T20:30:28Z",
@@ -3639,126 +3758,6 @@
       "source_created_at": "2026-11-22T17:53:26Z",
       "first_seen_at": "2026-11-22T19:36:51.449Z",
       "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/treap.ltl - Randomized Cartesian Balance Tree (Treap) & O(log n) Heap-BST Invariants",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/702",
-      "source_created_at": "2026-11-22T17:49:34Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty Claim] Tutorial: stdlib/fenwick_tree_2d.ltl - 2D Binary Indexed Tree & O(log n * log m) Subgrid Prefix Queries",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/700",
-      "source_created_at": "2026-11-22T17:43:04Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bounty Board: kill-bounty quest marker can end up far from the actual search zone",
-      "url": "https://github.com/NovaAntonsito/Gang-Retaliation-Cyberpunk-2077/issues/13",
-      "source_created_at": "2026-11-22T06:35:31Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5568",
-      "source_created_at": "2026-11-22T06:06:53Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5567",
-      "source_created_at": "2026-11-22T06:06:35Z",
-      "first_seen_at": "2026-11-22T06:45:00.294Z",
-      "last_seen_at": "2026-11-22T06:45:00.294Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
