@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-26T08:14:20.102Z",
+  "generated_at": "2026-11-26T21:29:05.522Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -12,8 +12,8 @@
   "summary": {
     "total_evaluated": 1200,
     "investigar": 0,
-    "informativa": 1160,
-    "descartar": 40,
+    "informativa": 1159,
+    "descartar": 41,
     "verified_payouts": 0,
     "verified_income_usd": 0
   },
@@ -1378,78 +1378,6 @@
       "source_created_at": "2026-11-08T03:23:55Z",
       "first_seen_at": "2026-11-08T05:58:25.776Z",
       "last_seen_at": "2026-11-08T05:58:25.776Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty][Medium] XCM API: assetId accepts JSON numbers > 2^53 — silent float rounding forwards a wrong assetId to the SDK",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2433",
-      "source_created_at": "2026-11-05T18:51:15Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty][High] XCM API: legacy /v1 prefix serves a stale pre-2026-08-11 build — all analyser/validation fixes unfixed there",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2430",
-      "source_created_at": "2026-11-05T18:51:06Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 85,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bug bounty][High] Assets registry coverage gap: 45 parachains with live HRMP channels missing from assets.json",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2427",
-      "source_created_at": "2026-11-05T18:50:58Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
       "status": "informativa",
       "priority": 85,
       "reasons": [
@@ -2959,6 +2887,174 @@
     },
     {
       "source": "github",
+      "title": "[BUG] Bug bounty - scope inquiry: payability above Info, reward liquidity, scope, private reporting, and disclosure",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/180",
+      "source_created_at": "2026-11-26T19:00:59Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1457",
+      "source_created_at": "2026-11-26T20:55:39Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "Tactical HUD: the floating bounty credit text on a paid kill (#574 follow-up)",
+      "url": "https://github.com/Gabriel-Barney/Empire-at-war-Vulkan/issues/664",
+      "source_created_at": "2026-11-26T17:30:00Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] smtp-crlf-injection-1065",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1070",
+      "source_created_at": "2026-11-26T17:28:22Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5849",
+      "source_created_at": "2026-11-26T17:24:11Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] XcmTransformer transform() overwrites a numeric currency_id with { type: '1984' } (Dedot and PAPI).",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2658",
+      "source_created_at": "2026-11-26T21:03:54Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug bounty] isStableCoinAsset only recognizes stablecoins with GeneralIndex 1984/1337, so real USDT is not a stablecoin and USDt is.",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2657",
+      "source_created_at": "2026-11-26T21:02:39Z",
+      "first_seen_at": "2026-11-26T21:29:04.848Z",
+      "last_seen_at": "2026-11-26T21:29:04.848Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
       "title": "DOTA Unli-Bounty Issue",
       "url": "https://github.com/nikoltu/W3AndroidEngine/issues/55",
       "source_created_at": "2026-11-26T05:43:31Z",
@@ -3659,101 +3755,6 @@
       "source_created_at": "2026-11-23T06:28:51Z",
       "first_seen_at": "2026-11-23T07:34:22.502Z",
       "last_seen_at": "2026-11-23T07:34:22.502Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Add creator bounty contract with escrowed rewards and claim review",
-      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/1255",
-      "source_created_at": "2026-11-22T19:03:02Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[radar] SN open bounty 2026-11-22T18:28",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1431",
-      "source_created_at": "2026-11-22T18:28:12Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Pilgrim's Bounty] Light's Hope Chapel Bounty Table clipping against custom Ascension doodads",
-      "url": "https://github.com/Conquest-of-AzerothCore/azerothcore-wotlk-coa/issues/13297",
-      "source_created_at": "2026-11-22T19:11:23Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Bounty registration",
-      "url": "https://github.com/transitfabric/releases/issues/24",
-      "source_created_at": "2026-11-22T18:57:53Z",
-      "first_seen_at": "2026-11-22T19:36:51.449Z",
-      "last_seen_at": "2026-11-22T19:36:51.449Z",
       "status": "informativa",
       "priority": 73,
       "reasons": [
