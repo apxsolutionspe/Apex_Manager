@@ -1,6 +1,6 @@
 {
   "schema": "apex-prioritized-v1",
-  "generated_at": "2026-11-26T21:29:05.522Z",
+  "generated_at": "2026-11-27T08:26:55.641Z",
   "declaration": "Investigación pública no vinculante. Un issue abierto o una recompensa anunciada NO garantizan elegibilidad, titularidad, pago ni disponibilidad presupuestal. Sin cobros ni transferencias.",
   "methodology": {
     "version": 1,
@@ -265,6 +265,54 @@
         "payment": false
       },
       "published_amount_usd": 10,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Bug Bounty] Warm cache returns ticker columns in the previous request order",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/342",
+      "source_created_at": "2026-11-27T08:06:18Z",
+      "first_seen_at": "2026-11-27T08:26:54.391Z",
+      "last_seen_at": "2026-11-27T08:26:54.391Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[bounty] Matrix.from_flat silently drops extra elements and accepts inconsistent dimensions",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1106",
+      "source_created_at": "2026-11-27T07:55:53Z",
+      "first_seen_at": "2026-11-27T08:26:54.391Z",
+      "last_seen_at": "2026-11-27T08:26:54.391Z",
+      "status": "informativa",
+      "priority": 85,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -2661,98 +2709,6 @@
     },
     {
       "source": "github",
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
-      "source_created_at": "2026-11-05T18:17:55Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 450,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
-      "source_created_at": "2026-11-05T18:17:54Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 600,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
-      "source_created_at": "2026-11-05T18:17:53Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 600,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
-      "source_created_at": "2026-11-05T18:17:53Z",
-      "first_seen_at": "2026-11-05T19:56:04.291Z",
-      "last_seen_at": "2026-11-05T19:56:04.291Z",
-      "status": "informativa",
-      "priority": 82,
-      "reasons": [
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": 450,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
       "title": "Build make.fun entry: one-line excuse program (Node/TypeScript, no dependencies)",
       "url": "https://github.com/zymphoto/makefun-excuse-agent-loses/issues/1",
       "source_created_at": "2026-11-24T19:51:25Z",
@@ -2882,6 +2838,80 @@
         "payment": false
       },
       "published_amount_usd": 2,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/151",
+      "source_created_at": "2026-11-27T07:36:09Z",
+      "first_seen_at": "2026-11-27T08:26:54.391Z",
+      "last_seen_at": "2026-11-27T08:26:54.391Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1809",
+      "source_created_at": "2026-11-27T07:26:27Z",
+      "first_seen_at": "2026-11-27T08:26:54.391Z",
+      "last_seen_at": "2026-11-27T08:26:54.391Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "Noticia o recopilación, no una oferta directa",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
+      "monetary_value_received": 0,
+      "verified_payment": false
+    },
+    {
+      "source": "github",
+      "title": "[Intern] Fresh-clone setup verification & stakeholder/option-grant calculation unit tests",
+      "url": "https://github.com/hanzoai/captable/issues/15",
+      "source_created_at": "2026-11-27T07:10:58Z",
+      "first_seen_at": "2026-11-27T08:26:54.391Z",
+      "last_seen_at": "2026-11-27T08:26:54.391Z",
+      "status": "informativa",
+      "priority": 73,
+      "reasons": [
+        "No aparece un importe publicado en el anuncio",
+        "Sin enlace a bases de recompensa en el registro",
+        "Sin descripción explícita de condiciones de pago",
+        "No cumple los criterios mínimos para priorización"
+      ],
+      "checks": {
+        "eligibility": false,
+        "ownership": false,
+        "payment": false
+      },
+      "published_amount_usd": null,
       "monetary_value_received": 0,
       "verified_payment": false
     },
@@ -3729,30 +3759,6 @@
       "title": "Two Start new season requests at once reset Bounty twice",
       "url": "https://github.com/mitangy/optcg-deck-planner/issues/1427",
       "source_created_at": "2026-11-23T05:28:10Z",
-      "first_seen_at": "2026-11-23T07:34:22.502Z",
-      "last_seen_at": "2026-11-23T07:34:22.502Z",
-      "status": "informativa",
-      "priority": 73,
-      "reasons": [
-        "No aparece un importe publicado en el anuncio",
-        "Sin enlace a bases de recompensa en el registro",
-        "Sin descripción explícita de condiciones de pago",
-        "No cumple los criterios mínimos para priorización"
-      ],
-      "checks": {
-        "eligibility": false,
-        "ownership": false,
-        "payment": false
-      },
-      "published_amount_usd": null,
-      "monetary_value_received": 0,
-      "verified_payment": false
-    },
-    {
-      "source": "github",
-      "title": "Regarding Bug Bounty Report",
-      "url": "https://github.com/nockchain/nockchain/issues/227",
-      "source_created_at": "2026-11-23T06:28:51Z",
       "first_seen_at": "2026-11-23T07:34:22.502Z",
       "last_seen_at": "2026-11-23T07:34:22.502Z",
       "status": "informativa",
